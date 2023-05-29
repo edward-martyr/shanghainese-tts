@@ -1,591 +1,591 @@
-1|siau=tsan zoh-nyih-tsy1 tiau 'leh ih-diau du-ng , ngu m-meh tiau=zah=ng 
-10|mau=tsy peh fon-tshyu1 theh-liau 
-100|non bin=zan chih=shian1=i1 va ? ngu veh chih-gheh 
-101|geh tsaon zy=thi non-kaon peh yi thin la va ? kheh , nu=cian=la=geh 
-102|non chih=ve ghe-zy chih moe=deu 
-103|non tau=ti tah=in yi veh 'la 
-104|he siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . geh bu=di=in zeh yi khoe1 ku le 
-105|non te=uoe da ih da 
-106|yi te ciuih=tsy poh=tse1=bi , de fen chih 
-107|yi la te ciau1=seh li ze=tsaon=tse1 khon1-diau 
-108|mau=tsy peh fon-tshyu1 theh le 
-109|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha tsha1=ih=nge nge=peh la tan=saon 
-11|tsan=min ih tsah1 pau1=peh wa-nyin tshian theh-liau , nyin-gha the1-pe1 ih=nge peh yi tan saon theh 
-110|iau1 loh=yu khua le , r na viau tsheh-chi le 
-111|geh diau mau=cin1 oh=tshoh chi oh=tshoh le , toh theh yi va 
-112|r na zy 'la-tsho ze ma=la=geh tsho-phiau 
-113|zian=laon thih tse1=ih=tsan di=du 
-114|zaon laon thaon la ih-ku lau-nyin 
-115|wu=pan1 li yeu=zah ciau1-kue siau=ng 
-116|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
-117|yi oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
-118|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
-119|ghoh-san1-tsy zu chi-tsho zu=tse1 lian=thi1 
-12|iau1 loh=yu khua-liau , na viau tsheh-chi 'leh 
-120|non zaon=zaon yi tsu-ku ti=sin1 tse tseu va 
-121|non=la tshaon sa ? ngu=veh=la=tshaon , ngu=la=faon loh=in1 
-122|ngu=non chih=ku thu=tsy nyoh ,  zeh=non  chih=ku va ? m-meh , ngu=non fen chih=ku 
-123|ngu=non da ku=yoh le , cin1=tsau1 veh tan=le=jiu le 
-124|ngu=non soe='leh theh khua  soe=tshu le , nyan ngu=non zon=sin1 soe ih-pi 
-125|zeh yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
-126|kaon=kaon sa-nyin la=cian ngu-gheh 'lau-sy 
-127|tseh1 sia-liau ih=poe , ghe-iau1 sia=loh chi 
-128|non tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe hau va 
-129|nyan siau=noe si1=tseu , non tse te=tsoe=le tsy1-tsy1 si=si=geh khoe1=ih-pi 
-13|geh diau mau=cin1 lau oh=tshoh geh , toh theh yi va 
-130|yi la di zy ci1 zi khoe1=khoe1 khoe1=khoe1 khuen zah le 
-131|non soe=soe=khoe1 , geh nge tshau=phiau keu=veh=keu yon 
-132|'lau-sy peh 'leh non ih=pen ya=gheu=geh syu , zy va 
-133|e1=geh ma yah=geh phi theh yi ih=tshi1 khue tshau=phiau la 
-134|ngu=non zaon-geh-yuih tsia yi se1=pah khue tshau=phiau 
-135|waon=si1-san1 geh tau1 khe=teh ya hau 
-136|ngu=non veh nen kua bih-nyin , tseh1=nen kua zy-cia1 
-137|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we le 
-138|ngu na yon sa=geh tsho-tsy zon noe-cin1 tsau1 geh=tah yuin ka1 jiu nyi 
-139|yi zian-ku bin-nyin ih=yan khau la so1-fah lu=shian 
-14|ah1-lah-gheh phiau=tsy zy lah=lah tsho-ze ma-gheh 
-140|ga=nen tsu-san1-weh li siau-hu=tsy gha-we sa1-du sah=geh 
-141|zeh yi thiau-zaon meh pe1-tsho ziu tseu-liau , ngu=zy ih=bu , tseh1=nen zy-cia1 me-me-ciau bau we-chi 
-142|geh-gheh-zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh sa-nyin zeh=khue yan=di 
-143|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia-ku 
-144|non pi-ngu non kau1 , zeh yi pi non-we iau1 kau1 
-145|lau=waon teh lau=tsan ih=yan tsan 
-146|ngu non-chi le , na lian-ka1-deu tse tu1 zu ih=shih 
-147|ngu non-kaon yi veh ku , sa nyin-gha cian=veh=ku geh-gheh ka1=hu 
-148|zaon=thaon1 tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-149|siau=tsan zoh=nyih tsy tiau zah 'leh ih-diau du-ng , ngu fen tiau=zah=ng 
-15|zian=pih laon=shian thih=lah=he ih=tsan di=du 
-150|non bin=zan a1 chih=shian1=i1 geh ?  veh chih-gheh , ngu bin=zan veh chih-gheh 
-151|dih=tsaon zy=thi non-zen1 a1 gho yi thin ku ? zy-ku , ngu gho yi thin ku tseh 
-152|non chih=ve ghe-zy chih moe=deu 
-153|non tau=ciu a1 tah=in yi 
-154|ciau1 siau-jian ih=dau tau=di in=yoe li khoe1=liu se1-tsia . yi dih=bu di=in khoe1=ku tse1 
-155|non 'ne uoe da ih da 
-156|yi 'ne ciuih=tsy bi poh theh=tseh , m-meh chih 
-157|yi tah 'ne ciau1=seh li ze=tsaon hau tse1 khon1-diau 
-158|mau=tsy peh fon-tshyu1 theh=tseh 
-159|tsan min-ku pau1=peh wa-nyin tshian theh=tseh , nyin-gha the1-pe1 ih=nge peh yi tan saon 
-16|zaon laon=shian khuen lah=he ih-ku lau-nyin 
-160|loh=yu khua=tseh , ngu 'na  viau tsheh-chi tseh 
-161|dih=ten1 mau=cin1 oh=tshoh theu=tseh , gue theh=tse1 'la-tau 
-162|ngu li zy leh=laon tsho-ze ma-gheh tsho-phiau 
-163|zian=laon yeu tsan di=du 
-164|ih-ku lau-nyin khuen leh lah=laon zaon laon 
-165|wu li ciau1-kue siau=ng=leh=laon lah=yeu 
-166|zi=deu yeu-ku noe=siau-nyin leh=laon tseu ku=le , mae=zaon=geh 
-167|yi tah oh=li ih=zaon laon se1 tsah1 tsyu1=lu si theh=tseh 
-168|dih=bu chi-tsho zy iau1 khe=tau kuaon=tseu1 chi-gheh 
-169|ghoh-san1 tah weh weh=len len tshen=tse1 lian-nyih thi1=geh chi-tsho 
-17|wu=pan1 li=shian ciau1-kue siau=ng lah=lah=yeu 
-170|non chih chih yi tsu-ku ti=sin1 tse bau 
-171|non leh laon=tshaon sa=geh ? ngu=veh=leh=laon tshaon , ngu=leh=laon=faon loh=in1 
-172|ngu chih=ku thu=tsy nyoh=geh , non a1=tsen1 chih=ku ? ngu veh-zen1 chih=ku 
-173|ngu da ku=yoh tse1 , cin1=tsau1 le=jiu veh tan tse1 
-174|ngu soe=teh theh khua=soe tshu-theh-tse1 , nyan ngu tse soe ih=thaon1 
-175|yi ih khe=sin1 ziu tshaon=chi le tse1 
-176|kaon=kaon sa-nyin lah=laon=cian ngu li si1-san1 
-177|kaon=kaon tseh1 sia=leh ih=poe , ghe-iau1 sia gho-chi leh 
-178|non tseh1 chih leh ih=uoe ve , a1=iau1 tse=chih ih=uoe 
-179|nyan siau-nyin tah=si1 tseu , non tse 'ne tsoe=le po po=si si=khoe1 ih=thaon1 
-18|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
-180|yi leh laon di zy ci1 men zi khoe1=khoe1 khuen zah tse1 
-181|non soe=soe=khoe1 geh nge tshau=phiau a1=keu yon 
-182|si1-san1 a1=zy peh tse1=non ih=pen mae=gheu=geh syu 
-183|yi geh ma yah geh phi theh leh yi ih=tshi1 khue yan=di 
-184|ngu zaon-ku ghau=deu ven yi tsia tse1 se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi tse1 se1=pah khue yan=di 
-185|waon=si1-san1 geh tau1 khe=teh me-hau . waon=si1-san1 geh tau1 khe=teh me-hau 
-186|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-187|men-tsau1 waon=cin=li a1=we tau kon1=sy1 li le . ngu khoe1-peh1=ci teh=le 
-188|ngu li=yon sa=geh chi-tsho 'ne=dih=ti ka1-san1 zon noe-cin1 tsaon=tau dih daon le 
-189|yi theh san1-bin=nyin ih=yan ci leh so1-fah laon 
-19|geh bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi 
-190|geh len tsu zy siau-hu=tsy gha chih=veh=siau1 geh 
-191|yi tau gah  zaon=meh pe1-tsho bau tse1 . ngu tseh1 e=tau tse1 ih=bu , tseh1=hau zy-cia1 me-me-ciau bau tau ghoh-daon-li=chi tse1 
-192|dih-gheh sy=zy sa-nyin sia-ku ? sa-nyin tshe1=tsheh le=ngu ziu tsian yi zeh khue yan=di 
-193|siau=tsan zoh=nyih tiau=zah ih-diau du-ng , ngu meh tiau=zah=ng 
-194|non bin=zan tson1-ci chih=shian1=i1 va ? ngu veh chih-gheh 
-195|non 'ne dih tsaon zy=thi theh yi cian 'leh-ma ? ngu theh yi cian 'leh zah 
-196|non chih mi ve ghe-zy chih moe=deu 
-197|non tau=ti tah=in yi va 
-198|ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  dih=bu di in yi khoe1 ku-ku 
-199|non 'ne uoe=daon1 ih=daon1 
-2|non bin=zan chih=shian1=i1 va ? ngu veh chih=shian1=i1 geh 
-20|ghoh-san1-tsy zu-tsho tsy zu 'leh tsen=tsen lian-nyih thi1 
-200|yi 'ne ciuih=tsy bi poh theh=geh , yi tau meh chih 
-201|yi la leh lah ciau1=seh li ze=tsaon zah khon1-diau 
-202|mau=tsy peh=lah fon-tshyu1 theh-liau 
-203|tsan=min peh nyin-ka1 tshian=theh ih tsah1 pau1 , nyin-gha the1-pe1 ih=nge=nge peh nyin-ka1 tan=saon 
-204|ziu=iau1 loh=yu zah , na veh=iau1 tsheh-chi zah 
-205|dih=diau mau=cin1 ya oh=tshoh 'leh zah , toh theh yi 
-206|nyi zy leh lah tsho-ze ma-gheh tsho-phiau 
-207|zian=laon thih zah ih=tsan di=du 
-208|zaon laon khuen lah ih-ku lau-nyin 
-209|wu=pan1 li ciau1-kue siau=ng=leh=lah=yeu 
-21|non chih chih khoe1 yi tsu-ku ti=sin1 tse tseu va 
-210|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
-211|yi la oh=li ih-shia=tsy si theh=tsy se1 tsah1 tsyu1=lu 
-212|dih=bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
-213|ghoh-san1-tsy tshen chi-tsho tshen=zah lian-nyih thi1 
-214|non chih chih khoe1 yi tsu-ku ti=sin1 tse tseu meh-zah 
-215|non lah tshaon sa ? ngu meh tshaon , ngu=leh=lah=faon loh=in1 
-216|ngu chih=ku thu=tsy nyoh=lah zah , non chih=ku va ? ngu meh chih=ku 
-217|ngu da ku=yoh 'leh , cin1=tsau1 veh tan=le=jiu zah 
-218|ngu soe=teh tha=khua lah zah , soe tshu=theh , nyan ngu tse zon=sin1 soe ih-pi 
-219|yi ih khe=sin1 ziu tshaon=chi=ku1 le-zah 
-22|non lah=he=tshaon sa-meh-zy a ? ngu m-meh lah=he=tshaon , ngu=lah=he=faon loh=in1 
-220|sa-nyin kaon=kaon leh=lah=gho=nyi ngu-gheh 'lau-sy 
-221|tseh1 sia-zah ih=poe , ghe-iau1 sia gho-chi 
-222|non tseh1 chih=ih uoe mi ve , tse=chih ih=uoe ua1 
-223|nyan siau=noe si1=tseu , non tse 'ne tsoe=le me-me-ciau khoe1=ih-pi 
-224|yi leh lah di zy ci1 zi=deu , khoe1=fah khoe1=fah khuen zah 'leh 
-225|non soe=soe=khoe1 , dih-nge tshau=phiau koe1=zy yon va 
-226|'lau-sy peh 'leh non ih=pen ya=gheu=geh syu va 
-227|dih-gheh ma=yah=geh phi zah yi ih=tshi1 khue yan=di 
-228|ngu zaon-ku ghau=deu zih-zah yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
-229|waon=si1-san1 geh tau1 khe=teh me-hau geh .  waon=si1-san1 geh tau1 khe=teh me-hau geh 
-23|ngu chih=ku thu=tsy nyoh=geh , non chih=ku va ? m-meh , ngu m-meh chih=ku 
-230|ngu veh nen kua nyin-ka1 , tseh1=nen kua zy-cia1 
-231|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we le 
-232|nyi yon sa=geh ciu=zon noe-cin1 tsau1 dih=tah yuin ka1-san1 nyi 
-233|yi zian-ku bin-nyin nen=cia khau=lah=lah so1-fah laon 
-234|dih-nen=yan=tsy tsu-san1-weh li siau-hu=tsy gha-iau1 lau=saon geh 
-235|yi thiau-zaon meh pe1-tsho tseu-a zah , ngu e=theh ih=bu , tseh1=hau zy-cia1 me=me nen=geh tseu we ghoh-daon 
-236|dih-gheh zy sa-nyin sia-ku sy ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian peh yi zeh khue yan=di 
-237|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia-ku 
-238|non pi-ngu tsan , yi pi non-we iau1=tsan 
-239|lau=waon tah lau=tsan ih=yan tsan 
-24|ngu da ku=yoh 'leh , le=jiu cin1=tsau1 veh hau tan-liau 
-240|ngu tseu 'la , na lian-ka1-deu tu1 zu ih=shih 
-241|ngu-kaon veh ku yi , sa-nyin ze-kaon veh ku=dih tseh1 tshah=lau 
-242|zaon=thaon1 tseh1 ma zah ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-243|non bin=zan shian1=i1 chih vah ? ngu veh chih-gheh 
-244|deh=tsaon zy=thi non-kaon peh yi thin-liau vah ? ngu-kaon peh yi thin a tse1 
-245|non chih=ve ghe-zy chih moe=deu 
-246|non tau=ti khen ghe-zy veh khen 
-247|he siau-jian ih=dau tau=di in=yoe li chi-khoe1  liu se1-tsia  deh=bu=di in yi khoe1 ku a deh 
-248|non 'ne uoe da ih da 
-249|ciuih=tsy yi bi poh a tse1 , de=zy yi m-meh chih 
-25|ngu soe='leh theh khua-liau soe tshu=theh 'leh , nyan ngu zon=sin1 soe ih-pi 
-250|yi la 'ne ciau1-sy li tih khon1-diau ze=tsaon hau-a tse1 
-251|fon 'ne mau=tsy tshoe1=theh a tse1 
-252|tsan=min peh=lah wa-nyin deh=theh ih tsah1 pau1 , nyin-gha tsha1-pe ih=nge=nge be nyin-ka1 tan=saon 
-253|iau1 loh=yu khua tse1 , 'na veh=iau1 tsheh-chi tse1 
-254|dih=diau mau=cin1 oh tshu1 a tse1 , non gue theh yi hau 'leh 
-255|nyi lah=lah tsho-ze li ma-gheh phiau 
-256|pih=ciah nu=thih tse1=ih=tsan di=du 
-257|zaon nu=khuen zah ih-ku lau=nyan cia1 
-258|ciau1-kue siau=ng lah=lah pan1 li yeu 
-259|zi=deu tseu ku=le ih-ku boe siau=noe 
-26|yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
-260|yi la oh=li sian khua-chi khua le=se1 tsah1 tsyu1=lu ze=si theh-liau 
-261|dih=bu tsho-tsy tau kuaon=tseu1 chi-gheh 
-262|ghoh-san1-tsy leh=lah chi-tsho li zu tse1 lian-nyih thi1-a deh 
-263|non chih-liau yi tsu-ku ti=sin1 tse bau 
-264|non lah tshaon sa ? ngu m-meh tshaon , ngu=lah=lah=faon loh=in1 
-265|ngu thu=tsy nyoh=chih a deh , non chih=ku vah ? ngu m-meh chih=ku 
-266|ngu da ku=yoh a tse1 , cin1=tsau1 le=jiu ziu-peh1 tan=tse1 
-267|nyan ngu zon=sin1 soe ih-pi , ngu=soe=leh theh khua tse1 , soe tshu=theh a tse1 
-268|yi kau1=shin 'leh ziu tshaon=ku1 
-269|sa-nyin kaon=kaon lah=lah=gho ngu-gheh si1-san1 
-27|kaon=kaon sa-nyin lah=he=cian ngu 'lau-sy a 
-270|kaon sia-liau ih=poe , ghe-iau1 sia gho-chi 
-271|non chih theh ih=uoe ve la=li , tse=chih ih=uoe 
-272|nyan siau=noe si1=tseu meh=tse1 , non 'ne tsoe=le tse tsy1-tsy1 si si=khoe1 ih=thaon1 
-273|yi la khoe1 di zy ci1 khoe1 fah khoe1 fah khuen=chi a tse1 
-274|non soe=soe=khoe1 , deh=nge tshau=phiau a1=keu vah 
-275|si1-san1 zy-feu pen 'leh non ih=pen mae=gheu=geh syu 
-276|yi geh ma yah geh phi=tsy phi tse1 yi ih=tshi1 khue yan=di 
-277|ngu zaon-geh-yuih ven yi tsia tse1 se1=pah khue yan=di . ngu zaon-geh-yuih tsia peh yi se1=pah khue yan=di 
-278|waon=si1-san1 geh tau1 khe=le me-hau . waon=si1-san1 geh tau1 khe=le me-hau 
-279|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-28|tseh1 sia theh ih=poe , ghe-iau1 sia gho-chi 
-280|men-tsau1 waon=cin li-we teh kon1=sy1 li le vah ? ngu ciah-zah yi veh-we teh=le 
-281|noe-cin1 tau nyi deh=tah=le=tsaon ka1-san1 geh nyi yon sa=geh tsho-tsy 
-282|yi zian-ku san1-bin=nyin nen=cia khau=leh so1-fah nu 
-283|dih-nen tsu-san1-weh deh=phi1 noe we-tsu teh so1 du geh 
-284|yi kaon tshen zaon meh pe1-tsho khe=theh a tse1 . ngu tseh1 e tau-liau ih=bu , tseh1=hau zy-cia1 me-me-ciau we=tau ghoh-daon-li=chi tse1 
-285|deh ku-zy sa-nyin sia-ku sy ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian peh yi zeh khue yan=di 
-286|ngu=pen 'leh non-ku syu zy ngu tson1-ghoh li geh kau1-syu geh nyan=jiu sia-ku 
-287|non pi-ngu kau1 , yi pi non-we iau1 kau1 
-288|lau=waon tah lau=tsan ih=yan kau1 
-289|ngu bau tse1 , 'na lian-ka1-deu tse zu theh ih=shih 
-29|non tseh1 chih theh ih=uoe ve , tse=chih uoe va 
-290|ngu-kaon yi veh ku , sa-nyin ze-kaon veh ku=deh ku-nyin 
-291|syu ngu zaon=thaon1 tseh1 ma=teh ih=pen , cin1=tsau1 ngu=iau1 tu1 ma ci=pen 
-292|siau=tsan zoh=nyih diau-liau ih-diau du-ng , nu=tiau=veh zah=ng 
-293|zu bin=zan shian1=i1 chih vah ? veh , nu=veh chih=shian1=i1 
-294|zu kau=su yi geh tsaon zy=thi vah ? zy la=geh , ngu we=deu yi 'leh 
-295|zu chih mi ve ghe-zy chih moe=deu 
-296|zu tau=ti khen=veh khen yi 
-297|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . yi geh bu di in khoe1 ku la 
-298|zu po uoe zin=ih=zin 
-299|yi 'ne ciuih=tsy poh 'leh bi , yi veh chih 
-3|geh tsaon zy=thi non-kaon peh yi thin-liau va ? kheh , ngu-kaon peh yi thin-liau 
-30|nyan siau=noe si1=tseu , non tse 'ne tsoe=le tsy1-tsy1 si=si khoe1=ih-pi 
-300|yi dah po ciau1=seh li tsaon zaon-liau khon1-diau 
-301|mau=tsy nyi , pen fon-tshyu1 theh a1-li 
-302|siau=tsan la=pen wa-nyin tshian-tseu 'leh ih tsah1 pau1 , nyin-gha shi=shi-wu be-tan saon 
-303|loh=yu khua-liau ,       veh=iau tseu1-liau 
-304|geh diau mau=cin1 ciau1-kue lah , toh theh hau 'leh 
-305|ngu na yeu=la tsho-ze la=ma la=geh phiau=tsy 
-306|zian=laon sian=ko zah ih=tsan di=du 
-307|zaon laon=sian khuen la ih-ku lau-nyin 
-308|wu li yeu le au ghaon-zin=ghan=zy siau=ng 
-309|zi=deu tseu=le ih-ku mae boe=geh siau=po-shi 
-31|yi lah lah di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah 'leh 
-310|yi dah oh=li sian ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
-311|geh bu chi-tsho nyi ih cin khe tau kuaon tseu1 chi a1-li 
-312|ghoh-san1-tsy tshen chi-tsho nyi , tsen=tsen zu 'leh lian-nyih thi1 
-313|zu zaon=zaon yi tsu la geh ti=sin1 , chih tse1 tse tseu 
-314|zu la=tshaon ha=geh ku1 ? nu m-meh tshaon , nu=zy la=faon loh=in1 
-315|nu chih=ku thu=tsy nyoh , zu chih=ku vah ?  nu gha m-meh chih=ku 
-316|nu da ku=yoh a1-li , nu cin1=tsau1 le=jiu veh tan-liau 
-317|nu soe='leh theh khua , soe tshu=theh 'leh , nyan nu=tse=soe ih=soe hau=vah 
-318|yi kau1=shin nyi , yeu tshaon=chi=ku1 le 'leh 
-319|ha=nyin kaon=kaon la=nyi=len nu=geh 'lau-sy 
-32|'lau-sy a1=zy peh 'leh non pen lau=gheu=geh syu a ? 'lau-sy peh 'leh non pen lau=gheu=geh syu , zy va 
-320|tseh1 sia-liau ih=poe , ghe-iau1 sia=loh chi 
-321|zu chih-liau ih=uoe mi ve , tse=chih ih=uoe 
-322|nyan siau=po-shi la=si1 tseu , zu nyi , tse=tau tsoe=le=kuoe chi , hau=hau=ciau khoe1=ih-pi 
-323|yi meh la di zy ci1 zi=deu nyi , khoe1-zah khoe1-zah meh , khuen=chi 'leh 
-324|zu soe=soe=khoe1 , geh nge=nge tshau=phiau keu=veh=keu yon 
-325|'lau-sy pen la=zu geh pen=syu veh zy=mae gheu ma 
-326|geh-gheh ma=yah=geh phi=tsy , phi theh yi ih=tshi1 khue tshau=phiau 
-327|nu zaon-geh-yuih tsia-liau yi se1=pah khue tshau=phiau . nu zaon-geh-yuih tsia-liau yi se1=pah khue 
-328|waon=si1-san1 geh tau1 khe=teh me-hau . waon=si1-san1 geh tau1 khe=teh ciau1-kue hau 
-329|nu=veh=kua bih-nyin , tseh1=kua zy-cia1 
-33|yi geh ma yah geh phi theh yi ih=tshi1 khue yan=di le 
-330|men-tsau1 waon=cin=li kon1=sy1 le-veh-le ? nu khoe1 yi veh=le 'leh 
-331|ngu na yon ha=geh ciu=zon noe-cin1 maon geh the=the yuin ka1 jiu a 
-332|yi zian-ku bin-nyin ih=yan ge la so1-fah laon=sian 
-333|zeh=cia nen=cia tsu-san1-weh nyi , li siau=tshin1=nyi gha we-tsu saon 
-334|yi thiau-zaon meh pe1-tsho tseu a1-li . nu=zy tau ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu tau ghoh-daon-li 
-335|geh zy ha=nyin sia la=geh=sy ? ha=nyin tshe1=tsheh le , nu ziu peh ha=nyin zeh=khue tshau=phiau 
-336|nu=pen=zu pen=syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
-337|zu=pi nu=tsan , yi nyi , pi=zu ghe-iau1 tsan 
-338|lau=waon tah lau=tsan ih=yan tsan 
-339|nu=tseu theh-liau ,  lian-ka-deu1 tse tu zu1 ih-si 
-34|ngu zaon-ku ghau=deu tsia-liau yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
-340|nu=cian veh ku yi , ha=nyin cian teh=ku geh-gheh ka1=hu 
-341|zaon=tshy tseh1 ma-liau ih=pen , cin1=tsau1 nyi , iau1 tu1 ma ci=pen 
-342|siau=tsan zoh=nyih tiau=zah ih-diau du-ng , nu  veh-zen1 tiau=zah 
-343|zy=nu  bin=zan chih=shian1=i1 vah ? nu  veh chih-gheh 
-344|geh tsaon zy=thi zu  kau=su yi la=vah ? nu  kau=su yi la=li 
-345|zy=nu  chih=ve ghe-zy chih moe=deu 
-346|zy=nu  tau=ti tah=in yi-we zy veh tah=in yi 
-347|ciau siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  geh bu=di=in . geh bu=di in=yi khoe1=ku a li .  yi geh bu=di=in khoe1=ku a li 
-348|zy=nu  te=uoe da ih da 
-349|ciuih=tsy meh yi poh tse1=bi , peh1-ku veh-zen1 chih 
-35|waon=si1-san1 geh tau1 khe-liau me-hau geh 
-350|yi-la  ciau1=seh li ze=tsaon=tse1 khon1-diau 
-351|mau=tsy pen  fon-tshyu1 theh a li 
-352|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha tsha1=ih=nge pen  tan=saon 
-353|loh=yu khua tse1 , za  viau tsheh-chi tse1 
-354|geh diau mau=cin1 oh=tshoh le , gue theh=yi ba1 
-355|ngu ne  zy lih-lah tsho-ze ma-gheh tsho-phiau 
-356|zian=pih laon=thih tse1=ih=tsan di=du 
-357|zaon laon=shian khuen tse1 ih-ku lau-nyin 
-358|wu li=shian yeu ciau1-kue ng la=yeu 
-359|zi=deu tseu ku=le ih-ku phaon-phaon geh noe=siau=noe 
-36|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-360|yi-la  oh=li=shian ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
-361|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi-gheh 
-362|ghoh-san1-tsy zu chi-tsho i=cin zu tse1 lian-nyih lian=ya tse1 
-363|zy=nu  chih chih yi tsu-ku ti=sin1 tse tseu-ba1 
-364|zy=nu  la=tshaon sa ? nu  veh la=tshaon , nu  la=faon loh=in1 ia 
-365|thu=tsy nyoh=nu  chih=ku geh , zy=nu  chih=ku vah ? nu  veh-zen1 chih=ku 
-366|nu  da-yoh da ku=a=li , cin1=tsau1 veh tan=le=jiu tse1 
-367|ngu=nu  soe=teh theh khua , soe tshu-theh-tse1 , nyan nu  zon=sin1 soe ih-pi 
-368|yi=ih khe=sin1 ziu tshaon=ku1 tse1 
-369|ha  nyin kaon=kaon la=cian=nu  'lau-sy ghe=gho a 
-37|men-tsau1 waon=cin li-we teh=le kon1=sy1 va ? ngu khoe1 yi veh-we le 
-370|tseh1 sia tse1 ih=poe , ghe-iau1 sia gho-chi 
-371|zy=nu  tseh1 chih tse1 ih=uoe ve , tse chih-gheh ih=uoe ba1 
-372|nyan siau=noe si1=tseu , zy=nu  te=tsoe=le=we a tsy1-tsy1 si=si tse khoe1=ih-pi 
-373|yi=khoe1 di=zy khoe1=fah khoe1=fah ziu khuen=chi tse1 
-374|zy=nu  soe=soe=khoe1 , geh nge tshau=phiau keu=yon vah 
-375|'lau-sy pen  zu  ih=pen gheu le-si1 geh=syu , zy la=vah 
-376|geh-gheh ma=yah=geh phi theh=yi ih=tshi1 khue yan=di la 
-377|zaon-geh-yuih nu  men-yi tsia se1=pah khue yan=di . nu  zaon-geh-yuih tsia=peh yi se1=pah khue yan=di 
-378|waon=si1-san1 geh tau1 khe=le me-hau geh 
-379|nu  veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-38|a1-'la yon sa=geh tsho-tsy zon noe-cin1 maon geh tah-tsho ka1-san1 
-380|men-tsau1 waon=cin li-we teh=tau kon1=sy1 le=vah ? nu  khoe1=yi veh-we le 
-381|ngu ne  yon sa=geh tsho-tsy zon noe-cin1 poe-cia1 san1=tau geh=tah a 
-382|yi zian-ku san1-bin=nyin nen=cia khau=la so1-fah laon 
-383|zy nen=cia tsu-san1-weh a li=teh soe=su chin=geh gha chih=veh=siau1 
-384|yi dau tau meh=pe1 ciu=laon=shian tseu-a li , nu  zy=tau ih=bu , tseh1=hau zy-cia1 me-me-ciau we=tau ghoh-daon-li=chi 
-385|geh-gheh-zy ha  nyin=sia la=geh=sy ? sa-nyin tshe1=tsheh le=nu  ziu tsian=pen  yi=zeh=khue yan=di 
-386|nu  pen  zy=nu  pen=syu zy=nu  ciau1 tson1-ghoh geh nyan=jiu sia la=geh 
-387|zy=nu  pi=nu  tsan , yi=pi zy=nu  ghe-iau1 tsan 
-388|lau=waon tah lau=tsan ih=yan tsan 
-389|nu  chi-tse1 , zy ne  lian-ka1-deu tse tu1 zu theh ih=shih 
-39|yi zian-ku bin-nyin ih=yan ge lah so1-fah laon 
-390|nu  cian=veh=ku yi , sa-nyin ze-kaon veh ku-ku tshah=lau 
-391|zaon=thaon1 tseh1 ma tse1 ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-392|siau=tsan zoh=thi1 tiau=zah ih-diau du-ng , ngu fen1=nyin tiau zah 
-393|'ni bin=zy shian1=i1 chih vah ?     ngu-veh chih-gheh 
-394|geh tshon1 zy=thi 'ni e=nyin kau1=soh yi=vah ?                                     ngu=gho geh deh 
-395|'ni chih=ve e zy chih moe=deu 
-396|'ni tau=ti tah=in yi veh 'la 
-397|ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  .                     geh=bu di=in yi khoe1 ku=deh 
-398|'ni 'ne uoe zin=ih=zin 
-399|yi 'ne ciuih=tsy bi poh=deh theh=deh , yi tau mo chih 
-4|non chih=ve ghe-zy chih moe=deu a 
-40|geh-nen-ka tsu-san1-weh , li siau=tshin1=nyi gha-iau1 chih=veh=siau1 geh 
-400|khu=daon li yi deh=ghe=tsaon hau=tsy khon1-diau geh=deh 
-401|mau=tsy peh=leh fon-tshyu1 deh=leh 
-402|tsan=min peh=leh wa-nyin tshian=theh ih tsah1 pau1 , nyin the1-pe1 ih=nge=nge tan=saon 
-403|ziu=iau1 loh=yu deh , 'ni deh=au tsheh-chi deh 
-404|geh daon kha1=mi=pu oh=tsoh=le , gue theh=tsy hau=deh 
-405|ngu li zy tsho-ze laon ma-gheh phiau 
-406|ih=tsan di=du thih=leh=zian laon 
-407|ih-ku lau-nyin khuen leh zaon laon 
-408|ciau1-kue siau=ng leh=leh wu li yeu 
-409|ih-ku boe siau=noe men=zi bau ku=le deh 
-41|yi thiau-zaon meh pe1-tsho bau-theh-'leh , ngu e=theh ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we ghoh-daon 'leh 
-410|yi oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=nu 
-411|geh=bu chi-tsho zy khe=tau kuaon=tseu1 chi-gheh 
-412|ghoh-san1-tsy chi-tsho zu=tsy lian-nyih thi1=deh 
-413|'ni zaon=zaon yi tsu-ku siau=chih e=bau meh=deh 
-414|'ni=leh=tshaon=wu ?                      ngu fen1=nyin=tshaon , ngu leh=leh faon=loh=in1 
-415|thu=tsy nyoh ngu chih=ku 'leh , 'ni e=nyin chih=ku ?                             ngu fen1=nyin chih=ku 
-416|cin1=tsau1 le=jiu veh tan=deh , ngu kha1 ku=yoh geh deh 
-417|ngu=soe=leh theh khua , nyan ngu zon=sin1 soe=ih=soe 
-418|yi ih khe=sin1 ziu tshaon=ku1 deh 
-419|wu-nyin nge=nge deu=cian ngu si1-san1 
-42|dih=seu sy=zy sa-nyin sia-ku ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian li yi zeh khue yan=di 
-420|teh=leh sia=tsy ih=poe , ngu=e=iau1 sia gho-chi 
-421|'ni teh chih tsy ih=uoe ve , e=chih ih=uoe a1=ua1 
-422|nyan siau=noe si1=bau , 'ni 'ne tsoe=le po po=si si=e khoe1=ih-pi 
-423|yi khoe1=khoe1 di=zy khuen zah deh 
-424|'ni soe ih=soe , geh=nge tshau=phiau yeu=teh yon=vah 
-425|si1-san1 peh=leh 'ni gheu sah ih=pen syu=vah 
-426|ci=ma yah=nyin phi=tsy yi ih=tshi1 khue=
-427|ngu zaon ih nyoe=nyih tsia=yi se1=pah khue yan=di .                                 ngu zaon ih nyoe=nyih tsia=peh yi se1=pah khue yan=di 
-428|waon i-san1 geh tau1 khe=leh me-hau geh .                     waon=si1-san1 geh tau1 khe=leh me-hau 
-429|ngu veh-hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-43|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
-430|men-tsau1 waon=cin=li kon1=sy1 li le vah ?                   ngu khoe1 yi veh-we=teh le 
-431|ci ka1-san1 tan noe-cin1 yuin ku=le , ngu li yon wu-veh zy tsho-tsy 
-432|yi zian bin-nyin zeh=ci ge leh so1-fah laon 
-433|zeh=ci tsu-san1-weh na-pho siau-hu=tsy gha chih veh zyu 
-434|yi tau zaon=tsy meh pe1-tsho bau=theh leh . ngu i-tsy ih=bu , tseh1=hau me-me-ciau bau tau ghoh-daon-li=chi deh 
-435|ji-zeh wu-nyin sia-ku sy , wu-nyin tshe1=teh=tsheh le=ngu ziu=tsian peh=yi=zeh=khue=
-436|ngu peh 'ni geh syu zy ngu tson1-ghoh 'lau-sy geh nyan=jiu sia-ku 
-437|'ni pi-ngu tsan , yi pi-'ni e=iau1 tsan 
-438|lau=waon theh=lau=tsan ih=yan tsan 
-439|ngu si1 bau , 'ni deh lian-ka1-deu e=tu1 zu ih=si1 
-44|non pi-ngu tsan , yi pi non-we iau1=tsan 
-440|ngu-kaon yi=veh=ku , zoe=bi wu-nyin cian=veh=ku yi ci nyin-gheh 
-441|zaon=thaon1 teh=leh=ma=tsy ih=pen syu , cin1=tsau1 ngu=iau1 tu1 ma ci=pen 
-442|siau=tsan zoh=nyih tiau 'leh ih-diau du-ng , ngu meh tiau zah 
-443|neu bin=zan chih=shian1=i1 vah ?  veh , veh chih=shian1=i1 
-444|neu kau=su yi geh tsaon zy=thi 'leh vah ? zy-ku , ngu-kaon peh yi thin a1 tseh 
-445|neu zy chih mi ve ghe-zy chih moe=deu 
-446|neu tau=ti tah=in veh tah=in yi 
-447|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . yi geh bu di in khoe1 ku-liau 
-448|neu 'ne uoe da ih da 
-449|yi 'ne ciuih=tsy bi poh 'leh , de=zy meh chih 
-45|lau=waon theh=lau=tsan ih=yan tsan 
-450|yi la leh lah ciau1=seh li ze=tsaon hau 'leh khon1-diau 
-451|mau=tsy peh=lah fon-tshyu1 theh-liau 
-452|tsan min-ku pau1 peh=lah wa-nyin tshian theh=tseh , nyin-gha tsha1=ih=nge peh yi la tan saon 
-453|khua=iau1 loh=yu tseh , na viau tsheh-chi tseh 
-454|geh diau mau=cin1 oh=tshoh theh=tseh , gue theh yi vah 
-455|ngu=nyi zy=leh=lah tsho-ze li=shian ma-gheh tsho-phiau 
-456|zian=pih laon ko-liau ih=tsan di=du 
-457|zaon laon=shian khuen tse1 ih-ku lau-nyin 
-458|wu li=shian yeu ciau1-kue siau=ng=leh=lah=yeu 
-459|zi=deu le tse1 ih-ku boe=chi boe le-ku noe=siau=noe 
-46|ngu bau-liau au , na lian-ka1-deu tse tu1 zu theh ih=shih 
-460|yi oh=li=shian mah-san1=deu=li se1 tsah1 tsyu1=lu si theh=tseh 
-461|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
-462|ciau1-kue ghoh-san1-tsy zu chi-tsho zu 'leh tsen=tsen lian-nyih thi1=a1=tseh 
-463|neu zaon ih zaon yi tsu lah geh ti=sin1 tse tseu=vah 
-464|neu leh lah tshaon sa-meh-zy ? ngu veh lah tshaon , ngu=leh=lah=faon loh=in1 
-465|thu=tsy nyoh ngu=chih ku-ku , neu chih=ku vah ? m-meh , ngu meh chih=ku 
-466|ngu da hau yoh a1=tseh , cin1=tsau1 veh tan=le=jiu tseh 
-467|ngu soe='leh theh khua=tseh , soe tshu=theh tseh , nyan ngu zon=sin1 soe ih-pi 
-468|yi ih khe=sin1 ziu we-teh tshaon=ku1 
-469|sa-nyin kaon=kaon leh=lah=nyi len yi geh 'lau-sy 
-47|ngu-kaon veh ku yi , zoe=bi sa-nyin ze-kaon veh=ku dih-gheh ka1=hu 
-470|tseh1 sia tse1 ih=poe , ghe-iau1 sia gho-chi 
-471|neu tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe 
-472|nyan siau=noe si1=tseu , neu tse 'ne tsoe=le=yan zian-si si=geh khoe1=ih-pi 
-473|yi leh lah di zy ci1 zi=deu khoe1=di=zy , khuen chi-theh tseh 
-474|neu soe=soe=khoe1 , geh=ti tshau=phiau keu=veh=keu yon 
-475|'lau-sy peh 'leh neu ih=pen gheu chi gheu le-ku syu , zy la=vah 
-476|e1=geh ma yah=geh phi theh-liau yi ih=tshi1 khue tshau=phiau 
-477|ngu zaon-geh-yuih tsia-liau yi se1=pah khue tshau=phiau . ngu zaon-geh-yuih tsia=peh 'leh yi se1=pah khue tshau=phiau 
-478|waon=si1-san1 geh tau1 khe-liau ciau1-kue hau . waon=si1-san1 geh tau1 khe-liau me-hau 
-479|ngu veh nen kua nyin-ka1 , tseh1=nen kua zy-cia1 
-48|zaon=thaon1 tse1=tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-480|men-tsau1 waon=cin li-we teh=le kon1=sy1 vah ? ngu khoe1 yi veh-we teh=le 
-481|ngu=nyi yon sa=geh ciu=zon noe-cin1 tsau1 geh=tah yuin ka1-san1 nyi 
-482|yi zian-ku san1-bin nyin-gheh yan=tsy , khau=leh so1-fah laon 
-483|geh-nen-ka tsu-san1-weh , li siau=tshin1=nyi ze chih=veh=siau1 geh 
-484|yi thiau-zaon meh pe1-tsho tseu-liau . ngu zy=tau ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we ghoh-daon-li=chi 
-485|geh-gheh-zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le , ngu ziu=tsian peh yi zeh khue tshau=phiau 
-486|ngu peh neu geh syu , zy ngu ciau1 tson1-ghoh geh nyan=jiu sia=la=geh 
-487|neu pi-ngu kau1 , yi pi neu ghe-iau1 kau1 
-488|lau=waon theh=lau=tsan ih=yan kau1 
-489|ngu=si1 tseu=tseh , na lian-ka1-deu tse tu1 zu ih=shih 
-49|siau=tsan zaon-nyih tiau 'leh ih-diau du-ng , ngu ih-diau gha fen tiau zah 
-490|ngu-kaon veh ku yi , sa nyin-gha cian=veh=ku geh-gheh tshah=lau 
-491|zaon=thaon1 tsy tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-492|siau=tsan zoh=nyih tsy tiau zah ih-diau du-ng , ngu tiau veh zah=ng 
-493|non bin=zan chih=shian1=i1 va ? ngu veh chih-gheh 
-494|non theh yi kaon-ku dih=tsaon zy=thi va ? ngu theh yi kaon-ku a teh 
-495|non chih=ve ghe-zy chih moe=deu 
-496|non tau=ti tah=in yi veh 'la 
-497|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  dih=bu di in yi khoe1 ku a teh 
-498|non 'ne uoe da ih da 
-499|yi 'ne ciuih=tsy bi poh hau-a teh , yi tau meh chih 
-5|non tau=ti tah=in yi veh 'la 
-50|non bin=zan shian1=i1 a1 chih-gheh ? ngu zon-le veh chih-gheh 
-500|yi la 'ne ciau1=seh ze=tsaon hau khon1-diau a teh 
-501|mau=tsy peh fon-tshyu1 theh a teh 
-502|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha the1-pe1 ih=nge=nge peh nyin-ka1 tan=saon 
-503|ziu=iau1 loh=yu 'leh , na veh=iau1 tsheh-chi teh 
-504|mau=cin1 oh=tshoh le , gue theh yi 
-505|nyi leh lah tsho-ze ma-gheh tsho-phiau 
-506|zian=pih laon=thih zah ih tsah1 di=du 
-507|zaon laon=shian khuen zah ih-ku lau-nyin 
-508|wu=pan1 li yeu=zah ciau1-kue siau=ng 
-509|zi=deu tseu ku=le ih-ku phaon-ten1=ten1 geh siau 'noe-'noe=deu 
-51|non  a1=tsen1  theh yi kaon-ku dih=tsaon zy=thi ? zy-ku , ngu theh yi kaon-ku tse1 
-510|yi la oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
-511|dih=bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi 
-512|ghoh-san1-tsy tshen-tsho tsy tshen=zah lian-nyih thi1-a teh 
-513|non chih chih khoe1 yi tsu lah ti=sin1 tse tseu=meh teh 
-514|non lah tshaon sa ? ngu meh tshaon , ngu=lah=faon loh=in1 
-515|ngu chih=ku thu=tsy nyoh a teh , non chih=ku va ? meh , meh , meh , ngu meh chih=ku 
-516|ngu da ku=yoh teh , cin1=tsau1 veh tan=le=jiu zah 
-517|ngu soe='leh tha=khua a teh , soe tshu=theh a teh , nyan ngu tse zon=sin1 soe ih-pi 
-518|yi ih khe=sin1 ziu tshaon=chi=ku1 le=teh 
-519|sa-nyin kaon=kaon lah=cian ngu 'lau-sy a 
-52|non chih=ve nyi ghe-zy chih moe=deu 
-520|tseh1 sia-zah ih=poe , ghe-iau1 sia gho-chi a le 
-521|non tseh1 chih=ih uoe ve , tse=thi1 ih=uoe ve 
-522|nyan siau=noe si1=tseu , non 'ne tsoe=le hau=hau ciau-ku tse khoe1=ih-pi 
-523|yi lah di zy ci1 zi khoe1=fah khoe1=fah khuen=chi teh 
-524|non soe=soe=khoe1 , dih=ti tshau=phiau yeu-mo 
-525|'lau-sy peh=non pen ya=gheu=geh syu va 
-526|i1=geh ma yah=geh phi zah yi ih=tshi1 khue le 
-527|ngu zaon-ku ghau=deu tsia yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
-528|waon=si1-san1 geh tau1 khe=teh me-hau geh .  waon=si1-san1 geh tau1 khe=teh me-hau geh 
-529|ngu veh hau kua bih-nyin-ka1 , tseh1=hau kua zy-cia1 
-53|non tau=ti a1 tah=in yi 
-530|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we teh=le teh 
-531|nyi yon sa=geh ciu=zon noe-cin1 tsau1 geh=tah yuin ka1 jiu 
-532|yi zian-ku san1-bin=nyin ih=yan khau=lah so1-fah laon shian-zah 
-533|geh-nen-ka tsu-san1-weh li siau-hu=tsy gha chih=veh=siau1 geh 
-534|yi thiau-zaon meh pe1-tsho tseu-a teh , ngu e=theh ih=bu , tseh1=hau zy-cia1 me=me nen=geh tseu tau ghoh-daon-li=chi 
-535|dih-gheh zy sa-nyin sia=lah=geh=sy ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh yi zeh khue yan=di 
-536|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia=lah=geh 
-537|non pi-ngu tsan , yi pi non-we iau1=tsan 
-538|lau=waon theh=lau=tsan ih=yan tsan 
-539|ngu tseu teh , na lian-ka1-deu tse zu theh ih=shih 
-54|he siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  . dih tseh1=di in yi khoe1 ku tse1 
-540|ngu-kaon veh ku yi , sa nyin-gha cian=veh=ku dih-gheh meh-zy 
-541|zaon=thaon1 tseh1 ma zah ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-542|siau=tsan zoh=nyih tiau 'leh ih-diau du-ng , ngu=meh meh tiau zah 
-543| non bin=zan chih=shian1=i1 va ? shian1=i1 non bin=zan chih va ?  ngu veh chih-gheh .   ngu veh-we chih 
-544| geh tsaon zy=thi non-kaon peh yi thin-liau va ?  ngu-kaon peh yi thin-liau 
-545|non chih=ve ghe-zy chih moe=deu 
-546|non tau=ti tah=veh tah=in yi ?  non tau=ti tah=veh tah=in yi 
-547| ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  .  dih tseh1=di in yi khoe1 ku-liau .   yi geh tseh1 di in khoe1 ku-liau 
-548|non 'ne uoe da ih 
-549|yi 'ne ciuih=tsy bi poh theh-liau , peh1-ku meh chih 
-55|non 'ne uoe da ih da 
-550|yi la lah he ciau1=seh li ze=tsaon hau lah khon1-diau 
-551|mau=tsy peh fon-tshyu1 theh-liau 
-552|tsan=min peh wa-nyin tshian theh-liau tseh1=pau1 , nyin-gha the1=pe=ih=nge=nge peh tan=saon theh 
-553|loh=yu khua-liau , na viau tsheh-chi 'leh 
-554|dih=diau mau=cin1 lau oh=tshoh 'leh , gue theh yi va 
-555|a1-'la zy lah=he tsho-ze ma-gheh tsho-phiau 
-556|zian=laon=shian thih=lah ih=tsan di=du 
-557|zaon laon=shian khuen lah ih-ku lau-nyin 
-558|wu=pan1 li=shian ciau1-kue siau=ng lah=he=yeu 
-559|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
-56|yi 'ne ciuih=tsy bi poh=theh tse1 , peh1-ku fen chih-gheh 
-560|yi la oh=li=shian lah=mah-san1=deu si theh-liau se1 tsah1 tsyu1=lu 
-561|dih=bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi-gheh 
-562|ghoh-san1-tsy tshen chi-tsho tshen 'leh tsen=tsen lian-nyih thi1 'leh 
-563|non chih nge yi tsu-ku ti=sin1 tse bau va 
-564|non lah tshaon sa-meh-zy 
-565| thu=tsy nyoh ngu=chih ku-ku , non chih=ku va ?  m-meh , ngu meh chih=ku .   ngu chih=ku thu=tsy nyoh=geh , non chih=ku va 
-566|ngu da ku=yoh 'leh , cin1=tsau1 veh tan=le=jiu 'leh 
-567|ngu soe='leh theh khua=soe tshu=theh 'leh , nyan ngu tse zon=sin1 soe ih-pi 
-568|yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
-569|kaon=kaon sa-nyin lah=lah=nyi=len a1-'la 'lau-sy a 
-57|yi deh khu=daon li thoh tsaon=tse1 khon1-diau tse1 
-570|tseh1 sia-liau ih=poe , ghe-iau1 sia gho-chi 
-571|non tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe va 
-572|nyan siau-nyin si1=tseu , non tse 'ne tsoe=le hau=hau=ciau khoe1=ih-pi 
-573|yi lah lah di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah 'leh 
-574|non soe=soe=khoe1 , dih-nge tshau=phiau keu=veh=keu yon a 
-575|'lau-sy peh 'leh non ih=pen lau=gheu lau=gheu=geh syu va 
-576|e1-gheh ma=yah=geh phi theh-liau yi ih=tshi1 khue yan=di le 
-577|ngu zaon-ku ghau=deu tsia-liau yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
-578|waon=si1-san1 khe=tau1 khe-liau lau-hau-gheh . waon=si1-san1 geh tau1 khe-liau lau-hau-gheh 
-579|ngu veh hau kua nyin-ka1=geh , tseh1=hau kua zy-cia1 
-58|mau=tsy peh fon-tshyu1 theh=tse1 
-580|men-tsau1 waon=si1-san1 we=tau kon1=sy1 le va ? ngu khoe1 yi veh-we le 
-581|a1-'la 'ne sa=geh tsho-tsy zon noe-cin1 tsau1 geh=tah yuin ka1-san1 
-582|yi zian geh san1-bin=nyin ih-yan-gheh ge lah so1-fah laon 
-583|dih nen=cia tsu-san1-weh , li=teh siau=tshin1=nyi gha chih=lih sah theh-liau 
-584|yi tau tshen 'leh meh pe1-tsho tseu theh-liau . ngu e=theh ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we=tau ghoh-daon chi-'leh 
-585|dih zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le , ngu ziu tsian=li sa-nyin zeh=khue yan=di 
-586|ngu peh non-ku syu zy a1-'la nyan=jiu sia geh , yi lah he tson1-ghoh kau1-syu 
-587|non pi-ngu tsan , yi pi non-we iau1=tsan 
-588|lau=waon tah lau=tsan ih=yan tsan 
-589|ngu tseu-liau , na lian-ka1-deu tse tu1 zu theh ih=shih 
-59|tsan=min tseh1 pau1=peh=leh wa-nyin tshian=theh tse1 , nyin-gha the1-pe1 ih=nge=nge peh yi tan saon 
-590|ngu-kaon veh ku yi , sa-nyin ze-kaon veh ku yi dih-gheh ban=yeu .  ngu-kaon yi veh ku , sa-nyin ze-kaon veh ku yi dih-gheh ban=yeu 
-591|zaon=thaon1 tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
-6|he siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  . yi dih=bu di=in khoe1 ku-liau 
-60|mo-zaon iau1 loh=yu khua tse1 , r deh viau tsheh-chi tse1 
-61|dih=diau mau=cin1 oh=tshoh theu oh=tshoh theu , toh theh yi va 
-62|ngu=nyi zy=leh=deh tsho-ze yi tah ma-gheh tsho-phiau 
-63|pih=ciah laon=thih leh ih=tsan di=du 
-64|zaon laon khuen tse1 ih-ku lau nyi=ci nyin 
-65|wu=pan1 li yeu ciau1-kue siau=mau ng=leh deh=yeu=le yeu-chi 
-66|zi=deu bau ku=le ih-ku boe=theu boe=theu=geh noe=noe=deu 
-67|yi deh oh=li ih=zaon laon=si theh-liau se1 tsah1 tsyu1=lu 
-68|di=bu chi-tsho iau1 khe=tau kuaon=tseu1 chi-tse1 
-69|di=ba ghoh-san1 tse1 zu-tsho tsy zu tse1 lian-nyih lian=ya 
-7|non 'ne geh=ti uoe=tse da ih da 
-70|non chih chih khoe1 yi tsu-ku ti=sin1 ghe=bau va 
-71|non leh deh=tshaon sa-meh-zy a ? ngu=veh=leh=laon tshaon , ngu=leh=laon=faon loh=in1 a 
-72|ngu chih=ku thu=tsy nyoh=geh , non  a1=tsen1  chih=ku shih ? fen a , ngu fen chih=ku 
-73|ngu=yoh gha da hau tse1 , cin1=tsau1 le=jiu veh tan tse1 
-74|ngu soe=teh theh khua tse1 ne=soe tshu-theh-tse1 , nyan ngu zon=sin1 soe ih=thaon1 
-75|yi ih khe=sin1 ziu=iau1 tshaon=ku1 tse1 
-76|sa-nyin kaon=kaon leh=laon=cian nyi 'lau-sy 
-77|kaon=kaon sia=tse1 ih=poe 'leh , ghe-iau1 sia gho-chi 
-78|non kaon=kaon chih tse1 ih=uoe ve , ghe chih=ih uoe va 
-79|nyan paon siau=noe si1=tseu , non tse 'ne tsoe=le=geh meh-zy tsy1-si geh khoe1=ih-pi 
-8|yi 'ne ciuih=tsy bi poh theh-liau , peh1-ku yi m-meh chih 
-80|yi leh di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah tse1 
-81|non soe=soe=khoe1 , di=ti tshau=phiau a1=keu zyu yon 
-82|'lau-sy peh 'leh non ih=pen gheu theu=gheu theu=geh syu , a1=zy 
-83|yi geh ma yah geh phi-liau yi ih=tshi1 khue yan=di 
-84|ngu zaon-ku ghau=deu tau yi laon tsia tse1 se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
-85|waon=si1-san1 geh tau1 khe=teh me-hau geh 
-86|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
-87|men-tsau1 waon=cin=li a1 we-teh le kon1=sy1 ? ngu khoe1 yi veh-we le-ku 
-88|ngu=nyi yon sa=geh tsho-tsy zon noe-cin1 tau dih=laon tsaon ka1 jiu nyi 
-89|yi zian bin-nyin ih-yan-gheh ge leh tseh1 so1-fah laon 
-9|yi la ciau1=seh li ze=tsaon hau 'leh khon1-diau 
-90|tsu di=geh san1=weh li siau-hu=tsy gha thoh=we sa1-du sah=geh 
-91|yi thiau-zaon meh pe1-tsho bau tse1 . ngu e=tau tse1 ih=ciah , zy-cia1 tseh1=hau me=me nen bau tau ghoh-daon-li 'leh 
-92|dih=seu=sy sa-nyin sia-ku ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh sa-nyin zeh=khue yan=di 
-93|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
-94|non pi-ngu kau1 , yi pi non-we iau1 kau1 
-95|lau=waon theh=leh lau=tsan ih=yan kau1 
-96|ngu bau tse1 , non deh lian-ku ghe=tu1 zu ih=shih 
-97|ngu-kaon veh ku yi , sa nyin-gha thoh cian=veh=ku dih-gheh ka1=hu 
-98|zaon=thaon1 ngu tseh1 ma-liau ih=pen syu , cin1=tsau1 ngu sian tu1 ma lian=pen 
-99|zoh=nyih siau=tsan tiau zah ih-diau du-ng , ngu m-meh tiau=zah 
+1.wav|siau=tsan zoh-nyih-tsy1 tiau 'leh ih-diau du-ng , ngu m-meh tiau=zah=ng 
+10.wav|mau=tsy peh fon-tshyu1 theh-liau 
+100.wav|non bin=zan chih=shian1=i1 va ? ngu veh chih-gheh 
+101.wav|geh tsaon zy=thi non-kaon peh yi thin la va ? kheh , nu=cian=la=geh 
+102.wav|non chih=ve ghe-zy chih moe=deu 
+103.wav|non tau=ti tah=in yi veh 'la 
+104.wav|he siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . geh bu=di=in zeh yi khoe1 ku le 
+105.wav|non te=uoe da ih da 
+106.wav|yi te ciuih=tsy poh=tse1=bi , de fen chih 
+107.wav|yi la te ciau1=seh li ze=tsaon=tse1 khon1-diau 
+108.wav|mau=tsy peh fon-tshyu1 theh le 
+109.wav|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha tsha1=ih=nge nge=peh la tan=saon 
+11.wav|tsan=min ih tsah1 pau1=peh wa-nyin tshian theh-liau , nyin-gha the1-pe1 ih=nge peh yi tan saon theh 
+110.wav|iau1 loh=yu khua le , r na viau tsheh-chi le 
+111.wav|geh diau mau=cin1 oh=tshoh chi oh=tshoh le , toh theh yi va 
+112.wav|r na zy 'la-tsho ze ma=la=geh tsho-phiau 
+113.wav|zian=laon thih tse1=ih=tsan di=du 
+114.wav|zaon laon thaon la ih-ku lau-nyin 
+115.wav|wu=pan1 li yeu=zah ciau1-kue siau=ng 
+116.wav|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
+117.wav|yi oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
+118.wav|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
+119.wav|ghoh-san1-tsy zu chi-tsho zu=tse1 lian=thi1 
+12.wav|iau1 loh=yu khua-liau , na viau tsheh-chi 'leh 
+120.wav|non zaon=zaon yi tsu-ku ti=sin1 tse tseu va 
+121.wav|non=la tshaon sa ? ngu=veh=la=tshaon , ngu=la=faon loh=in1 
+122.wav|ngu=non chih=ku thu=tsy nyoh ,  zeh=non  chih=ku va ? m-meh , ngu=non fen chih=ku 
+123.wav|ngu=non da ku=yoh le , cin1=tsau1 veh tan=le=jiu le 
+124.wav|ngu=non soe='leh theh khua  soe=tshu le , nyan ngu=non zon=sin1 soe ih-pi 
+125.wav|zeh yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
+126.wav|kaon=kaon sa-nyin la=cian ngu-gheh 'lau-sy 
+127.wav|tseh1 sia-liau ih=poe , ghe-iau1 sia=loh chi 
+128.wav|non tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe hau va 
+129.wav|nyan siau=noe si1=tseu , non tse te=tsoe=le tsy1-tsy1 si=si=geh khoe1=ih-pi 
+13.wav|geh diau mau=cin1 lau oh=tshoh geh , toh theh yi va 
+130.wav|yi la di zy ci1 zi khoe1=khoe1 khoe1=khoe1 khuen zah le 
+131.wav|non soe=soe=khoe1 , geh nge tshau=phiau keu=veh=keu yon 
+132.wav|'lau-sy peh 'leh non ih=pen ya=gheu=geh syu , zy va 
+133.wav|e1=geh ma yah=geh phi theh yi ih=tshi1 khue tshau=phiau la 
+134.wav|ngu=non zaon-geh-yuih tsia yi se1=pah khue tshau=phiau 
+135.wav|waon=si1-san1 geh tau1 khe=teh ya hau 
+136.wav|ngu=non veh nen kua bih-nyin , tseh1=nen kua zy-cia1 
+137.wav|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we le 
+138.wav|ngu na yon sa=geh tsho-tsy zon noe-cin1 tsau1 geh=tah yuin ka1 jiu nyi 
+139.wav|yi zian-ku bin-nyin ih=yan khau la so1-fah lu=shian 
+14.wav|ah1-lah-gheh phiau=tsy zy lah=lah tsho-ze ma-gheh 
+140.wav|ga=nen tsu-san1-weh li siau-hu=tsy gha-we sa1-du sah=geh 
+141.wav|zeh yi thiau-zaon meh pe1-tsho ziu tseu-liau , ngu=zy ih=bu , tseh1=nen zy-cia1 me-me-ciau bau we-chi 
+142.wav|geh-gheh-zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh sa-nyin zeh=khue yan=di 
+143.wav|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia-ku 
+144.wav|non pi-ngu non kau1 , zeh yi pi non-we iau1 kau1 
+145.wav|lau=waon teh lau=tsan ih=yan tsan 
+146.wav|ngu non-chi le , na lian-ka1-deu tse tu1 zu ih=shih 
+147.wav|ngu non-kaon yi veh ku , sa nyin-gha cian=veh=ku geh-gheh ka1=hu 
+148.wav|zaon=thaon1 tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+149.wav|siau=tsan zoh=nyih tsy tiau zah 'leh ih-diau du-ng , ngu fen tiau=zah=ng 
+15.wav|zian=pih laon=shian thih=lah=he ih=tsan di=du 
+150.wav|non bin=zan a1 chih=shian1=i1 geh ?  veh chih-gheh , ngu bin=zan veh chih-gheh 
+151.wav|dih=tsaon zy=thi non-zen1 a1 gho yi thin ku ? zy-ku , ngu gho yi thin ku tseh 
+152.wav|non chih=ve ghe-zy chih moe=deu 
+153.wav|non tau=ciu a1 tah=in yi 
+154.wav|ciau1 siau-jian ih=dau tau=di in=yoe li khoe1=liu se1-tsia . yi dih=bu di=in khoe1=ku tse1 
+155.wav|non 'ne uoe da ih da 
+156.wav|yi 'ne ciuih=tsy bi poh theh=tseh , m-meh chih 
+157.wav|yi tah 'ne ciau1=seh li ze=tsaon hau tse1 khon1-diau 
+158.wav|mau=tsy peh fon-tshyu1 theh=tseh 
+159.wav|tsan min-ku pau1=peh wa-nyin tshian theh=tseh , nyin-gha the1-pe1 ih=nge peh yi tan saon 
+16.wav|zaon laon=shian khuen lah=he ih-ku lau-nyin 
+160.wav|loh=yu khua=tseh , ngu 'na  viau tsheh-chi tseh 
+161.wav|dih=ten1 mau=cin1 oh=tshoh theu=tseh , gue theh=tse1 'la-tau 
+162.wav|ngu li zy leh=laon tsho-ze ma-gheh tsho-phiau 
+163.wav|zian=laon yeu tsan di=du 
+164.wav|ih-ku lau-nyin khuen leh lah=laon zaon laon 
+165.wav|wu li ciau1-kue siau=ng=leh=laon lah=yeu 
+166.wav|zi=deu yeu-ku noe=siau-nyin leh=laon tseu ku=le , mae=zaon=geh 
+167.wav|yi tah oh=li ih=zaon laon se1 tsah1 tsyu1=lu si theh=tseh 
+168.wav|dih=bu chi-tsho zy iau1 khe=tau kuaon=tseu1 chi-gheh 
+169.wav|ghoh-san1 tah weh weh=len len tshen=tse1 lian-nyih thi1=geh chi-tsho 
+17.wav|wu=pan1 li=shian ciau1-kue siau=ng lah=lah=yeu 
+170.wav|non chih chih yi tsu-ku ti=sin1 tse bau 
+171.wav|non leh laon=tshaon sa=geh ? ngu=veh=leh=laon tshaon , ngu=leh=laon=faon loh=in1 
+172.wav|ngu chih=ku thu=tsy nyoh=geh , non a1=tsen1 chih=ku ? ngu veh-zen1 chih=ku 
+173.wav|ngu da ku=yoh tse1 , cin1=tsau1 le=jiu veh tan tse1 
+174.wav|ngu soe=teh theh khua=soe tshu-theh-tse1 , nyan ngu tse soe ih=thaon1 
+175.wav|yi ih khe=sin1 ziu tshaon=chi le tse1 
+176.wav|kaon=kaon sa-nyin lah=laon=cian ngu li si1-san1 
+177.wav|kaon=kaon tseh1 sia=leh ih=poe , ghe-iau1 sia gho-chi leh 
+178.wav|non tseh1 chih leh ih=uoe ve , a1=iau1 tse=chih ih=uoe 
+179.wav|nyan siau-nyin tah=si1 tseu , non tse 'ne tsoe=le po po=si si=khoe1 ih=thaon1 
+18.wav|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
+180.wav|yi leh laon di zy ci1 men zi khoe1=khoe1 khuen zah tse1 
+181.wav|non soe=soe=khoe1 geh nge tshau=phiau a1=keu yon 
+182.wav|si1-san1 a1=zy peh tse1=non ih=pen mae=gheu=geh syu 
+183.wav|yi geh ma yah geh phi theh leh yi ih=tshi1 khue yan=di 
+184.wav|ngu zaon-ku ghau=deu ven yi tsia tse1 se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi tse1 se1=pah khue yan=di 
+185.wav|waon=si1-san1 geh tau1 khe=teh me-hau . waon=si1-san1 geh tau1 khe=teh me-hau 
+186.wav|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+187.wav|men-tsau1 waon=cin=li a1=we tau kon1=sy1 li le . ngu khoe1-peh1=ci teh=le 
+188.wav|ngu li=yon sa=geh chi-tsho 'ne=dih=ti ka1-san1 zon noe-cin1 tsaon=tau dih daon le 
+189.wav|yi theh san1-bin=nyin ih=yan ci leh so1-fah laon 
+19.wav|geh bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi 
+190.wav|geh len tsu zy siau-hu=tsy gha chih=veh=siau1 geh 
+191.wav|yi tau gah  zaon=meh pe1-tsho bau tse1 . ngu tseh1 e=tau tse1 ih=bu , tseh1=hau zy-cia1 me-me-ciau bau tau ghoh-daon-li=chi tse1 
+192.wav|dih-gheh sy=zy sa-nyin sia-ku ? sa-nyin tshe1=tsheh le=ngu ziu tsian yi zeh khue yan=di 
+193.wav|siau=tsan zoh=nyih tiau=zah ih-diau du-ng , ngu meh tiau=zah=ng 
+194.wav|non bin=zan tson1-ci chih=shian1=i1 va ? ngu veh chih-gheh 
+195.wav|non 'ne dih tsaon zy=thi theh yi cian 'leh-ma ? ngu theh yi cian 'leh zah 
+196.wav|non chih mi ve ghe-zy chih moe=deu 
+197.wav|non tau=ti tah=in yi va 
+198.wav|ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  dih=bu di in yi khoe1 ku-ku 
+199.wav|non 'ne uoe=daon1 ih=daon1 
+2.wav|non bin=zan chih=shian1=i1 va ? ngu veh chih=shian1=i1 geh 
+20.wav|ghoh-san1-tsy zu-tsho tsy zu 'leh tsen=tsen lian-nyih thi1 
+200.wav|yi 'ne ciuih=tsy bi poh theh=geh , yi tau meh chih 
+201.wav|yi la leh lah ciau1=seh li ze=tsaon zah khon1-diau 
+202.wav|mau=tsy peh=lah fon-tshyu1 theh-liau 
+203.wav|tsan=min peh nyin-ka1 tshian=theh ih tsah1 pau1 , nyin-gha the1-pe1 ih=nge=nge peh nyin-ka1 tan=saon 
+204.wav|ziu=iau1 loh=yu zah , na veh=iau1 tsheh-chi zah 
+205.wav|dih=diau mau=cin1 ya oh=tshoh 'leh zah , toh theh yi 
+206.wav|nyi zy leh lah tsho-ze ma-gheh tsho-phiau 
+207.wav|zian=laon thih zah ih=tsan di=du 
+208.wav|zaon laon khuen lah ih-ku lau-nyin 
+209.wav|wu=pan1 li ciau1-kue siau=ng=leh=lah=yeu 
+21.wav|non chih chih khoe1 yi tsu-ku ti=sin1 tse tseu va 
+210.wav|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
+211.wav|yi la oh=li ih-shia=tsy si theh=tsy se1 tsah1 tsyu1=lu 
+212.wav|dih=bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
+213.wav|ghoh-san1-tsy tshen chi-tsho tshen=zah lian-nyih thi1 
+214.wav|non chih chih khoe1 yi tsu-ku ti=sin1 tse tseu meh-zah 
+215.wav|non lah tshaon sa ? ngu meh tshaon , ngu=leh=lah=faon loh=in1 
+216.wav|ngu chih=ku thu=tsy nyoh=lah zah , non chih=ku va ? ngu meh chih=ku 
+217.wav|ngu da ku=yoh 'leh , cin1=tsau1 veh tan=le=jiu zah 
+218.wav|ngu soe=teh tha=khua lah zah , soe tshu=theh , nyan ngu tse zon=sin1 soe ih-pi 
+219.wav|yi ih khe=sin1 ziu tshaon=chi=ku1 le-zah 
+22.wav|non lah=he=tshaon sa-meh-zy a ? ngu m-meh lah=he=tshaon , ngu=lah=he=faon loh=in1 
+220.wav|sa-nyin kaon=kaon leh=lah=gho=nyi ngu-gheh 'lau-sy 
+221.wav|tseh1 sia-zah ih=poe , ghe-iau1 sia gho-chi 
+222.wav|non tseh1 chih=ih uoe mi ve , tse=chih ih=uoe ua1 
+223.wav|nyan siau=noe si1=tseu , non tse 'ne tsoe=le me-me-ciau khoe1=ih-pi 
+224.wav|yi leh lah di zy ci1 zi=deu , khoe1=fah khoe1=fah khuen zah 'leh 
+225.wav|non soe=soe=khoe1 , dih-nge tshau=phiau koe1=zy yon va 
+226.wav|'lau-sy peh 'leh non ih=pen ya=gheu=geh syu va 
+227.wav|dih-gheh ma=yah=geh phi zah yi ih=tshi1 khue yan=di 
+228.wav|ngu zaon-ku ghau=deu zih-zah yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
+229.wav|waon=si1-san1 geh tau1 khe=teh me-hau geh .  waon=si1-san1 geh tau1 khe=teh me-hau geh 
+23.wav|ngu chih=ku thu=tsy nyoh=geh , non chih=ku va ? m-meh , ngu m-meh chih=ku 
+230.wav|ngu veh nen kua nyin-ka1 , tseh1=nen kua zy-cia1 
+231.wav|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we le 
+232.wav|nyi yon sa=geh ciu=zon noe-cin1 tsau1 dih=tah yuin ka1-san1 nyi 
+233.wav|yi zian-ku bin-nyin nen=cia khau=lah=lah so1-fah laon 
+234.wav|dih-nen=yan=tsy tsu-san1-weh li siau-hu=tsy gha-iau1 lau=saon geh 
+235.wav|yi thiau-zaon meh pe1-tsho tseu-a zah , ngu e=theh ih=bu , tseh1=hau zy-cia1 me=me nen=geh tseu we ghoh-daon 
+236.wav|dih-gheh zy sa-nyin sia-ku sy ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian peh yi zeh khue yan=di 
+237.wav|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia-ku 
+238.wav|non pi-ngu tsan , yi pi non-we iau1=tsan 
+239.wav|lau=waon tah lau=tsan ih=yan tsan 
+24.wav|ngu da ku=yoh 'leh , le=jiu cin1=tsau1 veh hau tan-liau 
+240.wav|ngu tseu 'la , na lian-ka1-deu tu1 zu ih=shih 
+241.wav|ngu-kaon veh ku yi , sa-nyin ze-kaon veh ku=dih tseh1 tshah=lau 
+242.wav|zaon=thaon1 tseh1 ma zah ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+243.wav|non bin=zan shian1=i1 chih vah ? ngu veh chih-gheh 
+244.wav|deh=tsaon zy=thi non-kaon peh yi thin-liau vah ? ngu-kaon peh yi thin a tse1 
+245.wav|non chih=ve ghe-zy chih moe=deu 
+246.wav|non tau=ti khen ghe-zy veh khen 
+247.wav|he siau-jian ih=dau tau=di in=yoe li chi-khoe1  liu se1-tsia  deh=bu=di in yi khoe1 ku a deh 
+248.wav|non 'ne uoe da ih da 
+249.wav|ciuih=tsy yi bi poh a tse1 , de=zy yi m-meh chih 
+25.wav|ngu soe='leh theh khua-liau soe tshu=theh 'leh , nyan ngu zon=sin1 soe ih-pi 
+250.wav|yi la 'ne ciau1-sy li tih khon1-diau ze=tsaon hau-a tse1 
+251.wav|fon 'ne mau=tsy tshoe1=theh a tse1 
+252.wav|tsan=min peh=lah wa-nyin deh=theh ih tsah1 pau1 , nyin-gha tsha1-pe ih=nge=nge be nyin-ka1 tan=saon 
+253.wav|iau1 loh=yu khua tse1 , 'na veh=iau1 tsheh-chi tse1 
+254.wav|dih=diau mau=cin1 oh tshu1 a tse1 , non gue theh yi hau 'leh 
+255.wav|nyi lah=lah tsho-ze li ma-gheh phiau 
+256.wav|pih=ciah nu=thih tse1=ih=tsan di=du 
+257.wav|zaon nu=khuen zah ih-ku lau=nyan cia1 
+258.wav|ciau1-kue siau=ng lah=lah pan1 li yeu 
+259.wav|zi=deu tseu ku=le ih-ku boe siau=noe 
+26.wav|yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
+260.wav|yi la oh=li sian khua-chi khua le=se1 tsah1 tsyu1=lu ze=si theh-liau 
+261.wav|dih=bu tsho-tsy tau kuaon=tseu1 chi-gheh 
+262.wav|ghoh-san1-tsy leh=lah chi-tsho li zu tse1 lian-nyih thi1-a deh 
+263.wav|non chih-liau yi tsu-ku ti=sin1 tse bau 
+264.wav|non lah tshaon sa ? ngu m-meh tshaon , ngu=lah=lah=faon loh=in1 
+265.wav|ngu thu=tsy nyoh=chih a deh , non chih=ku vah ? ngu m-meh chih=ku 
+266.wav|ngu da ku=yoh a tse1 , cin1=tsau1 le=jiu ziu-peh1 tan=tse1 
+267.wav|nyan ngu zon=sin1 soe ih-pi , ngu=soe=leh theh khua tse1 , soe tshu=theh a tse1 
+268.wav|yi kau1=shin 'leh ziu tshaon=ku1 
+269.wav|sa-nyin kaon=kaon lah=lah=gho ngu-gheh si1-san1 
+27.wav|kaon=kaon sa-nyin lah=he=cian ngu 'lau-sy a 
+270.wav|kaon sia-liau ih=poe , ghe-iau1 sia gho-chi 
+271.wav|non chih theh ih=uoe ve la=li , tse=chih ih=uoe 
+272.wav|nyan siau=noe si1=tseu meh=tse1 , non 'ne tsoe=le tse tsy1-tsy1 si si=khoe1 ih=thaon1 
+273.wav|yi la khoe1 di zy ci1 khoe1 fah khoe1 fah khuen=chi a tse1 
+274.wav|non soe=soe=khoe1 , deh=nge tshau=phiau a1=keu vah 
+275.wav|si1-san1 zy-feu pen 'leh non ih=pen mae=gheu=geh syu 
+276.wav|yi geh ma yah geh phi=tsy phi tse1 yi ih=tshi1 khue yan=di 
+277.wav|ngu zaon-geh-yuih ven yi tsia tse1 se1=pah khue yan=di . ngu zaon-geh-yuih tsia peh yi se1=pah khue yan=di 
+278.wav|waon=si1-san1 geh tau1 khe=le me-hau . waon=si1-san1 geh tau1 khe=le me-hau 
+279.wav|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+28.wav|tseh1 sia theh ih=poe , ghe-iau1 sia gho-chi 
+280.wav|men-tsau1 waon=cin li-we teh kon1=sy1 li le vah ? ngu ciah-zah yi veh-we teh=le 
+281.wav|noe-cin1 tau nyi deh=tah=le=tsaon ka1-san1 geh nyi yon sa=geh tsho-tsy 
+282.wav|yi zian-ku san1-bin=nyin nen=cia khau=leh so1-fah nu 
+283.wav|dih-nen tsu-san1-weh deh=phi1 noe we-tsu teh so1 du geh 
+284.wav|yi kaon tshen zaon meh pe1-tsho khe=theh a tse1 . ngu tseh1 e tau-liau ih=bu , tseh1=hau zy-cia1 me-me-ciau we=tau ghoh-daon-li=chi tse1 
+285.wav|deh ku-zy sa-nyin sia-ku sy ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian peh yi zeh khue yan=di 
+286.wav|ngu=pen 'leh non-ku syu zy ngu tson1-ghoh li geh kau1-syu geh nyan=jiu sia-ku 
+287.wav|non pi-ngu kau1 , yi pi non-we iau1 kau1 
+288.wav|lau=waon tah lau=tsan ih=yan kau1 
+289.wav|ngu bau tse1 , 'na lian-ka1-deu tse zu theh ih=shih 
+29.wav|non tseh1 chih theh ih=uoe ve , tse=chih uoe va 
+290.wav|ngu-kaon yi veh ku , sa-nyin ze-kaon veh ku=deh ku-nyin 
+291.wav|syu ngu zaon=thaon1 tseh1 ma=teh ih=pen , cin1=tsau1 ngu=iau1 tu1 ma ci=pen 
+292.wav|siau=tsan zoh=nyih diau-liau ih-diau du-ng , nu=tiau=veh zah=ng 
+293.wav|zu bin=zan shian1=i1 chih vah ? veh , nu=veh chih=shian1=i1 
+294.wav|zu kau=su yi geh tsaon zy=thi vah ? zy la=geh , ngu we=deu yi 'leh 
+295.wav|zu chih mi ve ghe-zy chih moe=deu 
+296.wav|zu tau=ti khen=veh khen yi 
+297.wav|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . yi geh bu di in khoe1 ku la 
+298.wav|zu po uoe zin=ih=zin 
+299.wav|yi 'ne ciuih=tsy poh 'leh bi , yi veh chih 
+3.wav|geh tsaon zy=thi non-kaon peh yi thin-liau va ? kheh , ngu-kaon peh yi thin-liau 
+30.wav|nyan siau=noe si1=tseu , non tse 'ne tsoe=le tsy1-tsy1 si=si khoe1=ih-pi 
+300.wav|yi dah po ciau1=seh li tsaon zaon-liau khon1-diau 
+301.wav|mau=tsy nyi , pen fon-tshyu1 theh a1-li 
+302.wav|siau=tsan la=pen wa-nyin tshian-tseu 'leh ih tsah1 pau1 , nyin-gha shi=shi-wu be-tan saon 
+303.wav|loh=yu khua-liau ,       veh=iau tseu1-liau 
+304.wav|geh diau mau=cin1 ciau1-kue lah , toh theh hau 'leh 
+305.wav|ngu na yeu=la tsho-ze la=ma la=geh phiau=tsy 
+306.wav|zian=laon sian=ko zah ih=tsan di=du 
+307.wav|zaon laon=sian khuen la ih-ku lau-nyin 
+308.wav|wu li yeu le au ghaon-zin=ghan=zy siau=ng 
+309.wav|zi=deu tseu=le ih-ku mae boe=geh siau=po-shi 
+31.wav|yi lah lah di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah 'leh 
+310.wav|yi dah oh=li sian ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
+311.wav|geh bu chi-tsho nyi ih cin khe tau kuaon tseu1 chi a1-li 
+312.wav|ghoh-san1-tsy tshen chi-tsho nyi , tsen=tsen zu 'leh lian-nyih thi1 
+313.wav|zu zaon=zaon yi tsu la geh ti=sin1 , chih tse1 tse tseu 
+314.wav|zu la=tshaon ha=geh ku1 ? nu m-meh tshaon , nu=zy la=faon loh=in1 
+315.wav|nu chih=ku thu=tsy nyoh , zu chih=ku vah ?  nu gha m-meh chih=ku 
+316.wav|nu da ku=yoh a1-li , nu cin1=tsau1 le=jiu veh tan-liau 
+317.wav|nu soe='leh theh khua , soe tshu=theh 'leh , nyan nu=tse=soe ih=soe hau=vah 
+318.wav|yi kau1=shin nyi , yeu tshaon=chi=ku1 le 'leh 
+319.wav|ha=nyin kaon=kaon la=nyi=len nu=geh 'lau-sy 
+32.wav|'lau-sy a1=zy peh 'leh non pen lau=gheu=geh syu a ? 'lau-sy peh 'leh non pen lau=gheu=geh syu , zy va 
+320.wav|tseh1 sia-liau ih=poe , ghe-iau1 sia=loh chi 
+321.wav|zu chih-liau ih=uoe mi ve , tse=chih ih=uoe 
+322.wav|nyan siau=po-shi la=si1 tseu , zu nyi , tse=tau tsoe=le=kuoe chi , hau=hau=ciau khoe1=ih-pi 
+323.wav|yi meh la di zy ci1 zi=deu nyi , khoe1-zah khoe1-zah meh , khuen=chi 'leh 
+324.wav|zu soe=soe=khoe1 , geh nge=nge tshau=phiau keu=veh=keu yon 
+325.wav|'lau-sy pen la=zu geh pen=syu veh zy=mae gheu ma 
+326.wav|geh-gheh ma=yah=geh phi=tsy , phi theh yi ih=tshi1 khue tshau=phiau 
+327.wav|nu zaon-geh-yuih tsia-liau yi se1=pah khue tshau=phiau . nu zaon-geh-yuih tsia-liau yi se1=pah khue 
+328.wav|waon=si1-san1 geh tau1 khe=teh me-hau . waon=si1-san1 geh tau1 khe=teh ciau1-kue hau 
+329.wav|nu=veh=kua bih-nyin , tseh1=kua zy-cia1 
+33.wav|yi geh ma yah geh phi theh yi ih=tshi1 khue yan=di le 
+330.wav|men-tsau1 waon=cin=li kon1=sy1 le-veh-le ? nu khoe1 yi veh=le 'leh 
+331.wav|ngu na yon ha=geh ciu=zon noe-cin1 maon geh the=the yuin ka1 jiu a 
+332.wav|yi zian-ku bin-nyin ih=yan ge la so1-fah laon=sian 
+333.wav|zeh=cia nen=cia tsu-san1-weh nyi , li siau=tshin1=nyi gha we-tsu saon 
+334.wav|yi thiau-zaon meh pe1-tsho tseu a1-li . nu=zy tau ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu tau ghoh-daon-li 
+335.wav|geh zy ha=nyin sia la=geh=sy ? ha=nyin tshe1=tsheh le , nu ziu peh ha=nyin zeh=khue tshau=phiau 
+336.wav|nu=pen=zu pen=syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
+337.wav|zu=pi nu=tsan , yi nyi , pi=zu ghe-iau1 tsan 
+338.wav|lau=waon tah lau=tsan ih=yan tsan 
+339.wav|nu=tseu theh-liau ,  lian-ka-deu1 tse tu zu1 ih-si 
+34.wav|ngu zaon-ku ghau=deu tsia-liau yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
+340.wav|nu=cian veh ku yi , ha=nyin cian teh=ku geh-gheh ka1=hu 
+341.wav|zaon=tshy tseh1 ma-liau ih=pen , cin1=tsau1 nyi , iau1 tu1 ma ci=pen 
+342.wav|siau=tsan zoh=nyih tiau=zah ih-diau du-ng , nu  veh-zen1 tiau=zah 
+343.wav|zy=nu  bin=zan chih=shian1=i1 vah ? nu  veh chih-gheh 
+344.wav|geh tsaon zy=thi zu  kau=su yi la=vah ? nu  kau=su yi la=li 
+345.wav|zy=nu  chih=ve ghe-zy chih moe=deu 
+346.wav|zy=nu  tau=ti tah=in yi-we zy veh tah=in yi 
+347.wav|ciau siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  geh bu=di=in . geh bu=di in=yi khoe1=ku a li .  yi geh bu=di=in khoe1=ku a li 
+348.wav|zy=nu  te=uoe da ih da 
+349.wav|ciuih=tsy meh yi poh tse1=bi , peh1-ku veh-zen1 chih 
+35.wav|waon=si1-san1 geh tau1 khe-liau me-hau geh 
+350.wav|yi-la  ciau1=seh li ze=tsaon=tse1 khon1-diau 
+351.wav|mau=tsy pen  fon-tshyu1 theh a li 
+352.wav|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha tsha1=ih=nge pen  tan=saon 
+353.wav|loh=yu khua tse1 , za  viau tsheh-chi tse1 
+354.wav|geh diau mau=cin1 oh=tshoh le , gue theh=yi ba1 
+355.wav|ngu ne  zy lih-lah tsho-ze ma-gheh tsho-phiau 
+356.wav|zian=pih laon=thih tse1=ih=tsan di=du 
+357.wav|zaon laon=shian khuen tse1 ih-ku lau-nyin 
+358.wav|wu li=shian yeu ciau1-kue ng la=yeu 
+359.wav|zi=deu tseu ku=le ih-ku phaon-phaon geh noe=siau=noe 
+36.wav|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+360.wav|yi-la  oh=li=shian ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
+361.wav|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi-gheh 
+362.wav|ghoh-san1-tsy zu chi-tsho i=cin zu tse1 lian-nyih lian=ya tse1 
+363.wav|zy=nu  chih chih yi tsu-ku ti=sin1 tse tseu-ba1 
+364.wav|zy=nu  la=tshaon sa ? nu  veh la=tshaon , nu  la=faon loh=in1 ia 
+365.wav|thu=tsy nyoh=nu  chih=ku geh , zy=nu  chih=ku vah ? nu  veh-zen1 chih=ku 
+366.wav|nu  da-yoh da ku=a=li , cin1=tsau1 veh tan=le=jiu tse1 
+367.wav|ngu=nu  soe=teh theh khua , soe tshu-theh-tse1 , nyan nu  zon=sin1 soe ih-pi 
+368.wav|yi=ih khe=sin1 ziu tshaon=ku1 tse1 
+369.wav|ha  nyin kaon=kaon la=cian=nu  'lau-sy ghe=gho a 
+37.wav|men-tsau1 waon=cin li-we teh=le kon1=sy1 va ? ngu khoe1 yi veh-we le 
+370.wav|tseh1 sia tse1 ih=poe , ghe-iau1 sia gho-chi 
+371.wav|zy=nu  tseh1 chih tse1 ih=uoe ve , tse chih-gheh ih=uoe ba1 
+372.wav|nyan siau=noe si1=tseu , zy=nu  te=tsoe=le=we a tsy1-tsy1 si=si tse khoe1=ih-pi 
+373.wav|yi=khoe1 di=zy khoe1=fah khoe1=fah ziu khuen=chi tse1 
+374.wav|zy=nu  soe=soe=khoe1 , geh nge tshau=phiau keu=yon vah 
+375.wav|'lau-sy pen  zu  ih=pen gheu le-si1 geh=syu , zy la=vah 
+376.wav|geh-gheh ma=yah=geh phi theh=yi ih=tshi1 khue yan=di la 
+377.wav|zaon-geh-yuih nu  men-yi tsia se1=pah khue yan=di . nu  zaon-geh-yuih tsia=peh yi se1=pah khue yan=di 
+378.wav|waon=si1-san1 geh tau1 khe=le me-hau geh 
+379.wav|nu  veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+38.wav|a1-'la yon sa=geh tsho-tsy zon noe-cin1 maon geh tah-tsho ka1-san1 
+380.wav|men-tsau1 waon=cin li-we teh=tau kon1=sy1 le=vah ? nu  khoe1=yi veh-we le 
+381.wav|ngu ne  yon sa=geh tsho-tsy zon noe-cin1 poe-cia1 san1=tau geh=tah a 
+382.wav|yi zian-ku san1-bin=nyin nen=cia khau=la so1-fah laon 
+383.wav|zy nen=cia tsu-san1-weh a li=teh soe=su chin=geh gha chih=veh=siau1 
+384.wav|yi dau tau meh=pe1 ciu=laon=shian tseu-a li , nu  zy=tau ih=bu , tseh1=hau zy-cia1 me-me-ciau we=tau ghoh-daon-li=chi 
+385.wav|geh-gheh-zy ha  nyin=sia la=geh=sy ? sa-nyin tshe1=tsheh le=nu  ziu tsian=pen  yi=zeh=khue yan=di 
+386.wav|nu  pen  zy=nu  pen=syu zy=nu  ciau1 tson1-ghoh geh nyan=jiu sia la=geh 
+387.wav|zy=nu  pi=nu  tsan , yi=pi zy=nu  ghe-iau1 tsan 
+388.wav|lau=waon tah lau=tsan ih=yan tsan 
+389.wav|nu  chi-tse1 , zy ne  lian-ka1-deu tse tu1 zu theh ih=shih 
+39.wav|yi zian-ku bin-nyin ih=yan ge lah so1-fah laon 
+390.wav|nu  cian=veh=ku yi , sa-nyin ze-kaon veh ku-ku tshah=lau 
+391.wav|zaon=thaon1 tseh1 ma tse1 ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+392.wav|siau=tsan zoh=thi1 tiau=zah ih-diau du-ng , ngu fen1=nyin tiau zah 
+393.wav|'ni bin=zy shian1=i1 chih vah ?     ngu-veh chih-gheh 
+394.wav|geh tshon1 zy=thi 'ni e=nyin kau1=soh yi=vah ?                                     ngu=gho geh deh 
+395.wav|'ni chih=ve e zy chih moe=deu 
+396.wav|'ni tau=ti tah=in yi veh 'la 
+397.wav|ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  .                     geh=bu di=in yi khoe1 ku=deh 
+398.wav|'ni 'ne uoe zin=ih=zin 
+399.wav|yi 'ne ciuih=tsy bi poh=deh theh=deh , yi tau mo chih 
+4.wav|non chih=ve ghe-zy chih moe=deu a 
+40.wav|geh-nen-ka tsu-san1-weh , li siau=tshin1=nyi gha-iau1 chih=veh=siau1 geh 
+400.wav|khu=daon li yi deh=ghe=tsaon hau=tsy khon1-diau geh=deh 
+401.wav|mau=tsy peh=leh fon-tshyu1 deh=leh 
+402.wav|tsan=min peh=leh wa-nyin tshian=theh ih tsah1 pau1 , nyin the1-pe1 ih=nge=nge tan=saon 
+403.wav|ziu=iau1 loh=yu deh , 'ni deh=au tsheh-chi deh 
+404.wav|geh daon kha1=mi=pu oh=tsoh=le , gue theh=tsy hau=deh 
+405.wav|ngu li zy tsho-ze laon ma-gheh phiau 
+406.wav|ih=tsan di=du thih=leh=zian laon 
+407.wav|ih-ku lau-nyin khuen leh zaon laon 
+408.wav|ciau1-kue siau=ng leh=leh wu li yeu 
+409.wav|ih-ku boe siau=noe men=zi bau ku=le deh 
+41.wav|yi thiau-zaon meh pe1-tsho bau-theh-'leh , ngu e=theh ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we ghoh-daon 'leh 
+410.wav|yi oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=nu 
+411.wav|geh=bu chi-tsho zy khe=tau kuaon=tseu1 chi-gheh 
+412.wav|ghoh-san1-tsy chi-tsho zu=tsy lian-nyih thi1=deh 
+413.wav|'ni zaon=zaon yi tsu-ku siau=chih e=bau meh=deh 
+414.wav|'ni=leh=tshaon=wu ?                      ngu fen1=nyin=tshaon , ngu leh=leh faon=loh=in1 
+415.wav|thu=tsy nyoh ngu chih=ku 'leh , 'ni e=nyin chih=ku ?                             ngu fen1=nyin chih=ku 
+416.wav|cin1=tsau1 le=jiu veh tan=deh , ngu kha1 ku=yoh geh deh 
+417.wav|ngu=soe=leh theh khua , nyan ngu zon=sin1 soe=ih=soe 
+418.wav|yi ih khe=sin1 ziu tshaon=ku1 deh 
+419.wav|wu-nyin nge=nge deu=cian ngu si1-san1 
+42.wav|dih=seu sy=zy sa-nyin sia-ku ? sa-nyin tshe1=teh=tsheh ngu ziu=tsian li yi zeh khue yan=di 
+420.wav|teh=leh sia=tsy ih=poe , ngu=e=iau1 sia gho-chi 
+421.wav|'ni teh chih tsy ih=uoe ve , e=chih ih=uoe a1=ua1 
+422.wav|nyan siau=noe si1=bau , 'ni 'ne tsoe=le po po=si si=e khoe1=ih-pi 
+423.wav|yi khoe1=khoe1 di=zy khuen zah deh 
+424.wav|'ni soe ih=soe , geh=nge tshau=phiau yeu=teh yon=vah 
+425.wav|si1-san1 peh=leh 'ni gheu sah ih=pen syu=vah 
+426.wav|ci=ma yah=nyin phi=tsy yi ih=tshi1 khue=
+427.wav|ngu zaon ih nyoe=nyih tsia=yi se1=pah khue yan=di .                                 ngu zaon ih nyoe=nyih tsia=peh yi se1=pah khue yan=di 
+428.wav|waon i-san1 geh tau1 khe=leh me-hau geh .                     waon=si1-san1 geh tau1 khe=leh me-hau 
+429.wav|ngu veh-hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+43.wav|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
+430.wav|men-tsau1 waon=cin=li kon1=sy1 li le vah ?                   ngu khoe1 yi veh-we=teh le 
+431.wav|ci ka1-san1 tan noe-cin1 yuin ku=le , ngu li yon wu-veh zy tsho-tsy 
+432.wav|yi zian bin-nyin zeh=ci ge leh so1-fah laon 
+433.wav|zeh=ci tsu-san1-weh na-pho siau-hu=tsy gha chih veh zyu 
+434.wav|yi tau zaon=tsy meh pe1-tsho bau=theh leh . ngu i-tsy ih=bu , tseh1=hau me-me-ciau bau tau ghoh-daon-li=chi deh 
+435.wav|ji-zeh wu-nyin sia-ku sy , wu-nyin tshe1=teh=tsheh le=ngu ziu=tsian peh=yi=zeh=khue=
+436.wav|ngu peh 'ni geh syu zy ngu tson1-ghoh 'lau-sy geh nyan=jiu sia-ku 
+437.wav|'ni pi-ngu tsan , yi pi-'ni e=iau1 tsan 
+438.wav|lau=waon theh=lau=tsan ih=yan tsan 
+439.wav|ngu si1 bau , 'ni deh lian-ka1-deu e=tu1 zu ih=si1 
+44.wav|non pi-ngu tsan , yi pi non-we iau1=tsan 
+440.wav|ngu-kaon yi=veh=ku , zoe=bi wu-nyin cian=veh=ku yi ci nyin-gheh 
+441.wav|zaon=thaon1 teh=leh=ma=tsy ih=pen syu , cin1=tsau1 ngu=iau1 tu1 ma ci=pen 
+442.wav|siau=tsan zoh=nyih tiau 'leh ih-diau du-ng , ngu meh tiau zah 
+443.wav|neu bin=zan chih=shian1=i1 vah ?  veh , veh chih=shian1=i1 
+444.wav|neu kau=su yi geh tsaon zy=thi 'leh vah ? zy-ku , ngu-kaon peh yi thin a1 tseh 
+445.wav|neu zy chih mi ve ghe-zy chih moe=deu 
+446.wav|neu tau=ti tah=in veh tah=in yi 
+447.wav|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  . yi geh bu di in khoe1 ku-liau 
+448.wav|neu 'ne uoe da ih da 
+449.wav|yi 'ne ciuih=tsy bi poh 'leh , de=zy meh chih 
+45.wav|lau=waon theh=lau=tsan ih=yan tsan 
+450.wav|yi la leh lah ciau1=seh li ze=tsaon hau 'leh khon1-diau 
+451.wav|mau=tsy peh=lah fon-tshyu1 theh-liau 
+452.wav|tsan min-ku pau1 peh=lah wa-nyin tshian theh=tseh , nyin-gha tsha1=ih=nge peh yi la tan saon 
+453.wav|khua=iau1 loh=yu tseh , na viau tsheh-chi tseh 
+454.wav|geh diau mau=cin1 oh=tshoh theh=tseh , gue theh yi vah 
+455.wav|ngu=nyi zy=leh=lah tsho-ze li=shian ma-gheh tsho-phiau 
+456.wav|zian=pih laon ko-liau ih=tsan di=du 
+457.wav|zaon laon=shian khuen tse1 ih-ku lau-nyin 
+458.wav|wu li=shian yeu ciau1-kue siau=ng=leh=lah=yeu 
+459.wav|zi=deu le tse1 ih-ku boe=chi boe le-ku noe=siau=noe 
+46.wav|ngu bau-liau au , na lian-ka1-deu tse tu1 zu theh ih=shih 
+460.wav|yi oh=li=shian mah-san1=deu=li se1 tsah1 tsyu1=lu si theh=tseh 
+461.wav|geh bu chi-tsho iau1 khe=tau kuaon=tseu1 chi 
+462.wav|ciau1-kue ghoh-san1-tsy zu chi-tsho zu 'leh tsen=tsen lian-nyih thi1=a1=tseh 
+463.wav|neu zaon ih zaon yi tsu lah geh ti=sin1 tse tseu=vah 
+464.wav|neu leh lah tshaon sa-meh-zy ? ngu veh lah tshaon , ngu=leh=lah=faon loh=in1 
+465.wav|thu=tsy nyoh ngu=chih ku-ku , neu chih=ku vah ? m-meh , ngu meh chih=ku 
+466.wav|ngu da hau yoh a1=tseh , cin1=tsau1 veh tan=le=jiu tseh 
+467.wav|ngu soe='leh theh khua=tseh , soe tshu=theh tseh , nyan ngu zon=sin1 soe ih-pi 
+468.wav|yi ih khe=sin1 ziu we-teh tshaon=ku1 
+469.wav|sa-nyin kaon=kaon leh=lah=nyi len yi geh 'lau-sy 
+47.wav|ngu-kaon veh ku yi , zoe=bi sa-nyin ze-kaon veh=ku dih-gheh ka1=hu 
+470.wav|tseh1 sia tse1 ih=poe , ghe-iau1 sia gho-chi 
+471.wav|neu tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe 
+472.wav|nyan siau=noe si1=tseu , neu tse 'ne tsoe=le=yan zian-si si=geh khoe1=ih-pi 
+473.wav|yi leh lah di zy ci1 zi=deu khoe1=di=zy , khuen chi-theh tseh 
+474.wav|neu soe=soe=khoe1 , geh=ti tshau=phiau keu=veh=keu yon 
+475.wav|'lau-sy peh 'leh neu ih=pen gheu chi gheu le-ku syu , zy la=vah 
+476.wav|e1=geh ma yah=geh phi theh-liau yi ih=tshi1 khue tshau=phiau 
+477.wav|ngu zaon-geh-yuih tsia-liau yi se1=pah khue tshau=phiau . ngu zaon-geh-yuih tsia=peh 'leh yi se1=pah khue tshau=phiau 
+478.wav|waon=si1-san1 geh tau1 khe-liau ciau1-kue hau . waon=si1-san1 geh tau1 khe-liau me-hau 
+479.wav|ngu veh nen kua nyin-ka1 , tseh1=nen kua zy-cia1 
+48.wav|zaon=thaon1 tse1=tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+480.wav|men-tsau1 waon=cin li-we teh=le kon1=sy1 vah ? ngu khoe1 yi veh-we teh=le 
+481.wav|ngu=nyi yon sa=geh ciu=zon noe-cin1 tsau1 geh=tah yuin ka1-san1 nyi 
+482.wav|yi zian-ku san1-bin nyin-gheh yan=tsy , khau=leh so1-fah laon 
+483.wav|geh-nen-ka tsu-san1-weh , li siau=tshin1=nyi ze chih=veh=siau1 geh 
+484.wav|yi thiau-zaon meh pe1-tsho tseu-liau . ngu zy=tau ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we ghoh-daon-li=chi 
+485.wav|geh-gheh-zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le , ngu ziu=tsian peh yi zeh khue tshau=phiau 
+486.wav|ngu peh neu geh syu , zy ngu ciau1 tson1-ghoh geh nyan=jiu sia=la=geh 
+487.wav|neu pi-ngu kau1 , yi pi neu ghe-iau1 kau1 
+488.wav|lau=waon theh=lau=tsan ih=yan kau1 
+489.wav|ngu=si1 tseu=tseh , na lian-ka1-deu tse tu1 zu ih=shih 
+49.wav|siau=tsan zaon-nyih tiau 'leh ih-diau du-ng , ngu ih-diau gha fen tiau zah 
+490.wav|ngu-kaon veh ku yi , sa nyin-gha cian=veh=ku geh-gheh tshah=lau 
+491.wav|zaon=thaon1 tsy tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+492.wav|siau=tsan zoh=nyih tsy tiau zah ih-diau du-ng , ngu tiau veh zah=ng 
+493.wav|non bin=zan chih=shian1=i1 va ? ngu veh chih-gheh 
+494.wav|non theh yi kaon-ku dih=tsaon zy=thi va ? ngu theh yi kaon-ku a teh 
+495.wav|non chih=ve ghe-zy chih moe=deu 
+496.wav|non tau=ti tah=in yi veh 'la 
+497.wav|ciau siau-jian ih=dau chi=di in=yoe khoe1  liu se1-tsia  dih=bu di in yi khoe1 ku a teh 
+498.wav|non 'ne uoe da ih da 
+499.wav|yi 'ne ciuih=tsy bi poh hau-a teh , yi tau meh chih 
+5.wav|non tau=ti tah=in yi veh 'la 
+50.wav|non bin=zan shian1=i1 a1 chih-gheh ? ngu zon-le veh chih-gheh 
+500.wav|yi la 'ne ciau1=seh ze=tsaon hau khon1-diau a teh 
+501.wav|mau=tsy peh fon-tshyu1 theh a teh 
+502.wav|tsan=min peh wa-nyin tshian=theh ih tsah1 pau1 , nyin-gha the1-pe1 ih=nge=nge peh nyin-ka1 tan=saon 
+503.wav|ziu=iau1 loh=yu 'leh , na veh=iau1 tsheh-chi teh 
+504.wav|mau=cin1 oh=tshoh le , gue theh yi 
+505.wav|nyi leh lah tsho-ze ma-gheh tsho-phiau 
+506.wav|zian=pih laon=thih zah ih tsah1 di=du 
+507.wav|zaon laon=shian khuen zah ih-ku lau-nyin 
+508.wav|wu=pan1 li yeu=zah ciau1-kue siau=ng 
+509.wav|zi=deu tseu ku=le ih-ku phaon-ten1=ten1 geh siau 'noe-'noe=deu 
+51.wav|non  a1=tsen1  theh yi kaon-ku dih=tsaon zy=thi ? zy-ku , ngu theh yi kaon-ku tse1 
+510.wav|yi la oh=li ih=ci=deu si=theh se1 tsah1 tsyu1=lu 
+511.wav|dih=bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi 
+512.wav|ghoh-san1-tsy tshen-tsho tsy tshen=zah lian-nyih thi1-a teh 
+513.wav|non chih chih khoe1 yi tsu lah ti=sin1 tse tseu=meh teh 
+514.wav|non lah tshaon sa ? ngu meh tshaon , ngu=lah=faon loh=in1 
+515.wav|ngu chih=ku thu=tsy nyoh a teh , non chih=ku va ? meh , meh , meh , ngu meh chih=ku 
+516.wav|ngu da ku=yoh teh , cin1=tsau1 veh tan=le=jiu zah 
+517.wav|ngu soe='leh tha=khua a teh , soe tshu=theh a teh , nyan ngu tse zon=sin1 soe ih-pi 
+518.wav|yi ih khe=sin1 ziu tshaon=chi=ku1 le=teh 
+519.wav|sa-nyin kaon=kaon lah=cian ngu 'lau-sy a 
+52.wav|non chih=ve nyi ghe-zy chih moe=deu 
+520.wav|tseh1 sia-zah ih=poe , ghe-iau1 sia gho-chi a le 
+521.wav|non tseh1 chih=ih uoe ve , tse=thi1 ih=uoe ve 
+522.wav|nyan siau=noe si1=tseu , non 'ne tsoe=le hau=hau ciau-ku tse khoe1=ih-pi 
+523.wav|yi lah di zy ci1 zi khoe1=fah khoe1=fah khuen=chi teh 
+524.wav|non soe=soe=khoe1 , dih=ti tshau=phiau yeu-mo 
+525.wav|'lau-sy peh=non pen ya=gheu=geh syu va 
+526.wav|i1=geh ma yah=geh phi zah yi ih=tshi1 khue le 
+527.wav|ngu zaon-ku ghau=deu tsia yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
+528.wav|waon=si1-san1 geh tau1 khe=teh me-hau geh .  waon=si1-san1 geh tau1 khe=teh me-hau geh 
+529.wav|ngu veh hau kua bih-nyin-ka1 , tseh1=hau kua zy-cia1 
+53.wav|non tau=ti a1 tah=in yi 
+530.wav|men-tsau1 waon=cin li-we le kon1=sy1 va ? ngu khoe1 yi veh-we teh=le teh 
+531.wav|nyi yon sa=geh ciu=zon noe-cin1 tsau1 geh=tah yuin ka1 jiu 
+532.wav|yi zian-ku san1-bin=nyin ih=yan khau=lah so1-fah laon shian-zah 
+533.wav|geh-nen-ka tsu-san1-weh li siau-hu=tsy gha chih=veh=siau1 geh 
+534.wav|yi thiau-zaon meh pe1-tsho tseu-a teh , ngu e=theh ih=bu , tseh1=hau zy-cia1 me=me nen=geh tseu tau ghoh-daon-li=chi 
+535.wav|dih-gheh zy sa-nyin sia=lah=geh=sy ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh yi zeh khue yan=di 
+536.wav|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh jiu=jiu sia=lah=geh 
+537.wav|non pi-ngu tsan , yi pi non-we iau1=tsan 
+538.wav|lau=waon theh=lau=tsan ih=yan tsan 
+539.wav|ngu tseu teh , na lian-ka1-deu tse zu theh ih=shih 
+54.wav|he siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  . dih tseh1=di in yi khoe1 ku tse1 
+540.wav|ngu-kaon veh ku yi , sa nyin-gha cian=veh=ku dih-gheh meh-zy 
+541.wav|zaon=thaon1 tseh1 ma zah ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+542.wav|siau=tsan zoh=nyih tiau 'leh ih-diau du-ng , ngu=meh meh tiau zah 
+543.wav| non bin=zan chih=shian1=i1 va ? shian1=i1 non bin=zan chih va ?  ngu veh chih-gheh .   ngu veh-we chih 
+544.wav| geh tsaon zy=thi non-kaon peh yi thin-liau va ?  ngu-kaon peh yi thin-liau 
+545.wav|non chih=ve ghe-zy chih moe=deu 
+546.wav|non tau=ti tah=veh tah=in yi ?  non tau=ti tah=veh tah=in yi 
+547.wav| ciau siau-jian ih=dau tau=di in=yoe khoe1  liu se1-tsia  .  dih tseh1=di in yi khoe1 ku-liau .   yi geh tseh1 di in khoe1 ku-liau 
+548.wav|non 'ne uoe da ih 
+549.wav|yi 'ne ciuih=tsy bi poh theh-liau , peh1-ku meh chih 
+55.wav|non 'ne uoe da ih da 
+550.wav|yi la lah he ciau1=seh li ze=tsaon hau lah khon1-diau 
+551.wav|mau=tsy peh fon-tshyu1 theh-liau 
+552.wav|tsan=min peh wa-nyin tshian theh-liau tseh1=pau1 , nyin-gha the1=pe=ih=nge=nge peh tan=saon theh 
+553.wav|loh=yu khua-liau , na viau tsheh-chi 'leh 
+554.wav|dih=diau mau=cin1 lau oh=tshoh 'leh , gue theh yi va 
+555.wav|a1-'la zy lah=he tsho-ze ma-gheh tsho-phiau 
+556.wav|zian=laon=shian thih=lah ih=tsan di=du 
+557.wav|zaon laon=shian khuen lah ih-ku lau-nyin 
+558.wav|wu=pan1 li=shian ciau1-kue siau=ng lah=he=yeu 
+559.wav|zi=deu tseu ku=le ih-ku boe=toh=toh geh noe=siau=noe 
+56.wav|yi 'ne ciuih=tsy bi poh=theh tse1 , peh1-ku fen chih-gheh 
+560.wav|yi la oh=li=shian lah=mah-san1=deu si theh-liau se1 tsah1 tsyu1=lu 
+561.wav|dih=bu tsho-tsy iau1 khe=tau kuaon=tseu1 chi-gheh 
+562.wav|ghoh-san1-tsy tshen chi-tsho tshen 'leh tsen=tsen lian-nyih thi1 'leh 
+563.wav|non chih nge yi tsu-ku ti=sin1 tse bau va 
+564.wav|non lah tshaon sa-meh-zy 
+565.wav| thu=tsy nyoh ngu=chih ku-ku , non chih=ku va ?  m-meh , ngu meh chih=ku .   ngu chih=ku thu=tsy nyoh=geh , non chih=ku va 
+566.wav|ngu da ku=yoh 'leh , cin1=tsau1 veh tan=le=jiu 'leh 
+567.wav|ngu soe='leh theh khua=soe tshu=theh 'leh , nyan ngu tse zon=sin1 soe ih-pi 
+568.wav|yi ih khe=sin1 ziu tshaon=chi=ku1 le 'leh 
+569.wav|kaon=kaon sa-nyin lah=lah=nyi=len a1-'la 'lau-sy a 
+57.wav|yi deh khu=daon li thoh tsaon=tse1 khon1-diau tse1 
+570.wav|tseh1 sia-liau ih=poe , ghe-iau1 sia gho-chi 
+571.wav|non tseh1 chih-liau ih=uoe ve , tse=chih ih=uoe va 
+572.wav|nyan siau-nyin si1=tseu , non tse 'ne tsoe=le hau=hau=ciau khoe1=ih-pi 
+573.wav|yi lah lah di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah 'leh 
+574.wav|non soe=soe=khoe1 , dih-nge tshau=phiau keu=veh=keu yon a 
+575.wav|'lau-sy peh 'leh non ih=pen lau=gheu lau=gheu=geh syu va 
+576.wav|e1-gheh ma=yah=geh phi theh-liau yi ih=tshi1 khue yan=di le 
+577.wav|ngu zaon-ku ghau=deu tsia-liau yi se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
+578.wav|waon=si1-san1 khe=tau1 khe-liau lau-hau-gheh . waon=si1-san1 geh tau1 khe-liau lau-hau-gheh 
+579.wav|ngu veh hau kua nyin-ka1=geh , tseh1=hau kua zy-cia1 
+58.wav|mau=tsy peh fon-tshyu1 theh=tse1 
+580.wav|men-tsau1 waon=si1-san1 we=tau kon1=sy1 le va ? ngu khoe1 yi veh-we le 
+581.wav|a1-'la 'ne sa=geh tsho-tsy zon noe-cin1 tsau1 geh=tah yuin ka1-san1 
+582.wav|yi zian geh san1-bin=nyin ih-yan-gheh ge lah so1-fah laon 
+583.wav|dih nen=cia tsu-san1-weh , li=teh siau=tshin1=nyi gha chih=lih sah theh-liau 
+584.wav|yi tau tshen 'leh meh pe1-tsho tseu theh-liau . ngu e=theh ih=bu , tseh1=hau zy-cia1 me-me-ciau tseu we=tau ghoh-daon chi-'leh 
+585.wav|dih zy sa-nyin sia-ku sy ? sa-nyin tshe1=tsheh le , ngu ziu tsian=li sa-nyin zeh=khue yan=di 
+586.wav|ngu peh non-ku syu zy a1-'la nyan=jiu sia geh , yi lah he tson1-ghoh kau1-syu 
+587.wav|non pi-ngu tsan , yi pi non-we iau1=tsan 
+588.wav|lau=waon tah lau=tsan ih=yan tsan 
+589.wav|ngu tseu-liau , na lian-ka1-deu tse tu1 zu theh ih=shih 
+59.wav|tsan=min tseh1 pau1=peh=leh wa-nyin tshian=theh tse1 , nyin-gha the1-pe1 ih=nge=nge peh yi tan saon 
+590.wav|ngu-kaon veh ku yi , sa-nyin ze-kaon veh ku yi dih-gheh ban=yeu .  ngu-kaon yi veh ku , sa-nyin ze-kaon veh ku yi dih-gheh ban=yeu 
+591.wav|zaon=thaon1 tseh1 ma-liau ih=pen syu , cin1=tsau1 iau1 tu1 ma ci=pen 
+6.wav|he siau-jian ih=dau tau=di in=yoe chi-khoe1  liu se1-tsia  . yi dih=bu di=in khoe1 ku-liau 
+60.wav|mo-zaon iau1 loh=yu khua tse1 , r deh viau tsheh-chi tse1 
+61.wav|dih=diau mau=cin1 oh=tshoh theu oh=tshoh theu , toh theh yi va 
+62.wav|ngu=nyi zy=leh=deh tsho-ze yi tah ma-gheh tsho-phiau 
+63.wav|pih=ciah laon=thih leh ih=tsan di=du 
+64.wav|zaon laon khuen tse1 ih-ku lau nyi=ci nyin 
+65.wav|wu=pan1 li yeu ciau1-kue siau=mau ng=leh deh=yeu=le yeu-chi 
+66.wav|zi=deu bau ku=le ih-ku boe=theu boe=theu=geh noe=noe=deu 
+67.wav|yi deh oh=li ih=zaon laon=si theh-liau se1 tsah1 tsyu1=lu 
+68.wav|di=bu chi-tsho iau1 khe=tau kuaon=tseu1 chi-tse1 
+69.wav|di=ba ghoh-san1 tse1 zu-tsho tsy zu tse1 lian-nyih lian=ya 
+7.wav|non 'ne geh=ti uoe=tse da ih da 
+70.wav|non chih chih khoe1 yi tsu-ku ti=sin1 ghe=bau va 
+71.wav|non leh deh=tshaon sa-meh-zy a ? ngu=veh=leh=laon tshaon , ngu=leh=laon=faon loh=in1 a 
+72.wav|ngu chih=ku thu=tsy nyoh=geh , non  a1=tsen1  chih=ku shih ? fen a , ngu fen chih=ku 
+73.wav|ngu=yoh gha da hau tse1 , cin1=tsau1 le=jiu veh tan tse1 
+74.wav|ngu soe=teh theh khua tse1 ne=soe tshu-theh-tse1 , nyan ngu zon=sin1 soe ih=thaon1 
+75.wav|yi ih khe=sin1 ziu=iau1 tshaon=ku1 tse1 
+76.wav|sa-nyin kaon=kaon leh=laon=cian nyi 'lau-sy 
+77.wav|kaon=kaon sia=tse1 ih=poe 'leh , ghe-iau1 sia gho-chi 
+78.wav|non kaon=kaon chih tse1 ih=uoe ve , ghe chih=ih uoe va 
+79.wav|nyan paon siau=noe si1=tseu , non tse 'ne tsoe=le=geh meh-zy tsy1-si geh khoe1=ih-pi 
+8.wav|yi 'ne ciuih=tsy bi poh theh-liau , peh1-ku yi m-meh chih 
+80.wav|yi leh di zy ci1 zi=deu khoe1=fah khoe1=fah khuen zah tse1 
+81.wav|non soe=soe=khoe1 , di=ti tshau=phiau a1=keu zyu yon 
+82.wav|'lau-sy peh 'leh non ih=pen gheu theu=gheu theu=geh syu , a1=zy 
+83.wav|yi geh ma yah geh phi-liau yi ih=tshi1 khue yan=di 
+84.wav|ngu zaon-ku ghau=deu tau yi laon tsia tse1 se1=pah khue yan=di . ngu zaon-ku ghau=deu tsia peh yi se1=pah khue yan=di 
+85.wav|waon=si1-san1 geh tau1 khe=teh me-hau geh 
+86.wav|ngu veh hau kua nyin-ka1 , tseh1=hau kua zy-cia1 
+87.wav|men-tsau1 waon=cin=li a1 we-teh le kon1=sy1 ? ngu khoe1 yi veh-we le-ku 
+88.wav|ngu=nyi yon sa=geh tsho-tsy zon noe-cin1 tau dih=laon tsaon ka1 jiu nyi 
+89.wav|yi zian bin-nyin ih-yan-gheh ge leh tseh1 so1-fah laon 
+9.wav|yi la ciau1=seh li ze=tsaon hau 'leh khon1-diau 
+90.wav|tsu di=geh san1=weh li siau-hu=tsy gha thoh=we sa1-du sah=geh 
+91.wav|yi thiau-zaon meh pe1-tsho bau tse1 . ngu e=tau tse1 ih=ciah , zy-cia1 tseh1=hau me=me nen bau tau ghoh-daon-li 'leh 
+92.wav|dih=seu=sy sa-nyin sia-ku ? sa-nyin tshe1=tsheh le=ngu ziu=tsian peh sa-nyin zeh=khue yan=di 
+93.wav|ngu peh non-ku syu zy ngu ciau1 tson1-ghoh geh nyan=jiu sia-ku 
+94.wav|non pi-ngu kau1 , yi pi non-we iau1 kau1 
+95.wav|lau=waon theh=leh lau=tsan ih=yan kau1 
+96.wav|ngu bau tse1 , non deh lian-ku ghe=tu1 zu ih=shih 
+97.wav|ngu-kaon veh ku yi , sa nyin-gha thoh cian=veh=ku dih-gheh ka1=hu 
+98.wav|zaon=thaon1 ngu tseh1 ma-liau ih=pen syu , cin1=tsau1 ngu sian tu1 ma lian=pen 
+99.wav|zoh=nyih siau=tsan tiau zah ih-diau du-ng , ngu m-meh tiau=zah 

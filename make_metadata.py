@@ -15,4 +15,4 @@ for folder in data_folders:
             transcription = sub("\w\.", "", txt.read_text())
             transcription = sub("伊", "佢", transcription)
             romanised = romanise_sentence(transcription)
-            f.write(f"{wav.stem}|{romanised}\n")
+            f.write(f"{wav.name}|{romanised}\n")
