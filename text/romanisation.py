@@ -53,6 +53,7 @@ def romanise_sentence(text: str) -> str:
             b = ""
         else:
             b += r
+    split_raw_romanisation.append(b)
 
     # raw_romanisation is of format: r1-r2 r3=r4 (chars might be separated by space, hyphen or equal sign); need to align these with chars in original text
     corresponding_chars: list[tuple[str, str]] = []
