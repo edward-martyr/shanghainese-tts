@@ -18,6 +18,22 @@ romanisations: dict[str, str | None] = {}
 for word, romanisation_dict in raw_dict.items():
     romanisations[word] = max(romanisation_dict, key=romanisation_dict.get)
 
-romanisations = romanisations | {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "；": ";", "：": ":"}
+romanisations = romanisations | {
+    "，": ",",
+    "。": ".",
+    "？": "?",
+    "！": "!",
+    "、": ",",
+    "；": ";",
+    "：": ":",
+    "“": '"',
+    "”": '"',
+    "‘": "'",
+    "’": "'",
+    "（": "(",
+    "）": ")",
+    "《": "<",
+    "》": ">",
+}
 
 __all__ = ["romanisations"]
