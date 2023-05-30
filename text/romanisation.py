@@ -1,4 +1,4 @@
-from re import split
+from re import sub
 
 from Qieyun.韻書和韻圖 import 字頭2音韻地位_出處們
 
@@ -39,7 +39,45 @@ def raw_romanise_sentence(text: str) -> str:
     return " ".join(romanise_word(word) for word in words)
 
 
-def romanise_sentence(text: str) -> str:
+def romanisation_to_ipa(text: str) -> str:
+    text = sub("syu", "sy", text)
+
+    text = sub("gh", "ɦ", text)
+    text = sub("sh", "ɕ", text)
+
+    text = sub("h$", "ʔ", text)
+    text = sub("eʔ$", "əʔ", text)
+    text = sub("iʔ$", "ɪʔ", text)
+    text = sub("aʔ$", "ɐʔ", text)
+    text = sub(r"(.)h", r"\1ʰ", text)
+
+    text = sub("eu$", "ɤ", text)
+    text = sub("au$", "ɔ", text)
+
+    text = sub("^ny", "ɲi", text)
+    text = sub("yu", "y", text)
+    text = sub("y$", "z", text)
+    text = sub("^y", "ɦi", text)
+    text = sub("ii", "i", text)
+    text = sub("iu", "y", text)
+    # text = sub(r"ɲi([^nʔ])", r"ɲ\1", text)
+
+    text = sub("ao", "ɑ", text)
+    text = sub("on$", "oŋ", text)
+    text = sub("in$", "ɪɲ", text)
+    text = sub("en$", "əŋ", text)
+    text = sub("a$", "ɑ", text)
+    text = sub("n$", "̃", text)
+
+    text = sub("j", "ɟ", text)
+    text = sub("ts", "ʦ", text)
+    text = sub("ng", "ŋ", text)
+    text = sub("oe", "ø", text)
+    text = sub(r"(.)u(.)", r"\1ʷ\2", text)
+    return text
+
+
+def romanise_sentence(text: str, use_ipa=True) -> str:
     """Romanise a sentence with tone."""
     raw_romanisation = raw_romanise_sentence(text)
     # split_raw_romanisation = split(r"([ -=])", raw_romanisation)
@@ -68,6 +106,8 @@ def romanise_sentence(text: str) -> str:
     # add tone number
     romanisation = ""
     for char, romanised_char in corresponding_chars:
+        if use_ipa:
+            romanised_char = romanisation_to_ipa(romanised_char)
         if char and is_清母_and_平聲(char):
             romanisation += f"{romanised_char}1"
         else:

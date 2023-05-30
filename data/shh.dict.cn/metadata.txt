@@ -1,2012 +1,2012 @@
-1.wav|ngu lau-hau-gheh , non-nyi ?
-10.wav|'ne pa-pa 'ma='ma nyi ,  yi la hau vah ?
-100.wav|non-ku ci=nyi , ngu we tih nyin=tsen1 khau=liu geh .
-1000.wav|zaon-he-ghe-gho
-1001.wav|waon-phu-kaon1
-1002.wav|su=tseu1=wu
-1003.wav|zy=thi
-1004.wav|meh-zy
-1005.wav|bah=sian1
-1006.wav|tan=ban
-1007.wav|gah-ban-yeu
-1008.wav|tsheh=yan=sian1
-1009.wav|'lin veh tshin1
-101.wav|zia=zia=non geh iau1 tshin .
-1010.wav|dau=tsian=wu
-1011.wav|au zau=yin
+1.wav|ŋu lɔ-hɔ-ɦəʔ , noŋ-ɲi ?
+10.wav|'ne pɑ-pɑ 'mɑ='mɑ ɲi ,  ɦi lɑ hɔ vɐʔ ?
+100.wav|noŋ-ku ci=ɲi , ŋu we tɪʔ ɲɪɲ=ʦəŋ1 kʰɔ=ly gəʔ .
+1000.wav|zɑ̃-he-ɦe-ɦo
+1001.wav|wɑ̃-pʰu-kɑ̃1
+1002.wav|su=ʦɤ1=wu
+1003.wav|zz=tʰi
+1004.wav|məʔ-zz
+1005.wav|bɐʔ=siã1
+1006.wav|tã=bã
+1007.wav|gɐʔ-bã-ɦiɤ
+1008.wav|tɕəʔ=ɦiã=siã1
+1009.wav|'lɪɲ vəʔ tɕɪɲ1
+101.wav|ziɑ=ziɑ=noŋ gəʔ iɔ1 tɕɪɲ .
+1010.wav|dɔ=ʦiã=wu
+1011.wav|ɔ zɔ=ɦɪɲ
 1012.wav|ge
-1013.wav|khaon
-1014.wav|in
-1015.wav|tia
-1016.wav|wah-ci1
-1017.wav|seh=i
-1018.wav|tih=lih=kuen=yoe
-1019.wav|lau=se1=lau=sy
-102.wav|zia=zia=non geh ku=li .
-1020.wav|ngu
-1021.wav|a1-'la
-1022.wav|non
-1023.wav| nyin 'na 
-1024.wav|yi
-1025.wav|yi la
-1026.wav|geh-gheh
-1027.wav|dih-gheh
-1028.wav|e1=geh
-1029.wav|yi geh
-103.wav|zia=zia=non geh tsoh-foh .
-1030.wav|geh=tah
+1013.wav|kʰɑ̃
+1014.wav|ɪɲ
+1015.wav|tiɑ
+1016.wav|wɐʔ-ci1
+1017.wav|səʔ=i
+1018.wav|tɪʔ=lɪʔ=kʷəŋ=ɦiø
+1019.wav|lɔ=se1=lɔ=sz
+102.wav|ziɑ=ziɑ=noŋ gəʔ ku=li .
+1020.wav|ŋu
+1021.wav|ɑ1-'lɑ
+1022.wav|noŋ
+1023.wav| ɲɪɲ 'nɑ 
+1024.wav|ɦi
+1025.wav|ɦi lɑ
+1026.wav|gəʔ-ɦəʔ
+1027.wav|dɪʔ-ɦəʔ
+1028.wav|e1=gəʔ
+1029.wav|ɦi gəʔ
+103.wav|ziɑ=ziɑ=noŋ gəʔ ʦoʔ-foʔ .
+1030.wav|gəʔ=tɐʔ
 1031.wav|e1=mi
-1032.wav|geh-nen
-1033.wav|e1=nen
-1034.wav|cia
-1035.wav|peh
-1036.wav|veh
-1037.wav|m-meh
-1038.wav|lau
-1039.wav|zia-chi
-104.wav|zia=zia=non geh tsy=dau .
-1040.wav|ciau1-kue
+1032.wav|gəʔ-nəŋ
+1033.wav|e1=nəŋ
+1034.wav|ciɑ
+1035.wav|pəʔ
+1036.wav|vəʔ
+1037.wav|m-məʔ
+1038.wav|lɔ
+1039.wav|ziɑ-cʰi
+104.wav|ziɑ=ziɑ=noŋ gəʔ ʦz=dɔ .
+1040.wav|ciɔ1-kʷe
 1041.wav|ze
-1042.wav|lah=lah
-1043.wav|keh-lau
-1044.wav| laon
-1045.wav|li=shian
-1046.wav|sa
-1047.wav|sa-nyin
-1048.wav|theh
-1049.wav|geh
-105.wav|zia=zia=non geh li-veh .
-1050.wav|lau
-1051.wav|vah
+1042.wav|lɐʔ=lɐʔ
+1043.wav|kəʔ-lɔ
+1044.wav| lɑ̃
+1045.wav|li=ɕiã
+1046.wav|sɑ
+1047.wav|sɑ-ɲɪɲ
+1048.wav|tʰəʔ
+1049.wav|gəʔ
+105.wav|ziɑ=ziɑ=noŋ gəʔ li-vəʔ .
+1050.wav|lɔ
+1051.wav|vɐʔ
 1052.wav|le
-1053.wav|pen=di=nyin
-1054.wav|nga=di=nyin
-1055.wav|shian-gho-nyin
-1056.wav|tsen laon-nyin
-1057.wav|zen=li=nyin
-1058.wav|nga shian-nyin
-1059.wav|nga-lu-nyin
-106.wav|theh=lin 'leh , zia=zia=non .
-1060.wav|nga=kueh-nyin
-1061.wav|nga-deu-nyin
-1062.wav|yan-nyin
-1063.wav|lau=nga
-1064.wav|gho-jiau
-1065.wav|he=kue
-1066.wav|kaon1-poh=nyin
-1067.wav|su-poh=nyin
-1068.wav|ton=yan-nyin
-1069.wav|mah-san1=nyin
-107.wav|vah iau1 khah=chi .
-1070.wav|san1 nyin-deu
-1071.wav|sen1-khah
-1072.wav|zoh=khah
-1073.wav|zoh-nyin
-1074.wav|ban=yeu
-1075.wav|lau=ban=yeu
-1076.wav|siau=ban=yeu
-1077.wav|don-ghaon
-1078.wav|don=nyi
-1079.wav|tsyu-nyin-ka1
-108.wav|vah iau1 zia , ngu a huoe=shi geh .
-1080.wav|khah-nyin
-1081.wav|pen-nyin
-1082.wav|zy-ka1-nyin
-1083.wav|nyin-ka1 nyin
-1084.wav|lin=ciu1
-1085.wav|jin=lin
-1086.wav|ka1-faon
-1087.wav|vaon=khah
-1088.wav|vaon=ton
-1089.wav|noe-nyin-ka1
-109.wav|tse ih=tshy piau=zy koe-zia .
-1090.wav|nyu-nyin-ka1
-1091.wav|noe-gheh
-1092.wav|nyu-gheh
-1093.wav|si1-san1
-1094.wav|lau=kon1=kon1
-1095.wav|lau=deu=tsy
-1096.wav|lau=tha=tha
-1097.wav|lau=tha=bu
-1098.wav|thu=yeu=bin
-1099.wav|sau=ya
-11.wav|yi la me-hau , lau-hau-gheh !
-110.wav|non cin1=tsau1 gho-poe-thi1 yeu-zen-kuaon1 vah ?
-1100.wav|lau=ya
-1101.wav|sy-vu
-1102.wav|sy='mu
-1103.wav|ne-ghaon
-1104.wav|nga-ghaon
-1105.wav|doh=syu=nyin
-1106.wav|shiau-tsy
-1107.wav|du-lau kuoe1
-1108.wav|eu=bo1=saon1
-1109.wav|tsiu=nyoh=ban=yeu
-111.wav|ngu sian tshin non-chi tshoe-kuoe khu1=ji kuoe .
-1110.wav|siau=tsy
-1111.wav|siau=khe
-1112.wav|zaon=sy1
-1113.wav|tin=deu-laon=sy1
-1114.wav|deu=deu
-1115.wav|tsyu-zen
-1116.wav|lau pe
-1117.wav|lau pe nyan
-1118.wav|du-lau-pe
-1119.wav|cin=li
-112.wav|vah hau=i-sy1 , ngu cin1=tsau1 gho-poe-thi1 meh zen-kuaon1 .
-1120.wav|kon1=deu
-1121.wav|ke-kon1
-1122.wav|tshan=tsan
-1123.wav|kon1=zen sy
-1124.wav|ji-zeh nyin-yoe
-1125.wav|kue-ci
-1126.wav|tsheh=nah
-1127.wav|tsu-tsan
-1128.wav|ci=nyi=yoe
-1129.wav|taon-tson1-nyin
-113.wav|non men-tsau1 yeu=khon1 vah ?
-1130.wav|tson1-ka
-1131.wav|lah=deu
-1132.wav|ne-jin
-1133.wav|nga=jin
-1134.wav|tshe=keu=yoe
+1053.wav|pəŋ=di=ɲɪɲ
+1054.wav|ŋɑ=di=ɲɪɲ
+1055.wav|ɕiã-ɦo-ɲɪɲ
+1056.wav|ʦəŋ lɑ̃-ɲɪɲ
+1057.wav|zəŋ=li=ɲɪɲ
+1058.wav|ŋɑ ɕiã-ɲɪɲ
+1059.wav|ŋɑ-lu-ɲɪɲ
+106.wav|tʰəʔ=lɪɲ 'ləʔ , ziɑ=ziɑ=noŋ .
+1060.wav|ŋɑ=kʷəʔ-ɲɪɲ
+1061.wav|ŋɑ-dɤ-ɲɪɲ
+1062.wav|ɦiã-ɲɪɲ
+1063.wav|lɔ=ŋɑ
+1064.wav|ɦo-ɟiɔ
+1065.wav|he=kʷe
+1066.wav|kɑ̃1-poʔ=ɲɪɲ
+1067.wav|su-poʔ=ɲɪɲ
+1068.wav|toŋ=ɦiã-ɲɪɲ
+1069.wav|mɐʔ-sã1=ɲɪɲ
+107.wav|vɐʔ iɔ1 kʰɐʔ=cʰi .
+1070.wav|sã1 ɲɪɲ-dɤ
+1071.wav|səŋ1-kʰɐʔ
+1072.wav|zoʔ=kʰɐʔ
+1073.wav|zoʔ-ɲɪɲ
+1074.wav|bã=ɦiɤ
+1075.wav|lɔ=bã=ɦiɤ
+1076.wav|siɔ=bã=ɦiɤ
+1077.wav|doŋ-ɦɑ̃
+1078.wav|doŋ=ɲi
+1079.wav|ʦz-ɲɪɲ-kɑ1
+108.wav|vɐʔ iɔ1 ziɑ , ŋu ɑ hʷø=ɕi gəʔ .
+1080.wav|kʰɐʔ-ɲɪɲ
+1081.wav|pəŋ-ɲɪɲ
+1082.wav|zz-kɑ1-ɲɪɲ
+1083.wav|ɲɪɲ-kɑ1 ɲɪɲ
+1084.wav|lɪɲ=cy1
+1085.wav|ɟɪɲ=lɪɲ
+1086.wav|kɑ1-fɑ̃
+1087.wav|vɑ̃=kʰɐʔ
+1088.wav|vɑ̃=toŋ
+1089.wav|nø-ɲɪɲ-kɑ1
+109.wav|ʦe ɪʔ=tɕz piɔ=zz kø-ziɑ .
+1090.wav|ɲy-ɲɪɲ-kɑ1
+1091.wav|nø-ɦəʔ
+1092.wav|ɲy-ɦəʔ
+1093.wav|si1-sã1
+1094.wav|lɔ=koŋ1=koŋ1
+1095.wav|lɔ=dɤ=ʦz
+1096.wav|lɔ=tʰɑ=tʰɑ
+1097.wav|lɔ=tʰɑ=bu
+1098.wav|tʰu=ɦiɤ=bɪɲ
+1099.wav|sɔ=ɦiɑ
+11.wav|ɦi lɑ me-hɔ , lɔ-hɔ-ɦəʔ !
+110.wav|noŋ cɪɲ1=ʦɔ1 ɦo-pø-tʰi1 ɦiɤ-zəŋ-kʷɑ̃1 vɐʔ ?
+1100.wav|lɔ=ɦiɑ
+1101.wav|sz-vu
+1102.wav|sz='mu
+1103.wav|ne-ɦɑ̃
+1104.wav|ŋɑ-ɦɑ̃
+1105.wav|doʔ=sz=ɲɪɲ
+1106.wav|ɕiɔ-ʦz
+1107.wav|du-lɔ kʷø1
+1108.wav|ɤ=bo1=sɑ̃1
+1109.wav|ʦy=ɲioʔ=bã=ɦiɤ
+111.wav|ŋu siã tɕɪɲ noŋ-cʰi tɕø-kʷø kʰu1=ɟi kʷø .
+1110.wav|siɔ=ʦz
+1111.wav|siɔ=kʰe
+1112.wav|zɑ̃=sz1
+1113.wav|tɪɲ=dɤ-lɑ̃=sz1
+1114.wav|dɤ=dɤ
+1115.wav|ʦz-zəŋ
+1116.wav|lɔ pe
+1117.wav|lɔ pe ɲiã
+1118.wav|du-lɔ-pe
+1119.wav|cɪɲ=li
+112.wav|vɐʔ hɔ=i-sz1 , ŋu cɪɲ1=ʦɔ1 ɦo-pø-tʰi1 məʔ zəŋ-kʷɑ̃1 .
+1120.wav|koŋ1=dɤ
+1121.wav|ke-koŋ1
+1122.wav|tɕã=ʦã
+1123.wav|koŋ1=zəŋ sz
+1124.wav|ɟi-zəʔ ɲɪɲ-ɦiø
+1125.wav|kʷe-ci
+1126.wav|tɕəʔ=nɐʔ
+1127.wav|ʦu-ʦã
+1128.wav|ci=ɲi=ɦiø
+1129.wav|tɑ̃-ʦoŋ1-ɲɪɲ
+113.wav|noŋ məŋ-ʦɔ1 ɦiɤ=kʰoŋ1 vɐʔ ?
+1130.wav|ʦoŋ1-kɑ
+1131.wav|lɐʔ=dɤ
+1132.wav|ne-ɟɪɲ
+1133.wav|ŋɑ=ɟɪɲ
+1134.wav|tɕe=kɤ=ɦiø
 1135.wav|hu-ci
-1136.wav|kon1-nyin
-1137.wav|siau=kon1
-1138.wav|lin=kon1
-1139.wav|min=kon1
-114.wav|kah=tseu1=meh yeu=khon1 vah ?
-1140.wav|zaon=seu
-1141.wav|gho-seu
-1142.wav|paon=seu
-1143.wav|yon-nyin
-1144.wav|boh-nyin
-1145.wav|pau-mu
-1146.wav|tson=ti=kon1
-1147.wav|o1-deu
-1148.wav|ghoh-san1-i
-1149.wav|the=fe
-115.wav|ngu sian=tau non oh=li khoe1=non .
-1150.wav|zyu=sy
-1151.wav|bau=daon
-1152.wav|men=vaon
-1153.wav|saon1-nyin
-1154.wav|san1-i=nyin
-1155.wav|tshin1=tshen1 ve
-1156.wav|vaon=tshe=saon1
-1157.wav|vaon=zon
-1158.wav|ti-yoe
-1159.wav|zeu=hu=yoe
-116.wav|da-ke vah le=se .
-1160.wav|lih-gue de geh
-1161.wav|ma-phiau-yoe
-1162.wav|zeu=phiau yoe
-1163.wav|tsen-nyin
-1164.wav|i-yoe
-1165.wav|di=in min=sin1
-1166.wav|i-san1
-1167.wav|wu=zy
-1168.wav|khoe1=wu
-1169.wav|pau=yoh yoe
-117.wav|bih-gheh zen-kuaon1 le=se vah ?
-1170.wav|kau1-syu-si1-san1
-1171.wav|non=min
-1172.wav|zan-kon1
-1173.wav|toe=kon1
-1174.wav|ci=tse
-1175.wav|lau=ci
-1176.wav|cin=tshah
-1177.wav|heh='mau
-1178.wav|lau='mau
-1179.wav|pau=piau
-118.wav|cin1=tsau1 ya=li ngu yeu=khon1 .
-1180.wav|yeu=di=yoe
-1181.wav|ka-sy=yoe
-1182.wav|sy1=ci1
-1183.wav|tsho-mu
-1184.wav|moh=zian
-1185.wav|moh=kon1
-1186.wav|tshin1=cih=kon1
-1187.wav|tshin1=dau=fu
-1188.wav|ciah=seh
-1189.wav|mo=tsy
-119.wav|hau-ku , cin1=tsau1 ya=tau a1-'la ih=dau chi-khoe1 di=in .
-1190.wav|mu=tsy
-1191.wav|lau=zeh nyin
-1192.wav|lau=hau-nyin
-1193.wav|min=bah-nyin
-1194.wav|hau=hau=si1-san1
-1195.wav|lau=fah=sy
-1196.wav|lau kheh-'la
-1197.wav|dah-nyin
-1198.wav|lau=seu
-1199.wav|ngan=deu
-12.wav|siau=nyin hau=vah ?
-120.wav|chi-gheh zen-kuaon1 ciau=waon=li ih=dau .
-1200.wav|jian-nyin
-1201.wav|iau1-nyin
-1202.wav|fi=nyin
-1203.wav|iau1=kua
-1204.wav|cin1=lin
-1205.wav|waon=lau=ng
-1206.wav|bah=kueh=tsin1
-1207.wav|maon=zon
-1208.wav|di-khuoe ci1
-1209.wav|ho1=ho1=kon1=tsy
-121.wav|a1-'la 'leh he a1-li tih ban=deu ?
-1210.wav|ah1-fi
-1211.wav|phin1=deu
-1212.wav|zin-nyin
-1213.wav|siau lau=kon1
-1214.wav|ya=ci
-1215.wav|phi=tsin1
-1216.wav|di=deu zo
-1217.wav|phi=tsy
-1218.wav|kua tsy
-1219.wav|pih=se1
-122.wav|non sa-zen-kuaon1 faon=bi ?
-1220.wav|jian-dau
-1221.wav|siau=theu1
-1222.wav|se1=tsah1=seu
-1223.wav|liu-maon
-1224.wav|ya=ya
-1225.wav|lau=tia1
-1226.wav|ah1-na
-1227.wav|nga=kon1
-1228.wav|nga=bu
-1229.wav|tha=tha
-123.wav|gho-poe-thi1  ti=tson na-nen ?
-1230.wav|ya=nyan
-1231.wav|pa-pa
-1232.wav|'m-'ma
-1233.wav|'ma='ma
-1234.wav|nyan
-1235.wav|ku=vaon=nyan
-1236.wav|kon1=bu
-1237.wav|kon1=kon1
+1136.wav|koŋ1-ɲɪɲ
+1137.wav|siɔ=koŋ1
+1138.wav|lɪɲ=koŋ1
+1139.wav|mɪɲ=koŋ1
+114.wav|kɐʔ=ʦɤ1=məʔ ɦiɤ=kʰoŋ1 vɐʔ ?
+1140.wav|zɑ̃=sɤ
+1141.wav|ɦo-sɤ
+1142.wav|pɑ̃=sɤ
+1143.wav|ɦioŋ-ɲɪɲ
+1144.wav|boʔ-ɲɪɲ
+1145.wav|pɔ-mu
+1146.wav|ʦoŋ=ti=koŋ1
+1147.wav|o1-dɤ
+1148.wav|ɦoʔ-sã1-i
+1149.wav|tʰe=fe
+115.wav|ŋu siã=tɔ noŋ oʔ=li kʰø1=noŋ .
+1150.wav|zz=sz
+1151.wav|bɔ=dɑ̃
+1152.wav|məŋ=vɑ̃
+1153.wav|sɑ̃1-ɲɪɲ
+1154.wav|sã1-i=ɲɪɲ
+1155.wav|tɕɪɲ1=tɕəŋ1 ve
+1156.wav|vɑ̃=tɕe=sɑ̃1
+1157.wav|vɑ̃=zoŋ
+1158.wav|ti-ɦiø
+1159.wav|zɤ=hu=ɦiø
+116.wav|dɑ-ke vɐʔ le=se .
+1160.wav|lɪʔ-gʷe de gəʔ
+1161.wav|mɑ-pʰiɔ-ɦiø
+1162.wav|zɤ=pʰiɔ ɦiø
+1163.wav|ʦəŋ-ɲɪɲ
+1164.wav|i-ɦiø
+1165.wav|di=ɪɲ mɪɲ=sɪɲ1
+1166.wav|i-sã1
+1167.wav|wu=zz
+1168.wav|kʰø1=wu
+1169.wav|pɔ=ɦioʔ ɦiø
+117.wav|bɪʔ-ɦəʔ zəŋ-kʷɑ̃1 le=se vɐʔ ?
+1170.wav|kɔ1-sz-si1-sã1
+1171.wav|noŋ=mɪɲ
+1172.wav|zã-koŋ1
+1173.wav|tø=koŋ1
+1174.wav|ci=ʦe
+1175.wav|lɔ=ci
+1176.wav|cɪɲ=tɕɐʔ
+1177.wav|həʔ='mɔ
+1178.wav|lɔ='mɔ
+1179.wav|pɔ=piɔ
+118.wav|cɪɲ1=ʦɔ1 ɦiɑ=li ŋu ɦiɤ=kʰoŋ1 .
+1180.wav|ɦiɤ=di=ɦiø
+1181.wav|kɑ-sz=ɦiø
+1182.wav|sz1=ci1
+1183.wav|tɕo-mu
+1184.wav|moʔ=ziã
+1185.wav|moʔ=koŋ1
+1186.wav|tɕɪɲ1=cɪʔ=koŋ1
+1187.wav|tɕɪɲ1=dɔ=fu
+1188.wav|ciɐʔ=səʔ
+1189.wav|mo=ʦz
+119.wav|hɔ-ku , cɪɲ1=ʦɔ1 ɦiɑ=tɔ ɑ1-'lɑ ɪʔ=dɔ cʰi-kʰø1 di=ɪɲ .
+1190.wav|mu=ʦz
+1191.wav|lɔ=zəʔ ɲɪɲ
+1192.wav|lɔ=hɔ-ɲɪɲ
+1193.wav|mɪɲ=bɐʔ-ɲɪɲ
+1194.wav|hɔ=hɔ=si1-sã1
+1195.wav|lɔ=fɐʔ=sz
+1196.wav|lɔ kʰəʔ-'lɑ
+1197.wav|dɐʔ-ɲɪɲ
+1198.wav|lɔ=sɤ
+1199.wav|ŋã=dɤ
+12.wav|siɔ=ɲɪɲ hɔ=vɐʔ ?
+120.wav|cʰi-ɦəʔ zəŋ-kʷɑ̃1 ciɔ=wɑ̃=li ɪʔ=dɔ .
+1200.wav|ɟiã-ɲɪɲ
+1201.wav|iɔ1-ɲɪɲ
+1202.wav|fi=ɲɪɲ
+1203.wav|iɔ1=kʷɑ
+1204.wav|cɪɲ1=lɪɲ
+1205.wav|wɑ̃=lɔ=ŋ
+1206.wav|bɐʔ=kʷəʔ=ʦɪɲ1
+1207.wav|mɑ̃=zoŋ
+1208.wav|di-kʰʷø ci1
+1209.wav|ho1=ho1=koŋ1=ʦz
+121.wav|ɑ1-'lɑ 'ləʔ he ɑ1-li tɪʔ bã=dɤ ?
+1210.wav|ɐʔ1-fi
+1211.wav|pʰɪɲ1=dɤ
+1212.wav|zɪɲ-ɲɪɲ
+1213.wav|siɔ lɔ=koŋ1
+1214.wav|ɦiɑ=ci
+1215.wav|pʰi=ʦɪɲ1
+1216.wav|di=dɤ zo
+1217.wav|pʰi=ʦz
+1218.wav|kʷɑ ʦz
+1219.wav|pɪʔ=se1
+122.wav|noŋ sɑ-zəŋ-kʷɑ̃1 fɑ̃=bi ?
+1220.wav|ɟiã-dɔ
+1221.wav|siɔ=tʰɤ1
+1222.wav|se1=ʦɐʔ1=sɤ
+1223.wav|ly-mɑ̃
+1224.wav|ɦiɑ=ɦiɑ
+1225.wav|lɔ=tiɑ1
+1226.wav|ɐʔ1-nɑ
+1227.wav|ŋɑ=koŋ1
+1228.wav|ŋɑ=bu
+1229.wav|tʰɑ=tʰɑ
+123.wav|ɦo-pø-tʰi1  ti=ʦoŋ nɑ-nəŋ ?
+1230.wav|ɦiɑ=ɲiã
+1231.wav|pɑ-pɑ
+1232.wav|'m-'mɑ
+1233.wav|'mɑ='mɑ
+1234.wav|ɲiã
+1235.wav|ku=vɑ̃=ɲiã
+1236.wav|koŋ1=bu
+1237.wav|koŋ1=koŋ1
 1238.wav|bu=bu
-1239.wav|a1-bu
-124.wav|di in=yoe , vah ci=vah=se .
-1240.wav|zan-nyin
-1241.wav|pah-pah
-1242.wav|da-pah
-1243.wav|soh=soh
-1244.wav|ya=soh
-1245.wav|soh=vu
+1239.wav|ɑ1-bu
+124.wav|di ɪɲ=ɦiø , vɐʔ ci=vɐʔ=se .
+1240.wav|zã-ɲɪɲ
+1241.wav|pɐʔ-pɐʔ
+1242.wav|dɑ-pɐʔ
+1243.wav|soʔ=soʔ
+1244.wav|ɦiɑ=soʔ
+1245.wav|soʔ=vu
 1246.wav|ku1=vu
-1247.wav|'nyan-'nyan
-1248.wav|ku1='ma
-1249.wav|yi='ma
-125.wav|waon li , ngu sian=tau non oh=li khoe1=khoe1 ciau .
-1250.wav|yi-fu
-1251.wav|ah1-yi
-1252.wav|nyan=jiu
-1253.wav|jiu=jiu
-1254.wav|jiu='ma
-1255.wav|fu-tshi1
-1256.wav|zan-fu
-1257.wav|lau=kon1
-1258.wav|noe-nyin
-1259.wav|tshi1=tsy
-126.wav|tshin ta=non si1-san1 ih=dau=le bah sian1=hau 'leh .
-1260.wav|lau=bu
-1261.wav|tha=tha
-1262.wav|fu-nyin
-1263.wav|nyu-nyin
-1264.wav|siau=lau=bu
+1247.wav|'nyã-'nyã
+1248.wav|ku1='mɑ
+1249.wav|ɦi='mɑ
+125.wav|wɑ̃ li , ŋu siã=tɔ noŋ oʔ=li kʰø1=kʰø1 ciɔ .
+1250.wav|ɦi-fu
+1251.wav|ɐʔ1-ɦi
+1252.wav|ɲiã=ɟy
+1253.wav|ɟy=ɟy
+1254.wav|ɟy='mɑ
+1255.wav|fu-tɕi1
+1256.wav|zã-fu
+1257.wav|lɔ=koŋ1
+1258.wav|nø-ɲɪɲ
+1259.wav|tɕi1=ʦz
+126.wav|tɕɪɲ tɑ=noŋ si1-sã1 ɪʔ=dɔ=le bɐʔ siã1=hɔ 'ləʔ .
+1260.wav|lɔ=bu
+1261.wav|tʰɑ=tʰɑ
+1262.wav|fu-ɲɪɲ
+1263.wav|ɲy-ɲɪɲ
+1264.wav|siɔ=lɔ=bu
 1265.wav|ku1=ku1
-1266.wav|a1-ku1
-1267.wav|ah1-sau
-1268.wav|sau=sau
-1269.wav|tsia-tsia
-127.wav|a1-'la oh=li sian1=geh nyin=ze huoe=nyin=non .
-1270.wav|ah1-tsia
-1271.wav|tsia-me
-1272.wav|tsy=me
-1273.wav|tsia-fu
-1274.wav|shion1-di
+1266.wav|ɑ1-ku1
+1267.wav|ɐʔ1-sɔ
+1268.wav|sɔ=sɔ
+1269.wav|ʦiɑ-ʦiɑ
+127.wav|ɑ1-'lɑ oʔ=li siã1=gəʔ ɲɪɲ=ze hʷø=ɲɪɲ=noŋ .
+1270.wav|ɐʔ1-ʦiɑ
+1271.wav|ʦiɑ-me
+1272.wav|ʦz=me
+1273.wav|ʦiɑ-fu
+1274.wav|ɕioŋ1-di
 1275.wav|di-di
-1276.wav|a1-di
-1277.wav|di-sin1-vu
+1276.wav|ɑ1-di
+1277.wav|di-sɪɲ1-vu
 1278.wav|me=me
-1279.wav|ah1-me
-128.wav|men-tsau1 zy ngu geh san1-nyih .
+1279.wav|ɐʔ1-me
+128.wav|məŋ-ʦɔ1 zz ŋu gəʔ sã1-ɲiɪʔ .
 1280.wav|me-fu
-1281.wav|taon=shion1
-1282.wav|daon-di
-1283.wav|daon=me
-1284.wav|piau=ku1
-1285.wav|piau=shion1
-1286.wav|piau-di
-1287.wav|piau=me
-1288.wav|tsy-nyu
-1289.wav|siau-nyin
-129.wav|ngu sian tshin=non tshoe-ka1 ngu geh san1-nyih ziu-we .
-1290.wav|siau=noe
-1291.wav|siau=po-shi
-1292.wav|siau=mau=deu
-1293.wav|kua1=noe
-1294.wav|ah1-'noe
-1295.wav|doh-yan-nyi-tsy
-1296.wav|r-tsy
-1297.wav|ku-vaon-nyi-tsy
-1298.wav|noe-ng
-1299.wav|ku=vaon=noe r
-13.wav|ih-pe , vah zy lau=hau .
-130.wav|non le hau vah ?
-1300.wav|sy1=san1-tsy
-1301.wav|sin1=vu
-1302.wav|nyu-si
-1303.wav|zaon-men-nyu-si
-1304.wav|mau=ciah
-1305.wav|zeh=tsy
-1306.wav|zeh=noe
-1307.wav|nga=san1
-1308.wav|nga-san1-noe
-1309.wav|sen-tsy
-131.wav|ngu fi1=zan kau1=shin tsih=zeu non-ku iau1=tshin .
-1310.wav|sen-noe
-1311.wav|sen-nyu
-1312.wav|sen-nyu=si
-1313.wav|tsen1-sen
-1314.wav|tsen1-sen=nyu
-1315.wav|he=pha
-1316.wav|tshaon=ku1
-1317.wav|min=ku1
-1318.wav|gheh-tshaon
-1319.wav|tshaon 
-132.wav|a1-'la chi=tshih noe=zian siau=lon hau=vah ?
-1320.wav|thiau-vu
-1321.wav|pa1-le=vu
-1322.wav|tseu-de
-1323.wav|seh-tshaon
-1324.wav|kaon=jin
-1325.wav|siau=di-jin
-1326.wav|sa kheh=sy1 fon
-1327.wav|ten=lon
-1328.wav|theh=kheu=siu
-1329.wav|tsu-shi
-133.wav|lan yi , lau lin-gheh .
-1330.wav|tshaon-shi
-1331.wav|wu=jih
-1332.wav|yuih=jih
-1333.wav|zau-shin-shi
-1334.wav|wah-ci1-shi
-1335.wav|tshaon-doh-ciah-shi
-1336.wav|bin=de
-1337.wav|seh-syu
-1338.wav|sih=jih
-1339.wav|khuen1=chioh
-134.wav|non hau me-hau geh .
-1340.wav|cin1-shi
-1341.wav|ah-de-shi
-1342.wav|i-shi
-1343.wav|i=tsheh
-1344.wav|i-yoe
-1345.wav|da=ba
-1346.wav|zan-tsy
-1347.wav|nyih=zan
-1348.wav|ya-zan
-1349.wav|tshaon=kon1
-135.wav|a1-'la ze piau=yi teh lau-hau-gheh .
-1350.wav|phiau=tsy
-1351.wav|tiau=saon=tsy
-1352.wav|ku-tshaon
-1353.wav|tsoe1-sin1
-1354.wav|fen=sy
-1355.wav|la=la de
+1281.wav|tɑ̃=ɕioŋ1
+1282.wav|dɑ̃-di
+1283.wav|dɑ̃=me
+1284.wav|piɔ=ku1
+1285.wav|piɔ=ɕioŋ1
+1286.wav|piɔ-di
+1287.wav|piɔ=me
+1288.wav|ʦz-ɲy
+1289.wav|siɔ-ɲɪɲ
+129.wav|ŋu siã tɕɪɲ=noŋ tɕø-kɑ1 ŋu gəʔ sã1-ɲiɪʔ zy-we .
+1290.wav|siɔ=nø
+1291.wav|siɔ=po-ɕi
+1292.wav|siɔ=mɔ=dɤ
+1293.wav|kʷɑ1=nø
+1294.wav|ɐʔ1-'nø
+1295.wav|doʔ-ɦiã-ɲi-ʦz
+1296.wav|r-ʦz
+1297.wav|ku-vɑ̃-ɲi-ʦz
+1298.wav|nø-ŋ
+1299.wav|ku=vɑ̃=nø r
+13.wav|ɪʔ-pe , vɐʔ zz lɔ=hɔ .
+130.wav|noŋ le hɔ vɐʔ ?
+1300.wav|sz1=sã1-ʦz
+1301.wav|sɪɲ1=vu
+1302.wav|ɲy-si
+1303.wav|zɑ̃-məŋ-ɲy-si
+1304.wav|mɔ=ciɐʔ
+1305.wav|zəʔ=ʦz
+1306.wav|zəʔ=nø
+1307.wav|ŋɑ=sã1
+1308.wav|ŋɑ-sã1-nø
+1309.wav|səŋ-ʦz
+131.wav|ŋu fi1=zã kɔ1=ɕɪɲ ʦɪʔ=zɤ noŋ-ku iɔ1=tɕɪɲ .
+1310.wav|səŋ-nø
+1311.wav|səŋ-ɲy
+1312.wav|səŋ-ɲy=si
+1313.wav|ʦəŋ1-səŋ
+1314.wav|ʦəŋ1-səŋ=ɲy
+1315.wav|he=pʰɑ
+1316.wav|tɕɑ̃=ku1
+1317.wav|mɪɲ=ku1
+1318.wav|ɦəʔ-tɕɑ̃
+1319.wav|tɕɑ̃ 
+132.wav|ɑ1-'lɑ cʰi=tɕɪʔ nø=ziã siɔ=loŋ hɔ=vɐʔ ?
+1320.wav|tʰiɔ-vu
+1321.wav|pɑ1-le=vu
+1322.wav|ʦɤ-de
+1323.wav|səʔ-tɕɑ̃
+1324.wav|kɑ̃=ɟɪɲ
+1325.wav|siɔ=di-ɟɪɲ
+1326.wav|sɑ kʰəʔ=sz1 foŋ
+1327.wav|təŋ=loŋ
+1328.wav|tʰəʔ=kʰɤ=sy
+1329.wav|ʦu-ɕi
+133.wav|lã ɦi , lɔ lɪɲ-ɦəʔ .
+1330.wav|tɕɑ̃-ɕi
+1331.wav|wu=ɟɪʔ
+1332.wav|ɦiɪʔ=ɟɪʔ
+1333.wav|zɔ-ɕɪɲ-ɕi
+1334.wav|wɐʔ-ci1-ɕi
+1335.wav|tɕɑ̃-doʔ-ciɐʔ-ɕi
+1336.wav|bɪɲ=de
+1337.wav|səʔ-sz
+1338.wav|sɪʔ=ɟɪʔ
+1339.wav|kʰʷəŋ1=cʰioʔ
+134.wav|noŋ hɔ me-hɔ gəʔ .
+1340.wav|cɪɲ1-ɕi
+1341.wav|ɐʔ-de-ɕi
+1342.wav|i-ɕi
+1343.wav|i=tɕəʔ
+1344.wav|i-ɦiø
+1345.wav|dɑ=bɑ
+1346.wav|zã-ʦz
+1347.wav|ɲiɪʔ=zã
+1348.wav|ɦiɑ-zã
+1349.wav|tɕɑ̃=koŋ1
+135.wav|ɑ1-'lɑ ze piɔ=ɦi təʔ lɔ-hɔ-ɦəʔ .
+1350.wav|pʰiɔ=ʦz
+1351.wav|tiɔ=sɑ̃=ʦz
+1352.wav|ku-tɕɑ̃
+1353.wav|ʦø1-sɪɲ1
+1354.wav|fəŋ=sz
+1355.wav|lɑ=lɑ de
 1356.wav|he=si
-1357.wav|yeu-loh=zan
-1358.wav|si1=yan cin
-1359.wav|kuaon=pu
-136.wav|ve=kaon , non cin1=tsau1 khoe1 chi=le vah tshu .
-1360.wav|di=in
-1361.wav|di in=yoe
-1362.wav|phi=tsy
-1363.wav|tshian=pe
-1364.wav|di=zy
-1365.wav|mau=phi
-1366.wav|yuin=don zan
-1367.wav|thi=yoh=zan
-1368.wav|jiu-zan
-1369.wav|thi=yoh
-137.wav|non ku-deu fah tsu-liau me-hau geh .
-1370.wav|su-kau bau=dau
-1371.wav|tan=jiu
-1372.wav|le=jiu
+1357.wav|ɦiɤ-loʔ=zã
+1358.wav|si1=ɦiã cɪɲ
+1359.wav|kʷɑ̃=pu
+136.wav|ve=kɑ̃ , noŋ cɪɲ1=ʦɔ1 kʰø1 cʰi=le vɐʔ tɕu .
+1360.wav|di=ɪɲ
+1361.wav|di ɪɲ=ɦiø
+1362.wav|pʰi=ʦz
+1363.wav|tɕiã=pe
+1364.wav|di=zz
+1365.wav|mɔ=pʰi
+1366.wav|ɦɪɲ=doŋ zã
+1367.wav|tʰi=ɦioʔ=zã
+1368.wav|ɟy-zã
+1369.wav|tʰi=ɦioʔ
+137.wav|noŋ ku-dɤ fɐʔ ʦu-liɔ me-hɔ gəʔ .
+1370.wav|su-kɔ bɔ=dɔ
+1371.wav|tã=ɟy
+1372.wav|le=ɟy
 1373.wav|se1=te se1
-1374.wav|ba=jiu
-1375.wav|tsoh=jiu
-1376.wav|pe=ten
-1377.wav|gau=r
-1378.wav|ngan ciah=deu
-1379.wav|phin=phan=jiu
-138.wav|non tshoe1 geh i1=zaon lau teh=thi geh .
-1380.wav|de jiu
-1381.wav|tan=phin=phan
-1382.wav|kau1=r=fu=jiu
-1383.wav|pau=lin jiu
-1384.wav|poh=kheh=shion
-1385.wav|tan=loh-de
-1386.wav|yu=mau=jiu
-1387.wav|se1=mau jiu
-1388.wav|thi=tshau1
-1389.wav|toh=khe-jiu
-139.wav|non cin1=tsau1 lau=hau khoe1-ku .
-1390.wav|dau se1=yan
-1391.wav|thiau-kau1
-1392.wav|thiau-yoe
-1393.wav|peh=wu
-1394.wav|yeu=ion
-1395.wav|zy=yeu=ion
-1396.wav|yeu=ion=zy
-1397.wav|fe1=ken1=teu
-1398.wav|phe1 nge
-1399.wav|pan=jih
-14.wav|yi=le 'leh he=tsen=be kau1=khau .
-140.wav|non lau shih=yin nyin=geh .
-1400.wav|ka1-yeu
-1401.wav|tshau=keh
-1402.wav|miau sah
-1403.wav|heh=sau1
-1404.wav|tsau=laon hau , zen si1-san1 !
-1405.wav|zy tsan si1-san1 a , non hau !
-1406.wav|tsan yoe veh ci , ngu lau sian-nyi non-ku !
-1407.wav|ngu-gha zan=zan sian=le maon maon-non .
-1408.wav|cin1=tsau1 ban=tau non ngu ciau1-kue khe=sin1 .
-1409.wav|non geh tshian sen1=thi hau=vah ?
-141.wav|non-ku in1=ven kaon='leh ciau1-kue hau .
-1410.wav|sen1=thi me-hau .
-1411.wav|non tsoe=jin hau=vah ?
-1412.wav|ghe-hau , veh du-maon , non-nyi ?
-1413.wav|geh tshian li ngu lau=maon=geh !
-1414.wav|tsan ah1-yi , zy ngu le 'leh .
-1415.wav|tshin tsin=le !
-1416.wav|le , le , zu a , tshin zu .
-1417.wav|meh=sa hau tsau1=de non-ku .
-1418.wav|non iau1=chih kha-fi ghe-zy iau1 chih=zo a ?
-1419.wav|ah1-yi veh=iau1=khah=chi , tau=pe1 bah=khe=syu chih chih=hau 'leh .
-142.wav|non-ku kheu=nyu tsen1=hau .
-1420.wav|cin1 zau1-non zaon=men=le , yeu=ti sa=zy=thi a ?
-1421.wav|ngu yeu=ti siau zy=thi sian tshin=non paon=maon .
-1422.wav|non=iau1 tseu 'la ?
-1423.wav|zen-kuaon1 veh tsau 'leh , ngu=iau1 we-chi 'leh .
-1424.wav|tse zu ih=shih hau=le .
-1425.wav|veh zu 'leh , ngu-we yeu=ti zy=thi 'leh he .
-1426.wav|keh=meh ngu son=son non .
-1427.wav|veh=iau1 son=teh=geh , ngu zy-cia1 tseu .
-1428.wav|veh=iau1=cin geh , son=non tau di=thi1=kheu .
-1429.wav|zia=zia , zia=zia .
-143.wav|non tsen1=vah yon-i .
-1430.wav|tseu=hau , tseu=hau , geh=tah tse=ten khe=ih=khe .
-1431.wav|liu=bu , liu=bu , veh=iau1 son 'leh .
-1432.wav|tse-we ! yeu=khon1 tu1=le bah=sian1=sian1 !
-1433.wav|ih=din le . pa e , pa e !
-1434.wav|mo=ve non 'leh .
-1435.wav|ne lon teh=non cin1=tsau1 chih=lih sah 'leh !
-1436.wav|veh tah=ka geh !
-1437.wav|non-we yeu sa=geh zy=thi iau1 ngu paon=maon vah ?
-1438.wav|meh=sa 'leh .
-1439.wav|ngu lau veh hau=i-sy1 .
-144.wav|non ku=tsian 'leh .
-1440.wav|zia=zia=non !
-1441.wav|zia=sa ! veh=iau1 zia , ngu meh=kue=yi geh .
-1442.wav|zia=zia=non nyan ih nyan hau vah ?
-1443.wav|au , geh=tah non hau tseu=vah ?
-1444.wav|oh=yoh , zaon zah non 'leh , te=veh=chi !
-1445.wav|veh=iau1=cin geh .
-1446.wav|tshin men-non kue-sin ?
-1447.wav|ngu sin=li .
-1448.wav|da min-ciau sa ?
-1449.wav|da min-ciau li=tshau1 .
-145.wav|waon=jian , non khoe1=khoe1 , kah di=faon tu1=sau phiau1=lian a .
-1450.wav|yi sa-nyin a ?
-1451.wav|yi zy waon shiau min .
-1452.wav|yi sa=di=faon nyin ?
-1453.wav|ngu zy zaon-he-nyin .
-1454.wav|yi sa=di=faon le-ku ?
-1455.wav|yi noe-cin1 le-ku .
-1456.wav|tshin men-non lah=lah a1-li tah kon1=tsoh ?
-1457.wav|nau , geh-gheh-zy ngu geh min=phi .
-1458.wav|non tau zaon=he le 'leh tu1=sau zen-kuaon1 'leh ?
-1459.wav|ngu le 'leh ciau1-kue zen-kuaon1 'leh .
-146.wav|chi1=syu , tshau=di , moh vaon=tsy , theh=lin 'leh .
-1460.wav|non zaon-he-ghe-gho cian teh=le vah ?
-1461.wav|thin zy thin=teh=ton ih=nge=nge , kaon-zy cian=veh le-ku .
-1462.wav|non zy tsu sa=geh ?
-1463.wav|ngu zy a1-'la kon1=sy1 geh the1=siau=yoe .
-1464.wav|e1=mi ih=we zy tsu sa=geh ?
-1465.wav|yi gha-zy the1=siau=yoe .
-1466.wav|geh we nyu-zy zy the1=siau=yoe=vah ?
-1467.wav|veh zy-ku , yi zy ah1-lah-gheh nyih=vu tsyu=kuoe .
-1468.wav|lih=lah tshaon=kheu deu-gheh geh-gheh nyin zy   nyin 'na  cin=li , te=vah ?
-1469.wav|te-gheh , yi zy a1-'la cin=li .
-147.wav|le=thi1 , bah yuin , lau=lin lau lin-gheh .
-1470.wav|geh nge=nyin tsu sa=zy=thi geh ?
-1471.wav|da-ke zy=ti kon1=sy1 yoe-kon1 .
-1472.wav|yi la veh=zy kon1=sy1 yoe-kon1 a ?
-1473.wav|geh ngu tau veh da shiau=teh .
-1474.wav|cin1=tsau1 lau=veh hau=i-sy1 geh , ciau-non ten 'leh ka-shi-tu1 zen-kuaon1 .
-1475.wav|veh=iau1=khah=chi , ngu meh=kue=yi geh .
-1476.wav|geh-gheh-zy jih=kheh si1-san1 .
-1477.wav|yi zy ngu-gheh ban=yeu . nyin 'na=nyin=teh vah ?
-1478.wav|a1-'la veh nyin=teh .
-1479.wav|ngu le paon nyin 'na cia-zau ih-shia .
-148.wav|tshin=non vah iau1 cih .
-1480.wav|tshin=ven , geh we nyu-zy zy sa-nyin ?
-1481.wav|yi ciau tsen1=nyi .
-1482.wav|nyin=teh nyin 'na , ngu lau kau1=shin geh .
-1483.wav|da-cia1 ge ban=yeu , gho-thaon1 tu1=tu1 kue=tsau .
-1484.wav|tshaon tseh1 ku1 peh da-cia1 thin hau vah ?
-1485.wav|hau-ku . tshaon tseh1 sa ?
-1486.wav|ngu tseh1 ku1=tshaon 'leh hau veh hau ?
-1487.wav|me-hau , veh the1=pe .
-1488.wav|non khoe1 lian=tsan tsau=phi a1-li tsan=hau ?
-1489.wav|ngu sian=zy geh tsan=hau .
-149.wav|ze-we tih hau-ku .
-1490.wav|geh-gheh meh-zy zy non-ku vah ?
-1491.wav|geh zy ngu geh .
-1492.wav|geh tsaon zy=thi non shiau=teh vah ?
-1493.wav|na-nen veh=shiau=teh nyi ?
-1494.wav|ngu we=sa ih=din=iau1 shiau-teh-'ne ?
-1495.wav|non veh kue=sin1 , su=i veh=shiau=teh .
-1496.wav|ngu lau shi=huoe non-ku .
-1497.wav|ngu ziu=zy voh=thih non .
-1498.wav|yi tsu-ku zy=thi non tse=zen=geh vah ?
-1499.wav|ngu=taon zoe don=i geh .
-15.wav|de=ngu=paon 'ne oh=li sian1 men-hau .
-150.wav|meh sah hau te=sin1 geh .
-1500.wav|non tah=in veh 'la ?
-1501.wav|veh tah=in , ngu zon-le meh tah=in ku .
-1502.wav|yi khau  ,  , non shiau=teh veh 'la ?
-1503.wav|ngu veh da=tshin1 saon1 .
-1504.wav|he=the kau1=deu non kau1=shin chi vah ?
-1505.wav|non a1 zy veh tsen=be chi ?
-1506.wav|iau1 ngu tsu pau-mu , ngu veh zin=nyoe chi .
-1507.wav|ngu veh-we fe1 te yi chi-gheh .
-1508.wav|non na nen-don gha veh=don geh ?
-1509.wav|sa-nyin tshe yi ! ngu tshe gha veh=iau1 tshe yi !
-151.wav|vah we tih kah tsha1=geh .
-1510.wav|khua ih=ti hau=vah !
-1511.wav|cih sa cih 'la !
-1512.wav|non na-nen=cia me=geh 'la !
-1513.wav|we=sa veh thin=ngu=geh ghe=gho ?
-1514.wav|na-nen veh kau=su ngu na-nen tsu ?
-1515.wav|non sa=zy=thi iau1 mo nyin=cia1 ?
-1516.wav|sa=thi veh tsau=ti=cian !
-1517.wav|ciau-non chi we=sa=lau veh chi ?
-1518.wav|we-le-we-chi ze we='leh non , su=i veh chi !
-1519.wav|non geh ba nyin the1-pe1 veh 'la !
-152.wav|zy=thi tson=kue yeu tih cia-ciuih geh be=fah=geh .
-1520.wav|non su=tseh kau1 ih=ti hau=vah !
-1521.wav|ngu tsen1 veh hau=i-sy1 !
-1522.wav|ngu meh thin tau lau .
-1523.wav|ngu tsu-liau zeh=le theh tah=tsian 'leh .
-1524.wav|zeh=le zy veh hau=i-sy1 , tsen1 te=non veh chi !
-1525.wav|men=khe veh khe !
-1526.wav|geh diau=ian keu=thon1 hau yi 
-1527.wav|geh fon1=sen theh ngu ci theh yi !
-1528.wav|oh=tshoh i1=zaon chi da da yi !
-1529.wav|non-chi ciau yi le .
-153.wav|vah iau1 tu1 sian-liau .
-1530.wav|ngu ta nyin 'na chi .
-1531.wav|theh ngu le !
-1532.wav|khua=ti chi ! me=then1=then1 , moh toh=toh tsu=sa !
-1533.wav|ten=ten ngu , me-me-ciau !
-1534.wav|nau , peh=non !
-1535.wav|tshin zau1-zi ih=bu .
-1536.wav|tseu ku=chi ih=nge !
-1537.wav|tseu ia ! da-cia1 tseu chi=le !
-1538.wav|chin=chin ciau faon !
-1539.wav|zin ih=ti hau=vah !
-154.wav|kah=yeu sa=hah nyin=geh .
-1540.wav|ngu zen-kuaon1 le veh=jih le , non khua=ti hau veh 'la !
-1541.wav|ba=hau=de , veh=iau1 tshah=de !
-1542.wav|veh hau-chi hah ban=geh !
-1543.wav|non veh=iau1 le tau de hau veh 'la !
-1544.wav|non veh=iau1 hah-kaon !
-1545.wav|a1-'la theh lau-pa lau='ma i=cin fen1-khe zyu fen1-khe chih-liau .
-1546.wav|ngu li=pa=thi1 zan=zan tau zan-nyin-lau-deu tah=chi paon yi la tsu ti lih=chi san1=weh .
-1547.wav|a1-'la cin1=nyi iau1=paon ah1-kon1 lau=deu tsu pah-seh da-zeu .
-1548.wav|nga=san1 cin1=nyi khau da-ghoh chiuih 'leh ci-fen1 meh khau=tsin zon=ti=da-ghoh .
-1549.wav|a1-'la piau=me poe=nyi=zi yan=siau=noe yan-liau ih-ku da=boe r-tsy .
-155.wav|ngu li-cia non-ku sin1=zin .
-1550.wav|jiu='ma la te-we veh cin-chi , yi gho-kaon i gheu chi-tsu ngeh sau seu1=zeh tau me-hau .
-1551.wav|nyan=jiu 'la-tsan yoe=veh chi-'leh , yi cin zan ih-ka1=deu lah oh=li theh i=chi .
-1552.wav|cin1=tsau1 a1-'la ih-ka1-men ze=tau ya=soh tah=chi bah sian1=hau vah ?
-1553.wav|non khoe1 ma ti=sa geh meh-zy peh yi chih chih ?
-1554.wav|ngu=ma hau 'leh , lian=gheh si1=yan=tshoe , ng=cin1 bin=ku , ghe-yeu zeh tsah1 ha .
-1555.wav|lah=lah geh=tah zo=seh li ban=deu , zin-diau veh the1-pe1 .
-1556.wav|non iau1=chih sa zo ? le=wu nyin=mon ghon-zo heh=heh hau=vah ?
-1557.wav|tse=lon=ti ko1-tsy , iau1=ku , ghan-nyin lau=sa poh=poh .
-1558.wav|waon=shion1 , non yi=le lah=lah bau sa san1-i 'leh ?
-1559.wav|geh lian-nyih kon1=tsoh ngu we=deu theh-liau , gho-geh-yuih yeu-ka1 doh=tsy kon1=sy1 phin ngu-chi .
-156.wav|non in=ke uaon hau-ku ih=mi khoe1 .
-1560.wav|lau=shion1 yeu=shiuih-deu geh ! veh zian ngu si-yan-kua-chi geh te-we li u lah=he .
-1561.wav|non in=ke thiau-zau1 , ngu cia-zau non tau a1-'la li=cin1 geh kon1=sy1 chi-tsu .
-1562.wav|non-ku nyi-zeh si=pau1 tha fon1=fu le , tsu tsaon-waon seh=ci woe=zi le=se .
-1563.wav|paon=non thi1=mo=ve 'leh !
-1564.wav|ban=yeu dau li , ngu kaon-tsheh 'leh meh , ziu paon=maon paon tau=ti .
-1565.wav|ngu shiau=teh non-we le-ku !
-1566.wav|ngu veh=le meh sa-nyin le-a ?
-1567.wav|non tsen1=cia hau-a ?
-1568.wav|ngu te bih-nyin ze=veh hau , in1=we non fah diau-deu ciau-ngu le-kaon kaon-ghe-gho .
-1569.wav|keh=meh non bin=dau kah theh yi hau=le .
-157.wav|non=iau1 zin tsoe-du geh nu=lih chi woe=zen .
-1570.wav|ngu tae=fi nyih=ciah ku=teh i=theh le !
-1571.wav|ngu tau ciah-zah me-hau geh .
-1572.wav|ngu-we tih gheu hue ih=pe=tsy vah ?
-1573.wav|veh=de 'leh ! a1-'la tau tseu1=tsaon chi bah sian1=hau vah ?
-1574.wav|yi la lian-ka1-deu geh e=zin , i=cin=sen1 'leh ih-ku de-ka .
-1575.wav|ngu kaon=kaon shiau=teh non lah san1-mau-bin , keh-lau gho tse1=pe1=le maon maon-non .
-1576.wav|ngu ih=ti=ti siau=mau=bin , non yon-veh-zah le=khoe1 ngu-gheh !
-1577.wav|non ih=shian sen1=thi hau le-si geh , na-nen lah=meh san1=deu zyu i=yoe 'leh ?
-1578.wav|zy-ku ia , nyi=ci da-liau , cin1=nyi sy-seh nyi-soe 'leh .
-1579.wav|lau=tsau sin1=zaon zon-le meh=fah=yi mau=bin , su=i geh=thaon1 yeu=nge tshu=seu veh=jih .
-158.wav|vah iau1 hue1=sin1 , tse=sy ih=thaon1 .
-1580.wav|ne gho-thaon1 , te=sen1 thi tshi1-ve veh hau da-i , san-teh da-cia1 te=sin1 .
-1581.wav|geh=thaon1 tsin=i=yoe , tse shiau=teh sen1=thi ji=khaon1 tsoe=tsoe iau1=cin .
-1582.wav|ne iau1=cin zan toe li toe li . ngu=ma 'leh ti=pu yah=po non chih .
-1583.wav|cin1=tsau1 ya=khua=deu tshin=non paon ngu 'ne geh=ti  dih=phi ta we-chi .
-1584.wav|non tau zyu-vaon-ke li ih=po laon=deu theh ngu 'ne-le .
-1585.wav|geh lian fon1=sen non paon ngu ci=theh hau=vah ?
-1586.wav|tshin=non le paon ngu khoe1=khoe1 , tsheu1=syu mo-don wa-theh 'leh vah ?
-1587.wav|ngu soh=sin paon=non 'ne in=yon=nyoe=ji thon=thon diau theh yi .
-1588.wav|ten=khe veh lian 'leh , non paon ngu le=khoe1 khoe1=hau vah ?
-1589.wav|lah=meh ih=thaon1 tshin=non le , non=iau1 theh ngu tin=tsen1 ti=tsu tsu=hau !
-159.wav|ka1-yeu , tsen1=tsoh chi=le .
-1590.wav|ngu zia=zia=non paon=paon=maon , theh ngu ten=kue kue=theh , ngu sian=khuen-kau 'leh .
-1591.wav|non tshaon=men khe=khe , 'ne khon1-diau kue=theh yi !
-1592.wav|iau1=zy ghe-yeu bih heh=geh zy=thi iau1 ngu paon=maon , ziu tan=di=gho peh ngu .
-1593.wav|cia-sy non sin1=vaon=tsy i=cin=tsaon siu1=hau 'leh , ngu ziu le paon=non poe-zan .
-1594.wav|poe veh=don meh , tu1 ciau ci-ku nyin-le poe .
-1595.wav|gho-gheh li=pa zyu=theh li=pa=ih li=pa=se1 yeu zy=thi , ngu ji-tha1 nyih=ciah ze khu=i geh .
-1596.wav|cin1=tsau1 men-tsau1 ngu=ze shiu1-sih , tshen ci1-we khua=ti poe hau yi .
-1597.wav|geh nge kaon=tson1=ku=tsy ze=hau gue theh yi le .
-1598.wav|tsau lian=nyi ma-gheh geh tseh1 theh=ba yeu=i1 ci1=ku zy 'leh , keh-lau ngu iau1=ma tseh sin1-gheh .
-1599.wav|syu=theh zah=tsy theh zon 'leh , ngu 'ne siau=tsy pe=sian1 tsaon .
-16.wav|tsoe=jin kon1=tsoh na-nen ?
-160.wav|non ih=din we tih zen=kon1 geh .
-1600.wav|geh nge phu-le , non-we veh gue theh yi a ?
-1601.wav|vaon=ci sin1 ka1-san1 ze=ma hau 'leh meh , geh=ti pha ka1-san1 ze khu=i toh theh-liau !
-1602.wav|ci=zoe non cia huoe=shi tson=ho1 , non e1 tseh1 yan=de ziu tsoe=men pa ho1=ben hau=le .
-1603.wav|geh tseh1 sian1=tsy iau1 theh=bih theh ngu taon=sin1 .
-1604.wav|ue ,  zy vah ?
-1605.wav|ngu oh=li yeu-ku lau-nyin deh=zoe tau=lah di=laon , da-ke tson1=fon 'leh .
-1606.wav|tshin  nyin 'na  khua=ti le=bu ciu=wu=ciu , ghau-sau !
-1607.wav|ngu-gheh di=tsy zy vu=nyin lu  lon  ghau=ti leu .
-1608.wav|ngu-gheh seu=ci1 veh theh-liau , na-nen-be ?
-1609.wav|non sian=sian tshin1=saon , da-ke lah sa-zen-kuaon1 sa=di=faon loh=theh geh ?
-161.wav|sian1-sin zy=ci .
-1610.wav|ngu chih=tson1=ve geh zen-kuaon1 ghe=tan=ku lian tsah1 di=gho , su=i geh-gheh zen-kuaon1 ghe=lah=geh .
-1611.wav|keh=non gho-poe-thi1 tau=ku ci-ku di=faon ?
-1612.wav|oh , sian=chi=le 'leh , maon ci=lah di1-pau min te-ku de=tsy kau1=deu .
-1613.wav|ne i=cin seu1-zan 'leh , veh=shiau=teh ghe zin-teh-zah vah 'leh ?
-1614.wav|ghau-sau tson1=ve tau e1=mi chi tan=thin , khua tseu !
-1615.wav|yoh , di=gho lin=shian 'leh , " ue , sa-nyin a ?   au , zia=zia=non ! "
-1616.wav|ngu=seu ci1 tsau=tau 'leh , nyin-ka1 tan=di=gho le ciau-ngu chi=lin 'leh !
-1617.wav|ih=te be=shiuin ji-moe , ngu ziu khu=i tsu ih-ku nyin-ghaon tsheh=nah=yoe .
-1618.wav|tseh1=yeu ngu zy-cia1 khe=sy tsu=san1-i geh zen-kuaon1 , ngu tse ciah-zah tshen=sin1 zyu=i .
-1619.wav|the-shiu1 gha the-shiu1 'leh , ghe zan=zan peh yi la tshin teh chi-tsu ku-ven .
-162.wav|ci=zoh nu=lih .
-1620.wav|yi geh kon1=tsoh kon1=tsy lau=kau1 , kon1=tsoh zen-kuaon1 gha ciau1-kue li=sian .
-1621.wav|tseh1=iau1 yi lah zy nyih laon tsu=tsheh zen=ziu , ziu khu-nen pha tau kueh=nga chi gheh-tsoh .
-1622.wav|ngu shi=huoe gho=yeu=gho , de=zy ngu veh=sian 'ne yi tsu ngu-gheh tson=sen1 tseh=nyih .
-1623.wav|veh kuoe=non tau veh tau geh be tshan chi kon1=tsoh , tson=kue iau1 kau=su=ngu ih-san .
-1624.wav|yi ton thoh-nyin , si1 in=phin , we-le-we-chi we-tsy1 tsu zy-cia1 tshen=sin1=geh san1=weh .
-1625.wav|tsih=sy ngu 'ne veh tau kau1=geh kon1=tsy , ngu-gha veh khen=faon=chi geh tseh1 ve uoe .
-1626.wav|cin1=tsau1 maon tsu maon , gha-iau1 tsu=kuan1 geh=ti san1=weh tse tseu .
-1627.wav|si1-san1 , tshin=non zy=ngu cia-zau ih-shia , non=yeu sa=geh tsoe=tsan ?
-1628.wav|ngu ci=yeu pi ciau-jian geh in1=ven thin=lih , kheu=nyu , sia=tsoh nen-lih .
-1629.wav|non we=sa iau1 tau a1-'la kon1=sy1 le in=phin ?
-163.wav|non min=nyi ih=din we tih yin=geh .
-1630.wav|in1=we  nyin 'na  kon1=sy1 geh=nyih=vu nen-keu fah=hue ngu-gheh theh=tsan .
-1631.wav|non nyin=we zy=ci khu=i tsu a1-li faon=mi geh kon1=tsoh ?
-1632.wav|ngu khu=i tsu tson1=in1 saon=shian fe1=yih , tshoe-ka1 theh nga=kueh-nyin ciau1-tsi de=phoe .
-1633.wav|ngu=iau1 pau=khau  nyin 'na  geh tseh=nyih be=shiuin=pe1 , sa-zen-kuaon1 khau=sy ?
-1634.wav|tshin=non 'ne geh tsan piau=kah di1-hau , khau=sy ziu lah geh-gheh ghau=deu zeh=nye ghau .
-1635.wav|cia-sy khau=tshiu 'leh , iau1-ghoh ci-ku ghau=deu ?
-1636.wav|iau1-ghoh se1-ku ghau=deu , zi=bu yon=nyih yu zen-kuaon1 .
-1637.wav|sa=geh ne-yon iau1=khau ? tshoe-khau=syu yeu=vah ?
-1638.wav|non khoe1 geh tsan=piau hau=le , kau1=deu i=cin sia tshin1=saon 'leh .
-1639.wav|si1-san1 , ngu sian zin ih-ven1 kon1=tsoh .
-164.wav|ngu iau1 tseu-liau , ngu zy le paon lon tse-we geh .
-1640.wav|non sian tsau a1-li faon=mi geh kon1=tsoh ?
-1641.wav|tsu tshoe1=kuoe voh-vu-yoe a , tsiu-ba1 tsau1=de=yoe a , ze khu=i .
-1642.wav|non phu=thon1 gho=cian teh=le vah ?
-1643.wav|taon=zoe we=geh , peh1-ku zaon-he-ghe-gho cian=da veh=le .
-1644.wav|veh=iau1=cin geh , taon=zoe tsoe=hau ghe-zy ma=pen we-gho syu ghoh-ghoh zaon=he gho .
-1645.wav|he=zy maon=iau1 tsau1 ih-ku pi=tshih , non yeu-shin-tshiu vah ?
-1646.wav|hau-ku ia , sin1=cin1 tu1=sau ? shiu1-sih=nyih yeu=vah ?
-1647.wav|'me-ku ghau=deu lian tshi1=nyoe , 'me-ku li=pa shiu1-sih lian=thi1 , khu=i vah ?
-1648.wav|tshin=non geh tsan=piau=di1 ih-di1 , ten a1-'la la=geh thon1=tsy1 .
-1649.wav|veh=zy hah-kaon , ngu geh pin1 kon1=tsoh tsen1=ciau m-meh cin !
-165.wav|ngu 'leh kah tih ku-liau ciau1-kue khe=sin1 .
-1650.wav|non zan=zan tsheh-tsha1 , ton-noe si1-poh tshaon tshaon , veh=iau1 theh siau=sa au !
-1651.wav|zan-nyi=le=ngeh ton=pen1=si1=tseu maon sah 'leh , san1=weh theh m-meh kue=lih 'leh .
-1652.wav|non-ku kon1=tsoh diau=peh ngu tsu=tsu ziu hau 'leh .
-1653.wav|tsen1=ciau khoe1-nyin thiau1=te veh chih=lih , ngu theh=non diau=ih diau=hau vah ?
-1654.wav|khon1=zy khon1 teh=le meh=zy=thi tsu .
-1655.wav|kon1=tsy=meh , zy non-ku lin=deu ; zaon=pe1 meh , da-cia1 dau dau=tsian=wu .
-1656.wav|gho-pe1 zen-kuaon1 veh tau meh , da-cia1 ziu sian wah=ciah .
-1657.wav|non-kaon yeu-cin vah ?
-1658.wav|siau-tsia , ngu sian ma ih=ji si1=tsaon , yan=tsy hau=ih=nge geh .
-1659.wav|geh=tah ih=ba ze=zy tsin=kheu mi=liau eu=pe=geh si1=tsaon .
-166.wav|kah ci=thi1 mo=ve non 'leh .
-1660.wav|geh=tson nge=seh pi yi tson sau-we sen1 ih=ti .
-1661.wav|non khoe1 geh lian=ji tsu=kon1 iau1-pi yi mi geh khau=ciu .
-1662.wav|'ni khoe1=non tshoe1 sau-we de ih=ti geh nge=seh ken1-ka1 hau .
-1663.wav|ngu pi-non tsan ih=ti=ti , pi geh-gheh tshah=mo du-ih-ti ku-yeu vah ?
-1664.wav|baon=pi ih=ba i1=zaon ken1 geh=tah geh i1=zaon meh=sa lian=yan .
-1665.wav|sen1=zaon tshin1=a1=zy jih veh zaon heh=nge=seh hau=khoe1 ?
-1666.wav|geh=tah geh tshen=se1 fu yi mi geh thin kuah .
-1667.wav|non khoe1=e1=mi ih=ji iau1=hau ti=vah ?
-1668.wav|geh diau=lin ta nge=seh=lian ih=ti , ken1 geh=ji si1=tsaon pi-ciau phe .
-1669.wav|geh nge si1=tsaon theh=e1=mi geh ih=yan , zi=bu=tan ciu-tseh .
-167.wav|non hau=tu1 zyu ci=thi1 vah 'la ?
-1670.wav|si1-san1 siau-tsia , nyin 'na iau1=ma ti=sa geh seu=seh ?
-1671.wav|nyan a1-'la si1 khoe1=khoe1 tse-kaon .
-1672.wav|yi=le boh cin1=seu=seh zia-chi nyih=nau .
-1673.wav|siau-tsia i cin=yeu ih tsah1 ka=tsy , iau1-veh-iau1 phe=diau boh cin1=ghaon li ?
-1674.wav|hau-ku . nyin 'na=tah yeu ci=tson khuoe=seh , peh ngu khoe1=khoe1 ciau .
-1675.wav|non khoe1 ngu geh=tah ih=ba=san1 yeu zeh-nyi diau , ze=lau lin-gheh .
-1676.wav|ghe-yeu e1=mi gue-de li=shian gha-yeu ciau1-kue .
-1677.wav|ngu khoe1 geh diau 'me-du faon=geh .
-1678.wav|si1-san1 nge-kuaon1 tsen1 hau , a1=iau1 sy=sy ta ta khoe1 ?
-1679.wav|non khoe1 , hah tia !
-168.wav|ngu iau1 we-chi 'leh .
-1680.wav|ngu ciah-zah ka=si theh ciu , tse-kaon meh=sa theh=bih hau=khoe1  
-1681.wav|iau1=meh a1-'la tau bih-gheh di=faon tse chi-khoe1-khoe1 .
-1682.wav|huoe=nyin kuaon1-lin , siau-tsia cin1=tsau1 deu=fah iau1 tsi ih tsi ghe-zy thaon ih thaon ?
-1683.wav|geh=tah thaon=fah yeu=yeu li=tsy thaon , veu=li=tsy thaon , zeh=pe thaon , kaon=sy thaon .
-1684.wav|yon-veh-zah , da ih da , tshoe1 ih-tshyu1 ziu khu=i 'leh .
-1685.wav|non=iau1 koe1 da ghe-zy sah da a ?
-1686.wav|koe1 da hau 'leh .
-1687.wav|chin ih=nge ghe-zy zon ih=nge ?
-1688.wav|yi=le tsen1=hau , veh zon gha veh chin .
-1689.wav|deu=ghe=yan shi-shi vah ? veh yan meh , chi=tshon theh yi hau vah ?
-169.wav|ngu ke bau-liau .
-1690.wav|a-gho-le , theh=non oe=mu iau1=vah ?
-1691.wav|a1-'la ghe-yeu teh tsu mi=moh , siu1 mi=mau , tsen1 mi , shian1=shiuin1 , tsy=ah .
-1692.wav|cia-sy siau-tsia iau1-gheh ghe-gho , hau tan-ku pah-tseh .
-1693.wav|zia=zia , meh-zen-kuaon1 'leh , ngu tseh1=iau1 nyah nyah be ken1 iau1 hau 'leh .
-1694.wav|huoe=nyin kuaon1-lin , yi=le nyin-tu1 , tshin=non zu-gho le ten=ih=shih .
-1695.wav|nyin 'na geh=tah san1-i tsen1 hau , cia nau=man !
-1696.wav|non sian=iau1 deu=fah thi=teh tsan=ti ghe-zy toe=ti ?
-1697.wav|tsau lau=yan=tsy hau 'leh , sau-we toe ih=ti .
-1698.wav|siu1=mi siu1=vah ?
-1699.wav|siu1=mi non=iau1 siu1=siu1 tshin1=saon .
-17.wav|kon1=tsoh lau=maon=geh , ghe-iau1 zy-ghoh in1=ven
-170.wav|ngu pih siu=si1 tseu-liau .
-1700.wav|ngu ghe-iau1 jioh=yeu theh=tshoe1 deu=fah .
-1701.wav|non deu=fah sian tshoe1 sa=geh seh=yan ?
-1702.wav|cin1=tsau1=ya=deu non iah-we lah sa=di=faon ?
-1703.wav|cin1=tsau1 ci=mau=tshe tau=mae bi=nyi geh meh !
-1704.wav|ih=ti gha veh bi=nyi , ciu teh=le nyih=huen1 !
-1705.wav|geh-nen-ka le=tsau1=tsau1 geh tshe iau1 cia=ciu a !
-1706.wav|non khoe1=khoe1 tshin1=saon , veh=iau1 theh sin1=si au !
-1707.wav|yan=se1=yu  kheu=jian  le-si geh !
-1708.wav|wu=le=deu tse teh=veh teh-liau !
-1709.wav|ah1-yi , cin1=tsau1 tsoh=sen lau=nen geh , tshen lian=cin1 chi na-nen ?
-171.wav|non sa-zen-kuaon1 tseu ?
-1710.wav|ci=di ih=cin1 ?
-1711.wav|sy=khue ng-koh ih=cin1 ,  kheu=jian  teh=le !
-1712.wav|cia=ciu=geh , ciu=teh ih=thah=wu=du ! ciu 'leh oh=li sian1 gha veh nyin=teh 'leh !
-1713.wav|paon=paon maon au , non khoe1=khoe1 , ngu tah=geh tsoh=sen zy tin hau-ku !
-1714.wav|tsen1-ku a ? keh=ma bi=nyi ih=nge meh hau=le !
-1715.wav|veh=le=se1 geh , ngu veh hau tsu zeh-pen=san1-i geh !
-1716.wav|hau=hau hau . non ven1-lian iau1=tshen tshen=tsoh .
-1717.wav|ih-ciu-ghe-gho !
-1718.wav|cin1=tsau1 ngu=le tshin=khah .
-1719.wav|ci be hau chih=ti geh ve=ti chi-chih .
-172.wav|men-tsau1 gho-poe-thi1 lian=ti poe-ku fi=ci1 .
-1720.wav|non le=ti tshe hau=le .
-1721.wav|nyin 'na geh=tah sa=geh tshe tsoe yeu theh=seh ?
-1722.wav|a1-'la yeu tsah1 khau zyu=keh , chih chi=le nen toh=toh , shian1=phen=phen .
-1723.wav|ciau tseh1 tshin1=tsen1 lu-ng hau-'ne , ghe-zy ghau=yeu nyeu=nyoh hau ?
-1724.wav|lon diau=weh sah de-waon zo chih chih=hau vah ?
-1725.wav|le tseh1 i1 toh si=meh hau=le .
-1726.wav|ngu iau1=chih pen=paon1=tshe , lih=tsy ghon-sau=nyoh , nyon=yeu=tshah=tsian geh .
-1727.wav|di=baon toh teh su1 ih=ti , thin=tau vah !
-1728.wav|di=cin1 veh hau tshau-liau wu=dah dah=geh au !
-1729.wav|nyoh=sy tshih teh=le zih zih=si , tsheu-deu-vu-koe1 tsi1 teh=le phen phen=shian1 !
-173.wav|ngu tau ci1-zan chi son=non .
-1730.wav|geh tseh1 ah=tsy veh tha su1 .
-1731.wav|ngu=le 'ne-chi tse=sau sau yi .
-1732.wav|sau-we ten=ih=shih , mo-zaon ziu hau 'leh au !
-1733.wav|ti geh nge=tshe yeu=teh chih le !
-1734.wav|ve veh=iau1 zan 'leh phah=phah=moe .
-1735.wav|ma-te ! cin1=tsau1 ngu thin=tsan .
-1736.wav|veh=iau1 au , phih=ngan=za hau=le !
-1737.wav|cin1=tsau1 tau zen=waon miau 'leh meh , ziu=iau1 zaon=zaon pen=paon1 siau chih-gheh mi-dau 'leh .
-1738.wav|geh=tah geh " noe=zian siau=lon " lau=tse geh !
-1739.wav|thin-kaon ih tsah1 tsin1=phin ci ah shiuih=saon , si=zy si teh=le !
-174.wav|zia=zia=non le son ngu .
-1740.wav|keh=zy geh=tah geh mi cin1 pah-yih saon=taon tsoe=tsoe tsen1=tson1 geh .
-1741.wav|ih=uoe tseu=so=wen=den , bi=boh zy boh teh nyoh gha khoe1=teh-ci !
-1742.wav|ka-li nyeu=nyoh saon , yeu=deu=vu si fen=saon veh=iau1 maon-ci-theh chih .
-1743.wav|kue=ho1 tshah=deu=saon non iau1=chih chih khoe1 vah ?
-1744.wav|non ven-ven shian1-vi khoe1 , ng-shian1=zo-yih=de shian1=veh=shian1 ?
-1745.wav|non-kaon teh=ngu ze gha ze sah le !
-1746.wav|ngu sian=chih chih tshan lau tse tseu .
-1747.wav|zaon=he geh khue di=faon , he-ne nga=yan=yan siau=tshe ze=yeu .
-1748.wav|phen-diau faon=fah gha-zy yeu tsin1 tsy yeu zih kaon1-noe da-zen .
-1749.wav|hu=the iau1 kah=syu " tsen1 " , nyeu pah-yih tseh1=iau1 syu li ih " then " .
-175.wav|tse-we , tsoh-non ih=lu=bin=oe1 .
-1750.wav|ta-ng iau1=chih koe1 " tsi1 " , deu=pe hau yeu " then " .
-1751.wav|kau1=bah iau1 yon=yeu " 'men " , keh=li pa=lah=de li " ten " .
-1752.wav|su=tseu1 deu=vu=ji1 , zau=shin me koe1-tshe , nyin-poh1 waon=nyi=lu , noe-cin1 ah=shiuih=saon .
-1753.wav|ih=tau ya=li , ma lian=yan zoh=tshe , di=zy=meh khoe1=khoe1 , lau=tsiu meh 'mi 'mi .
-1754.wav|yi la zy ghon-zan tshih=tshih , seh-lah boe1 boe1 , sau=sau lu son=saon , zy=ci tsu si1=tshe .
-1755.wav|a1-'la di=baon toh=toh , lu=sy soh soh , wu=jih han=han , zia-chi siau=loh !
-1756.wav|geh=tah siau-chiu loh=di mi=tsih yeu=tu1=sau ?
-1757.wav|tsoe1 ci=tsoh tson=mi=tsih pah-fen1=tsy1 ci ?
-1758.wav|kon1-gon1 seh=sy1 yeu=nge sa ?
-1759.wav|phi=zyu cian , siau-chiu ji=sen1=vaon , r-don=loh-yoe , du=syu kuoe lau  nyin zi  yeu .
-176.wav|vah iau1 maon-ci-theh paon=ngu=tan di=gho , kah khua ziu tseu-liau , lau yi-ghoe geh .
-1760.wav|siau-chiu baon=pi tsin=tsheh faon=bi vah ?
-1761.wav|phi=zyu cian , ngu=iau1 tau zy=tson1=sin1 , yeu sa tsho-tsy hau tshen tsheh-chi vah ?
-1762.wav|geh=tah iau1=diau di=thih theh=chin=kue bi=taon vah ?
-1763.wav|ngu cia-sy iau1 zaon kau1=ka , a1-li geh lu=kheu li geh=tah tsoe=jin ?
-1764.wav|geh=tah tseu1-we yeu-veh-yeu siau-tshe-zan ken1 du-yin=tshau1=zy , san1=weh=yon=phin ma ?
-1765.wav|zau1-noe tshaon=kheu zi=deu ghe-we-teh zau=kau1=leu , saon1=lau yan-kuaon1 paon=zy=si vah ?
-1766.wav|tseu1-we gue=cin na-nen=cia ? zin=veh=zin ? ya=li sian1=shian tshau veh tshau ?
-1767.wav|siau-chiu oe1=zi vah ? ya=li=shian yeu tsau=min seh=sy1=vah ?
-1768.wav|ngu sian-ven  nyin 'na  tsu1=vaon=tsy tshen-tshen .
-1769.wav|vaon=tsy geh tshe-kuaon1 diau-ji iau1 hau=ih=ti , veh=iau1 koh=koh=deu geh vaon=tsy .
-177.wav|non sa zen-kuaon1 tse=le ?
-1770.wav|tsu1=geh vaon=tsy iau1=li ngu kon1=tsoh geh di=faon jin ih=nge .
-1771.wav|ngu iau1=ih seh ih=thin geh vaon=tsy , mi=tsih lah sy zeh-ku bin=faon tsu=yeu .
-1772.wav| nyin 'na  geh ci vaon=tsy zau1-shian hau veh hau ?
-1773.wav|me=chi veh=ih=din iau1=ih keh=deu yon , de=zy we-sen1 iau1=doh yon-gheh .
-1774.wav|ngu tsoe=hau iau1 tu1=zen geh se1=sy leu .
-1775.wav|zy-veh-zy tsaon=siu1 hau-ku ?
-1776.wav|me=chi , nyih=syu chi , si=i1=ci1 , khon1-diau yeu-veh-yeu ?
-1777.wav|tsu1=cin1 na-nen soe ? syu=di=me na-nen ciau1 ?
-1778.wav|ngu=iau1 poe-zan khua-liau .
-1779.wav|ngu=ma 'leh zi=cia1 we vu=jin geh kau1=zen .
-178.wav|ngu a vah shiau=teh .
-1780.wav|non poe=geh tsen1=zy hau di=doe , yi=le da-cia1 zy chih di=doe chih vaon=yin geh , geh .
-1781.wav|ngu poe lah zeh-pah leu , da vaon=ci paon du-thin ze zau1-noe .
-1782.wav|non-ku vaon=tsy teh=vaon lih=kau1 veh kau1 ? mi=tsih da veh da ?
-1783.wav|se1=vaon lian=thin lian=we , ci=tsoh mi=tsih ih=pah=se1-seh loh-ku bin=faon .
-1784.wav|veh=iau1 theh tse=au ! zy mau phe vaon ghe-zy tsaon siu1=vaon ?
-1785.wav|mau=phe1=vaon ! yi=le lah=lah tshin-nyin tsaon=siu1 .
-1786.wav|e1 mi=tah geh veh-nyih kuoe=li hau veh hau ? kuoe=li fi=ciu=vah ?
-1787.wav|ma=mo-hu=hu , ze ih-pe-sin .
-1788.wav|non vaon=tsy tshau=phiau ih=tshy=sin ze=fu theh-liau vah ?
-1789.wav|ngu tseh1=fu 'leh seu-ji vaon=khuoe , ji-tha1 geh ze de=khuoe .
-179.wav|ci=teh cin=zan=le khoe1=khoe1 ngu .
-1790.wav|siau-tsia , cin1=tsau1 ya=li yeu-veh-yeu khon1=vaon=ci .
-1791.wav|yeu-ku , si1-san1 non ci=we ?
-1792.wav|lian-ku , a1-'la zyu piau-ci hau 'leh , ci=di ih=ya ?
-1793.wav|geh=tah zy se1=sin1 cih=pin=kuoe , se1=pah=nyoe ih=ya .
-1794.wav|a1-'la iau1 zyu se1=ya thi1 .
-1795.wav|peh=non se1=leu se1 lin-ng vaon=ci hau=vah ?
-1796.wav|hau-ku . vaon=ci li zan-du=di=gho khu=i zeh=peh=vah ?
-1797.wav|vaon=ci li tseh1=hau peh zy-ne , zan-du khu=i tau tson de le tan .
-1798.wav|tse ven=san , tshoe1=thin ya=li ci=ti tson khe=men ?
-1799.wav|si1-san1 , tshin=non 'ne wu=tsau weh=tse sen1-ven1 tsen=nyan ngu ten1=ci ih-shia .
-18.wav|non-nyi  ku-liau hau=vah ?
-180.wav|ngu we tih sian non-ku .
-1800.wav| lu kon-gon chi1-tsho1 ze=deu , tau nga=the chi , lah sa=di=faon ?
-1801.wav|geh bu tsho-tsy tau=zin oe1=zy vah ?
-1802.wav|tau-liau zan=zoh=lu , tshin non-ciau ih-san ngu .
-1803.wav|ngu i cin=seh ku=kha 'leh .
-1804.wav|ngu tshen ku=deu 'leh , na-nen-be ?
-1805.wav|geh bu=zy chiu-ci=ciu , tau=me lon sin1=tshen1 iau1 tshen lin ih=bu .
-1806.wav|gho-deu ih=ze zy sa=di=faon ?
-1807.wav|" 'me=li=yoe " tau-liau vah ?
-1808.wav|tse tshen lian=ze .
-1809.wav|te=veh=chi , nyan ih nyan , ngu gho-tsho .
-181.wav|ngu ih=din we tih tse le-ku .
-1810.wav|cia=ya 'leh , ghe=tshen sa kon1-ciau1 ciu ! ciau tsha1=deu vah .
-1811.wav|veh=iau1 ten le , ngu=le lah ih=bu tsha1=deu .
-1812.wav|a1-'la iau1 tau ghon jiau=lu yi=oe1 si1=lu .
-1813.wav|iau1-veh-iau1 zaon kau1=ka tseu ?
-1814.wav|zoe=bi na-nen tseu , na-nen khua ziu na nen-khe !
-1815.wav|keh=meh ziu zaon kau1=ka tseu .
-1816.wav|oh=yoh , ban-zah tu-tsho , cih=sah nyin 'leh !
-1817.wav|ziu geh=tah din-tsho hau=le .
-1818.wav|non zy la=kha ghe-zy fu=yi cin1 ?
-1819.wav|fah=phiau 'ne hau , meh-zy veh=iau1 maon ci=lah tsho-tsy kau1=deu .
-182.wav|da-cia1 tu1 li-yi .
-1820.wav|cin1=tsau1 ya=tau chi kuaon=tseu1=geh hu tsho-phiau ghe-yeu vah ?
-1821.wav|" zeh=khua " tsho-phiau meh-liau , " theh=khua " ghe-yeu .
-1822.wav|paon ngu=din ih=tsan " theh=khua " tsho-phiau .
-1823.wav|non=iau1 ngan=zu ghe-zy ngu=phu .
-1824.wav|nyoe=ngu ghe-yeu vah ?
-1825.wav|nyan ngu khoe1=ih=khoe1 , te=veh=chi , tseh1=yeu ngan ngu=phiau 'leh .
-1826.wav|zon zaon=he hu-tsho tshen=tau zen=tseu1=iau1 ci-ku tson=deu ?
-1827.wav|geh pe1 hu-tsho ci=ti tson=khe ?
-1828.wav|tshen geh bu hu-tsho , tseu ci=ghau thon1=dau ?
-1829.wav|geh a1=zy khe=tau poh-cin1 chi-gheh hu-tsho ?
-183.wav|thi1 ue-'leh , ngu iau1 we-chi 'leh .
-1830.wav|geh bu hu-tsho lah khuen1 se1 ze=deu din-tsho vah ?
-1831.wav|ma=hu tsho-phiau geh tshaon=kheu lah=he a1-li ?
-1832.wav|ngu sian ma ih=tsan tau zaon=he geh te-zen ci1=phiau .
-1833.wav| ngeh  ghau=geh pe=ci1 zi1=bu khah=moe .
-1834.wav|ci=ji zoe=ci1 ghan-li iau1 tshen=tshen .
-1835.wav|non chih=shian1=i1 vah ?
-1836.wav|non chih mi diau ghe-zy chih=ve ? heh zen=tseh ghe-zy heh=kha-fi ?
-1837.wav|da-cia1 geh ghan-li ze='ne=zi 'leh vah ?
-1838.wav|ghe=chiuih ih tsah1 sian1=tsy .
-1839.wav|tshin=ven nyin 'na ci=we zy='me kueh meu-yih de=piau doe=geh vah ?
-184.wav|yeu=khon1 cin=zan=le khoe1=khoe1 .
-1840.wav| nyin 'na  ih lu=laon=shian chih=lih 'leh vah
-1841.wav|ih=ti gha veh chih=lih , zia=zia=non le=tsih a1-'la .
-1842.wav|siau-tsia , geh fon1=sen ci=tau jiu cin1=se1 , yeu=phiau thih tu1=sau ?
-1843.wav|sen=faon=lah tshen kau1=deu tshen=ih=tshen tse kau=su non .
-1844.wav|ngu=iau1 ci tshau=phiau peh 'm-'ma , 'ne=tsan ci=khuoe tae=peh ngu hau vah ?
-1845.wav|de=mi laon zy-cia1 'ne .
-1846.wav|tshin ven=lah=meh ih=thaon1 khe sin-sian1 zy sa-zen-kuaon1 ?
-1847.wav|ng-ti tson , sen=khua ti toh gho-chi ghe-le teh jih .
-1848.wav|ci=ko ghau=sen zy-veh-zy hau=khua ih=ti ?
-1849.wav|ko=ghau sen=zy pau=shi ih=ti , veh-we khua fe1=r me .
-185.wav|tse-we , ngu ih=din we tih tse le-ku .
-1850.wav|iau1=meh ci " theh=khua yeu=ji " men-tsau1 ziu khu=i tau .
-1851.wav|ci=ji=nyin , seu1=ji=nyin di=tsy sin=min veh=iau1 di1=fe1=theh !
-1852.wav|yeu=tsen pi=mo veh=iau1 maon=ci sia !
-1853.wav|ngu-we yeu=tsan we=khuoe tae , lah=non geh=tah lin tshau=phiau zy vah ?
-1854.wav|non sen1-ven1 tsen=ta le vah ?
-1855.wav|sen1-ven1 tsen=ghau ngu i=cin di1-hau 'leh , khu=i lin=ma ?
-1856.wav|te=veh=chi , m-meh sen1-ven1 tsen=zy veh hau lin=we=khuoe geh .
-1857.wav|si1-san1 , ngu=iau1 zen tshau=phiau , na-nen zen=fah ?
-1858.wav|non=iau1 zen weh-ji=zen=khuoe , ghe-zy din-ji=zen=khuoe ?
-1859.wav|a1-'la geh=tah yeu nga=bi zen-min-bi din-ji ih=pen thon1 , gha-yeu weh-ji ih=pen thon1 .
-186.wav|ci-zo ci-zo , meh-tsy ze ta zi 'leh vah .
-1860.wav|weh-ji tshiu=khuoe meh , non khu=i zoe=bi sa=geh=zen-kuaon1 yon ngan kha-'la .
-1861.wav|non khu=i tau=yeu " nyin=li " piau=tsy geh  ci li chi1 'ne tshau=phiau .
-1862.wav|geh tsan=kha peh=non , a1-'la nyin-ghaon yeu nye=sy siau=zy zy=don voh=vu=geh .
-1863.wav|keh=meh ngan=kha na-nen yon=fah nyi ?
-1864.wav|tshah tsin-chi , khoe1 yi seh-min tshau1=tsoh tan ziu=zy 'leh .
-1865.wav|tshin=ven , ngu=iau1 'ne 'me=nyoe diau zen-min-bi , geh=tah hau=diau peh ngu vah ?
-1866.wav|yi=le zeh-bi kau zen-min-bi geh de-woe=lih zy tu1=sau ?
-1867.wav|tshin=non 'ne geh tsan liu-yin=tsy1=phiau diau-zen yi=tshau .
-1868.wav|tshin=non geh=tah tshi ku-zy .
-1869.wav|ih-gon1 zy tshih=tshi1=ng-pah sy-seh nyi-khue , non ti ih=ti .
-187.wav|ngu ze ci-zo ku-liau .
-1870.wav|tshin=non paon ngu=woe ih=ti lin=se=tshau=phiau hau=vah ?
-1871.wav|ngu=iau1 tan tseh1 di=gho peh ngu noe-ng .
-1872.wav|geh zy=zy don deu=bi di=gho , yon ih=khue ngan=bi le tan-ku .
-1873.wav|zan-fon ve=ti zy vah ? tshin=tsoe  fen-ci .1
-1874.wav|lau=waon , yeu di=gho zin 'ni .
-1875.wav|tshin men-non a1=zy loh=min syu=ti geh lau pe ?
-1876.wav|non sen-in1 du-ih-ti , ngu thin veh tsheh !
-1877.wav|te=veh=chi , meh-nyin tsih=di=gho . da-ke yi tsheh-chi 'leh vah .
-1878.wav|tshin=non kau=su li=min si1-san1 , cian=ngu=zeh=ti=tson tan=ku ih tsah1 di=gho peh yi .
-1879.wav|men-tsau1 tson1=laon=shian ciau yi tan peh ngu tseh1 di gho .
-188.wav|paon=ngu='ne=kah=tseh pa1-pi=ua1=ua1 ta po non-ku siau=nyin .
-1880.wav|sau-vi ten=ih=shih , yi mo-zaon le tsih=di=gho .
-1881.wav|ue , tsan=siau=zin lah=lah oh=li vah ? mo=ve non-ciau yi thin thin di gho .
-1882.wav|te=veh=chi , non tan=tshu di=gho 'leh .
-1883.wav|da-tson tsheh=tsu1 chi-tsho kon1=sy1 geh di=gho ghau=mo zy sa ?
-1884.wav|ue , ngu iau1-ciau bu tsha1=deu , yi=le tau gho-se1 lu  lon  ghau men=kheu .
-1885.wav|zia=zia=non veh=iau1 lah tsho-sian li gho-'la gho-'la tan=seu ci1 , khu=i ke=fah toe-sin vah !
-1886.wav|ue , tshin ven=yi le theh ngu mo-zaon son ih-dih kau=tsy hau=vah ?
-1887.wav|hau-ku . non zyu lah sa=di=faon ?
-1888.wav|ngu ziu-zyu lah=nyu yoe=lu  lon  ghau .
-1889.wav|a1-'la pha-nyin poe-ku tson=deu li=shian tau non-ku tah=le 'ne .
-189.wav|shi1=maon yi huoe=shi kah=tsah li-veh .
-1890.wav|tu1=sau zen-kuaon1 hau son=tau ?
-1891.wav|non=iau1 son=tau a1-li tih ?
-1892.wav|ngu=iau1 son=tau zaon=he ven=nyi tsheh=pe=zo .
-1893.wav|tshin=non kau=su=ngu zian-si di=tsy .
-1894.wav|cin1=tsau1 zaon=poe=thi1 ziu khu=i son=tau , khua di=fi=seu1  nyoe yan=di .
-1895.wav|keh=meh ngu ten lah=he , non mo-zaon le au , tse-we !
-1896.wav|non zyu theh=tse1 tsoe=nyih tsy1=nga , ghe-yeu sa theh bih-gheh e=hau vah ?
-1897.wav|shiu1-sih nyih=ciah non khoe1 di=zy i=nga , ghe huoe=shi sa=di=faon chi tsoe=tsoe ?
-1898.wav|phah=tsau , tseh1=veh=ku zy ngu ih ghaon=nyih yu e=hau .
-1899.wav|geh=thau zi=bi iau1 lon=tau zia-chi ne=geh , non yon 'leh tu1=sau tsan geh zen-kuaon1 lon=tau a ?
-19.wav|vah tshu , ih=tshih zen=li .
-190.wav|ih=lu tsyu=i=oe1=zi .
-1900.wav|ngu ciah-teh zih=yeu=zy ih=tson yeu=ih geh shiu1-ghe .
-1901.wav|ngu veh=huoe=shi bau=tsheh-chi bah=sian1 , zan=tsaon lah oh=li sian1=phau1=wu kha-fi .
-1902.wav|yi hau=zian te in1=loh=jih lau=sa lau koe-shin=tshiu geh , r-tshia1 ghe zia-chi ton=cin .
-1903.wav|ngu-we zan=tsaon khoe1 zaon=he wah-ci1 , weh=tse ih-ka1-men we=lau tse1=di=zy=ci1 .
-1904.wav|tsho1-mo-tsian ngu ne=pe le=le , in1=we ih zaon nyi=deu chi=le zen-kuaon1 ze tah=theh .
-1905.wav|ngu ih=tshau1 ci1=ziu meh=ti geh , yeu-shi tan=tan , don=gho=phi khoe1=khoe1 .
-1906.wav|non na-nen ih yeu=khon1 ziu zaon=maon , tshon=laon kuoe=syu tan  , ih-ku ya=deu ze=vah din=geh ?
-1907.wav|non=yeu non-ku e=hau , ngu yeu ngu-gheh shin-tshiu , kue=non sa=zy=thi !
-1908.wav|ngu yeu lian=tsan da-yoh phiau=tsy lah=he , cin1=tsau1 kau ngu ih=dau chi da-yoh chi vah ?
-1909.wav|da sa=geh yoh ? saon1-na ngu zy pho 'men=sah theh=geh , iau1=meh ziu-da saon=phau1 .
-191.wav|tsoh-non liu=du=yu=khua .
-1910.wav|non geh-gheh nyin tsen1=zy gaon jiah jiah , da da-yoh , son son cin1=kueh , yeu=ih shiuih=mah liu=thon1 .
-1911.wav|peh1-ku yi=le ka1-ka1 oh=li ze=yeu teh yoh=kaon , da da-yoh veh zy=mae bi taon-ku ?
-1912.wav|lian=yan geh , yoh=zy li da-yoh meh , nyin=phau1 teh le=sah ken1 
-1913.wav|ban=yeu dau li , da-cia1 de=de=sin1 , lau=saon=geh .
-1914.wav|non khoe1 nyin-ka1 , tsu oe=mu lau , tsoh=yoh lau , seu=sen1 lau , koe=zy zaon .
-1915.wav|non geh-gheh nyin tsen1=zy ah1-moh=lin ih tsah1 , cia 'lin veh tshin1 !
-1916.wav|shiu1-ghe iau1 shiu1 'leh tsah=cin , shiu1=tsheh zin-diau phin=we kau1=syu=bin .
-1917.wav|ngu veh hau sin1=thi1=di chi-chi , sin1=bo1=kheh zu=zu , bau=bau sian1=yan=lu a .
-1918.wav|ngu yeu-zen-kuaon1 keh tse1 ban=yeu tshaon tshaon=ku1 , phau1=phau1-ba1 .
-1919.wav|taon a1-'la koe=tau zen-kuaon1 , yi la vu i cin khe sy thiau-chi=le 'leh .
-192.wav|gheu-we=yeu-ji .
-1920.wav|ih=mi chih chih ghon-zo kha-fi , ih=mi chih chih seh-lah si1=ti , ih=mi de=de=sin1 .
-1921.wav|yeu maon=loh tsoh-cia1 cian=sia tsoh ci=wah , gha-yeu siau chi=nyih=cia1 de tson=tson fah=ze=cin .
-1922.wav|" lau zaon=he " pha te li , ci-ku lau kheh-'la veh de tshaon=chi bin=de sen1=chioh .
-1923.wav|ngu tshaon kha-'la  , zon-siau zen-kuaon ku1=tshaon1 chi , ih=zeh tshaon tau cin-ku .1
-1924.wav|lau kheh-'la cian , veh kuoe yi sa-zen-kuaon1 sa zy=zaon .
-1925.wav|sin1=khoh ih=zoh pha te lah=lah zo ba1 li khe , sy-ku nyin nyeu=bi tshoe1 tshoe1 .
-1926.wav|non veh=shiau=teh zaon=he yeu koh=seh koh=yan geh " ba1 " , non-yeu gaon=theh !
-1927.wav|zaon=he sin1=hau noe-nyin , yeu-we phin1=min kon1=tsoh , yeu we-tsian shiu1-ghe tsin-yin=tau=ti .
-1928.wav|zyu=ku zen-kuaon1 yeu tshau=phiau keu , ngu=iau1 tau eu=tseu1 chi liu=yeu .
-1929.wav|han1-pah-lan-tan ngu geh=thaon1 liu=zen siu1=iau1 zeh-nyi=thi1 .
-193.wav|huoe=nyin=non tse le , tse-we .
-1930.wav|tsoh-non ih lu=laon=shian bah=sian1 khe=sin1 .
-1931.wav|men-tsau1 iau1=don=sen1 , de=zy ngu=tau yi=le sian1=tsy ghe-meh tsen=li hau .
-1932.wav|ih=tsaon zy=thi zy mo-zaon tau nyin-ghaon li chi 'ne nge tshau=phiau .
-1933.wav|oh , ngu kaon=kaon sian=chi=le , sen1-ven1 tsen veh=iau1 maon-ci-theh ta .
-1934.wav|iau1 veh=zy non di-sin1 ngu , zoe=bi na-nen gha-sian veh chi=le .
-1935.wav|ngu veh=sian tshen chi-tsho chi , zin=nyoe tseu teh-chi .
-1936.wav|non oe1=zi tau dah moh=tih=di i gheu , veh=iau1 maon-ci-theh tan tseh1 di=gho kau=su=ngu .
-1937.wav|ngu khen=din maon=ci 'leh ta yan=se , de=yi le i=cin theh e 'leh .
-1938.wav|zoh=thi1 thi1=chi theh hau 'leh , su=i a1-'la ciuih=din zy-cia1 khe-tsho tsheh-chi bah=sian1 .
-1939.wav|hu tsho-mo zaon ziu=iau1 khe , a1-'la 'mi-jian khu=i koe=tau .
-194.wav|hau bo=chi=le 'leh .
-1940.wav|zaon=he zeh=teh chi bah=sian1 geh di=faon zeh=le theh=tu1 .
-1941.wav|peh1-ku gha-yeu ti di=faon meh=sa chi-deu .
-1942.wav|waon-phu-kaon1 lian=ngoe tsoe hau=khoe1 , khu=i zu=lah=zoe li yeu=le .
-1943.wav|non khoe1 , phu=ton yeu ka-shi-tu1 kau1=zen ci=tsoh , ghe-yeu ton=faon min=tsyu1 .
-1944.wav|ngu-we zy te=yu=yoe , zen=waon miau , zaon=he lau=ka1 ken1-ka1 yeu-shin-tshiu .
-1945.wav|lah yi=oe1=lu kau1=ka kau1=deu khoe1 lian=mi geh zaon=he fon-kuaon1 , hah tia !
-1946.wav|ih-chioe teu1 we=le , ghe-hau khoe1=khoe1 nga=the jin=de ci=tsoh ya-cin .
-1947.wav|su=tseu1=wu zy zaon=he 'mu=tshin wu , ue=ue=chioh=chioh wan-kho1 liu=ku zy=tson1=sin1 .
-1948.wav|lau=tsau su=tseu1=wu u=zoe teh yeu heh yeu tsheu , non khu=i khoe1=khoe1 zi ci=nyi geh yan=tsy .
-1949.wav|zi=lian=nyi zy=tsen=fu ho1-liau da-lih chi , sy=teh su=tseu1=wu pi=tshin1 'leh .
-195.wav|sin1=sin1 ia , i=cin  ti  fen-liau1 .
-1950.wav|tse=ku ci=nyi , su=tseu1=wu yi=ngoe tsen1 iau1 zen=we zaon=he ih-diau lian=li=geh fon-cin si .
-1951.wav|yeu ku-nyin liu=yeu huoe=shi bau-liau yoe , ji-zeh zaon=he ciau1-chiu hau=bah=sian1 di=faon gha lau tu1-ku .
-1952.wav|ih=tau tshen1=thi1 , zaon-he-nyin ze=sian bau=tsheh-chi se=se=bu , se=se=sin1 .
-1953.wav|son-kaon1 geh tsoe bah=zy , tshin1=phu geh chioh=syu yoe , ka1-din geh=tshiu1=ia pu .
-1954.wav|ghe-yeu zo=se1 fon cin-chiu , din-se1-wu da-kuoe yoe , ton=faon loh=tseu1 lau .
-1955.wav|tsoe=jin yeu khe=phih 'leh tsyu1=cia1=koh liu=yeu=ti , tsen=kau1 deu-gheh faon-sen1 jiau=lih=sy iu=ciu .
-1956.wav|non zy kon1=pha tsheh-chi , ghe-zy in1=sy1 tsheh=kueh ?
-1957.wav|non=iau1 ciau1=ci=tsan tsau=phi , di1 hau=ci tsan piau=kah , be=hau tshi tsen .
-1958.wav|tshi=tsen tau yi=le=ghe m-meh 'ne-tau , ngu tsen1=zy cih=sah khua !
-1959.wav|tshin=non 'ne wu=tsau tsheh=zy peh ngu khoe1=khoe1 , ghe-yeu zeh=cin piau=kah di1-hau 'leh vah ?
-196.wav|non vah zy 'me=thi1  ti=tson chi le-ku ma .
-1960.wav|non lah zaon=he iau1 ten tu1=sau zen-kuaon1 ?
-1961.wav|non tsen=be zon sa-gheh-di-faon tsheh=cin ?
-1962.wav|non=yeu sa=geh meh-zy siu1=iau1 shian=he kue sen1=pau vah ?
-1963.wav|tshin non-zon geh=tah tseu , e1=mi zy ci-zo de , ci-zo ghan-li geh di=faon .
-1964.wav|zaon-he-nyin cih=huen1 , yeu-ku nyin-ka1 tsiu=syu zan-mi be=teh lau-da .
-1965.wav|fah=peh hau=ban=yeu geh tshin=thih laon=yeu sin1=laon=sin1=nyan gheh-in geh tsau=phi .
-1966.wav|sin1=laon ih=mi yeu boe=laon , sin1=nyan ih=mi yeu boe=nyan .
-1967.wav|cih=huen1 nyi=seh khe=sy , saon=faon ya=nyan iau1 kaon-ghe-gho , tsoh-wu yi la .
-1968.wav|tsen=huen1 nyin=tsy wu=zy , saon=faon wu=zen cih=huen1=ka=tsy .
-1969.wav|sin1=huen1 vaon li , yeu=faon ghon-tsau ho1-sen1 kue=yoe theh=tse1 ko1-tsy geh , thau=geh tshe=deu .
-197.wav|cin1=tsau1 na-nen khuen le=ciah 'leh 'la .
-1970.wav|zyu=theh tshin=cioe , we-tshin le 'leh zaon=sy1 , don=zy , da-ghoh tson1-ghoh siau-ghoh don-ghoh .
-1971.wav|nau=chi sin1=vaon le , khu=sian=r=tsy1 iau1 nau=man teh ih=thah=wu=du 'leh !
-1972.wav|yi=le 'lau-sy te=vah , zia-chi mi-sin khau=sy , men-tsau1 yeu-iau1 khau sy-liau .
-1973.wav|'lau-sy kau ya=nyan ze=zy khau=sy mi , ih=men=sin1-sy1 tsheh khau=di ke-khau .
-1974.wav|se1-fe=sy=tshy ma tshoe-khau=syu , shin=sy=don=tson tshin cia1-ciau1 , lon teh siau=noe khu teh=le ih=thi1=sy=ka .
-1975.wav|yi=le zaon=he ka1-ka1 ze=zy doh-san1 tsy-nyu lau , cia1 zan-te siau=noe geh doh=syu sian1 taon=kue tsyu .
-1976.wav|tsy-nyu be=yan zi zo-we ze zia-chi kue=sin1 , ciau1=yoh iau1 tsin-yin ke-keh .
-1977.wav| sy=ci zo-we , veh ton di=nau veh ton nga=nyu uaon=uaon we bu=bu ne .
-1978.wav|su=i tseh1 khoe1-ci ghoh-san1 lah=lah tih=li=tu='lu doh=nga=nyu , tih=lih toh loh tan=di=nau .
-1979.wav|peh1-ku , nga=nyu , di=nau te tu1=su nyin le-kaon , tau=ti ghe-zy ih-ku sin1-gheh zeh-veh .
-198.wav|khua=ti , khua=ti bo=chi=le .
-1980.wav|iau1 gau tsheh=ti min=daon le , te zo-we yeu=yon , tsoe=nyih ghe-zy iau1 ngan=ban=ngan geh .
-1981.wav|iau1 zen=kon1 , ghe-iau1 yeu koh=tson su=tseh , zian tshaon=zau=lih a .
-1982.wav|su=tseu1 wu=geh lau min=zy ciau " son-kaon1 " yeu-tshen " wu-son1-kaon1 " .
-1983.wav|kaon1-pi yeu diau-tsy1 wu , ciau " zaon=he phu " , ziu=zy yi=le=geh waon-phu-kaon1 .
-1984.wav|tau tshih=pah=tu1=nyi zi nyoe-zau1 zen-kuaon1 , ci=tsy 'leh zaon=he yoe .
-1985.wav|zon son-kaon1 , tshin1=phu ih=ta geh tsheh=thu=ven-veh taon=tson1 khoe1=tau .
-1986.wav|de=zy yi=le zen-chiu da-tu1-su di=faon , lah daon-zau1 i=zi ghe-zy he=the .
-1987.wav|zaon=he cia ve-yon , tsyu=iau1 zy ih=pah=loh-seh nyi=zi khe=bu=i gheu fah-sen1 geh pi-ho .
-1988.wav|zaon=he khe=bu=i gheu , tson1=si1 yon-gheh , ci1=seu1 pin1 shioh , yin=zen 'leh khuoe ta=geh ven-ho ven-we .
-1989.wav|taon=zy , kueh=gho , cin1-shi , thon1=zoh siau-seh , liu-yin=ku1=chioh , ze=zy sian1=taon liu-yin geh .
-199.wav|ngu lau sa du=geh , zoh=thi1 ya=li khuen vah zah .
-1990.wav|tu1=zy ven-ho he=nah pah=tshoe1 , ci=tsoh , tsheh=pe , nyu-loh , lon=daon san1=weh .
-1991.wav|taon=cin1 , he=pha ven-ho tsen1=lah tsyu=zeh sin1-gheh weh=lih fah=yan kuaon1-da .
-1992.wav|da zaon=he , faon-yi geh chi=pha gha-da , piau yi-liau tson1=si1 ciau1-we .
-1993.wav|yeu tson=nyin , ciau yi " lau kheh-'la " , zy-zon "  " theh=pi ku=le geh .
-1994.wav|te-yu sen1-vu=fen1-ven ku-nyin , ciau yi " pih tih san1-sy " .
-1995.wav|" chi=deu=bi " , " seu1=kueh=deu " , " tshoh=pih=ciah " .
-1996.wav|" men=khe=tsin1 tau ciu-seh men " , " geh=koh=deu ban-zah thi1=ho1=pe " , " me=deu=tshoh=tau=ha=r=pin " .
-1997.wav|zaon-he-nyin cian zaon=he gho ; zaon-he-nyin gha ze-we cian phu=thon1 gho .
-1998.wav|khe=kheu iau1 yeu li=mau , veh-kaon gho=tsoh ghe-gho .
-1999.wav|kon1-gon1 zan-gheh veh chih=shian1=i1 .
-2.wav|ngu a lau-hau-gheh .
-20.wav|non sen1=thi na-nen ?
-200.wav|non-we chi zaon=pe1 vah .
-2000.wav|loh=ten zen-kuaon1 , tsoe=ue tsho-tsy iau1 nyan-nyin .
-2001.wav|kon1-tsho kau1=deu iau1 zin-liau tse=zin .
-2002.wav|nyan piau=tsen lu=piau ken1 kue=ve ven=zy kaon-gho .
-2003.wav|tsho-sian li=shian tseh1=pau ze=min , veh=iau1 'lu=su .
-2004.wav|lau=zah bin ze=yuin=iu ze=iau1 tsau=ku .
-2005.wav|tshah=poh zaon=ka1 theh ne=khoe1 .
-2006.wav|gah=geh di=faon tshin pau=zy oe1=zin i1=tshy ba=de .
-2007.wav|gue=cin we-sen1 nyin-nyin tsen1=zy .
-2008.wav|tsu-ku thau-nyin huoe=shi geh siau=ban=yeu .
-2009.wav|zaon-he-nyin iau1=zyu=lih zaon=he sin1 yin=zian .
-201.wav|chi-gheh ia , ngu mo-zaon chi .
-2010.wav|zaon=he zon-le zy-ku he=nah pah=tshoe1 geh zen=zy .
-2011.wav|pen=di=nyin , nga le-nyin zi-sin1 gon1-tshaon zaon=he sin1 ven=min .
-2012.wav|tsu ih-ku khu=e=geh zaon-he-nyin !
-202.wav|khua=ti tshoe1 i1=zaon .
-203.wav|cin1=tsau1 yeu=ti lan , tshoe1 nyon=si=se1 .
-204.wav|ngu ghe=meh kha=mi le .
-205.wav|khua=ti chi kha=mi , seh=nga-tshy .
-206.wav|non=iau1 khua=ti 'leh .
-207.wav|ngu ghe-sian ho-tsaon le .
-208.wav|non tsau=ve sian=tshih sa ?
-209.wav|ngu tau te-we chi=tshih .
-21.wav|ngu lau-hau-gheh !
-210.wav|gha=ta poh=hau .
-211.wav|khua tseu , me=ciau1 koe=peh1-zaon pe1-tsho 'leh .
-212.wav|khua=ti , feu-tseh iau1 zy tau-liau .
-213.wav|ngu iau1 tsen=li vaon=ci .
-214.wav|ngu iau1 seu1=tsoh oh=tshoh i1=zaon .
-215.wav|ngu ghe-iau1 tshah=tshah de=tsy sau sau=di .
-216.wav|me=ciau1 tshin1=li leh-seh .
-217.wav|zoe=gheu nyau sah i1=zaon lian tsheh-chi .
-218.wav|ghe-iau1 ma=tshe , ma=nyoh , ma zeh-yon=phin .
-219.wav|vah iau1 maon-ci-theh ma=don zen=zin=syu .
-22.wav|ih-pe .
-220.wav|si i1=zaon , sau=ve , lau=maon=geh .
-221.wav|ten 'leh oh=li sian1 shiu1-sih ih=thi1 , pi zaon=pe1 ghe-iau1 chih=lih .
-222.wav|yi=le ngu gho-chi zen=li .
-223.wav|nyau=men=su hau .
-224.wav|sin1-gheh ih=thi1 khe=sy 'leh .
-225.wav|'ma='ma , cin1=tsau1 yeu ban=yeu tau=oh=li sian1=le bah=sian1 .
-226.wav|hau-ku , noe=siau=nyin ghe-zy siau=ku1=nyan a ?
-227.wav|zy ngu nyu-ban-yeu .
-228.wav|khua=ti nyau vaon=ci seu1=tsoh tshin1=saon .
-229.wav|hau-ku , ngu ih=din we tih lon hau-ku .
-23.wav|lau=vah hau-ku .
-230.wav|ciau 'ne pa-pa ma=ti tshe we=le .
-231.wav|kah=zy ngu geh nyu-ban-yeu yan=sih .
-232.wav|paon=non cia-zau ngu oh=li sian1=nyin .
-233.wav|kah=zy ngu geh ya=ya , na=na .
-234.wav|kah=zy ngu 'ma='ma .
-235.wav|yi zy ih-ku hau 'ma='ma .
-236.wav|ngu lau tsen1=zon a1-'la 'ma='ma geh .
-237.wav|a1-'la pa-pa ma=tshe chi-'leh .
-238.wav|yi tson=kue kon1=tsoh di=ih .
-239.wav|kah=zy ngu tsia-tsia .
-24.wav|zia=zia=non geh kue=sin1 .
-240.wav|kah=zy lin=huoe , a1-'la tsia-tsia geh e-nyin .
-241.wav|ngu=meh ku1=ku1 , di-di , me=me .
-242.wav|vah=ku , ngu yeu-ih-gheh siau nga=san1 .
-243.wav|yi tsan-liau lau=se geh , lau jian-tsaon geh .
-244.wav|yi liau-liau oh=li ziu nau=man 'leh .
-245.wav|a1-'la oh=li sian1=geh nyin=ze huoe=shi yi .
-246.wav|'ne oh=li sian1=nyin lau-hau-gheh .
-247.wav|a1-'la oh=li sian1=zy sy=sy=don=daon .
-248.wav|gho-thaon1 iau1=zy a1-'la cih=huen1 'leh .
-249.wav|we tih yeu r-tsy weh=tse nyu-r .
-25.wav|siau=waon , ku-zy sa=nyin a ?
-250.wav|yi ziu-we tih yeu nga=kon1 nga=bu .
-251.wav|tau=kah zen-kuaon1 , a1-'la tshin=cioe ziu ken1-ka1-tu1 'leh .
-252.wav|yan=sih , ngu ghe-yeu lau=tu1 hau=ban=yeu .
-253.wav|ih=dau tsan-da geh ban=yeu paon doh=syu zen-kuaon1 geh ban=yeu .
-254.wav|a1-'la kue=yi ze lau-hau-gheh .
-255.wav|yeu-ci1-we ngu cia-zau 'na nyin=teh .
-256.wav|non thin , lin=ciu1=vah shiau=teh liau-liau tshau sa .
-257.wav|a1-'la kaon=kaon poe=tau kah tih .
-258.wav|zy ih te cih=huen1 sy-ng=nyi geh fu-tshi1 .
-259.wav|cin=zan tshau=sian1=mo geh .
-26.wav|ku-zy ngu ban=yeu .
-260.wav|lian-ku nyin tson=kue kuoe=ti vah ih=yan .
-261.wav|theh ve-liau .
-262.wav|vah=ku , yi=le hau ciau1-kue 'leh .
-263.wav|ngu paon yi la kaon , de=ban=yeu geh zen-kuaon1 zy ban=yeu .
-264.wav|cih=huen1 i gheu , in=ke zy kan1 kah hau-ku ban=yeu .
-265.wav|ngu cin=zan iah yi la se=bu , liau=thi1 .
-266.wav|a1-'la a zen=we hau=ban=yeu 'leh .
-267.wav|a1-'la yeu lau=tu1 gon1-don e=hau .
-268.wav|ze huoe=shi zy=zoe .
-269.wav|yi huoe=shi seh-in .
-27.wav|nyin=teh non lau khe=sin1 geh .
-270.wav|ngu huoe=shi bo=se1 .
-271.wav|a1-'la ze zy liu=yeu=mi .
-272.wav|khua=iau1 tseu-pi a1-'la kueh-cia1 geh se1=se1=syu=syu 'leh .
-273.wav|a1-'la cin1=nyi a1 iah-hau chi shian1=kaon , au=men .
-274.wav|tsian-le sian=iau1 tau a1-'la kueh-cia1 geh=pau=tau de ue .
-275.wav|ngu liau-liau zi=kueh yeu lau=tu1 ban=yeu .
-276.wav|yeu-ciu ghe-gho kaon='leh hau .
-277.wav|ze=fu=vah zy ih=pe=tsy geh ban=yeu .
-278.wav|ban=yeu ze zy ih=pe=tsy geh ze=fu .
-279.wav|non hau , non-ku sen lau=tsau seu1=tau 'leh .
-28.wav|non kue-sin ?
-280.wav|lau=vah hau=i-sy1 geh , meh jih zy we-sin po=non .
-281.wav|yi=le di-sin nyih=lau fah=dah=geh .
-282.wav|gho-thaon1 paon=ngu=fah di=tsy yeu=ji hau 'leh .
-283.wav|ngu ku-maon tsy zy  
-284.wav|ngu yi=le yeu=ti le 'leh .
-285.wav|lau-zan zen-kuaon1 meh=sia sen po=lon 'leh .
-286.wav|ghe-zy si1-chi tan=tsah di=gho soe='leh .
-287.wav|ue , siau li=zy vah ?
-288.wav|vah zy , non zy sa=nyin ?
-289.wav|ngu zy liu=kaon .
-29.wav|ngu sin=liu , ciau liu=nyoh
-290.wav|nen-paon ngu ciau-sen siau li=vah ?
-291.wav|non ten=ten , yi hau=zian tsheh-chi 'leh .
-292.wav|ten yi we le=nyan yi tan di gho=po ngu .
-293.wav|yi shiau=teh non di=gho ghau=deu vah ?
-294.wav|non liu=liu non-ku sin=min theh=di=gho .
-295.wav|ngu geh seu=ci1 ghau=deu zy   .
-296.wav|hau-ku , ngu ci-gho-le 'leh .
-297.wav|ku  fen-tson1 nyan yi we di gho=po non .
-298.wav|siau=li , kaon=kaon yeu=tseh di=gho zin=non .
-299.wav|zy sa nyin=tan le-ku .
-3.wav|non tsoe=jin na-nen ?
-30.wav|non-ciau sah min=zy a ?
-300.wav|kah zy yi geh sin=min theh=di=gho .
-301.wav|ngu , shiau=teh 'leh , zia=zia .
-302.wav|ue , non hau , ngu sian zin=liu si1-san1 .
-303.wav|tshin men-non zy a1-li we ?
-304.wav|tshin=non kaon=shian=ti .
-305.wav|ngu thin=vah tshin1=saon non kaon ghe-gho .
-306.wav|ngu zin=liu=kaon .
-307.wav|non hau=zian tan tshu=theh di=gho 'leh .
-308.wav|vah hau=i-sy1 , tshin paon=ngu=tsoe ku=chi le=se1 vah ?
-309.wav|ngu zin=liu=kaon yeu cih zy=thi .
-31.wav|ngu-ciau tsan=ve .
+1374.wav|bɑ=ɟy
+1375.wav|ʦoʔ=ɟy
+1376.wav|pe=təŋ
+1377.wav|gɔ=r
+1378.wav|ŋã ciɐʔ=dɤ
+1379.wav|pʰɪɲ=pʰã=ɟy
+138.wav|noŋ tɕø1 gəʔ i1=zɑ̃ lɔ təʔ=tʰi gəʔ .
+1380.wav|de ɟy
+1381.wav|tã=pʰɪɲ=pʰã
+1382.wav|kɔ1=r=fu=ɟy
+1383.wav|pɔ=lɪɲ ɟy
+1384.wav|poʔ=kʰəʔ=ɕioŋ
+1385.wav|tã=loʔ-de
+1386.wav|z=mɔ=ɟy
+1387.wav|se1=mɔ ɟy
+1388.wav|tʰi=tɕɔ1
+1389.wav|toʔ=kʰe-ɟy
+139.wav|noŋ cɪɲ1=ʦɔ1 lɔ=hɔ kʰø1-ku .
+1390.wav|dɔ se1=ɦiã
+1391.wav|tʰiɔ-kɔ1
+1392.wav|tʰiɔ-ɦiø
+1393.wav|pəʔ=wu
+1394.wav|ɦiɤ=ioŋ
+1395.wav|zz=ɦiɤ=ioŋ
+1396.wav|ɦiɤ=ioŋ=zz
+1397.wav|fe1=kəŋ1=tɤ
+1398.wav|pʰe1 ŋe
+1399.wav|pã=ɟɪʔ
+14.wav|ɦi=le 'ləʔ he=ʦəŋ=be kɔ1=kʰɔ .
+140.wav|noŋ lɔ ɕɪʔ=ɦɪɲ ɲɪɲ=gəʔ .
+1400.wav|kɑ1-ɦiɤ
+1401.wav|tɕɔ=kəʔ
+1402.wav|miɔ sɐʔ
+1403.wav|həʔ=sɔ1
+1404.wav|ʦɔ=lɑ̃ hɔ , zəŋ si1-sã1 !
+1405.wav|zz ʦã si1-sã1 ɑ , noŋ hɔ !
+1406.wav|ʦã ɦiø vəʔ ci , ŋu lɔ siã-ɲi noŋ-ku !
+1407.wav|ŋu-ɦɑ zã=zã siã=le mɑ̃ mɑ̃-noŋ .
+1408.wav|cɪɲ1=ʦɔ1 bã=tɔ noŋ ŋu ciɔ1-kʷe kʰe=sɪɲ1 .
+1409.wav|noŋ gəʔ tɕiã səŋ1=tʰi hɔ=vɐʔ ?
+141.wav|noŋ-ku ɪɲ1=vəŋ kɑ̃='ləʔ ciɔ1-kʷe hɔ .
+1410.wav|səŋ1=tʰi me-hɔ .
+1411.wav|noŋ ʦø=ɟɪɲ hɔ=vɐʔ ?
+1412.wav|ɦe-hɔ , vəʔ du-mɑ̃ , noŋ-ɲi ?
+1413.wav|gəʔ tɕiã li ŋu lɔ=mɑ̃=gəʔ !
+1414.wav|ʦã ɐʔ1-ɦi , zz ŋu le 'ləʔ .
+1415.wav|tɕɪɲ ʦɪɲ=le !
+1416.wav|le , le , zu ɑ , tɕɪɲ zu .
+1417.wav|məʔ=sɑ hɔ ʦɔ1=de noŋ-ku .
+1418.wav|noŋ iɔ1=cʰɪʔ kʰɑ-fi ɦe-zz iɔ1 cʰɪʔ=zo ɑ ?
+1419.wav|ɐʔ1-ɦi vəʔ=iɔ1=kʰɐʔ=cʰi , tɔ=pe1 bɐʔ=kʰe=sz cʰɪʔ cʰɪʔ=hɔ 'ləʔ .
+142.wav|noŋ-ku kʰɤ=ɲy ʦəŋ1=hɔ .
+1420.wav|cɪɲ1 zɔ1-noŋ zɑ̃=məŋ=le , ɦiɤ=ti sɑ=zz=tʰi ɑ ?
+1421.wav|ŋu ɦiɤ=ti siɔ zz=tʰi siã tɕɪɲ=noŋ pɑ̃=mɑ̃ .
+1422.wav|noŋ=iɔ1 ʦɤ 'lɑ ?
+1423.wav|zəŋ-kʷɑ̃1 vəʔ ʦɔ 'ləʔ , ŋu=iɔ1 we-cʰi 'ləʔ .
+1424.wav|ʦe zu ɪʔ=ɕɪʔ hɔ=le .
+1425.wav|vəʔ zu 'ləʔ , ŋu-we ɦiɤ=ti zz=tʰi 'ləʔ he .
+1426.wav|kəʔ=məʔ ŋu soŋ=soŋ noŋ .
+1427.wav|vəʔ=iɔ1 soŋ=təʔ=gəʔ , ŋu zz-ciɑ1 ʦɤ .
+1428.wav|vəʔ=iɔ1=cɪɲ gəʔ , soŋ=noŋ tɔ di=tʰi1=kʰɤ .
+1429.wav|ziɑ=ziɑ , ziɑ=ziɑ .
+143.wav|noŋ ʦəŋ1=vɐʔ ɦioŋ-i .
+1430.wav|ʦɤ=hɔ , ʦɤ=hɔ , gəʔ=tɐʔ ʦe=təŋ kʰe=ɪʔ=kʰe .
+1431.wav|ly=bu , ly=bu , vəʔ=iɔ1 soŋ 'ləʔ .
+1432.wav|ʦe-we ! ɦiɤ=kʰoŋ1 tu1=le bɐʔ=siã1=siã1 !
+1433.wav|ɪʔ=dɪɲ le . pɑ e , pɑ e !
+1434.wav|mo=ve noŋ 'ləʔ .
+1435.wav|ne loŋ təʔ=noŋ cɪɲ1=ʦɔ1 cʰɪʔ=lɪʔ sɐʔ 'ləʔ !
+1436.wav|vəʔ tɐʔ=kɑ gəʔ !
+1437.wav|noŋ-we ɦiɤ sɑ=gəʔ zz=tʰi iɔ1 ŋu pɑ̃=mɑ̃ vɐʔ ?
+1438.wav|məʔ=sɑ 'ləʔ .
+1439.wav|ŋu lɔ vəʔ hɔ=i-sz1 .
+144.wav|noŋ ku=ʦiã 'ləʔ .
+1440.wav|ziɑ=ziɑ=noŋ !
+1441.wav|ziɑ=sɑ ! vəʔ=iɔ1 ziɑ , ŋu məʔ=kʷe=ɦi gəʔ .
+1442.wav|ziɑ=ziɑ=noŋ ɲiã ɪʔ ɲiã hɔ vɐʔ ?
+1443.wav|ɔ , gəʔ=tɐʔ noŋ hɔ ʦɤ=vɐʔ ?
+1444.wav|oʔ=ɦioʔ , zɑ̃ zɐʔ noŋ 'ləʔ , te=vəʔ=cʰi !
+1445.wav|vəʔ=iɔ1=cɪɲ gəʔ .
+1446.wav|tɕɪɲ məŋ-noŋ kʷe-sɪɲ ?
+1447.wav|ŋu sɪɲ=li .
+1448.wav|dɑ mɪɲ-ciɔ sɑ ?
+1449.wav|dɑ mɪɲ-ciɔ li=tɕɔ1 .
+145.wav|wɑ̃=ɟiã , noŋ kʰø1=kʰø1 , kɐʔ di=fɑ̃ tu1=sɔ pʰiɔ1=liã ɑ .
+1450.wav|ɦi sɑ-ɲɪɲ ɑ ?
+1451.wav|ɦi zz wɑ̃ ɕiɔ mɪɲ .
+1452.wav|ɦi sɑ=di=fɑ̃ ɲɪɲ ?
+1453.wav|ŋu zz zɑ̃-he-ɲɪɲ .
+1454.wav|ɦi sɑ=di=fɑ̃ le-ku ?
+1455.wav|ɦi nø-cɪɲ1 le-ku .
+1456.wav|tɕɪɲ məŋ-noŋ lɐʔ=lɐʔ ɑ1-li tɐʔ koŋ1=ʦoʔ ?
+1457.wav|nɔ , gəʔ-ɦəʔ-zz ŋu gəʔ mɪɲ=pʰi .
+1458.wav|noŋ tɔ zɑ̃=he le 'ləʔ tu1=sɔ zəŋ-kʷɑ̃1 'ləʔ ?
+1459.wav|ŋu le 'ləʔ ciɔ1-kʷe zəŋ-kʷɑ̃1 'ləʔ .
+146.wav|cʰi1=sz , tɕɔ=di , moʔ vɑ̃=ʦz , tʰəʔ=lɪɲ 'ləʔ .
+1460.wav|noŋ zɑ̃-he-ɦe-ɦo ciã təʔ=le vɐʔ ?
+1461.wav|tʰɪɲ zz tʰɪɲ=təʔ=toŋ ɪʔ=ŋe=ŋe , kɑ̃-zz ciã=vəʔ le-ku .
+1462.wav|noŋ zz ʦu sɑ=gəʔ ?
+1463.wav|ŋu zz ɑ1-'lɑ koŋ1=sz1 gəʔ tʰe1=siɔ=ɦiø .
+1464.wav|e1=mi ɪʔ=we zz ʦu sɑ=gəʔ ?
+1465.wav|ɦi ɦɑ-zz tʰe1=siɔ=ɦiø .
+1466.wav|gəʔ we ɲy-zz zz tʰe1=siɔ=ɦiø=vɐʔ ?
+1467.wav|vəʔ zz-ku , ɦi zz ɐʔ1-lɐʔ-ɦəʔ ɲiɪʔ=vu ʦz=kʷø .
+1468.wav|lɪʔ=lɐʔ tɕɑ̃=kʰɤ dɤ-ɦəʔ gəʔ-ɦəʔ ɲɪɲ zz   ɲɪɲ 'nɑ  cɪɲ=li , te=vɐʔ ?
+1469.wav|te-ɦəʔ , ɦi zz ɑ1-'lɑ cɪɲ=li .
+147.wav|le=tʰi1 , bɐʔ ɦɪɲ , lɔ=lɪɲ lɔ lɪɲ-ɦəʔ .
+1470.wav|gəʔ ŋe=ɲɪɲ ʦu sɑ=zz=tʰi gəʔ ?
+1471.wav|dɑ-ke zz=ti koŋ1=sz1 ɦiø-koŋ1 .
+1472.wav|ɦi lɑ vəʔ=zz koŋ1=sz1 ɦiø-koŋ1 ɑ ?
+1473.wav|gəʔ ŋu tɔ vəʔ dɑ ɕiɔ=təʔ .
+1474.wav|cɪɲ1=ʦɔ1 lɔ=vəʔ hɔ=i-sz1 gəʔ , ciɔ-noŋ təŋ 'ləʔ kɑ-ɕi-tu1 zəŋ-kʷɑ̃1 .
+1475.wav|vəʔ=iɔ1=kʰɐʔ=cʰi , ŋu məʔ=kʷe=ɦi gəʔ .
+1476.wav|gəʔ-ɦəʔ-zz ɟɪʔ=kʰəʔ si1-sã1 .
+1477.wav|ɦi zz ŋu-ɦəʔ bã=ɦiɤ . ɲɪɲ 'nɑ=ɲɪɲ=təʔ vɐʔ ?
+1478.wav|ɑ1-'lɑ vəʔ ɲɪɲ=təʔ .
+1479.wav|ŋu le pɑ̃ ɲɪɲ 'nɑ ciɑ-zɔ ɪʔ-ɕiɑ .
+148.wav|tɕɪɲ=noŋ vɐʔ iɔ1 cɪʔ .
+1480.wav|tɕɪɲ=vəŋ , gəʔ we ɲy-zz zz sɑ-ɲɪɲ ?
+1481.wav|ɦi ciɔ ʦəŋ1=ɲi .
+1482.wav|ɲɪɲ=təʔ ɲɪɲ 'nɑ , ŋu lɔ kɔ1=ɕɪɲ gəʔ .
+1483.wav|dɑ-ciɑ1 ge bã=ɦiɤ , ɦo-tʰɑ̃1 tu1=tu1 kʷe=ʦɔ .
+1484.wav|tɕɑ̃ ʦəʔ1 ku1 pəʔ dɑ-ciɑ1 tʰɪɲ hɔ vɐʔ ?
+1485.wav|hɔ-ku . tɕɑ̃ ʦəʔ1 sɑ ?
+1486.wav|ŋu ʦəʔ1 ku1=tɕɑ̃ 'ləʔ hɔ vəʔ hɔ ?
+1487.wav|me-hɔ , vəʔ tʰe1=pe .
+1488.wav|noŋ kʰø1 liã=ʦã ʦɔ=pʰi ɑ1-li ʦã=hɔ ?
+1489.wav|ŋu siã=zz gəʔ ʦã=hɔ .
+149.wav|ze-we tɪʔ hɔ-ku .
+1490.wav|gəʔ-ɦəʔ məʔ-zz zz noŋ-ku vɐʔ ?
+1491.wav|gəʔ zz ŋu gəʔ .
+1492.wav|gəʔ ʦɑ̃ zz=tʰi noŋ ɕiɔ=təʔ vɐʔ ?
+1493.wav|nɑ-nəŋ vəʔ=ɕiɔ=təʔ ɲi ?
+1494.wav|ŋu we=sɑ ɪʔ=dɪɲ=iɔ1 ɕiɔ-təʔ-'ne ?
+1495.wav|noŋ vəʔ kʷe=sɪɲ1 , su=i vəʔ=ɕiɔ=təʔ .
+1496.wav|ŋu lɔ ɕi=hʷø noŋ-ku .
+1497.wav|ŋu zy=zz voʔ=tʰɪʔ noŋ .
+1498.wav|ɦi ʦu-ku zz=tʰi noŋ ʦe=zəŋ=gəʔ vɐʔ ?
+1499.wav|ŋu=tɑ̃ zø doŋ=i gəʔ .
+15.wav|de=ŋu=pɑ̃ 'ne oʔ=li siã1 məŋ-hɔ .
+150.wav|məʔ sɐʔ hɔ te=sɪɲ1 gəʔ .
+1500.wav|noŋ tɐʔ=ɪɲ vəʔ 'lɑ ?
+1501.wav|vəʔ tɐʔ=ɪɲ , ŋu zoŋ-le məʔ tɐʔ=ɪɲ ku .
+1502.wav|ɦi kʰɔ  ,  , noŋ ɕiɔ=təʔ vəʔ 'lɑ ?
+1503.wav|ŋu vəʔ dɑ=tɕɪɲ1 sɑ̃1 .
+1504.wav|he=tʰe kɔ1=dɤ noŋ kɔ1=ɕɪɲ cʰi vɐʔ ?
+1505.wav|noŋ ɑ1 zz vəʔ ʦəŋ=be cʰi ?
+1506.wav|iɔ1 ŋu ʦu pɔ-mu , ŋu vəʔ zɪɲ=ɲiø cʰi .
+1507.wav|ŋu vəʔ-we fe1 te ɦi cʰi-ɦəʔ .
+1508.wav|noŋ nɑ nəŋ-doŋ ɦɑ vəʔ=doŋ gəʔ ?
+1509.wav|sɑ-ɲɪɲ tɕe ɦi ! ŋu tɕe ɦɑ vəʔ=iɔ1 tɕe ɦi !
+151.wav|vɐʔ we tɪʔ kɐʔ tɕɑ1=gəʔ .
+1510.wav|kʰʷɑ ɪʔ=ti hɔ=vɐʔ !
+1511.wav|cɪʔ sɑ cɪʔ 'lɑ !
+1512.wav|noŋ nɑ-nəŋ=ciɑ me=gəʔ 'lɑ !
+1513.wav|we=sɑ vəʔ tʰɪɲ=ŋu=gəʔ ɦe=ɦo ?
+1514.wav|nɑ-nəŋ vəʔ kɔ=su ŋu nɑ-nəŋ ʦu ?
+1515.wav|noŋ sɑ=zz=tʰi iɔ1 mo ɲɪɲ=ciɑ1 ?
+1516.wav|sɑ=tʰi vəʔ ʦɔ=ti=ciã !
+1517.wav|ciɔ-noŋ cʰi we=sɑ=lɔ vəʔ cʰi ?
+1518.wav|we-le-we-cʰi ze we='ləʔ noŋ , su=i vəʔ cʰi !
+1519.wav|noŋ gəʔ bɑ ɲɪɲ tʰe1-pe1 vəʔ 'lɑ !
+152.wav|zz=tʰi ʦoŋ=kʷe ɦiɤ tɪʔ ciɑ-cyɪʔ gəʔ be=fɐʔ=gəʔ .
+1520.wav|noŋ su=ʦəʔ kɔ1 ɪʔ=ti hɔ=vɐʔ !
+1521.wav|ŋu ʦəŋ1 vəʔ hɔ=i-sz1 !
+1522.wav|ŋu məʔ tʰɪɲ tɔ lɔ .
+1523.wav|ŋu ʦu-liɔ zəʔ=le tʰəʔ tɐʔ=ʦiã 'ləʔ .
+1524.wav|zəʔ=le zz vəʔ hɔ=i-sz1 , ʦəŋ1 te=noŋ vəʔ cʰi !
+1525.wav|məŋ=kʰe vəʔ kʰe !
+1526.wav|gəʔ diɔ=iã kɤ=tʰoŋ1 hɔ ɦi 
+1527.wav|gəʔ foŋ1=səŋ tʰəʔ ŋu ci tʰəʔ ɦi !
+1528.wav|oʔ=tɕoʔ i1=zɑ̃ cʰi dɑ dɑ ɦi !
+1529.wav|noŋ-cʰi ciɔ ɦi le .
+153.wav|vɐʔ iɔ1 tu1 siã-liɔ .
+1530.wav|ŋu tɑ ɲɪɲ 'nɑ cʰi .
+1531.wav|tʰəʔ ŋu le !
+1532.wav|kʰʷɑ=ti cʰi ! me=tʰəŋ1=tʰəŋ1 , moʔ toʔ=toʔ ʦu=sɑ !
+1533.wav|təŋ=təŋ ŋu , me-me-ciɔ !
+1534.wav|nɔ , pəʔ=noŋ !
+1535.wav|tɕɪɲ zɔ1-zi ɪʔ=bu .
+1536.wav|ʦɤ ku=cʰi ɪʔ=ŋe !
+1537.wav|ʦɤ iɑ ! dɑ-ciɑ1 ʦɤ cʰi=le !
+1538.wav|cʰɪɲ=cʰɪɲ ciɔ fɑ̃ !
+1539.wav|zɪɲ ɪʔ=ti hɔ=vɐʔ !
+154.wav|kɐʔ=ɦiɤ sɑ=hɐʔ ɲɪɲ=gəʔ .
+1540.wav|ŋu zəŋ-kʷɑ̃1 le vəʔ=ɟɪʔ le , noŋ kʰʷɑ=ti hɔ vəʔ 'lɑ !
+1541.wav|bɑ=hɔ=de , vəʔ=iɔ1 tɕɐʔ=de !
+1542.wav|vəʔ hɔ-cʰi hɐʔ bã=gəʔ !
+1543.wav|noŋ vəʔ=iɔ1 le tɔ de hɔ vəʔ 'lɑ !
+1544.wav|noŋ vəʔ=iɔ1 hɐʔ-kɑ̃ !
+1545.wav|ɑ1-'lɑ tʰəʔ lɔ-pɑ lɔ='mɑ i=cɪɲ fəŋ1-kʰe zz fəŋ1-kʰe cʰɪʔ-liɔ .
+1546.wav|ŋu li=pɑ=tʰi1 zã=zã tɔ zã-ɲɪɲ-lɔ-dɤ tɐʔ=cʰi pɑ̃ ɦi lɑ ʦu ti lɪʔ=cʰi sã1=wəʔ .
+1547.wav|ɑ1-'lɑ cɪɲ1=ɲi iɔ1=pɑ̃ ɐʔ1-koŋ1 lɔ=dɤ ʦu pɐʔ-səʔ dɑ-zɤ .
+1548.wav|ŋɑ=sã1 cɪɲ1=ɲi kʰɔ dɑ-ɦoʔ cʰyɪʔ 'ləʔ ci-fəŋ1 məʔ kʰɔ=ʦɪɲ zoŋ=ti=dɑ-ɦoʔ .
+1549.wav|ɑ1-'lɑ piɔ=me pø=ɲi=zi ɦiã=siɔ=nø ɦiã-liɔ ɪʔ-ku dɑ=bø r-ʦz .
+155.wav|ŋu li-ciɑ noŋ-ku sɪɲ1=zɪɲ .
+1550.wav|ɟy='mɑ lɑ te-we vəʔ cɪɲ-cʰi , ɦi ɦo-kɑ̃ i ɦɤ cʰi-ʦu ŋəʔ sɔ sɤ1=zəʔ tɔ me-hɔ .
+1551.wav|ɲiã=ɟy 'lɑ-ʦã ɦiø=vəʔ cʰi-'ləʔ , ɦi cɪɲ zã ɪʔ-kɑ1=dɤ lɐʔ oʔ=li tʰəʔ i=cʰi .
+1552.wav|cɪɲ1=ʦɔ1 ɑ1-'lɑ ɪʔ-kɑ1-məŋ ze=tɔ ɦiɑ=soʔ tɐʔ=cʰi bɐʔ siã1=hɔ vɐʔ ?
+1553.wav|noŋ kʰø1 mɑ ti=sɑ gəʔ məʔ-zz pəʔ ɦi cʰɪʔ cʰɪʔ ?
+1554.wav|ŋu=mɑ hɔ 'ləʔ , liã=ɦəʔ si1=ɦiã=tɕø , ŋ=cɪɲ1 bɪɲ=ku , ɦe-ɦiɤ zəʔ ʦɐʔ1 hɑ .
+1555.wav|lɐʔ=lɐʔ gəʔ=tɐʔ zo=səʔ li bã=dɤ , zɪɲ-diɔ vəʔ tʰe1-pe1 .
+1556.wav|noŋ iɔ1=cʰɪʔ sɑ zo ? le=wu ɲɪɲ=moŋ ɦoŋ-zo həʔ=həʔ hɔ=vɐʔ ?
+1557.wav|ʦe=loŋ=ti ko1-ʦz , iɔ1=ku , ɦã-ɲɪɲ lɔ=sɑ poʔ=poʔ .
+1558.wav|wɑ̃=ɕioŋ1 , noŋ ɦi=le lɐʔ=lɐʔ bɔ sɑ sã1-i 'ləʔ ?
+1559.wav|gəʔ liã-ɲiɪʔ koŋ1=ʦoʔ ŋu we=dɤ tʰəʔ-liɔ , ɦo-gəʔ-ɦiɪʔ ɦiɤ-kɑ1 doʔ=ʦz koŋ1=sz1 pʰɪɲ ŋu-cʰi .
+156.wav|noŋ ɪɲ=ke uɑ̃ hɔ-ku ɪʔ=mi kʰø1 .
+1560.wav|lɔ=ɕioŋ1 ɦiɤ=ɕyɪʔ-dɤ gəʔ ! vəʔ ziã ŋu si-ɦiã-kʷɑ-cʰi gəʔ te-we li u lɐʔ=he .
+1561.wav|noŋ ɪɲ=ke tʰiɔ-zɔ1 , ŋu ciɑ-zɔ noŋ tɔ ɑ1-'lɑ li=cɪɲ1 gəʔ koŋ1=sz1 cʰi-ʦu .
+1562.wav|noŋ-ku ɲi-zəʔ si=pɔ1 tʰɑ foŋ1=fu le , ʦu ʦɑ̃-wɑ̃ səʔ=ci wø=zi le=se .
+1563.wav|pɑ̃=noŋ tʰi1=mo=ve 'ləʔ !
+1564.wav|bã=ɦiɤ dɔ li , ŋu kɑ̃-tɕəʔ 'ləʔ məʔ , zy pɑ̃=mɑ̃ pɑ̃ tɔ=ti .
+1565.wav|ŋu ɕiɔ=təʔ noŋ-we le-ku !
+1566.wav|ŋu vəʔ=le məʔ sɑ-ɲɪɲ le-ɑ ?
+1567.wav|noŋ ʦəŋ1=ciɑ hɔ-ɑ ?
+1568.wav|ŋu te bɪʔ-ɲɪɲ ze=vəʔ hɔ , ɪɲ1=we noŋ fɐʔ diɔ-dɤ ciɔ-ŋu le-kɑ̃ kɑ̃-ɦe-ɦo .
+1569.wav|kəʔ=məʔ noŋ bɪɲ=dɔ kɐʔ tʰəʔ ɦi hɔ=le .
+157.wav|noŋ=iɔ1 zɪɲ ʦø-du gəʔ nu=lɪʔ cʰi wø=zəŋ .
+1570.wav|ŋu tae=fi ɲiɪʔ=ciɐʔ ku=təʔ i=tʰəʔ le !
+1571.wav|ŋu tɔ ciɐʔ-zɐʔ me-hɔ gəʔ .
+1572.wav|ŋu-we tɪʔ ɦɤ hʷe ɪʔ=pe=ʦz vɐʔ ?
+1573.wav|vəʔ=de 'ləʔ ! ɑ1-'lɑ tɔ ʦɤ1=ʦɑ̃ cʰi bɐʔ siã1=hɔ vɐʔ ?
+1574.wav|ɦi lɑ liã-kɑ1-dɤ gəʔ e=zɪɲ , i=cɪɲ=səŋ1 'ləʔ ɪʔ-ku de-kɑ .
+1575.wav|ŋu kɑ̃=kɑ̃ ɕiɔ=təʔ noŋ lɐʔ sã1-mɔ-bɪɲ , kəʔ-lɔ ɦo ʦe1=pe1=le mɑ̃ mɑ̃-noŋ .
+1576.wav|ŋu ɪʔ=ti=ti siɔ=mɔ=bɪɲ , noŋ ɦioŋ-vəʔ-zɐʔ le=kʰø1 ŋu-ɦəʔ !
+1577.wav|noŋ ɪʔ=ɕiã səŋ1=tʰi hɔ le-si gəʔ , nɑ-nəŋ lɐʔ=məʔ sã1=dɤ zz i=ɦiø 'ləʔ ?
+1578.wav|zz-ku iɑ , ɲi=ci dɑ-liɔ , cɪɲ1=ɲi sz-səʔ ɲi-sø 'ləʔ .
+1579.wav|lɔ=ʦɔ sɪɲ1=zɑ̃ zoŋ-le məʔ=fɐʔ=ɦi mɔ=bɪɲ , su=i gəʔ=tʰɑ̃1 ɦiɤ=ŋe tɕu=sɤ vəʔ=ɟɪʔ .
+158.wav|vɐʔ iɔ1 hʷe1=sɪɲ1 , ʦe=sz ɪʔ=tʰɑ̃1 .
+1580.wav|ne ɦo-tʰɑ̃1 , te=səŋ1 tʰi tɕi1-ve vəʔ hɔ dɑ-i , sã-təʔ dɑ-ciɑ1 te=sɪɲ1 .
+1581.wav|gəʔ=tʰɑ̃1 ʦɪɲ=i=ɦiø , ʦe ɕiɔ=təʔ səŋ1=tʰi ɟi=kʰɑ̃1 ʦø=ʦø iɔ1=cɪɲ .
+1582.wav|ne iɔ1=cɪɲ zã tø li tø li . ŋu=mɑ 'ləʔ ti=pu ɦiɐʔ=po noŋ cʰɪʔ .
+1583.wav|cɪɲ1=ʦɔ1 ɦiɑ=kʰʷɑ=dɤ tɕɪɲ=noŋ pɑ̃ ŋu 'ne gəʔ=ti  dɪʔ=pʰi tɑ we-cʰi .
+1584.wav|noŋ tɔ zz-vɑ̃-ke li ɪʔ=po lɑ̃=dɤ tʰəʔ ŋu 'ne-le .
+1585.wav|gəʔ liã foŋ1=səŋ noŋ pɑ̃ ŋu ci=tʰəʔ hɔ=vɐʔ ?
+1586.wav|tɕɪɲ=noŋ le pɑ̃ ŋu kʰø1=kʰø1 , tɕɤ1=sz mo-doŋ wɑ-tʰəʔ 'ləʔ vɐʔ ?
+1587.wav|ŋu soʔ=sɪɲ pɑ̃=noŋ 'ne ɪɲ=ɦioŋ=ɲiø=ɟi tʰoŋ=tʰoŋ diɔ tʰəʔ ɦi .
+1588.wav|təŋ=kʰe vəʔ liã 'ləʔ , noŋ pɑ̃ ŋu le=kʰø1 kʰø1=hɔ vɐʔ ?
+1589.wav|lɐʔ=məʔ ɪʔ=tʰɑ̃1 tɕɪɲ=noŋ le , noŋ=iɔ1 tʰəʔ ŋu tɪɲ=ʦəŋ1 ti=ʦu ʦu=hɔ !
+159.wav|kɑ1-ɦiɤ , ʦəŋ1=ʦoʔ cʰi=le .
+1590.wav|ŋu ziɑ=ziɑ=noŋ pɑ̃=pɑ̃=mɑ̃ , tʰəʔ ŋu təŋ=kʷe kʷe=tʰəʔ , ŋu siã=kʰʷəŋ-kɔ 'ləʔ .
+1591.wav|noŋ tɕɑ̃=məŋ kʰe=kʰe , 'ne kʰoŋ1-diɔ kʷe=tʰəʔ ɦi !
+1592.wav|iɔ1=zz ɦe-ɦiɤ bɪʔ həʔ=gəʔ zz=tʰi iɔ1 ŋu pɑ̃=mɑ̃ , zy tã=di=ɦo pəʔ ŋu .
+1593.wav|ciɑ-sz noŋ sɪɲ1=vɑ̃=ʦz i=cɪɲ=ʦɑ̃ sy1=hɔ 'ləʔ , ŋu zy le pɑ̃=noŋ pø-zã .
+1594.wav|pø vəʔ=doŋ məʔ , tu1 ciɔ ci-ku ɲɪɲ-le pø .
+1595.wav|ɦo-ɦəʔ li=pɑ zz=tʰəʔ li=pɑ=ɪʔ li=pɑ=se1 ɦiɤ zz=tʰi , ŋu ɟi-tʰɑ1 ɲiɪʔ=ciɐʔ ze kʰu=i gəʔ .
+1596.wav|cɪɲ1=ʦɔ1 məŋ-ʦɔ1 ŋu=ze ɕy1-sɪʔ , tɕəŋ ci1-we kʰʷɑ=ti pø hɔ ɦi .
+1597.wav|gəʔ ŋe kɑ̃=ʦoŋ1=ku=ʦz ze=hɔ gʷe tʰəʔ ɦi le .
+1598.wav|ʦɔ liã=ɲi mɑ-ɦəʔ gəʔ ʦəʔ1 tʰəʔ=bɑ ɦiɤ=i1 ci1=ku zz 'ləʔ , kəʔ-lɔ ŋu iɔ1=mɑ ʦəʔ sɪɲ1-ɦəʔ .
+1599.wav|sz=tʰəʔ zɐʔ=ʦz tʰəʔ zoŋ 'ləʔ , ŋu 'ne siɔ=ʦz pe=siã1 ʦɑ̃ .
+16.wav|ʦø=ɟɪɲ koŋ1=ʦoʔ nɑ-nəŋ ?
+160.wav|noŋ ɪʔ=dɪɲ we tɪʔ zəŋ=koŋ1 gəʔ .
+1600.wav|gəʔ ŋe pʰu-le , noŋ-we vəʔ gʷe tʰəʔ ɦi ɑ ?
+1601.wav|vɑ̃=ci sɪɲ1 kɑ1-sã1 ze=mɑ hɔ 'ləʔ məʔ , gəʔ=ti pʰɑ kɑ1-sã1 ze kʰu=i toʔ tʰəʔ-liɔ !
+1602.wav|ci=zø noŋ ciɑ hʷø=ɕi ʦoŋ=ho1 , noŋ e1 ʦəʔ1 ɦiã=de zy ʦø=məŋ pɑ ho1=bəŋ hɔ=le .
+1603.wav|gəʔ ʦəʔ1 siã1=ʦz iɔ1 tʰəʔ=bɪʔ tʰəʔ ŋu tɑ̃=sɪɲ1 .
+1604.wav|ue ,  zz vɐʔ ?
+1605.wav|ŋu oʔ=li ɦiɤ-ku lɔ-ɲɪɲ dəʔ=zø tɔ=lɐʔ di=lɑ̃ , dɑ-ke ʦoŋ1=foŋ 'ləʔ .
+1606.wav|tɕɪɲ  ɲɪɲ 'nɑ  kʰʷɑ=ti le=bu cy=wu=cy , ɦɔ-sɔ !
+1607.wav|ŋu-ɦəʔ di=ʦz zz vu=ɲɪɲ lu  loŋ  ɦɔ=ti lɤ .
+1608.wav|ŋu-ɦəʔ sɤ=ci1 vəʔ tʰəʔ-liɔ , nɑ-nəŋ-be ?
+1609.wav|noŋ siã=siã tɕɪɲ1=sɑ̃ , dɑ-ke lɐʔ sɑ-zəŋ-kʷɑ̃1 sɑ=di=fɑ̃ loʔ=tʰəʔ gəʔ ?
+161.wav|siã1-sɪɲ zz=ci .
+1610.wav|ŋu cʰɪʔ=ʦoŋ1=ve gəʔ zəŋ-kʷɑ̃1 ɦe=tã=ku liã ʦɐʔ1 di=ɦo , su=i gəʔ-ɦəʔ zəŋ-kʷɑ̃1 ɦe=lɐʔ=gəʔ .
+1611.wav|kəʔ=noŋ ɦo-pø-tʰi1 tɔ=ku ci-ku di=fɑ̃ ?
+1612.wav|oʔ , siã=cʰi=le 'ləʔ , mɑ̃ ci=lɐʔ di1-pɔ mɪɲ te-ku de=ʦz kɔ1=dɤ .
+1613.wav|ne i=cɪɲ sɤ1-zã 'ləʔ , vəʔ=ɕiɔ=təʔ ɦe zɪɲ-təʔ-zɐʔ vɐʔ 'ləʔ ?
+1614.wav|ɦɔ-sɔ ʦoŋ1=ve tɔ e1=mi cʰi tã=tʰɪɲ , kʰʷɑ ʦɤ !
+1615.wav|ɦioʔ , di=ɦo lɪɲ=ɕiã 'ləʔ , " ue , sɑ-ɲɪɲ ɑ ?   ɔ , ziɑ=ziɑ=noŋ ! "
+1616.wav|ŋu=sɤ ci1 ʦɔ=tɔ 'ləʔ , ɲɪɲ-kɑ1 tã=di=ɦo le ciɔ-ŋu cʰi=lɪɲ 'ləʔ !
+1617.wav|ɪʔ=te be=ɕyɪɲ ɟi-mø , ŋu zy kʰu=i ʦu ɪʔ-ku ɲɪɲ-ɦɑ̃ tɕəʔ=nɐʔ=ɦiø .
+1618.wav|ʦəʔ1=ɦiɤ ŋu zz-ciɑ1 kʰe=sz ʦu=sã1-i gəʔ zəŋ-kʷɑ̃1 , ŋu ʦe ciɐʔ-zɐʔ tɕəŋ=sɪɲ1 zz=i .
+1619.wav|tʰe-ɕy1 ɦɑ tʰe-ɕy1 'ləʔ , ɦe zã=zã pəʔ ɦi lɑ tɕɪɲ təʔ cʰi-ʦu ku-vəŋ .
+162.wav|ci=zoʔ nu=lɪʔ .
+1620.wav|ɦi gəʔ koŋ1=ʦoʔ koŋ1=ʦz lɔ=kɔ1 , koŋ1=ʦoʔ zəŋ-kʷɑ̃1 ɦɑ ciɔ1-kʷe li=siã .
+1621.wav|ʦəʔ1=iɔ1 ɦi lɐʔ zz ɲiɪʔ lɑ̃ ʦu=tɕəʔ zəŋ=zy , zy kʰu-nəŋ pʰɑ tɔ kʷəʔ=ŋɑ cʰi ɦəʔ-ʦoʔ .
+1622.wav|ŋu ɕi=hʷø ɦo=ɦiɤ=ɦo , de=zz ŋu vəʔ=siã 'ne ɦi ʦu ŋu-ɦəʔ ʦoŋ=səŋ1 ʦəʔ=ɲiɪʔ .
+1623.wav|vəʔ kʷø=noŋ tɔ vəʔ tɔ gəʔ be tɕã cʰi koŋ1=ʦoʔ , ʦoŋ=kʷe iɔ1 kɔ=su=ŋu ɪʔ-sã .
+1624.wav|ɦi toŋ tʰoʔ-ɲɪɲ , si1 ɪɲ=pʰɪɲ , we-le-we-cʰi we-ʦz1 ʦu zz-ciɑ1 tɕəŋ=sɪɲ1=gəʔ sã1=wəʔ .
+1625.wav|ʦɪʔ=sz ŋu 'ne vəʔ tɔ kɔ1=gəʔ koŋ1=ʦz , ŋu-ɦɑ vəʔ kʰəŋ=fɑ̃=cʰi gəʔ ʦəʔ1 ve uø .
+1626.wav|cɪɲ1=ʦɔ1 mɑ̃ ʦu mɑ̃ , ɦɑ-iɔ1 ʦu=kʷã1 gəʔ=ti sã1=wəʔ ʦe ʦɤ .
+1627.wav|si1-sã1 , tɕɪɲ=noŋ zz=ŋu ciɑ-zɔ ɪʔ-ɕiɑ , noŋ=ɦiɤ sɑ=gəʔ ʦø=ʦã ?
+1628.wav|ŋu ci=ɦiɤ pi ciɔ-ɟiã gəʔ ɪɲ1=vəŋ tʰɪɲ=lɪʔ , kʰɤ=ɲy , siɑ=ʦoʔ nəŋ-lɪʔ .
+1629.wav|noŋ we=sɑ iɔ1 tɔ ɑ1-'lɑ koŋ1=sz1 le ɪɲ=pʰɪɲ ?
+163.wav|noŋ mɪɲ=ɲi ɪʔ=dɪɲ we tɪʔ ɦɪɲ=gəʔ .
+1630.wav|ɪɲ1=we  ɲɪɲ 'nɑ  koŋ1=sz1 gəʔ=ɲiɪʔ=vu nəŋ-kɤ fɐʔ=hʷe ŋu-ɦəʔ tʰəʔ=ʦã .
+1631.wav|noŋ ɲɪɲ=we zz=ci kʰu=i ʦu ɑ1-li fɑ̃=mi gəʔ koŋ1=ʦoʔ ?
+1632.wav|ŋu kʰu=i ʦu ʦoŋ1=ɪɲ1 sɑ̃=ɕiã fe1=ɦiɪʔ , tɕø-kɑ1 tʰəʔ ŋɑ=kʷəʔ-ɲɪɲ ciɔ1-ʦi de=pʰø .
+1633.wav|ŋu=iɔ1 pɔ=kʰɔ  ɲɪɲ 'nɑ  gəʔ ʦəʔ=ɲiɪʔ be=ɕyɪɲ=pe1 , sɑ-zəŋ-kʷɑ̃1 kʰɔ=sz ?
+1634.wav|tɕɪɲ=noŋ 'ne gəʔ ʦã piɔ=kɐʔ di1-hɔ , kʰɔ=sz zy lɐʔ gəʔ-ɦəʔ ɦɔ=dɤ zəʔ=ɲie ɦɔ .
+1635.wav|ciɑ-sz kʰɔ=tɕy 'ləʔ , iɔ1-ɦoʔ ci-ku ɦɔ=dɤ ?
+1636.wav|iɔ1-ɦoʔ se1-ku ɦɔ=dɤ , zi=bu ɦioŋ=ɲiɪʔ z zəŋ-kʷɑ̃1 .
+1637.wav|sɑ=gəʔ ne-ɦioŋ iɔ1=kʰɔ ? tɕø-kʰɔ=sz ɦiɤ=vɐʔ ?
+1638.wav|noŋ kʰø1 gəʔ ʦã=piɔ hɔ=le , kɔ1=dɤ i=cɪɲ siɑ tɕɪɲ1=sɑ̃ 'ləʔ .
+1639.wav|si1-sã1 , ŋu siã zɪɲ ɪʔ-vəŋ1 koŋ1=ʦoʔ .
+164.wav|ŋu iɔ1 ʦɤ-liɔ , ŋu zz le pɑ̃ loŋ ʦe-we gəʔ .
+1640.wav|noŋ siã ʦɔ ɑ1-li fɑ̃=mi gəʔ koŋ1=ʦoʔ ?
+1641.wav|ʦu tɕø1=kʷø voʔ-vu-ɦiø ɑ , ʦy-bɑ1 ʦɔ1=de=ɦiø ɑ , ze kʰu=i .
+1642.wav|noŋ pʰu=tʰoŋ1 ɦo=ciã təʔ=le vɐʔ ?
+1643.wav|tɑ̃=zø we=gəʔ , pəʔ1-ku zɑ̃-he-ɦe-ɦo ciã=dɑ vəʔ=le .
+1644.wav|vəʔ=iɔ1=cɪɲ gəʔ , tɑ̃=zø ʦø=hɔ ɦe-zz mɑ=pəŋ we-ɦo sz ɦoʔ-ɦoʔ zɑ̃=he ɦo .
+1645.wav|he=zz mɑ̃=iɔ1 ʦɔ1 ɪʔ-ku pi=tɕɪʔ , noŋ ɦiɤ-ɕɪɲ-tɕy vɐʔ ?
+1646.wav|hɔ-ku iɑ , sɪɲ1=cɪɲ1 tu1=sɔ ? ɕy1-sɪʔ=ɲiɪʔ ɦiɤ=vɐʔ ?
+1647.wav|'me-ku ɦɔ=dɤ liã tɕi1=ɲiø , 'me-ku li=pɑ ɕy1-sɪʔ liã=tʰi1 , kʰu=i vɐʔ ?
+1648.wav|tɕɪɲ=noŋ gəʔ ʦã=piɔ=di1 ɪʔ-di1 , təŋ ɑ1-'lɑ lɑ=gəʔ tʰoŋ1=ʦz1 .
+1649.wav|vəʔ=zz hɐʔ-kɑ̃ , ŋu gəʔ pɪɲ1 koŋ1=ʦoʔ ʦəŋ1=ciɔ m-məʔ cɪɲ !
+165.wav|ŋu 'ləʔ kɐʔ tɪʔ ku-liɔ ciɔ1-kʷe kʰe=sɪɲ1 .
+1650.wav|noŋ zã=zã tɕəʔ-tɕɑ1 , toŋ-nø si1-poʔ tɕɑ̃ tɕɑ̃ , vəʔ=iɔ1 tʰəʔ siɔ=sɑ ɔ !
+1651.wav|zã-ɲi=le=ŋəʔ toŋ=pəŋ1=si1=ʦɤ mɑ̃ sɐʔ 'ləʔ , sã1=wəʔ tʰəʔ m-məʔ kʷe=lɪʔ 'ləʔ .
+1652.wav|noŋ-ku koŋ1=ʦoʔ diɔ=pəʔ ŋu ʦu=ʦu zy hɔ 'ləʔ .
+1653.wav|ʦəŋ1=ciɔ kʰø1-ɲɪɲ tʰiɔ1=te vəʔ cʰɪʔ=lɪʔ , ŋu tʰəʔ=noŋ diɔ=ɪʔ diɔ=hɔ vɐʔ ?
+1654.wav|kʰoŋ1=zz kʰoŋ1 təʔ=le məʔ=zz=tʰi ʦu .
+1655.wav|koŋ1=ʦz=məʔ , zz noŋ-ku lɪɲ=dɤ ; zɑ̃=pe1 məʔ , dɑ-ciɑ1 dɔ dɔ=ʦiã=wu .
+1656.wav|ɦo-pe1 zəŋ-kʷɑ̃1 vəʔ tɔ məʔ , dɑ-ciɑ1 zy siã wɐʔ=ciɐʔ .
+1657.wav|noŋ-kɑ̃ ɦiɤ-cɪɲ vɐʔ ?
+1658.wav|siɔ-ʦiɑ , ŋu siã mɑ ɪʔ=ɟi si1=ʦɑ̃ , ɦiã=ʦz hɔ=ɪʔ=ŋe gəʔ .
+1659.wav|gəʔ=tɐʔ ɪʔ=bɑ ze=zz ʦɪɲ=kʰɤ mi=liɔ ɤ=pe=gəʔ si1=ʦɑ̃ .
+166.wav|kɐʔ ci=tʰi1 mo=ve noŋ 'ləʔ .
+1660.wav|gəʔ=ʦoŋ ŋe=səʔ pi ɦi ʦoŋ sɔ-we səŋ1 ɪʔ=ti .
+1661.wav|noŋ kʰø1 gəʔ liã=ɟi ʦu=koŋ1 iɔ1-pi ɦi mi gəʔ kʰɔ=cy .
+1662.wav|'ni kʰø1=noŋ tɕø1 sɔ-we de ɪʔ=ti gəʔ ŋe=səʔ kəŋ1-kɑ1 hɔ .
+1663.wav|ŋu pi-noŋ ʦã ɪʔ=ti=ti , pi gəʔ-ɦəʔ tɕɐʔ=mo du-ɪʔ-ti ku-ɦiɤ vɐʔ ?
+1664.wav|bɑ̃=pi ɪʔ=bɑ i1=zɑ̃ kəŋ1 gəʔ=tɐʔ gəʔ i1=zɑ̃ məʔ=sɑ liã=ɦiã .
+1665.wav|səŋ1=zɑ̃ tɕɪɲ1=ɑ1=zz ɟɪʔ vəʔ zɑ̃ həʔ=ŋe=səʔ hɔ=kʰø1 ?
+1666.wav|gəʔ=tɐʔ gəʔ tɕəŋ=se1 fu ɦi mi gəʔ tʰɪɲ kʷɐʔ .
+1667.wav|noŋ kʰø1=e1=mi ɪʔ=ɟi iɔ1=hɔ ti=vɐʔ ?
+1668.wav|gəʔ diɔ=lɪɲ tɑ ŋe=səʔ=liã ɪʔ=ti , kəŋ1 gəʔ=ɟi si1=ʦɑ̃ pi-ciɔ pʰe .
+1669.wav|gəʔ ŋe si1=ʦɑ̃ tʰəʔ=e1=mi gəʔ ɪʔ=ɦiã , zi=bu=tã cy-ʦəʔ .
+167.wav|noŋ hɔ=tu1 zz ci=tʰi1 vɐʔ 'lɑ ?
+1670.wav|si1-sã1 siɔ-ʦiɑ , ɲɪɲ 'nɑ iɔ1=mɑ ti=sɑ gəʔ sɤ=səʔ ?
+1671.wav|ɲiã ɑ1-'lɑ si1 kʰø1=kʰø1 ʦe-kɑ̃ .
+1672.wav|ɦi=le boʔ cɪɲ1=sɤ=səʔ ziɑ-cʰi ɲiɪʔ=nɔ .
+1673.wav|siɔ-ʦiɑ i cɪɲ=ɦiɤ ɪʔ ʦɐʔ1 kɑ=ʦz , iɔ1-vəʔ-iɔ1 pʰe=diɔ boʔ cɪɲ1=ɦɑ̃ li ?
+1674.wav|hɔ-ku . ɲɪɲ 'nɑ=tɐʔ ɦiɤ ci=ʦoŋ kʰʷø=səʔ , pəʔ ŋu kʰø1=kʰø1 ciɔ .
+1675.wav|noŋ kʰø1 ŋu gəʔ=tɐʔ ɪʔ=bɑ=sã1 ɦiɤ zəʔ-ɲi diɔ , ze=lɔ lɪɲ-ɦəʔ .
+1676.wav|ɦe-ɦiɤ e1=mi gʷe-de li=ɕiã ɦɑ-ɦiɤ ciɔ1-kʷe .
+1677.wav|ŋu kʰø1 gəʔ diɔ 'me-du fɑ̃=gəʔ .
+1678.wav|si1-sã1 ŋe-kʷɑ̃1 ʦəŋ1 hɔ , ɑ1=iɔ1 sz=sz tɑ tɑ kʰø1 ?
+1679.wav|noŋ kʰø1 , hɐʔ tiɑ !
+168.wav|ŋu iɔ1 we-cʰi 'ləʔ .
+1680.wav|ŋu ciɐʔ-zɐʔ kɑ=si tʰəʔ cy , ʦe-kɑ̃ məʔ=sɑ tʰəʔ=bɪʔ hɔ=kʰø1  
+1681.wav|iɔ1=məʔ ɑ1-'lɑ tɔ bɪʔ-ɦəʔ di=fɑ̃ ʦe cʰi-kʰø1-kʰø1 .
+1682.wav|hʷø=ɲɪɲ kʷɑ̃1-lɪɲ , siɔ-ʦiɑ cɪɲ1=ʦɔ1 dɤ=fɐʔ iɔ1 ʦi ɪʔ ʦi ɦe-zz tʰɑ̃ ɪʔ tʰɑ̃ ?
+1683.wav|gəʔ=tɐʔ tʰɑ̃=fɐʔ ɦiɤ=ɦiɤ li=ʦz tʰɑ̃ , vɤ=li=ʦz tʰɑ̃ , zəʔ=pe tʰɑ̃ , kɑ̃=sz tʰɑ̃ .
+1684.wav|ɦioŋ-vəʔ-zɐʔ , dɑ ɪʔ dɑ , tɕø1 ɪʔ-tɕz1 zy kʰu=i 'ləʔ .
+1685.wav|noŋ=iɔ1 kø1 dɑ ɦe-zz sɐʔ dɑ ɑ ?
+1686.wav|kø1 dɑ hɔ 'ləʔ .
+1687.wav|cʰɪɲ ɪʔ=ŋe ɦe-zz zoŋ ɪʔ=ŋe ?
+1688.wav|ɦi=le ʦəŋ1=hɔ , vəʔ zoŋ ɦɑ vəʔ cʰɪɲ .
+1689.wav|dɤ=ɦe=ɦiã ɕi-ɕi vɐʔ ? vəʔ ɦiã məʔ , cʰi=tɕoŋ tʰəʔ ɦi hɔ vɐʔ ?
+169.wav|ŋu ke bɔ-liɔ .
+1690.wav|ɑ-ɦo-le , tʰəʔ=noŋ ø=mu iɔ1=vɐʔ ?
+1691.wav|ɑ1-'lɑ ɦe-ɦiɤ təʔ ʦu mi=moʔ , sy1 mi=mɔ , ʦəŋ1 mi , ɕiã1=ɕyɪɲ1 , ʦz=ɐʔ .
+1692.wav|ciɑ-sz siɔ-ʦiɑ iɔ1-ɦəʔ ɦe-ɦo , hɔ tã-ku pɐʔ-ʦəʔ .
+1693.wav|ziɑ=ziɑ , məʔ-zəŋ-kʷɑ̃1 'ləʔ , ŋu ʦəʔ1=iɔ1 ɲiɐʔ ɲiɐʔ be kəŋ1 iɔ1 hɔ 'ləʔ .
+1694.wav|hʷø=ɲɪɲ kʷɑ̃1-lɪɲ , ɦi=le ɲɪɲ-tu1 , tɕɪɲ=noŋ zu-ɦo le təŋ=ɪʔ=ɕɪʔ .
+1695.wav|ɲɪɲ 'nɑ gəʔ=tɐʔ sã1-i ʦəŋ1 hɔ , ciɑ nɔ=mã !
+1696.wav|noŋ siã=iɔ1 dɤ=fɐʔ tʰi=təʔ ʦã=ti ɦe-zz tø=ti ?
+1697.wav|ʦɔ lɔ=ɦiã=ʦz hɔ 'ləʔ , sɔ-we tø ɪʔ=ti .
+1698.wav|sy1=mi sy1=vɐʔ ?
+1699.wav|sy1=mi noŋ=iɔ1 sy1=sy1 tɕɪɲ1=sɑ̃ .
+17.wav|koŋ1=ʦoʔ lɔ=mɑ̃=gəʔ , ɦe-iɔ1 zz-ɦoʔ ɪɲ1=vəŋ
+170.wav|ŋu pɪʔ sy=si1 ʦɤ-liɔ .
+1700.wav|ŋu ɦe-iɔ1 ɟioʔ=ɦiɤ tʰəʔ=tɕø1 dɤ=fɐʔ .
+1701.wav|noŋ dɤ=fɐʔ siã tɕø1 sɑ=gəʔ səʔ=ɦiã ?
+1702.wav|cɪɲ1=ʦɔ1=ɦiɑ=dɤ noŋ iɐʔ-we lɐʔ sɑ=di=fɑ̃ ?
+1703.wav|cɪɲ1=ʦɔ1 ci=mɔ=tɕe tɔ=mae bi=ɲi gəʔ məʔ !
+1704.wav|ɪʔ=ti ɦɑ vəʔ bi=ɲi , cy təʔ=le ɲiɪʔ=hʷəŋ1 !
+1705.wav|gəʔ-nəŋ-kɑ le=ʦɔ1=ʦɔ1 gəʔ tɕe iɔ1 ciɑ=cy ɑ !
+1706.wav|noŋ kʰø1=kʰø1 tɕɪɲ1=sɑ̃ , vəʔ=iɔ1 tʰəʔ sɪɲ1=si ɔ !
+1707.wav|ɦiã=se1=z  kʰɤ=ɟiã  le-si gəʔ !
+1708.wav|wu=le=dɤ ʦe təʔ=vəʔ təʔ-liɔ !
+1709.wav|ɐʔ1-ɦi , cɪɲ1=ʦɔ1 ʦoʔ=səŋ lɔ=nəŋ gəʔ , tɕəŋ liã=cɪɲ1 cʰi nɑ-nəŋ ?
+171.wav|noŋ sɑ-zəŋ-kʷɑ̃1 ʦɤ ?
+1710.wav|ci=di ɪʔ=cɪɲ1 ?
+1711.wav|sz=kʰʷe ŋ-koʔ ɪʔ=cɪɲ1 ,  kʰɤ=ɟiã  təʔ=le !
+1712.wav|ciɑ=cy=gəʔ , cy=təʔ ɪʔ=tʰɐʔ=wu=du ! cy 'ləʔ oʔ=li siã1 ɦɑ vəʔ ɲɪɲ=təʔ 'ləʔ !
+1713.wav|pɑ̃=pɑ̃ mɑ̃ ɔ , noŋ kʰø1=kʰø1 , ŋu tɐʔ=gəʔ ʦoʔ=səŋ zz tɪɲ hɔ-ku !
+1714.wav|ʦəŋ1-ku ɑ ? kəʔ=mɑ bi=ɲi ɪʔ=ŋe məʔ hɔ=le !
+1715.wav|vəʔ=le=se1 gəʔ , ŋu vəʔ hɔ ʦu zəʔ-pəŋ=sã1-i gəʔ !
+1716.wav|hɔ=hɔ hɔ . noŋ vəŋ1-liã iɔ1=tɕəŋ tɕəŋ=ʦoʔ .
+1717.wav|ɪʔ-cy-ɦe-ɦo !
+1718.wav|cɪɲ1=ʦɔ1 ŋu=le tɕɪɲ=kʰɐʔ .
+1719.wav|ci be hɔ cʰɪʔ=ti gəʔ ve=ti cʰi-cʰɪʔ .
+172.wav|məŋ-ʦɔ1 ɦo-pø-tʰi1 liã=ti pø-ku fi=ci1 .
+1720.wav|noŋ le=ti tɕe hɔ=le .
+1721.wav|ɲɪɲ 'nɑ gəʔ=tɐʔ sɑ=gəʔ tɕe ʦø ɦiɤ tʰəʔ=səʔ ?
+1722.wav|ɑ1-'lɑ ɦiɤ ʦɐʔ1 kʰɔ zz=kəʔ , cʰɪʔ cʰi=le nəŋ toʔ=toʔ , ɕiã1=pʰəŋ=pʰəŋ .
+1723.wav|ciɔ ʦəʔ1 tɕɪɲ1=ʦəŋ1 lu-ŋ hɔ-'ne , ɦe-zz ɦɔ=ɦiɤ ɲiɤ=ɲioʔ hɔ ?
+1724.wav|loŋ diɔ=wəʔ sɐʔ de-wɑ̃ zo cʰɪʔ cʰɪʔ=hɔ vɐʔ ?
+1725.wav|le ʦəʔ1 i1 toʔ si=məʔ hɔ=le .
+1726.wav|ŋu iɔ1=cʰɪʔ pəŋ=pɑ̃1=tɕe , lɪʔ=ʦz ɦoŋ-sɔ=ɲioʔ , ɲioŋ=ɦiɤ=tɕɐʔ=ʦiã gəʔ .
+1727.wav|di=bɑ̃ toʔ təʔ su1 ɪʔ=ti , tʰɪɲ=tɔ vɐʔ !
+1728.wav|di=cɪɲ1 vəʔ hɔ tɕɔ-liɔ wu=dɐʔ dɐʔ=gəʔ ɔ !
+1729.wav|ɲioʔ=sz tɕɪʔ təʔ=le zɪʔ zɪʔ=si , tɕɤ-dɤ-vu-kø1 ʦi1 təʔ=le pʰəŋ pʰəŋ=ɕiã1 !
+173.wav|ŋu tɔ ci1-zã cʰi soŋ=noŋ .
+1730.wav|gəʔ ʦəʔ1 ɐʔ=ʦz vəʔ tʰɑ su1 .
+1731.wav|ŋu=le 'ne-cʰi ʦe=sɔ sɔ ɦi .
+1732.wav|sɔ-we təŋ=ɪʔ=ɕɪʔ , mo-zɑ̃ zy hɔ 'ləʔ ɔ !
+1733.wav|ti gəʔ ŋe=tɕe ɦiɤ=təʔ cʰɪʔ le !
+1734.wav|ve vəʔ=iɔ1 zã 'ləʔ pʰɐʔ=pʰɐʔ=mø .
+1735.wav|mɑ-te ! cɪɲ1=ʦɔ1 ŋu tʰɪɲ=ʦã .
+1736.wav|vəʔ=iɔ1 ɔ , pʰɪʔ=ŋã=zɑ hɔ=le !
+1737.wav|cɪɲ1=ʦɔ1 tɔ zəŋ=wɑ̃ miɔ 'ləʔ məʔ , zy=iɔ1 zɑ̃=zɑ̃ pəŋ=pɑ̃1 siɔ cʰɪʔ-ɦəʔ mi-dɔ 'ləʔ .
+1738.wav|gəʔ=tɐʔ gəʔ " nø=ziã siɔ=loŋ " lɔ=ʦe gəʔ !
+1739.wav|tʰɪɲ-kɑ̃ ɪʔ ʦɐʔ1 ʦɪɲ1=pʰɪɲ ci ɐʔ ɕyɪʔ=sɑ̃ , si=zz si təʔ=le !
+174.wav|ziɑ=ziɑ=noŋ le soŋ ŋu .
+1740.wav|kəʔ=zz gəʔ=tɐʔ gəʔ mi cɪɲ1 pɐʔ-ɦiɪʔ sɑ̃=tɑ̃ ʦø=ʦø ʦəŋ1=ʦoŋ1 gəʔ .
+1741.wav|ɪʔ=uø ʦɤ=so=wəŋ=dəŋ , bi=boʔ zz boʔ təʔ ɲioʔ ɦɑ kʰø1=təʔ-ci !
+1742.wav|kɑ-li ɲiɤ=ɲioʔ sɑ̃ , ɦiɤ=dɤ=vu si fəŋ=sɑ̃ vəʔ=iɔ1 mɑ̃-ci-tʰəʔ cʰɪʔ .
+1743.wav|kʷe=ho1 tɕɐʔ=dɤ=sɑ̃ noŋ iɔ1=cʰɪʔ cʰɪʔ kʰø1 vɐʔ ?
+1744.wav|noŋ vəŋ-vəŋ ɕiã1-vi kʰø1 , ŋ-ɕiã1=zo-ɦiɪʔ=de ɕiã1=vəʔ=ɕiã1 ?
+1745.wav|noŋ-kɑ̃ təʔ=ŋu ze ɦɑ ze sɐʔ le !
+1746.wav|ŋu siã=cʰɪʔ cʰɪʔ tɕã lɔ ʦe ʦɤ .
+1747.wav|zɑ̃=he gəʔ kʰʷe di=fɑ̃ , he-ne ŋɑ=ɦiã=ɦiã siɔ=tɕe ze=ɦiɤ .
+1748.wav|pʰəŋ-diɔ fɑ̃=fɐʔ ɦɑ-zz ɦiɤ ʦɪɲ1 ʦz ɦiɤ zɪʔ kɑ̃1-nø dɑ-zəŋ .
+1749.wav|hu=tʰe iɔ1 kɐʔ=sz " ʦəŋ1 " , ɲiɤ pɐʔ-ɦiɪʔ ʦəʔ1=iɔ1 sz li ɪʔ " tʰəŋ " .
+175.wav|ʦe-we , ʦoʔ-noŋ ɪʔ=lu=bɪɲ=ø1 .
+1750.wav|tɑ-ŋ iɔ1=cʰɪʔ kø1 " ʦi1 " , dɤ=pe hɔ ɦiɤ " tʰəŋ " .
+1751.wav|kɔ1=bɐʔ iɔ1 ɦioŋ=ɦiɤ " 'məŋ " , kəʔ=li pɑ=lɐʔ=de li " təŋ " .
+1752.wav|su=ʦɤ1 dɤ=vu=ɟi1 , zɔ=ɕɪɲ me kø1-tɕe , ɲɪɲ-poʔ1 wɑ̃=ɲi=lu , nø-cɪɲ1 ɐʔ=ɕyɪʔ=sɑ̃ .
+1753.wav|ɪʔ=tɔ ɦiɑ=li , mɑ liã=ɦiã zoʔ=tɕe , di=zz=məʔ kʰø1=kʰø1 , lɔ=ʦy məʔ 'mi 'mi .
+1754.wav|ɦi lɑ zz ɦoŋ-zã tɕɪʔ=tɕɪʔ , səʔ-lɐʔ bø1 bø1 , sɔ=sɔ lu soŋ=sɑ̃ , zz=ci ʦu si1=tɕe .
+1755.wav|ɑ1-'lɑ di=bɑ̃ toʔ=toʔ , lu=sz soʔ soʔ , wu=ɟɪʔ hã=hã , ziɑ-cʰi siɔ=loʔ !
+1756.wav|gəʔ=tɐʔ siɔ-cʰy loʔ=di mi=ʦɪʔ ɦiɤ=tu1=sɔ ?
+1757.wav|ʦø1 ci=ʦoʔ ʦoŋ=mi=ʦɪʔ pɐʔ-fəŋ1=ʦz1 ci ?
+1758.wav|koŋ1-goŋ1 səʔ=sz1 ɦiɤ=ŋe sɑ ?
+1759.wav|pʰi=zz ciã , siɔ-cʰy ɟi=səŋ1=vɑ̃ , r-doŋ=loʔ-ɦiø , du=sz kʷø lɔ  ɲɪɲ zi  ɦiɤ .
+176.wav|vɐʔ iɔ1 mɑ̃-ci-tʰəʔ pɑ̃=ŋu=tã di=ɦo , kɐʔ kʰʷɑ zy ʦɤ-liɔ , lɔ ɦi-ɦø gəʔ .
+1760.wav|siɔ-cʰy bɑ̃=pi ʦɪɲ=tɕəʔ fɑ̃=bi vɐʔ ?
+1761.wav|pʰi=zz ciã , ŋu=iɔ1 tɔ zz=ʦoŋ1=sɪɲ1 , ɦiɤ sɑ tɕo-ʦz hɔ tɕəŋ tɕəʔ-cʰi vɐʔ ?
+1762.wav|gəʔ=tɐʔ iɔ1=diɔ di=tʰɪʔ tʰəʔ=cʰɪɲ=kʷe bi=tɑ̃ vɐʔ ?
+1763.wav|ŋu ciɑ-sz iɔ1 zɑ̃ kɔ1=kɑ , ɑ1-li gəʔ lu=kʰɤ li gəʔ=tɐʔ ʦø=ɟɪɲ ?
+1764.wav|gəʔ=tɐʔ ʦɤ1-we ɦiɤ-vəʔ-ɦiɤ siɔ-tɕe-zã kəŋ1 du-ɦɪɲ=tɕɔ1=zz , sã1=wəʔ=ɦioŋ=pʰɪɲ mɑ ?
+1765.wav|zɔ1-nø tɕɑ̃=kʰɤ zi=dɤ ɦe-we-təʔ zɔ=kɔ1=lɤ , sɑ̃1=lɔ ɦiã-kʷɑ̃1 pɑ̃=zz=si vɐʔ ?
+1766.wav|ʦɤ1-we gʷe=cɪɲ nɑ-nəŋ=ciɑ ? zɪɲ=vəʔ=zɪɲ ? ɦiɑ=li siã1=ɕiã tɕɔ vəʔ tɕɔ ?
+1767.wav|siɔ-cʰy ø1=zi vɐʔ ? ɦiɑ=li=ɕiã ɦiɤ ʦɔ=mɪɲ səʔ=sz1=vɐʔ ?
+1768.wav|ŋu siã-vəŋ  ɲɪɲ 'nɑ  ʦu1=vɑ̃=ʦz tɕəŋ-tɕəŋ .
+1769.wav|vɑ̃=ʦz gəʔ tɕe-kʷɑ̃1 diɔ-ɟi iɔ1 hɔ=ɪʔ=ti , vəʔ=iɔ1 koʔ=koʔ=dɤ gəʔ vɑ̃=ʦz .
+177.wav|noŋ sɑ zəŋ-kʷɑ̃1 ʦe=le ?
+1770.wav|ʦu1=gəʔ vɑ̃=ʦz iɔ1=li ŋu koŋ1=ʦoʔ gəʔ di=fɑ̃ ɟɪɲ ɪʔ=ŋe .
+1771.wav|ŋu iɔ1=ɪʔ səʔ ɪʔ=tʰɪɲ gəʔ vɑ̃=ʦz , mi=ʦɪʔ lɐʔ sz zəʔ-ku bɪɲ=fɑ̃ ʦu=ɦiɤ .
+1772.wav| ɲɪɲ 'nɑ  gəʔ ci vɑ̃=ʦz zɔ1-ɕiã hɔ vəʔ hɔ ?
+1773.wav|me=cʰi vəʔ=ɪʔ=dɪɲ iɔ1=ɪʔ kəʔ=dɤ ɦioŋ , de=zz we-səŋ1 iɔ1=doʔ ɦioŋ-ɦəʔ .
+1774.wav|ŋu ʦø=hɔ iɔ1 tu1=zəŋ gəʔ se1=sz lɤ .
+1775.wav|zz-vəʔ-zz ʦɑ̃=sy1 hɔ-ku ?
+1776.wav|me=cʰi , ɲiɪʔ=sz cʰi , si=i1=ci1 , kʰoŋ1-diɔ ɦiɤ-vəʔ-ɦiɤ ?
+1777.wav|ʦu1=cɪɲ1 nɑ-nəŋ sø ? sz=di=me nɑ-nəŋ ciɔ1 ?
+1778.wav|ŋu=iɔ1 pø-zã kʰʷɑ-liɔ .
+1779.wav|ŋu=mɑ 'ləʔ zi=ciɑ1 we vu=ɟɪɲ gəʔ kɔ1=zəŋ .
+178.wav|ŋu ɑ vɐʔ ɕiɔ=təʔ .
+1780.wav|noŋ pø=gəʔ ʦəŋ1=zz hɔ di=dø , ɦi=le dɑ-ciɑ1 zz cʰɪʔ di=dø cʰɪʔ vɑ̃=ɦɪɲ gəʔ , gəʔ .
+1781.wav|ŋu pø lɐʔ zəʔ-pɐʔ lɤ , dɑ vɑ̃=ci pɑ̃ du-tʰɪɲ ze zɔ1-nø .
+1782.wav|noŋ-ku vɑ̃=ʦz təʔ=vɑ̃ lɪʔ=kɔ1 vəʔ kɔ1 ? mi=ʦɪʔ dɑ vəʔ dɑ ?
+1783.wav|se1=vɑ̃ liã=tʰɪɲ liã=we , ci=ʦoʔ mi=ʦɪʔ ɪʔ=pɐʔ=se1-səʔ loʔ-ku bɪɲ=fɑ̃ .
+1784.wav|vəʔ=iɔ1 tʰəʔ ʦe=ɔ ! zz mɔ pʰe vɑ̃ ɦe-zz ʦɑ̃ sy1=vɑ̃ ?
+1785.wav|mɔ=pʰe1=vɑ̃ ! ɦi=le lɐʔ=lɐʔ tɕɪɲ-ɲɪɲ ʦɑ̃=sy1 .
+1786.wav|e1 mi=tɐʔ gəʔ vəʔ-ɲiɪʔ kʷø=li hɔ vəʔ hɔ ? kʷø=li fi=cy=vɐʔ ?
+1787.wav|mɑ=mo-hu=hu , ze ɪʔ-pe-sɪɲ .
+1788.wav|noŋ vɑ̃=ʦz tɕɔ=pʰiɔ ɪʔ=tɕz=sɪɲ ze=fu tʰəʔ-liɔ vɐʔ ?
+1789.wav|ŋu ʦəʔ1=fu 'ləʔ sɤ-ɟi vɑ̃=kʰʷø , ɟi-tʰɑ1 gəʔ ze de=kʰʷø .
+179.wav|ci=təʔ cɪɲ=zã=le kʰø1=kʰø1 ŋu .
+1790.wav|siɔ-ʦiɑ , cɪɲ1=ʦɔ1 ɦiɑ=li ɦiɤ-vəʔ-ɦiɤ kʰoŋ1=vɑ̃=ci .
+1791.wav|ɦiɤ-ku , si1-sã1 noŋ ci=we ?
+1792.wav|liã-ku , ɑ1-'lɑ zz piɔ-ci hɔ 'ləʔ , ci=di ɪʔ=ɦiɑ ?
+1793.wav|gəʔ=tɐʔ zz se1=sɪɲ1 cɪʔ=pɪɲ=kʷø , se1=pɐʔ=ɲiø ɪʔ=ɦiɑ .
+1794.wav|ɑ1-'lɑ iɔ1 zz se1=ɦiɑ tʰi1 .
+1795.wav|pəʔ=noŋ se1=lɤ se1 lɪɲ-ŋ vɑ̃=ci hɔ=vɐʔ ?
+1796.wav|hɔ-ku . vɑ̃=ci li zã-du=di=ɦo kʰu=i zəʔ=pəʔ=vɐʔ ?
+1797.wav|vɑ̃=ci li ʦəʔ1=hɔ pəʔ zz-ne , zã-du kʰu=i tɔ ʦoŋ de le tã .
+1798.wav|ʦe vəŋ=sã , tɕø1=tʰɪɲ ɦiɑ=li ci=ti ʦoŋ kʰe=məŋ ?
+1799.wav|si1-sã1 , tɕɪɲ=noŋ 'ne wu=ʦɔ wəʔ=ʦe səŋ1-vəŋ1 ʦəŋ=ɲiã ŋu təŋ1=ci ɪʔ-ɕiɑ .
+18.wav|noŋ-ɲi  ku-liɔ hɔ=vɐʔ ?
+180.wav|ŋu we tɪʔ siã noŋ-ku .
+1800.wav| lu koŋ-goŋ cʰi1-tɕo1 ze=dɤ , tɔ ŋɑ=tʰe cʰi , lɐʔ sɑ=di=fɑ̃ ?
+1801.wav|gəʔ bu tɕo-ʦz tɔ=zɪɲ ø1=zz vɐʔ ?
+1802.wav|tɔ-liɔ zã=zoʔ=lu , tɕɪɲ noŋ-ciɔ ɪʔ-sã ŋu .
+1803.wav|ŋu i cɪɲ=səʔ ku=kʰɑ 'ləʔ .
+1804.wav|ŋu tɕəŋ ku=dɤ 'ləʔ , nɑ-nəŋ-be ?
+1805.wav|gəʔ bu=zz cʰy-ci=cy , tɔ=me loŋ sɪɲ1=tɕəŋ1 iɔ1 tɕəŋ lɪɲ ɪʔ=bu .
+1806.wav|ɦo-dɤ ɪʔ=ze zz sɑ=di=fɑ̃ ?
+1807.wav|" 'me=li=ɦiø " tɔ-liɔ vɐʔ ?
+1808.wav|ʦe tɕəŋ liã=ze .
+1809.wav|te=vəʔ=cʰi , ɲiã ɪʔ ɲiã , ŋu ɦo-tɕo .
+181.wav|ŋu ɪʔ=dɪɲ we tɪʔ ʦe le-ku .
+1810.wav|ciɑ=ɦiɑ 'ləʔ , ɦe=tɕəŋ sɑ koŋ1-ciɔ1 cy ! ciɔ tɕɑ1=dɤ vɐʔ .
+1811.wav|vəʔ=iɔ1 təŋ le , ŋu=le lɐʔ ɪʔ=bu tɕɑ1=dɤ .
+1812.wav|ɑ1-'lɑ iɔ1 tɔ ɦoŋ ɟiɔ=lu ɦi=ø1 si1=lu .
+1813.wav|iɔ1-vəʔ-iɔ1 zɑ̃ kɔ1=kɑ ʦɤ ?
+1814.wav|zø=bi nɑ-nəŋ ʦɤ , nɑ-nəŋ kʰʷɑ zy nɑ nəŋ-kʰe !
+1815.wav|kəʔ=məʔ zy zɑ̃ kɔ1=kɑ ʦɤ .
+1816.wav|oʔ=ɦioʔ , bã-zɐʔ tu-tɕo , cɪʔ=sɐʔ ɲɪɲ 'ləʔ !
+1817.wav|zy gəʔ=tɐʔ dɪɲ-tɕo hɔ=le .
+1818.wav|noŋ zz lɑ=kʰɑ ɦe-zz fu=ɦi cɪɲ1 ?
+1819.wav|fɐʔ=pʰiɔ 'ne hɔ , məʔ-zz vəʔ=iɔ1 mɑ̃ ci=lɐʔ tɕo-ʦz kɔ1=dɤ .
+182.wav|dɑ-ciɑ1 tu1 li-ɦi .
+1820.wav|cɪɲ1=ʦɔ1 ɦiɑ=tɔ cʰi kʷɑ̃=ʦɤ1=gəʔ hu tɕo-pʰiɔ ɦe-ɦiɤ vɐʔ ?
+1821.wav|" zəʔ=kʰʷɑ " tɕo-pʰiɔ məʔ-liɔ , " tʰəʔ=kʰʷɑ " ɦe-ɦiɤ .
+1822.wav|pɑ̃ ŋu=dɪɲ ɪʔ=ʦã " tʰəʔ=kʰʷɑ " tɕo-pʰiɔ .
+1823.wav|noŋ=iɔ1 ŋã=zu ɦe-zz ŋu=pʰu .
+1824.wav|ɲiø=ŋu ɦe-ɦiɤ vɐʔ ?
+1825.wav|ɲiã ŋu kʰø1=ɪʔ=kʰø1 , te=vəʔ=cʰi , ʦəʔ1=ɦiɤ ŋã ŋu=pʰiɔ 'ləʔ .
+1826.wav|zoŋ zɑ̃=he hu-tɕo tɕəŋ=tɔ zəŋ=ʦɤ1=iɔ1 ci-ku ʦoŋ=dɤ ?
+1827.wav|gəʔ pe1 hu-tɕo ci=ti ʦoŋ=kʰe ?
+1828.wav|tɕəŋ gəʔ bu hu-tɕo , ʦɤ ci=ɦɔ tʰoŋ1=dɔ ?
+1829.wav|gəʔ ɑ1=zz kʰe=tɔ poʔ-cɪɲ1 cʰi-ɦəʔ hu-tɕo ?
+183.wav|tʰi1 ue-'ləʔ , ŋu iɔ1 we-cʰi 'ləʔ .
+1830.wav|gəʔ bu hu-tɕo lɐʔ kʰʷəŋ1 se1 ze=dɤ dɪɲ-tɕo vɐʔ ?
+1831.wav|mɑ=hu tɕo-pʰiɔ gəʔ tɕɑ̃=kʰɤ lɐʔ=he ɑ1-li ?
+1832.wav|ŋu siã mɑ ɪʔ=ʦã tɔ zɑ̃=he gəʔ te-zəŋ ci1=pʰiɔ .
+1833.wav| ŋəʔ  ɦɔ=gəʔ pe=ci1 zi1=bu kʰɐʔ=mø .
+1834.wav|ci=ɟi zø=ci1 ɦã-li iɔ1 tɕəŋ=tɕəŋ .
+1835.wav|noŋ cʰɪʔ=ɕiã1=i1 vɐʔ ?
+1836.wav|noŋ cʰɪʔ mi diɔ ɦe-zz cʰɪʔ=ve ? həʔ zəŋ=ʦəʔ ɦe-zz həʔ=kʰɑ-fi ?
+1837.wav|dɑ-ciɑ1 gəʔ ɦã-li ze='ne=zi 'ləʔ vɐʔ ?
+1838.wav|ɦe=cʰyɪʔ ɪʔ ʦɐʔ1 siã1=ʦz .
+1839.wav|tɕɪɲ=vəŋ ɲɪɲ 'nɑ ci=we zz='me kʷəʔ mɤ-ɦiɪʔ de=piɔ dø=gəʔ vɐʔ ?
+184.wav|ɦiɤ=kʰoŋ1 cɪɲ=zã=le kʰø1=kʰø1 .
+1840.wav| ɲɪɲ 'nɑ  ɪʔ lu=lɑ̃=ɕiã cʰɪʔ=lɪʔ 'ləʔ vɐʔ
+1841.wav|ɪʔ=ti ɦɑ vəʔ cʰɪʔ=lɪʔ , ziɑ=ziɑ=noŋ le=ʦɪʔ ɑ1-'lɑ .
+1842.wav|siɔ-ʦiɑ , gəʔ foŋ1=səŋ ci=tɔ ɟy cɪɲ1=se1 , ɦiɤ=pʰiɔ tʰɪʔ tu1=sɔ ?
+1843.wav|səŋ=fɑ̃=lɐʔ tɕəŋ kɔ1=dɤ tɕəŋ=ɪʔ=tɕəŋ ʦe kɔ=su noŋ .
+1844.wav|ŋu=iɔ1 ci tɕɔ=pʰiɔ pəʔ 'm-'mɑ , 'ne=ʦã ci=kʰʷø tae=pəʔ ŋu hɔ vɐʔ ?
+1845.wav|de=mi lɑ̃ zz-ciɑ1 'ne .
+1846.wav|tɕɪɲ vəŋ=lɐʔ=məʔ ɪʔ=tʰɑ̃1 kʰe sɪɲ-siã1 zz sɑ-zəŋ-kʷɑ̃1 ?
+1847.wav|ŋ-ti ʦoŋ , səŋ=kʰʷɑ ti toʔ ɦo-cʰi ɦe-le təʔ ɟɪʔ .
+1848.wav|ci=ko ɦɔ=səŋ zz-vəʔ-zz hɔ=kʰʷɑ ɪʔ=ti ?
+1849.wav|ko=ɦɔ səŋ=zz pɔ=ɕi ɪʔ=ti , vəʔ-we kʰʷɑ fe1=r me .
+185.wav|ʦe-we , ŋu ɪʔ=dɪɲ we tɪʔ ʦe le-ku .
+1850.wav|iɔ1=məʔ ci " tʰəʔ=kʰʷɑ ɦiɤ=ɟi " məŋ-ʦɔ1 zy kʰu=i tɔ .
+1851.wav|ci=ɟi=ɲɪɲ , sɤ1=ɟi=ɲɪɲ di=ʦz sɪɲ=mɪɲ vəʔ=iɔ1 di1=fe1=tʰəʔ !
+1852.wav|ɦiɤ=ʦəŋ pi=mo vəʔ=iɔ1 mɑ̃=ci siɑ !
+1853.wav|ŋu-we ɦiɤ=ʦã we=kʰʷø tae , lɐʔ=noŋ gəʔ=tɐʔ lɪɲ tɕɔ=pʰiɔ zz vɐʔ ?
+1854.wav|noŋ səŋ1-vəŋ1 ʦəŋ=tɑ le vɐʔ ?
+1855.wav|səŋ1-vəŋ1 ʦəŋ=ɦɔ ŋu i=cɪɲ di1-hɔ 'ləʔ , kʰu=i lɪɲ=mɑ ?
+1856.wav|te=vəʔ=cʰi , m-məʔ səŋ1-vəŋ1 ʦəŋ=zz vəʔ hɔ lɪɲ=we=kʰʷø gəʔ .
+1857.wav|si1-sã1 , ŋu=iɔ1 zəŋ tɕɔ=pʰiɔ , nɑ-nəŋ zəŋ=fɐʔ ?
+1858.wav|noŋ=iɔ1 zəŋ wəʔ-ɟi=zəŋ=kʰʷø , ɦe-zz dɪɲ-ɟi=zəŋ=kʰʷø ?
+1859.wav|ɑ1-'lɑ gəʔ=tɐʔ ɦiɤ ŋɑ=bi zəŋ-mɪɲ-bi dɪɲ-ɟi ɪʔ=pəŋ tʰoŋ1 , ɦɑ-ɦiɤ wəʔ-ɟi ɪʔ=pəŋ tʰoŋ1 .
+186.wav|ci-zo ci-zo , məʔ-ʦz ze tɑ zi 'ləʔ vɐʔ .
+1860.wav|wəʔ-ɟi tɕy=kʰʷø məʔ , noŋ kʰu=i zø=bi sɑ=gəʔ=zəŋ-kʷɑ̃1 ɦioŋ ŋã kʰɑ-'lɑ .
+1861.wav|noŋ kʰu=i tɔ=ɦiɤ " ɲɪɲ=li " piɔ=ʦz gəʔ  ci li cʰi1 'ne tɕɔ=pʰiɔ .
+1862.wav|gəʔ ʦã=kʰɑ pəʔ=noŋ , ɑ1-'lɑ ɲɪɲ-ɦɑ̃ ɦiɤ ɲie=sz siɔ=zz zz=doŋ voʔ=vu=gəʔ .
+1863.wav|kəʔ=məʔ ŋã=kʰɑ nɑ-nəŋ ɦioŋ=fɐʔ ɲi ?
+1864.wav|tɕɐʔ ʦɪɲ-cʰi , kʰø1 ɦi səʔ-mɪɲ tɕɔ1=ʦoʔ tã zy=zz 'ləʔ .
+1865.wav|tɕɪɲ=vəŋ , ŋu=iɔ1 'ne 'me=ɲiø diɔ zəŋ-mɪɲ-bi , gəʔ=tɐʔ hɔ=diɔ pəʔ ŋu vɐʔ ?
+1866.wav|ɦi=le zəʔ-bi kɔ zəŋ-mɪɲ-bi gəʔ de-wø=lɪʔ zz tu1=sɔ ?
+1867.wav|tɕɪɲ=noŋ 'ne gəʔ ʦã ly-ɦɪɲ=ʦz1=pʰiɔ diɔ-zəŋ ɦi=tɕɔ .
+1868.wav|tɕɪɲ=noŋ gəʔ=tɐʔ tɕi ku-zz .
+1869.wav|ɪʔ-goŋ1 zz tɕɪʔ=tɕi1=ŋ-pɐʔ sz-səʔ ɲi-kʰʷe , noŋ ti ɪʔ=ti .
+187.wav|ŋu ze ci-zo ku-liɔ .
+1870.wav|tɕɪɲ=noŋ pɑ̃ ŋu=wø ɪʔ=ti lɪɲ=se=tɕɔ=pʰiɔ hɔ=vɐʔ ?
+1871.wav|ŋu=iɔ1 tã ʦəʔ1 di=ɦo pəʔ ŋu nø-ŋ .
+1872.wav|gəʔ zz=zz doŋ dɤ=bi di=ɦo , ɦioŋ ɪʔ=kʰʷe ŋã=bi le tã-ku .
+1873.wav|zã-foŋ ve=ti zz vɐʔ ? tɕɪɲ=ʦø  fəŋ-ci .1
+1874.wav|lɔ=wɑ̃ , ɦiɤ di=ɦo zɪɲ 'ni .
+1875.wav|tɕɪɲ məŋ-noŋ ɑ1=zz loʔ=mɪɲ sz=ti gəʔ lɔ pe ?
+1876.wav|noŋ səŋ-ɪɲ1 du-ɪʔ-ti , ŋu tʰɪɲ vəʔ tɕəʔ !
+1877.wav|te=vəʔ=cʰi , məʔ-ɲɪɲ ʦɪʔ=di=ɦo . dɑ-ke ɦi tɕəʔ-cʰi 'ləʔ vɐʔ .
+1878.wav|tɕɪɲ=noŋ kɔ=su li=mɪɲ si1-sã1 , ciã=ŋu=zəʔ=ti=ʦoŋ tã=ku ɪʔ ʦɐʔ1 di=ɦo pəʔ ɦi .
+1879.wav|məŋ-ʦɔ1 ʦoŋ1=lɑ̃=ɕiã ciɔ ɦi tã pəʔ ŋu ʦəʔ1 di ɦo .
+188.wav|pɑ̃=ŋu='ne=kɐʔ=ʦəʔ pɑ1-pi=uɑ1=uɑ1 tɑ po noŋ-ku siɔ=ɲɪɲ .
+1880.wav|sɔ-vi təŋ=ɪʔ=ɕɪʔ , ɦi mo-zɑ̃ le ʦɪʔ=di=ɦo .
+1881.wav|ue , ʦã=siɔ=zɪɲ lɐʔ=lɐʔ oʔ=li vɐʔ ? mo=ve noŋ-ciɔ ɦi tʰɪɲ tʰɪɲ di ɦo .
+1882.wav|te=vəʔ=cʰi , noŋ tã=tɕu di=ɦo 'ləʔ .
+1883.wav|dɑ-ʦoŋ tɕəʔ=ʦu1 cʰi-tɕo koŋ1=sz1 gəʔ di=ɦo ɦɔ=mo zz sɑ ?
+1884.wav|ue , ŋu iɔ1-ciɔ bu tɕɑ1=dɤ , ɦi=le tɔ ɦo-se1 lu  loŋ  ɦɔ məŋ=kʰɤ .
+1885.wav|ziɑ=ziɑ=noŋ vəʔ=iɔ1 lɐʔ tɕo-siã li ɦo-'lɑ ɦo-'lɑ tã=sɤ ci1 , kʰu=i ke=fɐʔ tø-sɪɲ vɐʔ !
+1886.wav|ue , tɕɪɲ vəŋ=ɦi le tʰəʔ ŋu mo-zɑ̃ soŋ ɪʔ-dɪʔ kɔ=ʦz hɔ=vɐʔ ?
+1887.wav|hɔ-ku . noŋ zz lɐʔ sɑ=di=fɑ̃ ?
+1888.wav|ŋu zy-zz lɐʔ=ɲy ɦiø=lu  loŋ  ɦɔ .
+1889.wav|ɑ1-'lɑ pʰɑ-ɲɪɲ pø-ku ʦoŋ=dɤ li=ɕiã tɔ noŋ-ku tɐʔ=le 'ne .
+189.wav|ɕi1=mɑ̃ ɦi hʷø=ɕi kɐʔ=ʦɐʔ li-vəʔ .
+1890.wav|tu1=sɔ zəŋ-kʷɑ̃1 hɔ soŋ=tɔ ?
+1891.wav|noŋ=iɔ1 soŋ=tɔ ɑ1-li tɪʔ ?
+1892.wav|ŋu=iɔ1 soŋ=tɔ zɑ̃=he vəŋ=ɲi tɕəʔ=pe=zo .
+1893.wav|tɕɪɲ=noŋ kɔ=su=ŋu ziã-si di=ʦz .
+1894.wav|cɪɲ1=ʦɔ1 zɑ̃=pø=tʰi1 zy kʰu=i soŋ=tɔ , kʰʷɑ di=fi=sɤ1  ɲiø ɦiã=di .
+1895.wav|kəʔ=məʔ ŋu təŋ lɐʔ=he , noŋ mo-zɑ̃ le ɔ , ʦe-we !
+1896.wav|noŋ zz tʰəʔ=ʦe1 ʦø=ɲiɪʔ ʦz1=ŋɑ , ɦe-ɦiɤ sɑ tʰəʔ bɪʔ-ɦəʔ e=hɔ vɐʔ ?
+1897.wav|ɕy1-sɪʔ ɲiɪʔ=ciɐʔ noŋ kʰø1 di=zz i=ŋɑ , ɦe hʷø=ɕi sɑ=di=fɑ̃ cʰi ʦø=ʦø ?
+1898.wav|pʰɐʔ=ʦɔ , ʦəʔ1=vəʔ=ku zz ŋu ɪʔ ɦɑ̃=ɲiɪʔ z e=hɔ .
+1899.wav|gəʔ=tʰɔ zi=bi iɔ1 loŋ=tɔ ziɑ-cʰi ne=gəʔ , noŋ ɦioŋ 'ləʔ tu1=sɔ ʦã gəʔ zəŋ-kʷɑ̃1 loŋ=tɔ ɑ ?
+19.wav|vɐʔ tɕu , ɪʔ=tɕɪʔ zəŋ=li .
+190.wav|ɪʔ=lu ʦz=i=ø1=zi .
+1900.wav|ŋu ciɐʔ-təʔ zɪʔ=ɦiɤ=zz ɪʔ=ʦoŋ ɦiɤ=ɪʔ gəʔ ɕy1-ɦe .
+1901.wav|ŋu vəʔ=hʷø=ɕi bɔ=tɕəʔ-cʰi bɐʔ=siã1 , zã=ʦɑ̃ lɐʔ oʔ=li siã1=pʰɔ1=wu kʰɑ-fi .
+1902.wav|ɦi hɔ=ziã te ɪɲ1=loʔ=ɟɪʔ lɔ=sɑ lɔ kø-ɕɪɲ=tɕy gəʔ , r-tɕiɑ1 ɦe ziɑ-cʰi toŋ=cɪɲ .
+1903.wav|ŋu-we zã=ʦɑ̃ kʰø1 zɑ̃=he wɐʔ-ci1 , wəʔ=ʦe ɪʔ-kɑ1-məŋ we=lɔ ʦe1=di=zz=ci1 .
+1904.wav|tɕo1-mo-ʦiã ŋu ne=pe le=le , ɪɲ1=we ɪʔ zɑ̃ ɲi=dɤ cʰi=le zəŋ-kʷɑ̃1 ze tɐʔ=tʰəʔ .
+1905.wav|ŋu ɪʔ=tɕɔ1 ci1=zy məʔ=ti gəʔ , ɦiɤ-ɕi tã=tã , doŋ=ɦo=pʰi kʰø1=kʰø1 .
+1906.wav|noŋ nɑ-nəŋ ɪʔ ɦiɤ=kʰoŋ1 zy zɑ̃=mɑ̃ , tɕoŋ=lɑ̃ kʷø=sz tã  , ɪʔ-ku ɦiɑ=dɤ ze=vɐʔ dɪɲ=gəʔ ?
+1907.wav|noŋ=ɦiɤ noŋ-ku e=hɔ , ŋu ɦiɤ ŋu-ɦəʔ ɕɪɲ-tɕy , kʷe=noŋ sɑ=zz=tʰi !
+1908.wav|ŋu ɦiɤ liã=ʦã dɑ-ɦioʔ pʰiɔ=ʦz lɐʔ=he , cɪɲ1=ʦɔ1 kɔ ŋu ɪʔ=dɔ cʰi dɑ-ɦioʔ cʰi vɐʔ ?
+1909.wav|dɑ sɑ=gəʔ ɦioʔ ? sɑ̃1-nɑ ŋu zz pʰo 'məŋ=sɐʔ tʰəʔ=gəʔ , iɔ1=məʔ zy-dɑ sɑ̃=pʰɔ1 .
+191.wav|ʦoʔ-noŋ ly=du=z=kʰʷɑ .
+1910.wav|noŋ gəʔ-ɦəʔ ɲɪɲ ʦəŋ1=zz gɑ̃ ɟiɐʔ ɟiɐʔ , dɑ dɑ-ɦioʔ , soŋ soŋ cɪɲ1=kʷəʔ , ɦiɤ=ɪʔ ɕyɪʔ=mɐʔ ly=tʰoŋ1 .
+1911.wav|pəʔ1-ku ɦi=le kɑ1-kɑ1 oʔ=li ze=ɦiɤ təʔ ɦioʔ=kɑ̃ , dɑ dɑ-ɦioʔ vəʔ zz=mae bi tɑ̃-ku ?
+1912.wav|liã=ɦiã gəʔ , ɦioʔ=zz li dɑ-ɦioʔ məʔ , ɲɪɲ=pʰɔ1 təʔ le=sɐʔ kəŋ1 
+1913.wav|bã=ɦiɤ dɔ li , dɑ-ciɑ1 de=de=sɪɲ1 , lɔ=sɑ̃=gəʔ .
+1914.wav|noŋ kʰø1 ɲɪɲ-kɑ1 , ʦu ø=mu lɔ , ʦoʔ=ɦioʔ lɔ , sɤ=səŋ1 lɔ , kø=zz zɑ̃ .
+1915.wav|noŋ gəʔ-ɦəʔ ɲɪɲ ʦəŋ1=zz ɐʔ1-moʔ=lɪɲ ɪʔ ʦɐʔ1 , ciɑ 'lɪɲ vəʔ tɕɪɲ1 !
+1916.wav|ɕy1-ɦe iɔ1 ɕy1 'ləʔ ʦɐʔ=cɪɲ , ɕy1=tɕəʔ zɪɲ-diɔ pʰɪɲ=we kɔ1=sz=bɪɲ .
+1917.wav|ŋu vəʔ hɔ sɪɲ1=tʰi1=di cʰi-cʰi , sɪɲ1=bo1=kʰəʔ zu=zu , bɔ=bɔ siã1=ɦiã=lu ɑ .
+1918.wav|ŋu ɦiɤ-zəŋ-kʷɑ̃1 kəʔ ʦe1 bã=ɦiɤ tɕɑ̃ tɕɑ̃=ku1 , pʰɔ1=pʰɔ1-bɑ1 .
+1919.wav|tɑ̃ ɑ1-'lɑ kø=tɔ zəŋ-kʷɑ̃1 , ɦi lɑ vu i cɪɲ kʰe sz tʰiɔ-cʰi=le 'ləʔ .
+192.wav|ɦɤ-we=ɦiɤ-ɟi .
+1920.wav|ɪʔ=mi cʰɪʔ cʰɪʔ ɦoŋ-zo kʰɑ-fi , ɪʔ=mi cʰɪʔ cʰɪʔ səʔ-lɐʔ si1=ti , ɪʔ=mi de=de=sɪɲ1 .
+1921.wav|ɦiɤ mɑ̃=loʔ ʦoʔ-ciɑ1 ciã=siɑ ʦoʔ ci=wɐʔ , ɦɑ-ɦiɤ siɔ cʰi=ɲiɪʔ=ciɑ1 de ʦoŋ=ʦoŋ fɐʔ=ze=cɪɲ .
+1922.wav|" lɔ zɑ̃=he " pʰɑ te li , ci-ku lɔ kʰəʔ-'lɑ vəʔ de tɕɑ̃=cʰi bɪɲ=de səŋ1=cʰioʔ .
+1923.wav|ŋu tɕɑ̃ kʰɑ-'lɑ  , zoŋ-siɔ zəŋ-kʷɑ̃ ku1=tɕɑ̃1 cʰi , ɪʔ=zəʔ tɕɑ̃ tɔ cɪɲ-ku .1
+1924.wav|lɔ kʰəʔ-'lɑ ciã , vəʔ kʷø ɦi sɑ-zəŋ-kʷɑ̃1 sɑ zz=zɑ̃ .
+1925.wav|sɪɲ1=kʰoʔ ɪʔ=zoʔ pʰɑ te lɐʔ=lɐʔ zo bɑ1 li kʰe , sz-ku ɲɪɲ ɲiɤ=bi tɕø1 tɕø1 .
+1926.wav|noŋ vəʔ=ɕiɔ=təʔ zɑ̃=he ɦiɤ koʔ=səʔ koʔ=ɦiã gəʔ " bɑ1 " , noŋ-ɦiɤ gɑ̃=tʰəʔ !
+1927.wav|zɑ̃=he sɪɲ1=hɔ nø-ɲɪɲ , ɦiɤ-we pʰɪɲ1=mɪɲ koŋ1=ʦoʔ , ɦiɤ we-ʦiã ɕy1-ɦe ʦɪɲ-ɦɪɲ=tɔ=ti .
+1928.wav|zz=ku zəŋ-kʷɑ̃1 ɦiɤ tɕɔ=pʰiɔ kɤ , ŋu=iɔ1 tɔ ɤ=ʦɤ1 cʰi ly=ɦiɤ .
+1929.wav|hã1-pɐʔ-lã-tã ŋu gəʔ=tʰɑ̃1 ly=zəŋ sy1=iɔ1 zəʔ-ɲi=tʰi1 .
+193.wav|hʷø=ɲɪɲ=noŋ ʦe le , ʦe-we .
+1930.wav|ʦoʔ-noŋ ɪʔ lu=lɑ̃=ɕiã bɐʔ=siã1 kʰe=sɪɲ1 .
+1931.wav|məŋ-ʦɔ1 iɔ1=doŋ=səŋ1 , de=zz ŋu=tɔ ɦi=le siã1=ʦz ɦe-məʔ ʦəŋ=li hɔ .
+1932.wav|ɪʔ=ʦɑ̃ zz=tʰi zz mo-zɑ̃ tɔ ɲɪɲ-ɦɑ̃ li cʰi 'ne ŋe tɕɔ=pʰiɔ .
+1933.wav|oʔ , ŋu kɑ̃=kɑ̃ siã=cʰi=le , səŋ1-vəŋ1 ʦəŋ vəʔ=iɔ1 mɑ̃-ci-tʰəʔ tɑ .
+1934.wav|iɔ1 vəʔ=zz noŋ di-sɪɲ1 ŋu , zø=bi nɑ-nəŋ ɦɑ-siã vəʔ cʰi=le .
+1935.wav|ŋu vəʔ=siã tɕəŋ cʰi-tɕo cʰi , zɪɲ=ɲiø ʦɤ təʔ-cʰi .
+1936.wav|noŋ ø1=zi tɔ dɐʔ moʔ=tɪʔ=di i ɦɤ , vəʔ=iɔ1 mɑ̃-ci-tʰəʔ tã ʦəʔ1 di=ɦo kɔ=su=ŋu .
+1937.wav|ŋu kʰəŋ=dɪɲ mɑ̃=ci 'ləʔ tɑ ɦiã=se , de=ɦi le i=cɪɲ tʰəʔ e 'ləʔ .
+1938.wav|zoʔ=tʰi1 tʰi1=cʰi tʰəʔ hɔ 'ləʔ , su=i ɑ1-'lɑ cyɪʔ=dɪɲ zz-ciɑ1 kʰe-tɕo tɕəʔ-cʰi bɐʔ=siã1 .
+1939.wav|hu tɕo-mo zɑ̃ zy=iɔ1 kʰe , ɑ1-'lɑ 'mi-ɟiã kʰu=i kø=tɔ .
+194.wav|hɔ bo=cʰi=le 'ləʔ .
+1940.wav|zɑ̃=he zəʔ=təʔ cʰi bɐʔ=siã1 gəʔ di=fɑ̃ zəʔ=le tʰəʔ=tu1 .
+1941.wav|pəʔ1-ku ɦɑ-ɦiɤ ti di=fɑ̃ məʔ=sɑ cʰi-dɤ .
+1942.wav|wɑ̃-pʰu-kɑ̃1 liã=ŋø ʦø hɔ=kʰø1 , kʰu=i zu=lɐʔ=zø li ɦiɤ=le .
+1943.wav|noŋ kʰø1 , pʰu=toŋ ɦiɤ kɑ-ɕi-tu1 kɔ1=zəŋ ci=ʦoʔ , ɦe-ɦiɤ toŋ=fɑ̃ mɪɲ=ʦz1 .
+1944.wav|ŋu-we zz te=z=ɦiø , zəŋ=wɑ̃ miɔ , zɑ̃=he lɔ=kɑ1 kəŋ1-kɑ1 ɦiɤ-ɕɪɲ-tɕy .
+1945.wav|lɐʔ ɦi=ø1=lu kɔ1=kɑ kɔ1=dɤ kʰø1 liã=mi gəʔ zɑ̃=he foŋ-kʷɑ̃1 , hɐʔ tiɑ !
+1946.wav|ɪʔ-cʰiø tɤ1 we=le , ɦe-hɔ kʰø1=kʰø1 ŋɑ=tʰe ɟɪɲ=de ci=ʦoʔ ɦiɑ-cɪɲ .
+1947.wav|su=ʦɤ1=wu zz zɑ̃=he 'mu=tɕɪɲ wu , ue=ue=cʰioʔ=cʰioʔ wã-kʰo1 ly=ku zz=ʦoŋ1=sɪɲ1 .
+1948.wav|lɔ=ʦɔ su=ʦɤ1=wu u=zø təʔ ɦiɤ həʔ ɦiɤ tɕɤ , noŋ kʰu=i kʰø1=kʰø1 zi ci=ɲi gəʔ ɦiã=ʦz .
+1949.wav|zi=liã=ɲi zz=ʦəŋ=fu ho1-liɔ dɑ-lɪʔ cʰi , sz=təʔ su=ʦɤ1=wu pi=tɕɪɲ1 'ləʔ .
+195.wav|sɪɲ1=sɪɲ1 iɑ , i=cɪɲ  ti  fəŋ-liɔ1 .
+1950.wav|ʦe=ku ci=ɲi , su=ʦɤ1=wu ɦi=ŋø ʦəŋ1 iɔ1 zəŋ=we zɑ̃=he ɪʔ-diɔ liã=li=gəʔ foŋ-cɪɲ si .
+1951.wav|ɦiɤ ku-ɲɪɲ ly=ɦiɤ hʷø=ɕi bɔ-liɔ ɦiø , ɟi-zəʔ zɑ̃=he ciɔ1-cʰy hɔ=bɐʔ=siã1 di=fɑ̃ ɦɑ lɔ tu1-ku .
+1952.wav|ɪʔ=tɔ tɕəŋ1=tʰi1 , zɑ̃-he-ɲɪɲ ze=siã bɔ=tɕəʔ-cʰi se=se=bu , se=se=sɪɲ1 .
+1953.wav|soŋ-kɑ̃1 gəʔ ʦø bɐʔ=zz , tɕɪɲ1=pʰu gəʔ cʰioʔ=sz ɦiø , kɑ1-dɪɲ gəʔ=tɕy1=iɑ pu .
+1954.wav|ɦe-ɦiɤ zo=se1 foŋ cɪɲ-cʰy , dɪɲ-se1-wu dɑ-kʷø ɦiø , toŋ=fɑ̃ loʔ=ʦɤ1 lɔ .
+1955.wav|ʦø=ɟɪɲ ɦiɤ kʰe=pʰɪʔ 'ləʔ ʦz1=ciɑ1=koʔ ly=ɦiɤ=ti , ʦəŋ=kɔ1 dɤ-ɦəʔ fɑ̃-səŋ1 ɟiɔ=lɪʔ=sz y=cy .
+1956.wav|noŋ zz koŋ1=pʰɑ tɕəʔ-cʰi , ɦe-zz ɪɲ1=sz1 tɕəʔ=kʷəʔ ?
+1957.wav|noŋ=iɔ1 ciɔ1=ci=ʦã ʦɔ=pʰi , di1 hɔ=ci ʦã piɔ=kɐʔ , be=hɔ tɕi ʦəŋ .
+1958.wav|tɕi=ʦəŋ tɔ ɦi=le=ɦe m-məʔ 'ne-tɔ , ŋu ʦəŋ1=zz cɪʔ=sɐʔ kʰʷɑ !
+1959.wav|tɕɪɲ=noŋ 'ne wu=ʦɔ tɕəʔ=zz pəʔ ŋu kʰø1=kʰø1 , ɦe-ɦiɤ zəʔ=cɪɲ piɔ=kɐʔ di1-hɔ 'ləʔ vɐʔ ?
+196.wav|noŋ vɐʔ zz 'me=tʰi1  ti=ʦoŋ cʰi le-ku mɑ .
+1960.wav|noŋ lɐʔ zɑ̃=he iɔ1 təŋ tu1=sɔ zəŋ-kʷɑ̃1 ?
+1961.wav|noŋ ʦəŋ=be zoŋ sɑ-ɦəʔ-di-fɑ̃ tɕəʔ=cɪɲ ?
+1962.wav|noŋ=ɦiɤ sɑ=gəʔ məʔ-zz sy1=iɔ1 ɕiã=he kʷe səŋ1=pɔ vɐʔ ?
+1963.wav|tɕɪɲ noŋ-zoŋ gəʔ=tɐʔ ʦɤ , e1=mi zz ci-zo de , ci-zo ɦã-li gəʔ di=fɑ̃ .
+1964.wav|zɑ̃-he-ɲɪɲ cɪʔ=hʷəŋ1 , ɦiɤ-ku ɲɪɲ-kɑ1 ʦy=sz zã-mi be=təʔ lɔ-dɑ .
+1965.wav|fɐʔ=pəʔ hɔ=bã=ɦiɤ gəʔ tɕɪɲ=tʰɪʔ lɑ̃=ɦiɤ sɪɲ1=lɑ̃=sɪɲ1=ɲiã ɦəʔ-ɪɲ gəʔ ʦɔ=pʰi .
+1966.wav|sɪɲ1=lɑ̃ ɪʔ=mi ɦiɤ bø=lɑ̃ , sɪɲ1=ɲiã ɪʔ=mi ɦiɤ bø=ɲiã .
+1967.wav|cɪʔ=hʷəŋ1 ɲi=səʔ kʰe=sz , sɑ̃=fɑ̃ ɦiɑ=ɲiã iɔ1 kɑ̃-ɦe-ɦo , ʦoʔ-wu ɦi lɑ .
+1968.wav|ʦəŋ=hʷəŋ1 ɲɪɲ=ʦz wu=zz , sɑ̃=fɑ̃ wu=zəŋ cɪʔ=hʷəŋ1=kɑ=ʦz .
+1969.wav|sɪɲ1=hʷəŋ1 vɑ̃ li , ɦiɤ=fɑ̃ ɦoŋ-ʦɔ ho1-səŋ1 kʷe=ɦiø tʰəʔ=ʦe1 ko1-ʦz gəʔ , tʰɔ=gəʔ tɕe=dɤ .
+197.wav|cɪɲ1=ʦɔ1 nɑ-nəŋ kʰʷəŋ le=ciɐʔ 'ləʔ 'lɑ .
+1970.wav|zz=tʰəʔ tɕɪɲ=ciø , we-tɕɪɲ le 'ləʔ zɑ̃=sz1 , doŋ=zz , dɑ-ɦoʔ ʦoŋ1-ɦoʔ siɔ-ɦoʔ doŋ-ɦoʔ .
+1971.wav|nɔ=cʰi sɪɲ1=vɑ̃ le , kʰu=siã=r=ʦz1 iɔ1 nɔ=mã təʔ ɪʔ=tʰɐʔ=wu=du 'ləʔ !
+1972.wav|ɦi=le 'lɔ-sz te=vɐʔ , ziɑ-cʰi mi-sɪɲ kʰɔ=sz , məŋ-ʦɔ1 ɦiɤ-iɔ1 kʰɔ sz-liɔ .
+1973.wav|'lɔ-sz kɔ ɦiɑ=ɲiã ze=zz kʰɔ=sz mi , ɪʔ=məŋ=sɪɲ1-sz1 tɕəʔ kʰɔ=di ke-kʰɔ .
+1974.wav|se1-fe=sz=tɕz mɑ tɕø-kʰɔ=sz , ɕɪɲ=sz=doŋ=ʦoŋ tɕɪɲ ciɑ1-ciɔ1 , loŋ təʔ siɔ=nø kʰu təʔ=le ɪʔ=tʰi1=sz=kɑ .
+1975.wav|ɦi=le zɑ̃=he kɑ1-kɑ1 ze=zz doʔ-sã1 ʦz-ɲy lɔ , ciɑ1 zã-te siɔ=nø gəʔ doʔ=sz siã1 tɑ̃=kʷe ʦz .
+1976.wav|ʦz-ɲy be=ɦiã zi zo-we ze ziɑ-cʰi kʷe=sɪɲ1 , ciɔ1=ɦioʔ iɔ1 ʦɪɲ-ɦɪɲ ke-kəʔ .
+1977.wav| sz=ci zo-we , vəʔ toŋ di=nɔ vəʔ toŋ ŋɑ=ɲy uɑ̃=uɑ̃ we bu=bu ne .
+1978.wav|su=i ʦəʔ1 kʰø1-ci ɦoʔ-sã1 lɐʔ=lɐʔ tɪʔ=li=tu='lu doʔ=ŋɑ=ɲy , tɪʔ=lɪʔ toʔ loʔ tã=di=nɔ .
+1979.wav|pəʔ1-ku , ŋɑ=ɲy , di=nɔ te tu1=su ɲɪɲ le-kɑ̃ , tɔ=ti ɦe-zz ɪʔ-ku sɪɲ1-ɦəʔ zəʔ-vəʔ .
+198.wav|kʰʷɑ=ti , kʰʷɑ=ti bo=cʰi=le .
+1980.wav|iɔ1 gɔ tɕəʔ=ti mɪɲ=dɑ̃ le , te zo-we ɦiɤ=ɦioŋ , ʦø=ɲiɪʔ ɦe-zz iɔ1 ŋã=bã=ŋã gəʔ .
+1981.wav|iɔ1 zəŋ=koŋ1 , ɦe-iɔ1 ɦiɤ koʔ=ʦoŋ su=ʦəʔ , ziã tɕɑ̃=zɔ=lɪʔ ɑ .
+1982.wav|su=ʦɤ1 wu=gəʔ lɔ mɪɲ=zz ciɔ " soŋ-kɑ̃1 " ɦiɤ-tɕəŋ " wu-soŋ1-kɑ̃1 " .
+1983.wav|kɑ̃1-pi ɦiɤ diɔ-ʦz1 wu , ciɔ " zɑ̃=he pʰu " , zy=zz ɦi=le=gəʔ wɑ̃-pʰu-kɑ̃1 .
+1984.wav|tɔ tɕɪʔ=pɐʔ=tu1=ɲi zi ɲiø-zɔ1 zəŋ-kʷɑ̃1 , ci=ʦz 'ləʔ zɑ̃=he ɦiø .
+1985.wav|zoŋ soŋ-kɑ̃1 , tɕɪɲ1=pʰu ɪʔ=tɑ gəʔ tɕəʔ=tʰu=vəŋ-vəʔ tɑ̃=ʦoŋ1 kʰø1=tɔ .
+1986.wav|de=zz ɦi=le zəŋ-cʰy dɑ-tu1-su di=fɑ̃ , lɐʔ dɑ̃-zɔ1 i=zi ɦe-zz he=tʰe .
+1987.wav|zɑ̃=he ciɑ ve-ɦioŋ , ʦz=iɔ1 zz ɪʔ=pɐʔ=loʔ-səʔ ɲi=zi kʰe=bu=i ɦɤ fɐʔ-səŋ1 gəʔ pi-ho .
+1988.wav|zɑ̃=he kʰe=bu=i ɦɤ , ʦoŋ1=si1 ɦioŋ-ɦəʔ , ci1=sɤ1 pɪɲ1 ɕioʔ , ɦɪɲ=zəŋ 'ləʔ kʰʷø tɑ=gəʔ vəŋ-ho vəŋ-we .
+1989.wav|tɑ̃=zz , kʷəʔ=ɦo , cɪɲ1-ɕi , tʰoŋ1=zoʔ siɔ-səʔ , ly-ɦɪɲ=ku1=cʰioʔ , ze=zz siã1=tɑ̃ ly-ɦɪɲ gəʔ .
+199.wav|ŋu lɔ sɑ du=gəʔ , zoʔ=tʰi1 ɦiɑ=li kʰʷəŋ vɐʔ zɐʔ .
+1990.wav|tu1=zz vəŋ-ho he=nɐʔ pɐʔ=tɕø1 , ci=ʦoʔ , tɕəʔ=pe , ɲy-loʔ , loŋ=dɑ̃ sã1=wəʔ .
+1991.wav|tɑ̃=cɪɲ1 , he=pʰɑ vəŋ-ho ʦəŋ1=lɐʔ ʦz=zəʔ sɪɲ1-ɦəʔ wəʔ=lɪʔ fɐʔ=ɦiã kʷɑ̃1-dɑ .
+1992.wav|dɑ zɑ̃=he , fɑ̃-ɦi gəʔ cʰi=pʰɑ ɦɑ-dɑ , piɔ ɦi-liɔ ʦoŋ1=si1 ciɔ1-we .
+1993.wav|ɦiɤ ʦoŋ=ɲɪɲ , ciɔ ɦi " lɔ kʰəʔ-'lɑ " , zz-zoŋ "  " tʰəʔ=pi ku=le gəʔ .
+1994.wav|te-z səŋ1-vu=fəŋ1-vəŋ ku-ɲɪɲ , ciɔ ɦi " pɪʔ tɪʔ sã1-sz " .
+1995.wav|" cʰi=dɤ=bi " , " sɤ1=kʷəʔ=dɤ " , " tɕoʔ=pɪʔ=ciɐʔ " .
+1996.wav|" məŋ=kʰe=ʦɪɲ1 tɔ cy-səʔ məŋ " , " gəʔ=koʔ=dɤ bã-zɐʔ tʰi1=ho1=pe " , " me=dɤ=tɕoʔ=tɔ=hɑ=r=pɪɲ " .
+1997.wav|zɑ̃-he-ɲɪɲ ciã zɑ̃=he ɦo ; zɑ̃-he-ɲɪɲ ɦɑ ze-we ciã pʰu=tʰoŋ1 ɦo .
+1998.wav|kʰe=kʰɤ iɔ1 ɦiɤ li=mɔ , vəʔ-kɑ̃ ɦo=ʦoʔ ɦe-ɦo .
+1999.wav|koŋ1-goŋ1 zã-ɦəʔ vəʔ cʰɪʔ=ɕiã1=i1 .
+2.wav|ŋu ɑ lɔ-hɔ-ɦəʔ .
+20.wav|noŋ səŋ1=tʰi nɑ-nəŋ ?
+200.wav|noŋ-we cʰi zɑ̃=pe1 vɐʔ .
+2000.wav|loʔ=təŋ zəŋ-kʷɑ̃1 , ʦø=ue tɕo-ʦz iɔ1 ɲiã-ɲɪɲ .
+2001.wav|koŋ1-tɕo kɔ1=dɤ iɔ1 zɪɲ-liɔ ʦe=zɪɲ .
+2002.wav|ɲiã piɔ=ʦəŋ lu=piɔ kəŋ1 kʷe=ve vəŋ=zz kɑ̃-ɦo .
+2003.wav|tɕo-siã li=ɕiã ʦəʔ1=pɔ ze=mɪɲ , vəʔ=iɔ1 'lu=su .
+2004.wav|lɔ=zɐʔ bɪɲ ze=ɦɪɲ=y ze=iɔ1 ʦɔ=ku .
+2005.wav|tɕɐʔ=poʔ zɑ̃=kɑ1 tʰəʔ ne=kʰø1 .
+2006.wav|gɐʔ=gəʔ di=fɑ̃ tɕɪɲ pɔ=zz ø1=zɪɲ i1=tɕz bɑ=de .
+2007.wav|gʷe=cɪɲ we-səŋ1 ɲɪɲ-ɲɪɲ ʦəŋ1=zz .
+2008.wav|ʦu-ku tʰɔ-ɲɪɲ hʷø=ɕi gəʔ siɔ=bã=ɦiɤ .
+2009.wav|zɑ̃-he-ɲɪɲ iɔ1=zz=lɪʔ zɑ̃=he sɪɲ1 ɦɪɲ=ziã .
+201.wav|cʰi-ɦəʔ iɑ , ŋu mo-zɑ̃ cʰi .
+2010.wav|zɑ̃=he zoŋ-le zz-ku he=nɐʔ pɐʔ=tɕø1 gəʔ zəŋ=zz .
+2011.wav|pəŋ=di=ɲɪɲ , ŋɑ le-ɲɪɲ zi-sɪɲ1 goŋ1-tɕɑ̃ zɑ̃=he sɪɲ1 vəŋ=mɪɲ .
+2012.wav|ʦu ɪʔ-ku kʰu=e=gəʔ zɑ̃-he-ɲɪɲ !
+202.wav|kʰʷɑ=ti tɕø1 i1=zɑ̃ .
+203.wav|cɪɲ1=ʦɔ1 ɦiɤ=ti lã , tɕø1 ɲioŋ=si=se1 .
+204.wav|ŋu ɦe=məʔ kʰɑ=mi le .
+205.wav|kʰʷɑ=ti cʰi kʰɑ=mi , səʔ=ŋɑ-tɕz .
+206.wav|noŋ=iɔ1 kʰʷɑ=ti 'ləʔ .
+207.wav|ŋu ɦe-siã ho-ʦɑ̃ le .
+208.wav|noŋ ʦɔ=ve siã=tɕɪʔ sɑ ?
+209.wav|ŋu tɔ te-we cʰi=tɕɪʔ .
+21.wav|ŋu lɔ-hɔ-ɦəʔ !
+210.wav|ɦɑ=tɑ poʔ=hɔ .
+211.wav|kʰʷɑ ʦɤ , me=ciɔ1 kø=pəʔ1-zɑ̃ pe1-tɕo 'ləʔ .
+212.wav|kʰʷɑ=ti , fɤ-ʦəʔ iɔ1 zz tɔ-liɔ .
+213.wav|ŋu iɔ1 ʦəŋ=li vɑ̃=ci .
+214.wav|ŋu iɔ1 sɤ1=ʦoʔ oʔ=tɕoʔ i1=zɑ̃ .
+215.wav|ŋu ɦe-iɔ1 tɕɐʔ=tɕɐʔ de=ʦz sɔ sɔ=di .
+216.wav|me=ciɔ1 tɕɪɲ1=li ləʔ-səʔ .
+217.wav|zø=ɦɤ ɲiɔ sɐʔ i1=zɑ̃ liã tɕəʔ-cʰi .
+218.wav|ɦe-iɔ1 mɑ=tɕe , mɑ=ɲioʔ , mɑ zəʔ-ɦioŋ=pʰɪɲ .
+219.wav|vɐʔ iɔ1 mɑ̃-ci-tʰəʔ mɑ=doŋ zəŋ=zɪɲ=sz .
+22.wav|ɪʔ-pe .
+220.wav|si i1=zɑ̃ , sɔ=ve , lɔ=mɑ̃=gəʔ .
+221.wav|təŋ 'ləʔ oʔ=li siã1 ɕy1-sɪʔ ɪʔ=tʰi1 , pi zɑ̃=pe1 ɦe-iɔ1 cʰɪʔ=lɪʔ .
+222.wav|ɦi=le ŋu ɦo-cʰi zəŋ=li .
+223.wav|ɲiɔ=məŋ=su hɔ .
+224.wav|sɪɲ1-ɦəʔ ɪʔ=tʰi1 kʰe=sz 'ləʔ .
+225.wav|'mɑ='mɑ , cɪɲ1=ʦɔ1 ɦiɤ bã=ɦiɤ tɔ=oʔ=li siã1=le bɐʔ=siã1 .
+226.wav|hɔ-ku , nø=siɔ=ɲɪɲ ɦe-zz siɔ=ku1=ɲiã ɑ ?
+227.wav|zz ŋu ɲy-bã-ɦiɤ .
+228.wav|kʰʷɑ=ti ɲiɔ vɑ̃=ci sɤ1=ʦoʔ tɕɪɲ1=sɑ̃ .
+229.wav|hɔ-ku , ŋu ɪʔ=dɪɲ we tɪʔ loŋ hɔ-ku .
+23.wav|lɔ=vɐʔ hɔ-ku .
+230.wav|ciɔ 'ne pɑ-pɑ mɑ=ti tɕe we=le .
+231.wav|kɐʔ=zz ŋu gəʔ ɲy-bã-ɦiɤ ɦiã=sɪʔ .
+232.wav|pɑ̃=noŋ ciɑ-zɔ ŋu oʔ=li siã1=ɲɪɲ .
+233.wav|kɐʔ=zz ŋu gəʔ ɦiɑ=ɦiɑ , nɑ=nɑ .
+234.wav|kɐʔ=zz ŋu 'mɑ='mɑ .
+235.wav|ɦi zz ɪʔ-ku hɔ 'mɑ='mɑ .
+236.wav|ŋu lɔ ʦəŋ1=zoŋ ɑ1-'lɑ 'mɑ='mɑ gəʔ .
+237.wav|ɑ1-'lɑ pɑ-pɑ mɑ=tɕe cʰi-'ləʔ .
+238.wav|ɦi ʦoŋ=kʷe koŋ1=ʦoʔ di=ɪʔ .
+239.wav|kɐʔ=zz ŋu ʦiɑ-ʦiɑ .
+24.wav|ziɑ=ziɑ=noŋ gəʔ kʷe=sɪɲ1 .
+240.wav|kɐʔ=zz lɪɲ=hʷø , ɑ1-'lɑ ʦiɑ-ʦiɑ gəʔ e-ɲɪɲ .
+241.wav|ŋu=məʔ ku1=ku1 , di-di , me=me .
+242.wav|vɐʔ=ku , ŋu ɦiɤ-ɪʔ-ɦəʔ siɔ ŋɑ=sã1 .
+243.wav|ɦi ʦã-liɔ lɔ=se gəʔ , lɔ ɟiã-ʦɑ̃ gəʔ .
+244.wav|ɦi liɔ-liɔ oʔ=li zy nɔ=mã 'ləʔ .
+245.wav|ɑ1-'lɑ oʔ=li siã1=gəʔ ɲɪɲ=ze hʷø=ɕi ɦi .
+246.wav|'ne oʔ=li siã1=ɲɪɲ lɔ-hɔ-ɦəʔ .
+247.wav|ɑ1-'lɑ oʔ=li siã1=zz sz=sz=doŋ=dɑ̃ .
+248.wav|ɦo-tʰɑ̃1 iɔ1=zz ɑ1-'lɑ cɪʔ=hʷəŋ1 'ləʔ .
+249.wav|we tɪʔ ɦiɤ r-ʦz wəʔ=ʦe ɲy-r .
+25.wav|siɔ=wɑ̃ , ku-zz sɑ=ɲɪɲ ɑ ?
+250.wav|ɦi zy-we tɪʔ ɦiɤ ŋɑ=koŋ1 ŋɑ=bu .
+251.wav|tɔ=kɐʔ zəŋ-kʷɑ̃1 , ɑ1-'lɑ tɕɪɲ=ciø zy kəŋ1-kɑ1-tu1 'ləʔ .
+252.wav|ɦiã=sɪʔ , ŋu ɦe-ɦiɤ lɔ=tu1 hɔ=bã=ɦiɤ .
+253.wav|ɪʔ=dɔ ʦã-dɑ gəʔ bã=ɦiɤ pɑ̃ doʔ=sz zəŋ-kʷɑ̃1 gəʔ bã=ɦiɤ .
+254.wav|ɑ1-'lɑ kʷe=ɦi ze lɔ-hɔ-ɦəʔ .
+255.wav|ɦiɤ-ci1-we ŋu ciɑ-zɔ 'nɑ ɲɪɲ=təʔ .
+256.wav|noŋ tʰɪɲ , lɪɲ=cy1=vɐʔ ɕiɔ=təʔ liɔ-liɔ tɕɔ sɑ .
+257.wav|ɑ1-'lɑ kɑ̃=kɑ̃ pø=tɔ kɐʔ tɪʔ .
+258.wav|zz ɪʔ te cɪʔ=hʷəŋ1 sz-ŋ=ɲi gəʔ fu-tɕi1 .
+259.wav|cɪɲ=zã tɕɔ=siã1=mo gəʔ .
+26.wav|ku-zz ŋu bã=ɦiɤ .
+260.wav|liã-ku ɲɪɲ ʦoŋ=kʷe kʷø=ti vɐʔ ɪʔ=ɦiã .
+261.wav|tʰəʔ ve-liɔ .
+262.wav|vɐʔ=ku , ɦi=le hɔ ciɔ1-kʷe 'ləʔ .
+263.wav|ŋu pɑ̃ ɦi lɑ kɑ̃ , de=bã=ɦiɤ gəʔ zəŋ-kʷɑ̃1 zz bã=ɦiɤ .
+264.wav|cɪʔ=hʷəŋ1 i ɦɤ , ɪɲ=ke zz kã1 kɐʔ hɔ-ku bã=ɦiɤ .
+265.wav|ŋu cɪɲ=zã iɐʔ ɦi lɑ se=bu , liɔ=tʰi1 .
+266.wav|ɑ1-'lɑ ɑ zəŋ=we hɔ=bã=ɦiɤ 'ləʔ .
+267.wav|ɑ1-'lɑ ɦiɤ lɔ=tu1 goŋ1-doŋ e=hɔ .
+268.wav|ze hʷø=ɕi zz=zø .
+269.wav|ɦi hʷø=ɕi səʔ-ɪɲ .
+27.wav|ɲɪɲ=təʔ noŋ lɔ kʰe=sɪɲ1 gəʔ .
+270.wav|ŋu hʷø=ɕi bo=se1 .
+271.wav|ɑ1-'lɑ ze zz ly=ɦiɤ=mi .
+272.wav|kʰʷɑ=iɔ1 ʦɤ-pi ɑ1-'lɑ kʷəʔ-ciɑ1 gəʔ se1=se1=sz=sz 'ləʔ .
+273.wav|ɑ1-'lɑ cɪɲ1=ɲi ɑ1 iɐʔ-hɔ cʰi ɕiã1=kɑ̃ , ɔ=məŋ .
+274.wav|ʦiã-le siã=iɔ1 tɔ ɑ1-'lɑ kʷəʔ-ciɑ1 gəʔ=pɔ=tɔ de ue .
+275.wav|ŋu liɔ-liɔ zi=kʷəʔ ɦiɤ lɔ=tu1 bã=ɦiɤ .
+276.wav|ɦiɤ-cy ɦe-ɦo kɑ̃='ləʔ hɔ .
+277.wav|ze=fu=vɐʔ zz ɪʔ=pe=ʦz gəʔ bã=ɦiɤ .
+278.wav|bã=ɦiɤ ze zz ɪʔ=pe=ʦz gəʔ ze=fu .
+279.wav|noŋ hɔ , noŋ-ku səŋ lɔ=ʦɔ sɤ1=tɔ 'ləʔ .
+28.wav|noŋ kʷe-sɪɲ ?
+280.wav|lɔ=vɐʔ hɔ=i-sz1 gəʔ , məʔ ɟɪʔ zz we-sɪɲ po=noŋ .
+281.wav|ɦi=le di-sɪɲ ɲiɪʔ=lɔ fɐʔ=dɐʔ=gəʔ .
+282.wav|ɦo-tʰɑ̃1 pɑ̃=ŋu=fɐʔ di=ʦz ɦiɤ=ɟi hɔ 'ləʔ .
+283.wav|ŋu ku-mɑ̃ ʦz zz  
+284.wav|ŋu ɦi=le ɦiɤ=ti le 'ləʔ .
+285.wav|lɔ-zã zəŋ-kʷɑ̃1 məʔ=siɑ səŋ po=loŋ 'ləʔ .
+286.wav|ɦe-zz si1-cʰi tã=ʦɐʔ di=ɦo sø='ləʔ .
+287.wav|ue , siɔ li=zz vɐʔ ?
+288.wav|vɐʔ zz , noŋ zz sɑ=ɲɪɲ ?
+289.wav|ŋu zz ly=kɑ̃ .
+29.wav|ŋu sɪɲ=ly , ciɔ ly=ɲioʔ
+290.wav|nəŋ-pɑ̃ ŋu ciɔ-səŋ siɔ li=vɐʔ ?
+291.wav|noŋ təŋ=təŋ , ɦi hɔ=ziã tɕəʔ-cʰi 'ləʔ .
+292.wav|təŋ ɦi we le=ɲiã ɦi tã di ɦo=po ŋu .
+293.wav|ɦi ɕiɔ=təʔ noŋ di=ɦo ɦɔ=dɤ vɐʔ ?
+294.wav|noŋ ly=ly noŋ-ku sɪɲ=mɪɲ tʰəʔ=di=ɦo .
+295.wav|ŋu gəʔ sɤ=ci1 ɦɔ=dɤ zz   .
+296.wav|hɔ-ku , ŋu ci-ɦo-le 'ləʔ .
+297.wav|ku  fəŋ-ʦoŋ1 ɲiã ɦi we di ɦo=po noŋ .
+298.wav|siɔ=li , kɑ̃=kɑ̃ ɦiɤ=ʦəʔ di=ɦo zɪɲ=noŋ .
+299.wav|zz sɑ ɲɪɲ=tã le-ku .
+3.wav|noŋ ʦø=ɟɪɲ nɑ-nəŋ ?
+30.wav|noŋ-ciɔ sɐʔ mɪɲ=zz ɑ ?
+300.wav|kɐʔ zz ɦi gəʔ sɪɲ=mɪɲ tʰəʔ=di=ɦo .
+301.wav|ŋu , ɕiɔ=təʔ 'ləʔ , ziɑ=ziɑ .
+302.wav|ue , noŋ hɔ , ŋu siã zɪɲ=ly si1-sã1 .
+303.wav|tɕɪɲ məŋ-noŋ zz ɑ1-li we ?
+304.wav|tɕɪɲ=noŋ kɑ̃=ɕiã=ti .
+305.wav|ŋu tʰɪɲ=vɐʔ tɕɪɲ1=sɑ̃ noŋ kɑ̃ ɦe-ɦo .
+306.wav|ŋu zɪɲ=ly=kɑ̃ .
+307.wav|noŋ hɔ=ziã tã tɕu=tʰəʔ di=ɦo 'ləʔ .
+308.wav|vɐʔ hɔ=i-sz1 , tɕɪɲ pɑ̃=ŋu=ʦø ku=cʰi le=se1 vɐʔ ?
+309.wav|ŋu zɪɲ=ly=kɑ̃ ɦiɤ cɪʔ zz=tʰi .
+31.wav|ŋu-ciɔ ʦã=ve .
 310.wav|
 311.wav|
 312.wav|
 313.wav|
-314.wav|pah=tshi1 ve-i
-315.wav|non zy sa-zen-kuaon1 le-ku ?
-316.wav|ngu zy chi=nyi tshih-nyuih=pin1 le-ku .
-317.wav|mo-zaon iau1 ih=nyi 'leh .
-318.wav|non zy  nyi pih=nyih geh=vah ?
-319.wav|vah zy-ku , ngu zy  nyi pih=nyih geh .
-32.wav|paon=non cia-zau ngu geh ban=yeu , li=min .
-320.wav|non i=cin kon1=tsoh  nyi 'leh .
-321.wav|zy-ku , khua  nyi 'leh .
-322.wav|kah ci=nyi ngu ih=zeh nu=lih kon1=tsoh .
-323.wav|tshin=ven , ci=ti tson='leh ?
-324.wav|ngu khoe1=ciau1 .
-325.wav|yi=le zy  ti=poe .
-326.wav|tau gho-pe1 zen-kuaon1 'leh .
-327.wav|ngu gho-poe-thi1  ti=tson we-chi .
-328.wav|ya=tau  ti  fen=tshih1 ve .
-329.wav| ti=tson tsu=yeu khoe1=di=zy .
-33.wav|ghe-zy ngu zy=ci le cia-zau vah !
-330.wav| ti=poe khuen-kau .
-331.wav|khuen-kau zi=deu ngu ghe-iau1 khoe1 poe-ku tson deu-gheh syu .
-332.wav|tsau=laon sian1 , ngu nyau nau=tson khe=tau  ti  fen .1
-333.wav|'me=thi1 khuen    geh tson=deu .
-334.wav|cin1=tsau1 nau tson=meh shian .
-335.wav|ngu geh piau din theh-liau .
-336.wav|in1=we yi meh di 'leh .
-337.wav|su=i ngu cin1=tsau1 zaon=pe1 zy tau-liau .
-338.wav|tson1=laon sian1 , ngu iau1-chi siu1=ngu=geh piau .
-339.wav|yi=le khua  ti=tson 'leh .
-34.wav|ngu zy zaon=he geh .
-340.wav|yi=le tsen1=hau  ti=tson .
-341.wav|yi=le  ti tu='leh1 .
-342.wav|ghe-le teh jih vah ?
-343.wav|zen-kuaon1 tau-liau .
-344.wav|a1-'la iau1 tsen1=sih zen-kuaon1 .
-345.wav|zen-kuaon1 ziu=zy tshau=phiau .
-346.wav|cin1=tsau1 li=pa ci ?
-347.wav|cin1=tsau1 li=pa=loh .
-348.wav|zoh=thi1 li=pa=ng .
-349.wav|zi=thi1 li=pa=sy .
-35.wav|yi=le 'leh he zaon=he sy=ve da-ghoh taon 'lau-sy .
-350.wav|men-tsau1 li=pa=thi1 .
-351.wav|gheu=thi1 li=pa=ih .
-352.wav|li=pa=ng
-353.wav|li=pa=loh
-354.wav|li-pa-nyih
-355.wav|zaon-ku li=pa .
-356.wav|ku-ku li=pa .
-357.wav|gho-gheh li=pa .
-358.wav|yi=le zy=ci yuih-ven1 ?
-359.wav|yi=le zy se1-nyuih .1
-36.wav|non a li teh geh a ?
-360.wav|cin1=tsau1 zy ci-yuih ci=ghau ?
-361.wav|cin1=tsau1 zy se1-nyuih  ghau .
-362.wav|mo-zaon ziu=iau1 se1-nyuih  ghau='leh .
-363.wav|"  " zy siau-fi1 tse jioe=ih nyih .
-364.wav|gho-gheh ghau=deu zy ci-yuih ?
-365.wav|gho-geh-yuih zy sy-nyuih .
-366.wav|ih-nyuih
-367.wav|nyi-nyuih
-368.wav|se1-nyuih
-369.wav|sy-nyuih
-37.wav|non zy-zon kuaon=tseu1 le-ku vah ?
-370.wav|ng-nyuih
-371.wav|loh-nyuih
-372.wav|tshih-nyuih
-373.wav|pah-nyuih
-374.wav|ciu-nyuih
-375.wav|zeh-nyuih
-376.wav|zeh-ih-nyuih
-377.wav|zeh-nyi=ngeh
-378.wav|cin1=tsau1 thi1=chi na-nen ?
-379.wav|thi1=chi yu=pau=kaon cin1=tsau1 zy hau thi1=chi .
-38.wav|vah zy , ngu zy zen=tu1 geh .
-380.wav|uen=du na-nen ?
-381.wav|vah lan a=vah=nyih .
-382.wav|zy yan-kuaon1 min=mi geh tshen1=thi1 .
-383.wav|zi lian thi1 kuah da-fon , thi1=chi tsen1=lan .
-384.wav|zaon=he ton1=thi1 lan=fon=seu seu=geh .
-385.wav|we tih loh=sih vah ?
-386.wav|ne-pe we tih loh=sih .
-387.wav|cin1=nyi ziu loh-liau ih-zan da-sih .
-388.wav|zaon=he geh tshen1=thi1 , thi1=chi zin=laon .
-389.wav|ih=thi1 pi ih=thi1 noe=nyih .
-39.wav|non yi le tsu sa=geh ?
-390.wav|chi=uen sen1=teh lau=khua geh .
-391.wav|lin=zaon  du .
-392.wav|vah ku=thi1 chi pi-ho lau-da geh .
-393.wav|min-tsau1-we tih na-nen ?
-394.wav|thin thin cin1 zau1-ku thi1=chi yu=pau hau 'leh .
-395.wav| ngeh  ghau , ian , yeu siau=yu .
-396.wav|we tih loh=yu vah .
-397.wav|ue-tshen1 geh zen-kuaon1 cin=zan=iau1 loh=yu geh .
-398.wav|tshen1=thi1 fon a lau-da geh .
-399.wav|yeu-zen-kuaon1 we tih kuah sy ng-cih da-fon .
-4.wav|ze hau vah ?
-40.wav|ngu liau-liau zaon=he zaon da-ghoh .
-400.wav|gho-thi1 nyi ?
-401.wav|thi1=chi lau=nyih=geh .
-402.wav|gho-thi1 geh bin=ciuin1=uen=du zy  du tsu=yeu .
-403.wav|vah=ku tsoe=nyih=geh zen-kuaon1 chi=uen iau1 tau  du tsu=yeu 'leh .
-404.wav|kah tih thi1=chi lau=nyih=geh .
-405.wav|tha=yan lah ho1=ho1 geh .
-406.wav|nyih=tih iau1 si1 .
-407.wav|vah ku-gho thi1=ih ku , ziu tau zaon=he tsoe hau-ku ci=tsih .
-408.wav|tshiu1=thi1 , thi1=chi lau-hau-gheh .
-409.wav|uen=du lau=seh nyi=geh .
-41.wav|ghoh-zih ne=vah ?
-410.wav|thi1 lau=kau1 , lau=le=geh .
-411.wav|vi fon-tshyu1 tshoe1 , tshiu1=kau1=chi=saon .
-412.wav|vah lan=vah=nyih .
-413.wav|tsen1=zy theh seh=nyi 'leh .
-414.wav|tshiu1=thi1 zy zen=zoh geh ci=tsih .
-415.wav|tshiu1=thi1 zy fon1=seu1=geh ci=tsih .
-416.wav|tshiu1=thi1 ciau1-kue tu1=tsy1=tu1=tshe .
-417.wav|tau=tshyu ze lau phiau1=lian geh .
-418.wav|ngu=nyin we tshiu1=thi1 zy zaon=he tsoe=hau khoe1-ku ci=tsih .
-419.wav|ngu huoe=shi zaon=he geh tshiu1=thi1 .
-42.wav|vah ne , ngu ghoh-zih lau-hau-gheh .
-420.wav|tsau , tshih tsau=ve 'leh .
-421.wav|ngu=vah=tshih , ngu tau te-we zeh-daon chi=tshih .
-422.wav|non tsau=ve tshih=ku vah ?
-423.wav|ghe-meh tshih .
-424.wav|non huoe=shi tshih sa ?
-425.wav|ngu huoe=shi tshih mi=pau1 , heh=nyeu=na .
-426.wav|tshih=teh pau=vah ?
-427.wav|khu=i geh , ngu tsau=ve tshih 'leh vah tu1-ku .
-428.wav|ngu tshih 'leh lau tu1-ku .
-429.wav|ngu iau1=tshih ih=uoe deu=tsian , ih=ken1 yeu-diau , ih tsah1 wu=pau1=de .
-43.wav|tsoh-non ghoh-zih tshiu=teh kan1 hau-ku zen=tsih .
-430.wav|ngu i=cin ngu 'leh
-431.wav|tson1=ve a1-'la tshih tson1=tshoe1 ghe-zy si1=tshoe1 ?
-432.wav|a1-'la ziu tshih=ti khua=tshoe1 hau 'leh .
-433.wav|geh=meh a1-'la ziu-chi tshih " khen=teh=ci1 " .
-434.wav|tshin po ngu lian tsah1 hoe-pau .
-435.wav|tshin po ngu ih=pe1 nyih kha-fi .
-436.wav|ngu iau1 ih-ven1 pin1=cih=lin .
-437.wav|diau-kan1
-438.wav|tsha1-tsy
-439.wav|tau1
-44.wav|paon=non kaon ghe=gho lau khe=sin1 geh .
-440.wav|boe=tsy
-441.wav|pe1=tsy
-442.wav|tshoe1=cin1 tsy
-443.wav|waon yeu
-444.wav|ku=tsian
-445.wav|shian1=zan
-446.wav|kha-fi
-447.wav|bah=tsiu
-448.wav|bi=tsiu
-449.wav|khuaon zi=syu
-45.wav|tshin=ven , li=lih liau-liau vah ?
-450.wav|khu=kheu=khu-loh
-451.wav|cin1=tsau1 ya=li non sian=tshih ti=sa ?
-452.wav|a1-'la chi=tshih noe=zian siau=lon pau1 .
-453.wav|ngu ciah-teh theh yeu=nyi 'leh , vah sian=tshih .
-454.wav|a1-'la chi tshih=ti tshin1=de geh tshe hau 'leh .
-455.wav|geh=meh a1-'la chi=tshih sin1=su=de .
-456.wav| nyin 'na  ci=we ?
-457.wav|a1-'la ng-ku nyin .
-458.wav|cin1=tsau1 yeu=ti sah=geh theh=seh tshe 
-459.wav|po 'ne=pin1 tshe-te khoe1=khoe1 .
-46.wav|vah 'leh he , yi ghe meh we=le .
-460.wav|fe-ga=tshau=de .
-461.wav|ghon-sau deu=vu .
-462.wav|su=zeh-cin .
-463.wav|su1-tshe , syu=ku so1-'la .
-464.wav|syu=tsyu=ng .
-465.wav|kon=bau ci-tin1 .
-466.wav|tshau=tsyu1 koe1 .
-467.wav|ghon-sau nyeu=nyoh .
-468.wav|sah=yan=nyoh .
-469.wav|daon=tshu=ba=kueh .
-47.wav|non shiau=teh yi sa-zen-kuaon1 we=le vah ?
-470.wav|keu-liau keu-liau .
-471.wav|'ne iau1=tshih ti=sa lau=tsiu ?
-472.wav|a1-'la vah=tshih tsiu=geh .
-473.wav|le=pin1 se1=si=saon .
-474.wav|tsyu-zeh tshih sa ?
+314.wav|pɐʔ=tɕi1 ve-i
+315.wav|noŋ zz sɑ-zəŋ-kʷɑ̃1 le-ku ?
+316.wav|ŋu zz cʰi=ɲi tɕɪʔ-ɲyɪʔ=pɪɲ1 le-ku .
+317.wav|mo-zɑ̃ iɔ1 ɪʔ=ɲi 'ləʔ .
+318.wav|noŋ zz  ɲi pɪʔ=ɲiɪʔ gəʔ=vɐʔ ?
+319.wav|vɐʔ zz-ku , ŋu zz  ɲi pɪʔ=ɲiɪʔ gəʔ .
+32.wav|pɑ̃=noŋ ciɑ-zɔ ŋu gəʔ bã=ɦiɤ , li=mɪɲ .
+320.wav|noŋ i=cɪɲ koŋ1=ʦoʔ  ɲi 'ləʔ .
+321.wav|zz-ku , kʰʷɑ  ɲi 'ləʔ .
+322.wav|kɐʔ ci=ɲi ŋu ɪʔ=zəʔ nu=lɪʔ koŋ1=ʦoʔ .
+323.wav|tɕɪɲ=vəŋ , ci=ti ʦoŋ='ləʔ ?
+324.wav|ŋu kʰø1=ciɔ1 .
+325.wav|ɦi=le zz  ti=pø .
+326.wav|tɔ ɦo-pe1 zəŋ-kʷɑ̃1 'ləʔ .
+327.wav|ŋu ɦo-pø-tʰi1  ti=ʦoŋ we-cʰi .
+328.wav|ɦiɑ=tɔ  ti  fəŋ=tɕɪʔ1 ve .
+329.wav| ti=ʦoŋ ʦu=ɦiɤ kʰø1=di=zz .
+33.wav|ɦe-zz ŋu zz=ci le ciɑ-zɔ vɐʔ !
+330.wav| ti=pø kʰʷəŋ-kɔ .
+331.wav|kʰʷəŋ-kɔ zi=dɤ ŋu ɦe-iɔ1 kʰø1 pø-ku ʦoŋ dɤ-ɦəʔ sz .
+332.wav|ʦɔ=lɑ̃ siã1 , ŋu ɲiɔ nɔ=ʦoŋ kʰe=tɔ  ti  fəŋ .1
+333.wav|'me=tʰi1 kʰʷəŋ    gəʔ ʦoŋ=dɤ .
+334.wav|cɪɲ1=ʦɔ1 nɔ ʦoŋ=məʔ ɕiã .
+335.wav|ŋu gəʔ piɔ dɪɲ tʰəʔ-liɔ .
+336.wav|ɪɲ1=we ɦi məʔ di 'ləʔ .
+337.wav|su=i ŋu cɪɲ1=ʦɔ1 zɑ̃=pe1 zz tɔ-liɔ .
+338.wav|ʦoŋ1=lɑ̃ siã1 , ŋu iɔ1-cʰi sy1=ŋu=gəʔ piɔ .
+339.wav|ɦi=le kʰʷɑ  ti=ʦoŋ 'ləʔ .
+34.wav|ŋu zz zɑ̃=he gəʔ .
+340.wav|ɦi=le ʦəŋ1=hɔ  ti=ʦoŋ .
+341.wav|ɦi=le  ti tu='ləʔ1 .
+342.wav|ɦe-le təʔ ɟɪʔ vɐʔ ?
+343.wav|zəŋ-kʷɑ̃1 tɔ-liɔ .
+344.wav|ɑ1-'lɑ iɔ1 ʦəŋ1=sɪʔ zəŋ-kʷɑ̃1 .
+345.wav|zəŋ-kʷɑ̃1 zy=zz tɕɔ=pʰiɔ .
+346.wav|cɪɲ1=ʦɔ1 li=pɑ ci ?
+347.wav|cɪɲ1=ʦɔ1 li=pɑ=loʔ .
+348.wav|zoʔ=tʰi1 li=pɑ=ŋ .
+349.wav|zi=tʰi1 li=pɑ=sz .
+35.wav|ɦi=le 'ləʔ he zɑ̃=he sz=ve dɑ-ɦoʔ tɑ̃ 'lɔ-sz .
+350.wav|məŋ-ʦɔ1 li=pɑ=tʰi1 .
+351.wav|ɦɤ=tʰi1 li=pɑ=ɪʔ .
+352.wav|li=pɑ=ŋ
+353.wav|li=pɑ=loʔ
+354.wav|li-pɑ-ɲiɪʔ
+355.wav|zɑ̃-ku li=pɑ .
+356.wav|ku-ku li=pɑ .
+357.wav|ɦo-ɦəʔ li=pɑ .
+358.wav|ɦi=le zz=ci ɦiɪʔ-vəŋ1 ?
+359.wav|ɦi=le zz se1-ɲyɪʔ .1
+36.wav|noŋ ɑ li təʔ gəʔ ɑ ?
+360.wav|cɪɲ1=ʦɔ1 zz ci-ɦiɪʔ ci=ɦɔ ?
+361.wav|cɪɲ1=ʦɔ1 zz se1-ɲyɪʔ  ɦɔ .
+362.wav|mo-zɑ̃ zy=iɔ1 se1-ɲyɪʔ  ɦɔ='ləʔ .
+363.wav|"  " zz siɔ-fi1 ʦe ɟiø=ɪʔ ɲiɪʔ .
+364.wav|ɦo-ɦəʔ ɦɔ=dɤ zz ci-ɦiɪʔ ?
+365.wav|ɦo-gəʔ-ɦiɪʔ zz sz-ɲyɪʔ .
+366.wav|ɪʔ-ɲyɪʔ
+367.wav|ɲi-ɲyɪʔ
+368.wav|se1-ɲyɪʔ
+369.wav|sz-ɲyɪʔ
+37.wav|noŋ zz-zoŋ kʷɑ̃=ʦɤ1 le-ku vɐʔ ?
+370.wav|ŋ-ɲyɪʔ
+371.wav|loʔ-ɲyɪʔ
+372.wav|tɕɪʔ-ɲyɪʔ
+373.wav|pɐʔ-ɲyɪʔ
+374.wav|cy-ɲyɪʔ
+375.wav|zəʔ-ɲyɪʔ
+376.wav|zəʔ-ɪʔ-ɲyɪʔ
+377.wav|zəʔ-ɲi=ŋəʔ
+378.wav|cɪɲ1=ʦɔ1 tʰi1=cʰi nɑ-nəŋ ?
+379.wav|tʰi1=cʰi z=pɔ=kɑ̃ cɪɲ1=ʦɔ1 zz hɔ tʰi1=cʰi .
+38.wav|vɐʔ zz , ŋu zz zəŋ=tu1 gəʔ .
+380.wav|uəŋ=du nɑ-nəŋ ?
+381.wav|vɐʔ lã ɑ=vɐʔ=ɲiɪʔ .
+382.wav|zz ɦiã-kʷɑ̃1 mɪɲ=mi gəʔ tɕəŋ1=tʰi1 .
+383.wav|zi liã tʰi1 kʷɐʔ dɑ-foŋ , tʰi1=cʰi ʦəŋ1=lã .
+384.wav|zɑ̃=he toŋ1=tʰi1 lã=foŋ=sɤ sɤ=gəʔ .
+385.wav|we tɪʔ loʔ=sɪʔ vɐʔ ?
+386.wav|ne-pe we tɪʔ loʔ=sɪʔ .
+387.wav|cɪɲ1=ɲi zy loʔ-liɔ ɪʔ-zã dɑ-sɪʔ .
+388.wav|zɑ̃=he gəʔ tɕəŋ1=tʰi1 , tʰi1=cʰi zɪɲ=lɑ̃ .
+389.wav|ɪʔ=tʰi1 pi ɪʔ=tʰi1 nø=ɲiɪʔ .
+39.wav|noŋ ɦi le ʦu sɑ=gəʔ ?
+390.wav|cʰi=uəŋ səŋ1=təʔ lɔ=kʰʷɑ gəʔ .
+391.wav|lɪɲ=zɑ̃  du .
+392.wav|vɐʔ ku=tʰi1 cʰi pi-ho lɔ-dɑ gəʔ .
+393.wav|mɪɲ-ʦɔ1-we tɪʔ nɑ-nəŋ ?
+394.wav|tʰɪɲ tʰɪɲ cɪɲ1 zɔ1-ku tʰi1=cʰi z=pɔ hɔ 'ləʔ .
+395.wav| ŋəʔ  ɦɔ , iã , ɦiɤ siɔ=z .
+396.wav|we tɪʔ loʔ=z vɐʔ .
+397.wav|ue-tɕəŋ1 gəʔ zəŋ-kʷɑ̃1 cɪɲ=zã=iɔ1 loʔ=z gəʔ .
+398.wav|tɕəŋ1=tʰi1 foŋ ɑ lɔ-dɑ gəʔ .
+399.wav|ɦiɤ-zəŋ-kʷɑ̃1 we tɪʔ kʷɐʔ sz ŋ-cɪʔ dɑ-foŋ .
+4.wav|ze hɔ vɐʔ ?
+40.wav|ŋu liɔ-liɔ zɑ̃=he zɑ̃ dɑ-ɦoʔ .
+400.wav|ɦo-tʰi1 ɲi ?
+401.wav|tʰi1=cʰi lɔ=ɲiɪʔ=gəʔ .
+402.wav|ɦo-tʰi1 gəʔ bɪɲ=cyɪɲ1=uəŋ=du zz  du ʦu=ɦiɤ .
+403.wav|vɐʔ=ku ʦø=ɲiɪʔ=gəʔ zəŋ-kʷɑ̃1 cʰi=uəŋ iɔ1 tɔ  du ʦu=ɦiɤ 'ləʔ .
+404.wav|kɐʔ tɪʔ tʰi1=cʰi lɔ=ɲiɪʔ=gəʔ .
+405.wav|tʰɑ=ɦiã lɐʔ ho1=ho1 gəʔ .
+406.wav|ɲiɪʔ=tɪʔ iɔ1 si1 .
+407.wav|vɐʔ ku-ɦo tʰi1=ɪʔ ku , zy tɔ zɑ̃=he ʦø hɔ-ku ci=ʦɪʔ .
+408.wav|tɕy1=tʰi1 , tʰi1=cʰi lɔ-hɔ-ɦəʔ .
+409.wav|uəŋ=du lɔ=səʔ ɲi=gəʔ .
+41.wav|ɦoʔ-zɪʔ ne=vɐʔ ?
+410.wav|tʰi1 lɔ=kɔ1 , lɔ=le=gəʔ .
+411.wav|vi foŋ-tɕz1 tɕø1 , tɕy1=kɔ1=cʰi=sɑ̃ .
+412.wav|vɐʔ lã=vɐʔ=ɲiɪʔ .
+413.wav|ʦəŋ1=zz tʰəʔ səʔ=ɲi 'ləʔ .
+414.wav|tɕy1=tʰi1 zz zəŋ=zoʔ gəʔ ci=ʦɪʔ .
+415.wav|tɕy1=tʰi1 zz foŋ1=sɤ1=gəʔ ci=ʦɪʔ .
+416.wav|tɕy1=tʰi1 ciɔ1-kʷe tu1=ʦz1=tu1=tɕe .
+417.wav|tɔ=tɕz ze lɔ pʰiɔ1=liã gəʔ .
+418.wav|ŋu=ɲɪɲ we tɕy1=tʰi1 zz zɑ̃=he ʦø=hɔ kʰø1-ku ci=ʦɪʔ .
+419.wav|ŋu hʷø=ɕi zɑ̃=he gəʔ tɕy1=tʰi1 .
+42.wav|vɐʔ ne , ŋu ɦoʔ-zɪʔ lɔ-hɔ-ɦəʔ .
+420.wav|ʦɔ , tɕɪʔ ʦɔ=ve 'ləʔ .
+421.wav|ŋu=vɐʔ=tɕɪʔ , ŋu tɔ te-we zəʔ-dɑ̃ cʰi=tɕɪʔ .
+422.wav|noŋ ʦɔ=ve tɕɪʔ=ku vɐʔ ?
+423.wav|ɦe-məʔ tɕɪʔ .
+424.wav|noŋ hʷø=ɕi tɕɪʔ sɑ ?
+425.wav|ŋu hʷø=ɕi tɕɪʔ mi=pɔ1 , həʔ=ɲiɤ=nɑ .
+426.wav|tɕɪʔ=təʔ pɔ=vɐʔ ?
+427.wav|kʰu=i gəʔ , ŋu ʦɔ=ve tɕɪʔ 'ləʔ vɐʔ tu1-ku .
+428.wav|ŋu tɕɪʔ 'ləʔ lɔ tu1-ku .
+429.wav|ŋu iɔ1=tɕɪʔ ɪʔ=uø dɤ=ʦiã , ɪʔ=kəŋ1 ɦiɤ-diɔ , ɪʔ ʦɐʔ1 wu=pɔ1=de .
+43.wav|ʦoʔ-noŋ ɦoʔ-zɪʔ tɕy=təʔ kã1 hɔ-ku zəŋ=ʦɪʔ .
+430.wav|ŋu i=cɪɲ ŋu 'ləʔ
+431.wav|ʦoŋ1=ve ɑ1-'lɑ tɕɪʔ ʦoŋ1=tɕø1 ɦe-zz si1=tɕø1 ?
+432.wav|ɑ1-'lɑ zy tɕɪʔ=ti kʰʷɑ=tɕø1 hɔ 'ləʔ .
+433.wav|gəʔ=məʔ ɑ1-'lɑ zy-cʰi tɕɪʔ " kʰəŋ=təʔ=ci1 " .
+434.wav|tɕɪɲ po ŋu liã ʦɐʔ1 hø-pɔ .
+435.wav|tɕɪɲ po ŋu ɪʔ=pe1 ɲiɪʔ kʰɑ-fi .
+436.wav|ŋu iɔ1 ɪʔ-vəŋ1 pɪɲ1=cɪʔ=lɪɲ .
+437.wav|diɔ-kã1
+438.wav|tɕɑ1-ʦz
+439.wav|tɔ1
+44.wav|pɑ̃=noŋ kɑ̃ ɦe=ɦo lɔ kʰe=sɪɲ1 gəʔ .
+440.wav|bø=ʦz
+441.wav|pe1=ʦz
+442.wav|tɕø1=cɪɲ1 ʦz
+443.wav|wɑ̃ ɦiɤ
+444.wav|ku=ʦiã
+445.wav|ɕiã1=zã
+446.wav|kʰɑ-fi
+447.wav|bɐʔ=ʦy
+448.wav|bi=ʦy
+449.wav|kʰʷɑ̃ zi=sz
+45.wav|tɕɪɲ=vəŋ , li=lɪʔ liɔ-liɔ vɐʔ ?
+450.wav|kʰu=kʰɤ=kʰu-loʔ
+451.wav|cɪɲ1=ʦɔ1 ɦiɑ=li noŋ siã=tɕɪʔ ti=sɑ ?
+452.wav|ɑ1-'lɑ cʰi=tɕɪʔ nø=ziã siɔ=loŋ pɔ1 .
+453.wav|ŋu ciɐʔ-təʔ tʰəʔ ɦiɤ=ɲi 'ləʔ , vɐʔ siã=tɕɪʔ .
+454.wav|ɑ1-'lɑ cʰi tɕɪʔ=ti tɕɪɲ1=de gəʔ tɕe hɔ 'ləʔ .
+455.wav|gəʔ=məʔ ɑ1-'lɑ cʰi=tɕɪʔ sɪɲ1=su=de .
+456.wav| ɲɪɲ 'nɑ  ci=we ?
+457.wav|ɑ1-'lɑ ŋ-ku ɲɪɲ .
+458.wav|cɪɲ1=ʦɔ1 ɦiɤ=ti sɐʔ=gəʔ tʰəʔ=səʔ tɕe 
+459.wav|po 'ne=pɪɲ1 tɕe-te kʰø1=kʰø1 .
+46.wav|vɐʔ 'ləʔ he , ɦi ɦe məʔ we=le .
+460.wav|fe-gɑ=tɕɔ=de .
+461.wav|ɦoŋ-sɔ dɤ=vu .
+462.wav|su=zəʔ-cɪɲ .
+463.wav|su1-tɕe , sz=ku so1-'lɑ .
+464.wav|sz=ʦz=ŋ .
+465.wav|koŋ=bɔ ci-tɪɲ1 .
+466.wav|tɕɔ=ʦz1 kø1 .
+467.wav|ɦoŋ-sɔ ɲiɤ=ɲioʔ .
+468.wav|sɐʔ=ɦiã=ɲioʔ .
+469.wav|dɑ̃=tɕu=bɑ=kʷəʔ .
+47.wav|noŋ ɕiɔ=təʔ ɦi sɑ-zəŋ-kʷɑ̃1 we=le vɐʔ ?
+470.wav|kɤ-liɔ kɤ-liɔ .
+471.wav|'ne iɔ1=tɕɪʔ ti=sɑ lɔ=ʦy ?
+472.wav|ɑ1-'lɑ vɐʔ=tɕɪʔ ʦy=gəʔ .
+473.wav|le=pɪɲ1 se1=si=sɑ̃ .
+474.wav|ʦz-zəʔ tɕɪʔ sɑ ?
 475.wav|ve
-476.wav|moe=deu
-477.wav|mi diau
-478.wav|lan mi
-479.wav|ciau=tsy
-48.wav|non zy=siau min=te=vah ?
-480.wav|pau1=tsy
-481.wav|a1-'la iau1 se1=uoe ve .
-482.wav|ghe-iau1 bih-gheh vah ?
-483.wav|yi=le=geh saon1=ti , yuih=zau yuih-du .
-484.wav|zaon=he geh tsen1-da kuaon-zan lau-da geh .
-485.wav|li=pa=thi1 a1-'la chi teu1=teu1 .
-486.wav|khu=i ma=ti meh-tsy .
-487.wav|non sian ma sa ?
-488.wav|i1=zaon
-489.wav|jiuin=tsy
-49.wav|zy-ku , ngu zy-ku , non zy ?
-490.wav|khu=tsy
+476.wav|mø=dɤ
+477.wav|mi diɔ
+478.wav|lã mi
+479.wav|ciɔ=ʦz
+48.wav|noŋ zz=siɔ mɪɲ=te=vɐʔ ?
+480.wav|pɔ1=ʦz
+481.wav|ɑ1-'lɑ iɔ1 se1=uø ve .
+482.wav|ɦe-iɔ1 bɪʔ-ɦəʔ vɐʔ ?
+483.wav|ɦi=le=gəʔ sɑ̃1=ti , ɦiɪʔ=zɔ ɦiɪʔ-du .
+484.wav|zɑ̃=he gəʔ ʦəŋ1-dɑ kʷɑ̃-zã lɔ-dɑ gəʔ .
+485.wav|li=pɑ=tʰi1 ɑ1-'lɑ cʰi tɤ1=tɤ1 .
+486.wav|kʰu=i mɑ=ti məʔ-ʦz .
+487.wav|noŋ siã mɑ sɑ ?
+488.wav|i1=zɑ̃
+489.wav|ɟyɪɲ=ʦz
+49.wav|zz-ku , ŋu zz-ku , noŋ zz ?
+490.wav|kʰu=ʦz
 491.wav|ne-i1
-492.wav|mah=tsy
-493.wav|si1=tsaon
+492.wav|mɐʔ=ʦz
+493.wav|si1=ʦɑ̃
 494.wav|
-495.wav|pe-sin1
-496.wav|tshen=se1
-497.wav|nga=thau
-498.wav|nyeu-tse1=i1
-499.wav|non tshoe1 sa tshah=tshen geh ?
-5.wav|ze me-hau , zia=zia=non .
-50.wav|ngu zy yi geh don-ghoh liu=kaon .
-500.wav|non huoe=shi sa nge=seh=geh ?
-501.wav|geh=ji i1=zaon non tshoe1 'leh lau=hau khoe1-ku .
-502.wav|ngu vah huoe=shi geh tseh1 nge=seh .
-503.wav|ngu iau1=ji heh=nge=seh geh .
-504.wav|non tshoe1 'leh sy=sy=khoe1 .
-505.wav|ngu paon nyu-ban-yeu ma=ji i1=zaon .
-506.wav|cin1=nyi tsoe liu-yin geh=tson yan=tsy paon=nge=seh 'leh .
-507.wav|tshoe1=zaon-chi lau zy=mau , lau=hau khoe1-ku .
-508.wav|sy=i1=ci liau-liau a1-li tih ?
-509.wav|ngu ziu iau1-gheh ji 'leh .
-51.wav|ciu-'nyan ciu-'nyan .
-510.wav|non sian ma=gha tsy=vah ?
-511.wav|a1-'la ti li yeu lau=tu1 min=ba bi=gha .
-512.wav|non tshoe1 sa tshah=tshen geh gha=tsy ?
-513.wav|bi=gha
-514.wav|pu=gha
-515.wav|yuin=don gha
-516.wav|geh=saon gha=tsy zy min=ba .
-517.wav|ngu khu=i sy=sy=khoe1 vah ?
-518.wav|geh gha=tsy tha cin-liau .
-519.wav|non khoe1-ku saon gha=tsy le=se1 vah ?
-52.wav|li=lih cin=zan=kaon tau non-ku .
-520.wav| mo=geh , ziu iau-gheh1 saon .
-521.wav|siau-tsia , non ma ho-tsaon phin=vah ?
-522.wav|ngu sian ma bin shian1=syu .
-523.wav|ku-zy fah=kueh tsoe hau-ku shian1=syu .
-524.wav|mi-dau lau uen=shin1 geh .
-525.wav|ngu tse khoe1=khoe1 bih-gheh phin=ba .
-526.wav|a1-'la yeu lau=tu1 phin=ba po=non si=zeh .
-527.wav|men-tsau1 zy ngu nyu-ban-yeu geh san1-nyih .
-528.wav|ngu sian ma tsah ua1=ua1 son po yi .
-529.wav|geh=meh ziu ma " pa1=fi1 pau=pau " son po yi .
-53.wav|ngu le tsu=tseh zy=ngu cia-zau .
-530.wav|" pa1=fi1 pau=pau " zy tsy-nen ua1=ua1 , we=tih=kaon , we tih siau , we tih iau1 chih-gheh .
-531.wav|chih=lih 'leh ghe-we tih khuen-kau .
-532.wav|yeu kah hau=bah=sian1 vah ?
-533.wav|yeu-ku , siau=ku1=nyan ze huoe=shi geh .
-534.wav|paon yi ma tsah seu=piau hau=vah ?
-535.wav|ku-zy tsoe liu-yin geh tshau1 ke-nyi piau .
-536.wav|vah ku=vah zeh=yon .
-537.wav|tshin=ven , siu1=iau1 sa vah ?
-538.wav|ngu iau1 ma-te .
-539.wav|khu=i tan tseh=deu vah ?
-54.wav|ngu theh li=lih zy don=pe1 don-ghoh .
-540.wav|ah1-lah-gheh saon1=phin ze zy iu=we=ka .
-541.wav|khu=i bi=nyi ti=vah ?
-542.wav|a1-'la si1 ma-te hau 'leh .
-543.wav|jiuin=tsy , zen-min-bi  khue , gha=tsy , zen-min-bi  khue .
-544.wav|ih-gon1 zen-min-bi  khue .
-545.wav|geh theh jiu 'leh .
-546.wav|nen-tse bi=nyi ti=vah ?
-547.wav|hau-ku , tse po non tan tseh1  tseh .
-548.wav|tan=hau  tseh=zy zen-min-bi  khue  koh .
-549.wav|ziu=soe zen-min-bi  khue hau 'leh .
-55.wav|a1-'la zy hau=ban=yeu , ngu cin1=nyi  soe .
-550.wav|tshin=tau seu1=nyin de fu tshau=phiau .
-551.wav|seu1=nyin de liau-liau a1-li tih ?
-552.wav|non fu=yi cin1 ghe-zy la=kha ?
-553.wav|ngu fu=yi cin1 .
-554.wav|po=non , ku-zy zen-min-bi  khue .
-555.wav|ku-zy ngu po non-ku tshau=phiau .
-556.wav|ku-zy seu1=ciu1 , seu1 hau .
-557.wav|cin1=tsau1 vah shiau=teh faon sa di=in ?
-558.wav|a1-'la chi-khoe1 di=in hau=vah 
-559.wav|vah shiau=teh zy kueh=tshe=phi ghe-zy tsin=kheu=phi .
-56.wav|ngu zy  nyi  ngeh  ghau=san=geh .
-560.wav|hau=zian zy khon=pu=phi < wu-ya shion1=lin > .
-561.wav|hau-ku , khen=din lau yeu-cin geh .
-562.wav|ngu lau thau-i khon=pu=phi geh , theh=cin tsan 'leh .
-563.wav|ngu-we zy liau-liau oh=li khoe1=khoe1 di=zy , zaon zaon=maon soe='leh .
-564.wav|di=zy=meh sa hau tsih=moh khoe1-ku .
-565.wav|faon=kah shiu-tu1 kuaon=kau , ve=seh theh-liau .
-566.wav|ngu khoe1 thi=yoh bin=dau   le=jiu=se .
-567.wav|ngu huoe=shi thi=yoh pi-se .
-568.wav|ngu ci=zy 'me-ku li=pa bo lian=thaon1 se1 .
-569.wav|ngu 'me=thi1 ci=zy zen=li  ya=li se=bu .
-57.wav|non cin1=nyi ci=soe a ?
-570.wav|non tsoe huoe=shi sa weh=don ?
-571.wav|ngu huoe=shi tseu zian=ji .
-572.wav|a huoe=shi khoe1=khoe1 syu  khoe1=khoe1 pau .
-573.wav|huoe=shi khoe1 nyin-veh zoe=ci .
-574.wav|ngu geh e=hau lau tu1-ku  yeu=ion  tan=jiu .
-575.wav|ngu huoe=shi fon1=fu tu1=tshe geh san1=weh .
-576.wav|non na-nen ghe=meh tau ?
-577.wav|yi=le tu-tsho .
-578.wav|non tau sa=di=faon 'leh ?
-579.wav|ngu tau ton=faon=lu 'leh .
-58.wav|non-sen1 nyih a li ih=thi1 a ?
-580.wav|nen=tsen zy tau vah ?
-581.wav|gho-thaon1 tse-chi zaon=he hu-tsho ze tsoe=hau ziu=zy tshen-di-thih .
-582.wav|hu tsho-phiau ma tau-liau vah ?
-583.wav|ma tau-liau   tshy theh=khua .
-584.wav|ci=ti tson=tau zaon=he 
-585.wav|men-tsau1 tsau=laon sian1  ti  fen-tau1 .
-586.wav|phiau=tsy tu1=sau tshau=phiau 
-587.wav|le we=phiau tu1=sau tshau=phiau 
-588.wav|tsy1 sin ih-shia fi=ci1=geh zin-huaon .
-589.wav|ghaon=pe1  phiau=ka  zen-kuaon1 lau sa .
-59.wav|non huoe=shi zaon=he vah ?
-590.wav|tshin=ven zy min=ghaon zeu=phiau=tshyu vah ?
-591.wav|ngu sian=tin ih=tsan  ghau=tau zaon=he geh ci=phiau1 .
-592.wav|non siu1=iau1 sa zen-kuaon1 geh ?
-593.wav|iau1=ih tsan ya=li sian1=geh ghaon=pe1 geh  khu=i tan te la .
-594.wav|khu=i geh  te-zen phiau ghe-zy le we=phiau ?
-595.wav|le we=phiau  tshin=nyau phiau=tsy son=tau kon1=sy1 le .
-596.wav|he ! tsha1=deu .
-597.wav|non tau a1-li tih ?
-598.wav|ngu chi ci1-zan .
-599.wav|tshin zaon-tsho  nyau=ghan li po 'leh gheu be=sian1 .
-6.wav|oh=li sian1=nyin hau=vah 
-60.wav|non ciah-teh geh tih na-nen ?
-600.wav|zon=geh tih tau ci1-zan yeu=tu1=sau kon1=li ?
-601.wav|da-ke  kon=li1 .
-602.wav|tsho-fi tu1=sau ?
-603.wav|'me kon1=li zen-min-bi  khue  koh  ci=ka=chi we tih tan fah=phiau geh .
-604.wav|lu=laon sian1 tu-tsho vah ?
-605.wav|we tih tu=geh , vah=ku  fen-tson1 khu=i tau ci-zan1 'leh .
-606.wav|po=non  khue .
-607.wav|tshin=ven chi-sy ci=kon1=yoe na-nen tseu 
-608.wav|zon=geh tih tshen ho1=moh  lu kon1-ciau1 ciu zeh=tsih tau sy=ci kon1=yoe .
-609.wav|kon1-ciau1 ciu=we tih tsi=vah ?
-61.wav|lon zy le kon1=tsoh geh=vah ?
-610.wav|zaon-gho=pe1 kau1 fon geh zen-kuaon1 pi-ciau tsi .
-611.wav|ku mo-lu tshin tseu nyin=ghan=wan-dau=si .
-612.wav|ku=ka1 thi1=jiau .
-613.wav|ku=ka1 thon1=dau .
-614.wav|tsyu=i ciau1=thon1=oe1=zi .
-615.wav|ngu sian nyau=ti tshau=phiau .
-616.wav|tshin=tau zy=don tshiu=khuoe ci1 .
-617.wav|vah le=se1  ngu ghe-iau1 diau=ti lin tshau=phiau .
-618.wav|tshin=syu mih=mo .
-619.wav|non=iau1 nyau tu1=sau tshau=phiau .
-62.wav|vah zy-ku , zy le du-ka geh .
-620.wav|ngu nyau  khue tsen-ku .
-621.wav|ghe-yeu   khue=deu  tsan   khue=deu  tsan .
-622.wav|ngu sian=zen tshau=phiau .
-623.wav|tshin=non di1 hau-ku tsan piau=kah .
-624.wav|sen1-ven1 tsen=po ngu .
-625.wav|tshin men-non zen tu1=sau tshau=phiau .
-626.wav|ngu zen  khue .
-627.wav|tshin=syu loh=we mih=mo .
-628.wav|tshin=non ci=lau mih=mo .
-629.wav|ku-zy non-ku zen-tseh .
-63.wav|non yi le tau a li teh-chi a ?
-630.wav|tshin=nyau hau non-ku sen1-ven1 tsen .
-631.wav|tshin=ven zen=khuoe li=sih tu1=sau ?
-632.wav|zen=khuoe yeu=din , weh=lian=tson .
-633.wav|'me=tson li=sih a1-vah ih=yan .
-634.wav|weh-ji geh ih=nyi li=sih zy  .
-635.wav|din-ji geh se1-ku ghau=deu paon ng-nyi geh li=sih a vah ih=yan .
-636.wav|se1-ku ghau=deu ih=nyi li=sih zy  .
-637.wav|ng-nyi deu-gheh zy  .
-638.wav|tau zen-kuaon1 jiu=thi geh li=sih zy ken1=ciu1 zen-min=nyin-ghaon piau=tsen we=tsen geh .
-639.wav|tshin=non tsen1=chiah di1-sia phiau=ciu1 .
-64.wav|ngu sian-chi zin=li=lih .
-640.wav|tsen1=chiah sy=yon tson1=ven da-sia su=zy
-641.wav|ih
+495.wav|pe-sɪɲ1
+496.wav|tɕəŋ=se1
+497.wav|ŋɑ=tʰɔ
+498.wav|ɲiɤ-ʦe1=i1
+499.wav|noŋ tɕø1 sɑ tɕɐʔ=tɕəŋ gəʔ ?
+5.wav|ze me-hɔ , ziɑ=ziɑ=noŋ .
+50.wav|ŋu zz ɦi gəʔ doŋ-ɦoʔ ly=kɑ̃ .
+500.wav|noŋ hʷø=ɕi sɑ ŋe=səʔ=gəʔ ?
+501.wav|gəʔ=ɟi i1=zɑ̃ noŋ tɕø1 'ləʔ lɔ=hɔ kʰø1-ku .
+502.wav|ŋu vɐʔ hʷø=ɕi gəʔ ʦəʔ1 ŋe=səʔ .
+503.wav|ŋu iɔ1=ɟi həʔ=ŋe=səʔ gəʔ .
+504.wav|noŋ tɕø1 'ləʔ sz=sz=kʰø1 .
+505.wav|ŋu pɑ̃ ɲy-bã-ɦiɤ mɑ=ɟi i1=zɑ̃ .
+506.wav|cɪɲ1=ɲi ʦø ly-ɦɪɲ gəʔ=ʦoŋ ɦiã=ʦz pɑ̃=ŋe=səʔ 'ləʔ .
+507.wav|tɕø1=zɑ̃-cʰi lɔ zz=mɔ , lɔ=hɔ kʰø1-ku .
+508.wav|sz=i1=ci liɔ-liɔ ɑ1-li tɪʔ ?
+509.wav|ŋu zy iɔ1-ɦəʔ ɟi 'ləʔ .
+51.wav|cy-'nyã cy-'nyã .
+510.wav|noŋ siã mɑ=ɦɑ ʦz=vɐʔ ?
+511.wav|ɑ1-'lɑ ti li ɦiɤ lɔ=tu1 mɪɲ=bɑ bi=ɦɑ .
+512.wav|noŋ tɕø1 sɑ tɕɐʔ=tɕəŋ gəʔ ɦɑ=ʦz ?
+513.wav|bi=ɦɑ
+514.wav|pu=ɦɑ
+515.wav|ɦɪɲ=doŋ ɦɑ
+516.wav|gəʔ=sɑ̃ ɦɑ=ʦz zz mɪɲ=bɑ .
+517.wav|ŋu kʰu=i sz=sz=kʰø1 vɐʔ ?
+518.wav|gəʔ ɦɑ=ʦz tʰɑ cɪɲ-liɔ .
+519.wav|noŋ kʰø1-ku sɑ̃ ɦɑ=ʦz le=se1 vɐʔ ?
+52.wav|li=lɪʔ cɪɲ=zã=kɑ̃ tɔ noŋ-ku .
+520.wav| mo=gəʔ , zy iɔ-ɦəʔ1 sɑ̃ .
+521.wav|siɔ-ʦiɑ , noŋ mɑ ho-ʦɑ̃ pʰɪɲ=vɐʔ ?
+522.wav|ŋu siã mɑ bɪɲ ɕiã1=sz .
+523.wav|ku-zz fɐʔ=kʷəʔ ʦø hɔ-ku ɕiã1=sz .
+524.wav|mi-dɔ lɔ uəŋ=ɕɪɲ1 gəʔ .
+525.wav|ŋu ʦe kʰø1=kʰø1 bɪʔ-ɦəʔ pʰɪɲ=bɑ .
+526.wav|ɑ1-'lɑ ɦiɤ lɔ=tu1 pʰɪɲ=bɑ po=noŋ si=zəʔ .
+527.wav|məŋ-ʦɔ1 zz ŋu ɲy-bã-ɦiɤ gəʔ sã1-ɲiɪʔ .
+528.wav|ŋu siã mɑ ʦɐʔ uɑ1=uɑ1 soŋ po ɦi .
+529.wav|gəʔ=məʔ zy mɑ " pɑ1=fi1 pɔ=pɔ " soŋ po ɦi .
+53.wav|ŋu le ʦu=ʦəʔ zz=ŋu ciɑ-zɔ .
+530.wav|" pɑ1=fi1 pɔ=pɔ " zz ʦz-nəŋ uɑ1=uɑ1 , we=tɪʔ=kɑ̃ , we tɪʔ siɔ , we tɪʔ iɔ1 cʰɪʔ-ɦəʔ .
+531.wav|cʰɪʔ=lɪʔ 'ləʔ ɦe-we tɪʔ kʰʷəŋ-kɔ .
+532.wav|ɦiɤ kɐʔ hɔ=bɐʔ=siã1 vɐʔ ?
+533.wav|ɦiɤ-ku , siɔ=ku1=ɲiã ze hʷø=ɕi gəʔ .
+534.wav|pɑ̃ ɦi mɑ ʦɐʔ sɤ=piɔ hɔ=vɐʔ ?
+535.wav|ku-zz ʦø ly-ɦɪɲ gəʔ tɕɔ1 ke-ɲi piɔ .
+536.wav|vɐʔ ku=vɐʔ zəʔ=ɦioŋ .
+537.wav|tɕɪɲ=vəŋ , sy1=iɔ1 sɑ vɐʔ ?
+538.wav|ŋu iɔ1 mɑ-te .
+539.wav|kʰu=i tã ʦəʔ=dɤ vɐʔ ?
+54.wav|ŋu tʰəʔ li=lɪʔ zz doŋ=pe1 doŋ-ɦoʔ .
+540.wav|ɐʔ1-lɐʔ-ɦəʔ sɑ̃1=pʰɪɲ ze zz y=we=kɑ .
+541.wav|kʰu=i bi=ɲi ti=vɐʔ ?
+542.wav|ɑ1-'lɑ si1 mɑ-te hɔ 'ləʔ .
+543.wav|ɟyɪɲ=ʦz , zəŋ-mɪɲ-bi  kʰʷe , ɦɑ=ʦz , zəŋ-mɪɲ-bi  kʰʷe .
+544.wav|ɪʔ-goŋ1 zəŋ-mɪɲ-bi  kʰʷe .
+545.wav|gəʔ tʰəʔ ɟy 'ləʔ .
+546.wav|nəŋ-ʦe bi=ɲi ti=vɐʔ ?
+547.wav|hɔ-ku , ʦe po noŋ tã ʦəʔ1  ʦəʔ .
+548.wav|tã=hɔ  ʦəʔ=zz zəŋ-mɪɲ-bi  kʰʷe  koʔ .
+549.wav|zy=sø zəŋ-mɪɲ-bi  kʰʷe hɔ 'ləʔ .
+55.wav|ɑ1-'lɑ zz hɔ=bã=ɦiɤ , ŋu cɪɲ1=ɲi  sø .
+550.wav|tɕɪɲ=tɔ sɤ1=ɲɪɲ de fu tɕɔ=pʰiɔ .
+551.wav|sɤ1=ɲɪɲ de liɔ-liɔ ɑ1-li tɪʔ ?
+552.wav|noŋ fu=ɦi cɪɲ1 ɦe-zz lɑ=kʰɑ ?
+553.wav|ŋu fu=ɦi cɪɲ1 .
+554.wav|po=noŋ , ku-zz zəŋ-mɪɲ-bi  kʰʷe .
+555.wav|ku-zz ŋu po noŋ-ku tɕɔ=pʰiɔ .
+556.wav|ku-zz sɤ1=cy1 , sɤ1 hɔ .
+557.wav|cɪɲ1=ʦɔ1 vɐʔ ɕiɔ=təʔ fɑ̃ sɑ di=ɪɲ ?
+558.wav|ɑ1-'lɑ cʰi-kʰø1 di=ɪɲ hɔ=vɐʔ 
+559.wav|vɐʔ ɕiɔ=təʔ zz kʷəʔ=tɕe=pʰi ɦe-zz ʦɪɲ=kʰɤ=pʰi .
+56.wav|ŋu zz  ɲi  ŋəʔ  ɦɔ=sã=gəʔ .
+560.wav|hɔ=ziã zz kʰoŋ=pu=pʰi < wu-ɦiɑ ɕioŋ1=lɪɲ > .
+561.wav|hɔ-ku , kʰəŋ=dɪɲ lɔ ɦiɤ-cɪɲ gəʔ .
+562.wav|ŋu lɔ tʰɔ-i kʰoŋ=pu=pʰi gəʔ , tʰəʔ=cɪɲ ʦã 'ləʔ .
+563.wav|ŋu-we zz liɔ-liɔ oʔ=li kʰø1=kʰø1 di=zz , zɑ̃ zɑ̃=mɑ̃ sø='ləʔ .
+564.wav|di=zz=məʔ sɑ hɔ ʦɪʔ=moʔ kʰø1-ku .
+565.wav|fɑ̃=kɐʔ ɕy-tu1 kʷɑ̃=kɔ , ve=səʔ tʰəʔ-liɔ .
+566.wav|ŋu kʰø1 tʰi=ɦioʔ bɪɲ=dɔ   le=ɟy=se .
+567.wav|ŋu hʷø=ɕi tʰi=ɦioʔ pi-se .
+568.wav|ŋu ci=zz 'me-ku li=pɑ bo liã=tʰɑ̃1 se1 .
+569.wav|ŋu 'me=tʰi1 ci=zz zəŋ=li  ɦiɑ=li se=bu .
+57.wav|noŋ cɪɲ1=ɲi ci=sø ɑ ?
+570.wav|noŋ ʦø hʷø=ɕi sɑ wəʔ=doŋ ?
+571.wav|ŋu hʷø=ɕi ʦɤ ziã=ɟi .
+572.wav|ɑ hʷø=ɕi kʰø1=kʰø1 sz  kʰø1=kʰø1 pɔ .
+573.wav|hʷø=ɕi kʰø1 ɲɪɲ-vəʔ zø=ci .
+574.wav|ŋu gəʔ e=hɔ lɔ tu1-ku  ɦiɤ=ioŋ  tã=ɟy .
+575.wav|ŋu hʷø=ɕi foŋ1=fu tu1=tɕe gəʔ sã1=wəʔ .
+576.wav|noŋ nɑ-nəŋ ɦe=məʔ tɔ ?
+577.wav|ɦi=le tu-tɕo .
+578.wav|noŋ tɔ sɑ=di=fɑ̃ 'ləʔ ?
+579.wav|ŋu tɔ toŋ=fɑ̃=lu 'ləʔ .
+58.wav|noŋ-səŋ1 ɲiɪʔ ɑ li ɪʔ=tʰi1 ɑ ?
+580.wav|nəŋ=ʦəŋ zz tɔ vɐʔ ?
+581.wav|ɦo-tʰɑ̃1 ʦe-cʰi zɑ̃=he hu-tɕo ze ʦø=hɔ zy=zz tɕəŋ-di-tʰɪʔ .
+582.wav|hu tɕo-pʰiɔ mɑ tɔ-liɔ vɐʔ ?
+583.wav|mɑ tɔ-liɔ   tɕz tʰəʔ=kʰʷɑ .
+584.wav|ci=ti ʦoŋ=tɔ zɑ̃=he 
+585.wav|məŋ-ʦɔ1 ʦɔ=lɑ̃ siã1  ti  fəŋ-tɔ1 .
+586.wav|pʰiɔ=ʦz tu1=sɔ tɕɔ=pʰiɔ 
+587.wav|le we=pʰiɔ tu1=sɔ tɕɔ=pʰiɔ 
+588.wav|ʦz1 sɪɲ ɪʔ-ɕiɑ fi=ci1=gəʔ zɪɲ-hʷɑ̃ .
+589.wav|ɦɑ̃=pe1  pʰiɔ=kɑ  zəŋ-kʷɑ̃1 lɔ sɑ .
+59.wav|noŋ hʷø=ɕi zɑ̃=he vɐʔ ?
+590.wav|tɕɪɲ=vəŋ zz mɪɲ=ɦɑ̃ zɤ=pʰiɔ=tɕz vɐʔ ?
+591.wav|ŋu siã=tɪɲ ɪʔ=ʦã  ɦɔ=tɔ zɑ̃=he gəʔ ci=pʰiɔ1 .
+592.wav|noŋ sy1=iɔ1 sɑ zəŋ-kʷɑ̃1 gəʔ ?
+593.wav|iɔ1=ɪʔ ʦã ɦiɑ=li siã1=gəʔ ɦɑ̃=pe1 gəʔ  kʰu=i tã te lɑ .
+594.wav|kʰu=i gəʔ  te-zəŋ pʰiɔ ɦe-zz le we=pʰiɔ ?
+595.wav|le we=pʰiɔ  tɕɪɲ=ɲiɔ pʰiɔ=ʦz soŋ=tɔ koŋ1=sz1 le .
+596.wav|he ! tɕɑ1=dɤ .
+597.wav|noŋ tɔ ɑ1-li tɪʔ ?
+598.wav|ŋu cʰi ci1-zã .
+599.wav|tɕɪɲ zɑ̃-tɕo  ɲiɔ=ɦã li po 'ləʔ ɦɤ be=siã1 .
+6.wav|oʔ=li siã1=ɲɪɲ hɔ=vɐʔ 
+60.wav|noŋ ciɐʔ-təʔ gəʔ tɪʔ nɑ-nəŋ ?
+600.wav|zoŋ=gəʔ tɪʔ tɔ ci1-zã ɦiɤ=tu1=sɔ koŋ1=li ?
+601.wav|dɑ-ke  koŋ=li1 .
+602.wav|tɕo-fi tu1=sɔ ?
+603.wav|'me koŋ1=li zəŋ-mɪɲ-bi  kʰʷe  koʔ  ci=kɑ=cʰi we tɪʔ tã fɐʔ=pʰiɔ gəʔ .
+604.wav|lu=lɑ̃ siã1 tu-tɕo vɐʔ ?
+605.wav|we tɪʔ tu=gəʔ , vɐʔ=ku  fəŋ-ʦoŋ1 kʰu=i tɔ ci-zã1 'ləʔ .
+606.wav|po=noŋ  kʰʷe .
+607.wav|tɕɪɲ=vəŋ cʰi-sz ci=koŋ1=ɦiø nɑ-nəŋ ʦɤ 
+608.wav|zoŋ=gəʔ tɪʔ tɕəŋ ho1=moʔ  lu koŋ1-ciɔ1 cy zəʔ=ʦɪʔ tɔ sz=ci koŋ1=ɦiø .
+609.wav|koŋ1-ciɔ1 cy=we tɪʔ ʦi=vɐʔ ?
+61.wav|loŋ zz le koŋ1=ʦoʔ gəʔ=vɐʔ ?
+610.wav|zɑ̃-ɦo=pe1 kɔ1 foŋ gəʔ zəŋ-kʷɑ̃1 pi-ciɔ ʦi .
+611.wav|ku mo-lu tɕɪɲ ʦɤ ɲɪɲ=ɦã=wã-dɔ=si .
+612.wav|ku=kɑ1 tʰi1=ɟiɔ .
+613.wav|ku=kɑ1 tʰoŋ1=dɔ .
+614.wav|ʦz=i ciɔ1=tʰoŋ1=ø1=zi .
+615.wav|ŋu siã ɲiɔ=ti tɕɔ=pʰiɔ .
+616.wav|tɕɪɲ=tɔ zz=doŋ tɕy=kʰʷø ci1 .
+617.wav|vɐʔ le=se1  ŋu ɦe-iɔ1 diɔ=ti lɪɲ tɕɔ=pʰiɔ .
+618.wav|tɕɪɲ=sz mɪʔ=mo .
+619.wav|noŋ=iɔ1 ɲiɔ tu1=sɔ tɕɔ=pʰiɔ .
+62.wav|vɐʔ zz-ku , zz le du-kɑ gəʔ .
+620.wav|ŋu ɲiɔ  kʰʷe ʦəŋ-ku .
+621.wav|ɦe-ɦiɤ   kʰʷe=dɤ  ʦã   kʰʷe=dɤ  ʦã .
+622.wav|ŋu siã=zəŋ tɕɔ=pʰiɔ .
+623.wav|tɕɪɲ=noŋ di1 hɔ-ku ʦã piɔ=kɐʔ .
+624.wav|səŋ1-vəŋ1 ʦəŋ=po ŋu .
+625.wav|tɕɪɲ məŋ-noŋ zəŋ tu1=sɔ tɕɔ=pʰiɔ .
+626.wav|ŋu zəŋ  kʰʷe .
+627.wav|tɕɪɲ=sz loʔ=we mɪʔ=mo .
+628.wav|tɕɪɲ=noŋ ci=lɔ mɪʔ=mo .
+629.wav|ku-zz noŋ-ku zəŋ-ʦəʔ .
+63.wav|noŋ ɦi le tɔ ɑ li təʔ-cʰi ɑ ?
+630.wav|tɕɪɲ=ɲiɔ hɔ noŋ-ku səŋ1-vəŋ1 ʦəŋ .
+631.wav|tɕɪɲ=vəŋ zəŋ=kʰʷø li=sɪʔ tu1=sɔ ?
+632.wav|zəŋ=kʰʷø ɦiɤ=dɪɲ , wəʔ=liã=ʦoŋ .
+633.wav|'me=ʦoŋ li=sɪʔ ɑ1-vɐʔ ɪʔ=ɦiã .
+634.wav|wəʔ-ɟi gəʔ ɪʔ=ɲi li=sɪʔ zz  .
+635.wav|dɪɲ-ɟi gəʔ se1-ku ɦɔ=dɤ pɑ̃ ŋ-ɲi gəʔ li=sɪʔ ɑ vɐʔ ɪʔ=ɦiã .
+636.wav|se1-ku ɦɔ=dɤ ɪʔ=ɲi li=sɪʔ zz  .
+637.wav|ŋ-ɲi dɤ-ɦəʔ zz  .
+638.wav|tɔ zəŋ-kʷɑ̃1 ɟy=tʰi gəʔ li=sɪʔ zz kəŋ1=cy1 zəŋ-mɪɲ=ɲɪɲ-ɦɑ̃ piɔ=ʦəŋ we=ʦəŋ gəʔ .
+639.wav|tɕɪɲ=noŋ ʦəŋ1=cʰiɐʔ di1-siɑ pʰiɔ=cy1 .
+64.wav|ŋu siã-cʰi zɪɲ=li=lɪʔ .
+640.wav|ʦəŋ1=cʰiɐʔ sz=ɦioŋ ʦoŋ1=vəŋ dɑ-siɑ su=zz
+641.wav|ɪʔ
 642.wav|r
 643.wav|
-644.wav|sy
-645.wav|ng
-646.wav|loh
-647.wav|tshih
-648.wav|pah
-649.wav|ciu
-65.wav|ngu sian paon yi ih=dau chi-sy ci=kon1=yoe .
-650.wav|zeh
-651.wav|pah
-652.wav|tshi1
+644.wav|sz
+645.wav|ŋ
+646.wav|loʔ
+647.wav|tɕɪʔ
+648.wav|pɐʔ
+649.wav|cy
+65.wav|ŋu siã pɑ̃ ɦi ɪʔ=dɔ cʰi-sz ci=koŋ1=ɦiø .
+650.wav|zəʔ
+651.wav|pɐʔ
+652.wav|tɕi1
 653.wav|vae
-654.wav|yoe
-655.wav|lin
-656.wav|fen1
-657.wav|koh
-658.wav|tsen
-659.wav|tshin tsen1=chiah sia hau=phiau ciu1=geh zeh-ji .
-66.wav|hau-ku ia , men-tsau1 a1-'la ih=dau chi .
-660.wav|pi-zyu cian   ngeh  ghau  in=ke sia=zen lin r ngeh ih=zeh  ghau .
-661.wav| ngeh  ghau  in=ke sia=zen lin=ciu ngeh r zeh ng=ghau .
-662.wav|yon pih=geh kue=din :
-663.wav|di1-sia phiau=ciu1 in=ke yon kaon=pih weh=tse the=su pih .
-664.wav|ngu sian ci tseh1 theh=khua tsoe=di .
-665.wav|ci ku-zy sa ?
-666.wav|ih=pen in1=hoe zy=ti .
-667.wav|yeu-fi tu1=sau tshau=phiau ?
-668.wav|si1 nyan ngu tshen=tshen zon=lian .
-669.wav|yeu-fi ih-gon1  khue .
-67.wav|a1-'la liau-liau sa=di=faon zih-gheh a ?
-670.wav|iau1 thih yeu=phiau vah ?
-671.wav|vah siu1=iau1 geh  yi=le yon di=nau tan=in geh yeu-fi i=fu .
-672.wav|ngu ma ci=tsan yeu=phiau .
-673.wav|ngu sian ci fon1=ko ghau=sen .
-674.wav|geh fon1=sen tshau1=zon 'leh .
-675.wav|di=tsy di1=tshin1=saon1 .
-676.wav|tshin=non di1-hau yeu=tsen pi=mo .
-677.wav|ci tau poh-cin1 iau1 tu1=sau zen-kuaon1 ?
-678.wav|da-ke ih-ku=li=pa .
-679.wav|i-san1  ngu=kah lian=thi1 lau=vah seh=nyi=geh .
-68.wav|men-tsau1 tsau=laon sian1  ti=tson ,  liau-liau zeh-daon men=kheu=deu .
-680.wav|non kheh-seu vah  liu=bih=thi vah ?
-681.wav|non fah=ghoe=nyih vah  a1-li tih ne=ku 
-682.wav|lian lian=thi=uen .
-683.wav|lian=lian shiuih=ah .
-684.wav|non teh=ku fi=yi vah ?
-685.wav|tsoe=hau phah=tsan  kuan1=phi .
-686.wav|non fah=ghoe=nyih 'leh .
-687.wav|iau1 tsu tsin ih=bu geh ci-zo .
-688.wav|iau1 tsu tsheu1=shiuih ho-nyi .
-689.wav|non zy bin-doh=sin koe-mau .
-69.wav|non paon yi kaon ih-san , hau=vah ?
-690.wav|nyi=zon vah ?
-691.wav|vah nyi=zon  ngu paon=non khe=ti yah .
-692.wav|we-chi iau1 jih zy tshih=yah .
-693.wav|non ziu-we tih lau=khua hau-ku .
-694.wav|non-ku mau=bin na-nen 'leh ?
-695.wav|ngu=deu lau=yuin=geh .
-696.wav|wen=sen1 meh lih=chi .
-697.wav|meh we=kheu  sa a vah sian=tshih .
-698.wav|nyan ngu ci-zo ci-zo .
-699.wav|non-ku tson zin-huaon yeu ci=thi1 'leh ?
-7.wav|theh bin=zan ih-yan-gheh .
-70.wav|hau-ku , ngu ih=din paon yi kaon .
-700.wav|non tsoe=hau ten1 'leh zaon laon=sian1 shiu1-sih ih=lian=thi1 .
-701.wav|tu1=tshih=ti sin1=si geh su1-tshe paon syu=ku
-702.wav|shi1=maon non=tsau ti=khaon1 voh .
-703.wav|geh zy sa-meh-zy ?
-704.wav|geh zy pih=ci=pen di=nau .
-705.wav|geh zy non-ku pih=ci=pen di=nau ?
-706.wav|veh zy-ku , zy ngu r-tsy geh=pih ci=pen di=nau .
-707.wav|geh nge=zy sa-nyin=geh kuaon1-boe ?
-708.wav|geh nge=zy ah1-lah-gheh kuaon1-boe .
-709.wav|e1=mi ih=nge zy nyin 'na-ku kuaon1-boe ?
-71.wav|tshin=ven , son min=liau 'leh vah ?
-710.wav|e1=mi geh kuaon1-boe zy yi la geh .
-711.wav|geh de di=nau ih=zeh zy yi yon-gheh vah ?
-712.wav|meh au , ih=zeh ngu lah=yon .
-713.wav|geh pen=syu zy ngu-gheh .
-714.wav|e1=pen=syu zy a1-'la r-tsy geh .
-715.wav|men=kheu=deu yeu ku-nyin .
-716.wav|syu=ka kau1=deu ze=zy syu .
-717.wav|mo-lu zia=te=ku yeu-ka1 nyin-ghaon .
-718.wav|yeu ih-ka1 nyin-ghaon lah=lah mo-lu zia=te=ku .
-719.wav|non oh=li yeu di=nau syu=vah ?
-72.wav|yi vah liau-liau , yi tsheh-chi 'leh .
-720.wav|yeu-ku .
-721.wav|yeu ci-ho ?
-722.wav|yeu ciau1-kue .
-723.wav|geh pen=sin1=syu non=yeu vah ?
-724.wav|geh pen=syu ngu meh .
-725.wav|non zy vah zy yeu lian de di=nau ?
-726.wav|geh de sian1=ci1 zy vah zy non-ku ?
-727.wav|non fah=phiau yeu-veh-yeu ?
-728.wav|yeu=zy yeu-ku , meh=ta le .
-729.wav|non=iau1 heh sa in=liau ?
-73.wav|yi chi a1-li tih 'leh ?
-730.wav|ngu iau1 ih=pe1 na=zo .
-731.wav|non huoe=shi chih=ti sa ?
-732.wav|non khu=i peh ngu ih=ti na=yeu ng-shian1=deu .
-733.wav|non huoe=shi a1-li ih=khue ? geh=khue ghe-zy e1=khue ?
-734.wav|meh=kue=yi , zoe=bi a1-li ih=khue .
-735.wav|ghe-iau1 tu1=sau ?
-736.wav|ghe-iau1 ih=nge=nge .
-737.wav|a1-li ih tsah1 non huoe=shi ih=nge ?
-738.wav|ngu ih tsah1 gha veh=iau1 .
-739.wav|ngu iau1 kau=tsan si1-san1 , li=si1-san1 de=ih de .
-74.wav|khu-nen liau-liau thi=yoh=kuoe .
-740.wav|yi la lian we yi le lau maon geh , veh=sian paon=non de .
-741.wav|non sian chih=ti ti=sin1 vah ?
-742.wav|non zyu=ku kau1=shin , ziu=chih ih=ti vah .
-743.wav|geh-nen-gheh so1-fah ngu veh=sian ma .
-744.wav|geh tsaon zy=thi yi kau ngu kaon-gheh .
-745.wav|e1 mi ti pau tsy meh , non kau yi son teh-chi .
-746.wav|tse hau nge=geh , zian geh-nen yan=tsy geh , non=iau1 vah ?
-747.wav|non tshau=phiau weh=tse sin-yon=kha ta=le vah ?
-748.wav|ngu chi 'ne lau=waon zin=teh le .
-749.wav|yi 'ne geh-nen-ka ne tsu-ku san1=weh gue peh ngu .
-75.wav|a1-'la chi thi=yoh=kuoe khoe1 ciau .
-750.wav|ngu nyau loh=soe1 tshaon=ze kue=zaon 'leh .
-751.wav|da-cia1 di=fon=soe1 tshoe1 tshoe1 .
-752.wav|nyau sau=tseu sau ih=sau di=laon=shian .
-753.wav|nyau ka=tsy kau1 deu-gheh hue1=zen kha1 ih kha1 .
-754.wav|jiu=zah=tsy ma-kuaon1 'leh .
-755.wav|ih=khue=yoe de pu1=li khau1-se theh-liau .
-756.wav|de=tsy ciah peh yi tsaon hau 'leh .
-757.wav|non 'ne i1=zaon  nyih=lian  tsheh=le !
-758.wav|i1=zaon  nyih=lian  tsheh-chi 'leh .
-759.wav|ngu bin=zan sin1 teh=le teh=geh tsau .
-76.wav|non=yeu sa e=hau vah ?
-760.wav|ngu huoe=shi khuen le=ciah .
-761.wav|ngu 'me=thi1 loh=ti=tson chi=le .
-762.wav|ngu iau1 khuen tau pah=ti poe=ze kaon=kaon chi=le .
-763.wav|ngu tshoe1 hau i1=zaon i=gheu=ziu chih=tsau=ve .
-764.wav|ngu zen-kuaon1 le da veh=jih lau , tseh1=hau tsheh=men ma da-pin yeu-diau .
-765.wav|ngu khu=i toh=toh=din=din chih nyeu=na mi pau1 ci=de , weh=tse phau1=ve tsian=tshe .
-766.wav|ngu 'me=thi1 tsau=laon pah=ti tson=li=khe oh=li , ciu=ti=tson khe=sy kon1=tsoh .
-767.wav|zon zaon-poe-nyih ih=zeh tsu=tau ya=khua=deu .
-768.wav|tson1=laon=shian zeh-nyi ti=tson tsu=yeu , tau a1-'la te-we zeh-daon chi chih=tson1=ve .
-769.wav|a1-'la cin=zan tsu=tau gho-poe-thi1 ih=ti tson , gheh=ve zy son zaon le-ku .
-77.wav|ngu huoe=shi khoe1=syu .
-770.wav|tsu=hau san1=weh ih-pe ng-ti poe=we tau=oh=li chih=ya=ve .
-771.wav|ya=deu ya=pau fe1=fe1 , di=zy khoe1=khoe1 , da hau yoh ziu khuen-kau .
-772.wav|ngu ya=li=shian ih=zeh tsheh-chi geh , theh ban=yeu ih=dau bah=sian1=sian1 .
-773.wav|we=le tse zaon zaon=maon , fah=fah  , lon=tau zeh-ih ti=tson tse khuen-kau .
-774.wav|non yi=le lah=lah tsu=sa ?
-775.wav|ngu=lah=lah tan=di=nau .
-776.wav|non-ku ban=yeu jin=le lah=he=maon ti=sa ?
-777.wav|yi ih=zeh lah=he tsu=san1-i .
-778.wav|moh=zi ngu m-meh lah tsu=sa .
-779.wav|non-ku ban=yeu na-nen ghe m-meh le 'la ?
-78.wav|zin yi tsu sah ?
-780.wav|non khoe1 , yi le 'leh .
-781.wav|thi1=chi ih=thi1 pi ih=thi1 lan .
-782.wav|yi me-me-ciau lah=lah koe=zaon chi .
-783.wav|yi iau1 zaon tsin 'leh .
-784.wav|non veh=iau1 lah=lah=tsaon kaon=du !
-785.wav|non lah=he ten sa-nyin a ?
-786.wav|ngu veh ten sa-nyin .
-787.wav|tsen-ku zaon=poe=thi1 , ngu=ze lah=he=maon tan=zy .
-788.wav|zoh=nyih ngu tan=di=gho le-ku zen-kuaon1 , non lah=lah tsu=sa ?
-789.wav|geh=thau vaon=tsy zy a1-'la noe-ng paon nyu-si ten=geh .
-79.wav|tshin yi paon ngu pu zih in1=ven .
-790.wav| nyin 'na  khoe1 , tshaon=khe lah=lah , zyu-vaon-ke men gha-meh kue !
-791.wav|yi la tshon=tshon=maon=maon chi-khoe1 tsoh=jiu pi-se , oh=li meh-zy ze=the lah=he .
-792.wav|tshe=tshih hau lah=he , veh=shiau=teh sa=geh=zen-kuaon1 le=sau .
-793.wav|siau=tshe the 'leh ih de=tsy , chih zan lah he geh nyoh-thaon tu1 m-meh seu1 hau .
-794.wav|nyin 'na khoe1 , yi la syu=vaon li tau seu1=tsoh teh tshin1=tshin1=saon=saon geh .
-795.wav|sia=zy de kau1=deu ih-dih tsoe=nyih syu li wen=lah=he ci=pen kha=thon1 syu .
-796.wav|zian kau1=deu ci=tsan ku=seh=ku=shian1 ku-zy gho=ko lah=he .
-797.wav|da vaon=ci=li=shian ka1-san1 tau veh the1-pe1 lah=he !
-798.wav|ih=thau ghon-moh ka1-san1 iau1 zeh ci-ve yan=si le !
-799.wav|zen-kuaon1 ghe=tsau lah=he le , da-cia1 zu-gho le=ga ga=se1=wu vah .
-8.wav|yeu sah hau=zy=thi vah ?
-80.wav|non ciah=tseh na-nen ?
-800.wav|zo=wu li tse tshon=ti syu=lah=he .
-801.wav|a1-'la zu=lah=he khoe1=khoe1 di=zy .
-802.wav|nau , tsoh=jiu thih teh tsen1=hau cin=tsan lah=he .
-803.wav|iau1 ten yi thih hau , ghe-yeu ih=shih lah=he le !
-804.wav|a1-'la iau1 we-chi le , non thoh ah1-lah-gheh zy=thi ih=din liu=sin1 lah=he .
-805.wav|non ve chih=ku 'leh vah ?
-806.wav|ngu ghe-meh-chih ku .
-807.wav|non cin1=tsau1 chi toe li ku=vah ?
-808.wav|ngu i cin=tsan yoe meh-chi toe li 'leh .
-809.wav|non san1=ng-phi chih=ku vah ?
-81.wav|hau-ku , ziu=teh nen=din hau 'leh .
-810.wav|lah lian=nyi zi chih=ku ih=thaon1 .
-811.wav|ngu=ma 'leh siau=tshe , sau=hau 'leh ve , ten ngu r-tsy we=le chih=ve .
-812.wav|i=cin ten 'leh poe-ku tson=deu 'leh .
-813.wav|ngu we-tshin 'leh tson=ti kon1=paon=maon tan=sau hau 'leh vaon=ci .
-814.wav|non khoe1 , de=tsy kau1=deu ghe pa-liau ih-dih yan=pe .
-815.wav|tau=yi le ngu-yeu tan hau liau-lian phi1 kau=tsy .
-816.wav|ten thi1=hau 'leh , ngu=iau1 'ne kau=tsy son=tau tsheh=pe=zo chi .
-817.wav|ngu r-tsy ken1 siau waon=ma dih=phi chi-'leh .
-818.wav|yi chi-ma liau-lian thaon1 ze m-meh ma=tau .
-819.wav|ngu khoe1 yi zy , chih-liau khuen , khuen 'leh chih , tan=tan yeu-shi , le=zy le !
-82.wav|ghe-yeu bih-gheh zy=thi vah ?
-820.wav|thi1=lian=khua 'leh , ngu=iau1 tseu-liau .
-821.wav|syu=khe khua le , phau1=pe1=zo chih-liau tse tseu .
-822.wav|zen-kuaon1 iau1 tau=khua 'leh , non na-nen ghe nga fah nga fah .
-823.wav|ngu=iau1 tau tshau1=zy chi , zoh phau1=mi a , tsiu=nyan=yoe=tsy a , ze iau1=ma .
-824.wav|zoh=nyih ngu khua=iau1 tsheh=men geh zen-kuaon1 , yi tau ih yau ih yau geh le 'leh .
-825.wav|yi la zaon=poe zeh-le zu 'leh shih , cian gho-poe-nyih ziu iau1=li khe zaon=he .
-826.wav|ngu sian chi-ma tseh1 iu=boe , non theh ngu ih=dau chi hau vah ?
-827.wav|ngu ku-r tsy=tsan da-liau shi1=maon tsu i-san1 .
-828.wav|zyu=ku ngu geh nge san1=weh khu=i tsu=kuan1 , ngu=iau1 li=pa=ih tau noe-cin1 chi .
-829.wav|cia-sy ngu-kaon po=non thin , da-cia1 veh=iau1 tseu=le tseu-chi , non=yeu i-ci ?
-83.wav|ngu hau=tshih shian1=i1 vah ?
-830.wav|ih=te ngu yeu-khu-nen , ngu ziu=iau1 thiau-zau1 .
-831.wav|tshoe-ka1 pha te-gheh ghe-gho , non-we tshoe1 a1-li ji i1=zaon ?
-832.wav|cin1=tsau1 tshoe1 'leh geh=ji kon shi-shi geh tshen=se1 , ngu bau teh tsheh-chi vah ?
-833.wav|tsoh=shin yi veh we-chi ku=tshen1=tsih 'leh .
-834.wav|a1-'la da-ke chi-gheh , peh1-ku iau1=khoe1 thi1=chi na-nen tse ciuih=din .
-835.wav|zaon-he-nyin daon mo-lu ih tsah1 tin , da-ke gha-zy tu1=zy sen1-the ih=tson .
-836.wav|ciau1-kue mo-lu saon1=ti zih=tson1 , saon1=phin lin=laon moe=moh , tsen1 hau=khoe1 !
-837.wav|nyin-gha tsheh=le daon fah daon fah , tshih=teu1=pah=teu1 , gah-le gah=chi .
-838.wav|tau veh=ih=din iau1=ma sa-meh-zy , li sa ciah=cin .
-839.wav|yeu-zen-kuaon1 daon daon khoe1=khoe1 , lin lin=zy=mi , pau pau nge=foh .
-84.wav|vah le=se1 , zih=te=vah khu=i .
-840.wav|ih daon mo-lu , tson=kue ngau=veh=lau iau1=ma ti meh-zy we=tsoe chi .
-841.wav|yi=le nau=man geh di=faon , ya=zy=mi gha-hau teh ih=thah=wu=du .
-842.wav|noe-cin1 ton=lu kau1=deu pah=nyi lau=ti tu1 , noe-cin1 si1=lu kau1=deu kau1=taon tsin1=phin=ti tu1 .
-843.wav|wa=he=lu geh saon1=phin kau1=ia zi=we , yeu he=pha theh=seh .
-844.wav|zi=cia1 we saon1-chioe kau1=tson1=ti1 taon saon1=phin ze=yeu , tshu=we cin=yin .
-845.wav|tse=iau1 khe=nge ka , chi-khoe1 zen-min=kuaon-zan gho deu-gheh di-gho saon1-zan .
-846.wav|siau-hu=tsy be nyu-ban-yeu le bah=sian1 , nge=tsin1 khoe1 teh ng=ho1=pah=men .
-847.wav|de=de li geh tshau=phiau moh=khon1 veh=iau1=cin , chi zin=zy=don tshiu=khuoe ci1 hau=le .
-848.wav|zaon=he ih=faon=mi tshah theh-liau ciau1-kue jiu=vaon tsy , ih=faon=mi khe=phih 'leh ciau1-kue sin1=vaon=tsy .
-849.wav|ci=tshin1=cih 'leh tseu1-we khon1=chi , yeu kaon-ti1 'leh zy=tson1=sin1 geh chi=uen .
-85.wav|ngu sian tan tseh1 di=gho , le=se1 vah ?
-850.wav|loh=di taon=tson1 , ka-se1 lau , bau=pu lau , wu=boh lau , di=yoe fon-kuaon1 ten=ten .
-851.wav|bah=sian1 zaon=he sin1 zau-gheh loh=di gha hah yeu-cin !
-852.wav|min=chi tsoe=shian ku-zy lah=lah tha=bin jiau loh=di taon=tson1 zau 'leh-ku " sin1=thi1=di " .
-853.wav|nau zy=tson1=sin1 phih=tsheh sin1-gheh thi1=di , nau tson1 tshiu=zin , yeu tshaon=sin1 lau .
-854.wav|ih tsah1 tsan-zan geh wu=boh syu ci-ho tshin1=saon !
-855.wav|ih zan-ba te khu=men vaon=tsy , nga=piau ghe=zian jiu lon=daon .
-856.wav|li=shian khe-liau ih be be eu=seh siau=ti , zin-diau hah tia !
-857.wav|tau geh=tah le teu1 ih=teu1 , koe-ciah veh=iau1 theh hau au !
-858.wav| tsy=deu tau sa=di=faon ma ?
-859.wav|geh-gheh meh-zy ci=di ?
-86.wav|meh ven=di , non tan hau 'leh .
-860.wav|geh tseh1 tsau=sian1=ci1 'ne-tsheh le peh ngu khoe1=khoe1 ciau .
-861.wav|geh=tson yan=tsy geh bi-kah=tsy  nyin 'na  yeu=teh ma=vah ?
-862.wav|ka=di zy nye=ng khue ng-koh .
-863.wav|cia=ciu=geh ! khu=i bi=nyi ti=vah ?
-864.wav|theh ne=khoe1 'leh , yeu-veh-yeu khuoe=seh sin1 ih=ti geh ?
-865.wav|non khoe1 geh-gheh lian=yan taon=tson1 a1-li ih=yan hau ?
-866.wav|zy=mau zy zy=mau ih=ti 'leh , ka=di theh-du !
-867.wav|veh=iau1 cia bih=ciah geh , iau1 tsen1=tson1 ih=nge geh !
-868.wav|cin1=tsau1 geh nge meh-zy da ke=ka , non thin ci hau=le .
-869.wav|veh=iau1 zy da-shin=hu au , siau=di=faon sen1-tshe geh !
-87.wav|geh tsah1 seu=ci1 me-hau geh , hau khoe1=khoe1 ciau=vah ?
-870.wav|hu=seh phan=phan=shian geh ! a1-'la zon-le veh tsu ih=tshian=deu geh san1-i geh .
-871.wav|ka=di hau tan tseh=deu vah ?
-872.wav|geh nge=zy tsau=deu .
-873.wav|paon ngu khe=tsan fah=phiau .
-874.wav|yi=le tau=tshyu yeu " tshau1=zy " , ih=ci=deu khu=i ma ciau1-kue meh-zy .
-875.wav|peh1-ku zaon=he ghe-yeu veh sau siau=the=deu , ma meh-zy khu=i thau=ka=we-ka .
-876.wav|e , geh nge ciuih=tsy ci=di ih=cin1 a ?
-877.wav|sia=lah he=zeh=khue ng=cin1 , ngu khu=i ma peh=non zeh=nyoe loh=cin1 .
-878.wav|ngu tu1 ma=ti , hau tse  kheu=jian  ih=nge vah ?
-879.wav|non khoe1 gho-deu lian tsah1 keh siau-gheh .
-88.wav|taon=zoe khu=i , non khoe1=hau 'leh .
-880.wav|ngu zy thon=hu , non=iau1 ci meh , ziu tseh1=hau zeh=nyoe ng=cin1 .
-881.wav|hau 'leh hau 'leh ! ziu zeh=nyoe ng=cin1 vah .
-882.wav|non tseh1 tshen yeu-ven-di vah ?
-883.wav|a1-'la thi1=thi1 lah geh=tah tsu=san1-i , veh-we ciau-non chih-khue geh !
-884.wav|keh=meh tse=ka1 ngu lian tsah1 !
-885.wav|hau-ku , non 'ne-chi hau 'leh .
-886.wav|yi tsan ku-zy se1=koh=sen1=phe , lih=lah=he khoe1=zaon-chi hah=se !
-887.wav|siau=lin geh mi=mau san1=teh=nyon , nge=tsin1 yeu-da , nge=zih=mau lau-zan .
-888.wav|yi ku-thi yin san1=teh yuin=tshen le ! wu=ciah=khueh , iau1=sen1 si , du-bi yeu-yeu ci1=nyoh .
-889.wav|yi bin=zan tsyu=i toe li lau , shion=ci1 foh=ci1 tu1=zy paon1 paon1 ngan=geh !
-89.wav|yi na-nen ghe=meh we=le ?
-890.wav|veh zian yeu=tson noe=siau=noe , san1='leh si=si tsan-zan , zian ken1 deu=nga=tshe .
-891.wav|yi meh , yeu-zy a=ten1=ten1 , yeu-zy zaon=teh nyoh gha ze tsheh=le .
-892.wav|chih teh theh=tu1 , zan-teh boe le=iau1 si , ne=meh iau1 in=shian fah=yoh .
-893.wav|ciah ih-tsan 'leh meh , ziu shi=teh miau-diau teh=le , pa=chi  le=meh lau phiau=lian geh 1
-894.wav|non khoe1 yi gaon nau geh yan=tsy , tau-gha mae khu e .
-895.wav|yi tan=pe1 teh iau1=li=iau1=chi , gaon=deu sy veh=de 'leh !
-896.wav|sen1=thi hau=meh , nyin lau chi-cin ; veh hau meh , sa=zy=thi gha meh=sian tsu .
-897.wav|ih=pheh lau=deu lau=tha , thi1=thi1 veh theh=pe1 , ue=iau1 ngaon=deu tsoe=sen1 thi .
-898.wav|zon-siau veh toe li , ih-nyih-tau-ya tsu=kon1 khu , ne=meh lon tsheh gheu be .
-899.wav|san1=weh iau1 tsu=si , chih=ve iau1=chih tshu , se1=tshoe1 veh chih=tu1 .
-9.wav|meh sah=theh bih-gheh .
-90.wav|e mi tih li=geh tih tu1=sau yoe a ?
-900.wav|chi=chi 'men='men san1-mau-bin , shi1=shi1=ha=ha thi1=zeu=min .
-901.wav|jin da-yoh , jin thi=deu , jin=woe i1=zaon , jin tan=sau vaon=ci .
-902.wav|tsoe=hau be ih=pen ka1-yon i=we seu=tshah lah tsen=deu pi , zan=zan fe1=fe1=khoe1 .
-903.wav|zoh=nyih ngu-chi khoe1=i-san1 lau tsu ci-zo , khoe1=khoe1 yeu-veh-yeu sa mau=bin .
-904.wav|maon 'leh veh tsyu=i shiu1-sih lau toe li , gho-thaon1 san1 da=mau=bin chi le=le veh=jih .
-905.wav|pu=yah hau zy hau , peh1-ku yah=pu veh=zyu zeh=pu .
-906.wav|len=tau ngu 'leh , zy vah ?
-907.wav|non zu-gho le , yeu sa veh=seh=i ?
-908.wav|sin1=kheu=deu yeu=nge thon lau , ve chih=veh=loh .
-909.wav|a1=zy geh=tah thon ? geh-gheh-zy we=thon .
-91.wav|non 'leh he a1-li tseh1 da-ghoh doh=syu ?
-910.wav|thon-liau ci-nyih 'leh ? non lau=tsau we=bin yeu=vah ?
-911.wav|thon=zy thon ku=shih geh , m-meh yi=le=cia li-ghe .
-912.wav|we=kheu na-nen ? sian veh=sian thu ?
-913.wav|yeu=ti oh=sin1 , de=zy thu veh tsheh=le .
-914.wav|veh faon=sin1 meh , non-chi tsu tseh1 we=cin=tso ih-zo .
-915.wav|geh nge=yah ih=thi1 chih se1=tshy .
-916.wav|ve gheu yah=syu chih bin ke=deu ih ke=deu , yah=phi chih=ih lih .
-917.wav|ne gho-thaon1 ih=din=iau1 vaon-tsy zah-lan , chih=ve veh iau1=chih 'leh ku=deu .
-918.wav|tsan yoe=vah=ci , non tsoe=jin hau=vah ?
-919.wav|ngu me-hau geh , non ne , kaon=kaon zon shian-gho-deu we le-a ?
-92.wav|non hau liu=li geh=kaon in1=ven vah ?
-920.wav|zy-ku , ngu a1 me-hau .
-921.wav|na-nen non yi=le zaon-he-ghe-gho kaon='leh keh hau ?
-922.wav|zy vah , ngu tsy1=zi ih=doe zen-kuaon1 ih=zeh lah=lah maon=laon sian1=ghoh zaon-he-ghe-gho .
-923.wav|maon=laon sian1 a1 hau-ghoh zaon-he-ghe-gho a ?
-924.wav|zy-ku , ngu a1 zy thin ban=yeu cia-zau geh .
-925.wav|zy sah=maon ze ?
-926.wav|zy he zy=maon . ngu thi1=thi1 tau yi la zaon-he-ghe-gho zy=ti ghoh-zih , khu=i le si=tso te-zy , thin loh=in1 , ghoh=te gho .
-927.wav|nyoe=le non=yeu keh hau-ku kon1=jiu paon=maon . maon=tsy zy tu1=sau ?
-928.wav|maon=tsy zy  
-929.wav|te=veh=chi , yi=le sa-zen-kuaon1 'leh ?
-93.wav|non tsoe=kau1 ghoh-lih zy sa ?
-930.wav|zeh=ti chiuih zeh-ng=fen1 .
-931.wav|nyin 'na iah-hau le sa-zen-kuaon1 ban deu-gheh ?
-932.wav|ghe-yeu poe-ku tson=deu , zen-kuaon1 lau tshon1=yu geh .
-933.wav|ngu tson1=laon sian1 zeh-nyi ti=poe ghe-iau1 tau=phu ton-chi .
-934.wav|ya=ve ghe-meh hau , iau1 tau loh=ti poe .
-935.wav|ngu=lah ih-ku tson=deu i=zi ziu=chih 'leh tson1=ve .
-936.wav|min zau1-non ciu=ti tson=iau1 tau geh=tah le .
-937.wav|yi lah e1 mi=tih zyu 'leh tu1=sau zen-kuaon1 'leh ?
-938.wav|ngu-ten 'leh non lau=tu1 zen-kuaon1 'leh .
-939.wav|siau=tsan , non zy a1-li ih=nyi yan=geh ?
-94.wav|a1-'la sa-zen-kuaon1 khe=sy kon1=tsoh ?
-940.wav|ih=ciu=pah=nyi-nyi yan=geh .
-941.wav|non-sen1 nyih ci-yuih ci=ghau ?
-942.wav|zeh-nyuih zeh-pah ghau . non sa-zen-kuaon1 san1=geh ?
-943.wav|ngu siau=non sy-ku ghau=deu .
-944.wav|cin1=tsau1 zy sa nyih=ciah ?
-945.wav|cin1=tsau1 tshih-nyuih r-seh ng-ghau .
-946.wav|cin1=tsau1 li=pa ci ?
-947.wav|men-tsau1 tsen1=hau li=pa=thi1 .
-948.wav|ngu i=yoe li zyu 'leh ci-ku li=pa .
-949.wav|non we=tau cia1-shian chi zyu ci=thi1 nyih=ciah ?
-95.wav|lau zia=zia=non paon=maon=geh .
-950.wav|zaon-ku ghau=deu zy ciu-nyuih=pin1 vah ?
-951.wav|geh-gheh ghau=deu zy=ci yuih-ven1 ?
-952.wav|chi=nyi pah-nyuih non1 lah a-li1 tih ?
-953.wav|cin1=tsau1 thi1=chi lau-hau-gheh .
-954.wav|zoh=nyih zy sa thi1=chi a ?
-955.wav|zoh=nyih loh-liau ih=thi1 geh=yu .
-956.wav|men-tsau1 thi1=chi we-teh hau=vah ?
-957.wav|men-tsau1 iau1 loh=sih .
-958.wav|ih-ku zaon=poe=thi1 zy in-thi1 .
-959.wav|gho-poe-thi1 da-ke thi1=tsoe zin .
-96.wav|zia=zia=non , zia=zia=non geh hau=i .
-960.wav|geh tshian thi1=chi lau=lan=geh , zan=zan lan=tau lin-gho lian se1=du .
-961.wav|zaon=he nyih=thi1 tsoe=kau1 uen=du iau1 tau se1-seh=pah ciu=du , tsen1=zy nyih=sah !
-962.wav|we=sa geh lian=thi1 ih=thi1 pi=ih thi1=nyih ?
-963.wav|oh , yi=le tau yeu ti=fon 'leh , sau-vi fon=lian ti='leh .
-964.wav|thi1=chi yu=pau=cian , cin1=tsau1 ya khua=iau1 loh=le zen=yu .
-965.wav|non zyu a1-li tah=geh ?
-966.wav|ngu zyu lah wa=he=lu .
-967.wav|non-ku di=tsy cian=peh ngu thin hau vah ?
-968.wav|ngu=lah=lah wa=he=lu  ghau  seh .
-969.wav|te=veh=chi ,  ghau=lah=ke sa=di=faon ?
-97.wav|kah=thaon1 non paon-'leh ngu=ci du-maon 'leh .
-970.wav|lah=ke lon=daon zah zah li=shian=deu .
-971.wav|zia=zia=non paon=ngu tsy=ti ih-shia .
-972.wav|geh=diau lon=daon pih=zeh bau=bau tau=ti . .
-973.wav|bau tau geh=mi ih-diau siau lon=daon tsu tsoe=tsoe ue .
-974.wav|lah=lah di-nyi  thu=da  vaon=tsy geh di=se1=cia1 .
-975.wav|zia=zia=non tson1=se1=poh-lu ng-seh lian=ghau lah=lah a1-li tah ?
-976.wav|tsau1 yeu=tsoe ue tseu tau di-nyi diau lon=daon ziu=zy 'leh .
-977.wav|tshin ven-tau da sy=ka chi na-nen tseu ?
-978.wav|non ih=zeh li tsau1 zi=deu tseu , ku-liau ghon-loh ten ziu tau-liau .
-979.wav|keh=meh tau-liau zen-min=kuaon-zan na-nen=cia tseu=fah ?
-98.wav|vah kuoe na-nen , ze iau1 zia=zia=non geh .
-980.wav|tshy=di zy noe-cin1=lu , si1=zaon lu=kheu .
-981.wav|non-zon geh=tah ku=chi tau e1=mi , tshoe1=ku di-nyi diau=wan mo-lu ziu=zy .
-982.wav|yeu=tsoe mo-lu te=mi ku=chi ti=ziu tau-liau .
-983.wav|na-nen=cia yoe=geh ?
-984.wav|zon geh=tah tau e1=mi lau jin-gheh ?
-985.wav|e1=mi yeu tseh1 syu pau=din , geh=mi yeu be tshau1=zy , non khoe1 teh=tau vah ?
-986.wav|non tau geh=tah tsoe=ue=koh=tsy laon=chi tshen-di-thih .
-987.wav|si1=iau1 tshen  lu lian=ze , tse=tsoe di=thih ih=ghau=si , khu=i tau-liau .
-988.wav|keh=zy lu mae yoe=geh , a1-'la ciau tsha1=deu chi soe='leh .
-989.wav|zia=zia=non geh=tah zy sa=di=faon ?
-99.wav|lau zia=zia=non geh kue=sin1 .
-990.wav|veh hau=i-sy1 geh diau=lu zy sa lu ?
-991.wav|tshin men-non wu=bin ve=ti li geh=tah yoe=vah ?
-992.wav|te=veh=chi , tau noe-cin1 ton=lu na-nen tseu=jin ih=ti ?
-993.wav|ngu=yi le geh we=tsy lah di=du kau1=deu a1-li tah ?
-994.wav|a1-li geh faon=shian zy zau1-noe ?
-995.wav|ih=zeh zau1-zi tseu te vah ?
-996.wav|zia=zia=non paon ngu geh tsan=tsy deu=laon shian gho=tseh tshau=du .
-997.wav|tshin=ven geh=tah vu=jin yeu tshy=su=vah ?
-998.wav| lu=tsau sian1=yan1 poh-lu faon=shian khe=geh kon-ciau1 ciu1 a-li1 tshen ?
-999.wav|zaon=he
+654.wav|ɦiø
+655.wav|lɪɲ
+656.wav|fəŋ1
+657.wav|koʔ
+658.wav|ʦəŋ
+659.wav|tɕɪɲ ʦəŋ1=cʰiɐʔ siɑ hɔ=pʰiɔ cy1=gəʔ zəʔ-ɟi .
+66.wav|hɔ-ku iɑ , məŋ-ʦɔ1 ɑ1-'lɑ ɪʔ=dɔ cʰi .
+660.wav|pi-zz ciã   ŋəʔ  ɦɔ  ɪɲ=ke siɑ=zəŋ lɪɲ r ŋəʔ ɪʔ=zəʔ  ɦɔ .
+661.wav| ŋəʔ  ɦɔ  ɪɲ=ke siɑ=zəŋ lɪɲ=cy ŋəʔ r zəʔ ŋ=ɦɔ .
+662.wav|ɦioŋ pɪʔ=gəʔ kʷe=dɪɲ :
+663.wav|di1-siɑ pʰiɔ=cy1 ɪɲ=ke ɦioŋ kɑ̃=pɪʔ wəʔ=ʦe tʰe=su pɪʔ .
+664.wav|ŋu siã ci ʦəʔ1 tʰəʔ=kʰʷɑ ʦø=di .
+665.wav|ci ku-zz sɑ ?
+666.wav|ɪʔ=pəŋ ɪɲ1=hø zz=ti .
+667.wav|ɦiɤ-fi tu1=sɔ tɕɔ=pʰiɔ ?
+668.wav|si1 ɲiã ŋu tɕəŋ=tɕəŋ zoŋ=liã .
+669.wav|ɦiɤ-fi ɪʔ-goŋ1  kʰʷe .
+67.wav|ɑ1-'lɑ liɔ-liɔ sɑ=di=fɑ̃ zɪʔ-ɦəʔ ɑ ?
+670.wav|iɔ1 tʰɪʔ ɦiɤ=pʰiɔ vɐʔ ?
+671.wav|vɐʔ sy1=iɔ1 gəʔ  ɦi=le ɦioŋ di=nɔ tã=ɪɲ gəʔ ɦiɤ-fi i=fu .
+672.wav|ŋu mɑ ci=ʦã ɦiɤ=pʰiɔ .
+673.wav|ŋu siã ci foŋ1=ko ɦɔ=səŋ .
+674.wav|gəʔ foŋ1=səŋ tɕɔ1=zoŋ 'ləʔ .
+675.wav|di=ʦz di1=tɕɪɲ1=sɑ̃1 .
+676.wav|tɕɪɲ=noŋ di1-hɔ ɦiɤ=ʦəŋ pi=mo .
+677.wav|ci tɔ poʔ-cɪɲ1 iɔ1 tu1=sɔ zəŋ-kʷɑ̃1 ?
+678.wav|dɑ-ke ɪʔ-ku=li=pɑ .
+679.wav|i-sã1  ŋu=kɐʔ liã=tʰi1 lɔ=vɐʔ səʔ=ɲi=gəʔ .
+68.wav|məŋ-ʦɔ1 ʦɔ=lɑ̃ siã1  ti=ʦoŋ ,  liɔ-liɔ zəʔ-dɑ̃ məŋ=kʰɤ=dɤ .
+680.wav|noŋ kʰəʔ-sɤ vɐʔ  ly=bɪʔ=tʰi vɐʔ ?
+681.wav|noŋ fɐʔ=ɦø=ɲiɪʔ vɐʔ  ɑ1-li tɪʔ ne=ku 
+682.wav|liã liã=tʰi=uəŋ .
+683.wav|liã=liã ɕyɪʔ=ɐʔ .
+684.wav|noŋ təʔ=ku fi=ɦi vɐʔ ?
+685.wav|ʦø=hɔ pʰɐʔ=ʦã  kʷã1=pʰi .
+686.wav|noŋ fɐʔ=ɦø=ɲiɪʔ 'ləʔ .
+687.wav|iɔ1 ʦu ʦɪɲ ɪʔ=bu gəʔ ci-zo .
+688.wav|iɔ1 ʦu tɕɤ1=ɕyɪʔ ho-ɲi .
+689.wav|noŋ zz bɪɲ-doʔ=sɪɲ kø-mɔ .
+69.wav|noŋ pɑ̃ ɦi kɑ̃ ɪʔ-sã , hɔ=vɐʔ ?
+690.wav|ɲi=zoŋ vɐʔ ?
+691.wav|vɐʔ ɲi=zoŋ  ŋu pɑ̃=noŋ kʰe=ti ɦiɐʔ .
+692.wav|we-cʰi iɔ1 ɟɪʔ zz tɕɪʔ=ɦiɐʔ .
+693.wav|noŋ zy-we tɪʔ lɔ=kʰʷɑ hɔ-ku .
+694.wav|noŋ-ku mɔ=bɪɲ nɑ-nəŋ 'ləʔ ?
+695.wav|ŋu=dɤ lɔ=ɦɪɲ=gəʔ .
+696.wav|wəŋ=səŋ1 məʔ lɪʔ=cʰi .
+697.wav|məʔ we=kʰɤ  sɑ ɑ vɐʔ siã=tɕɪʔ .
+698.wav|ɲiã ŋu ci-zo ci-zo .
+699.wav|noŋ-ku ʦoŋ zɪɲ-hʷɑ̃ ɦiɤ ci=tʰi1 'ləʔ ?
+7.wav|tʰəʔ bɪɲ=zã ɪʔ-ɦiã-ɦəʔ .
+70.wav|hɔ-ku , ŋu ɪʔ=dɪɲ pɑ̃ ɦi kɑ̃ .
+700.wav|noŋ ʦø=hɔ təŋ1 'ləʔ zɑ̃ lɑ̃=siã1 ɕy1-sɪʔ ɪʔ=liã=tʰi1 .
+701.wav|tu1=tɕɪʔ=ti sɪɲ1=si gəʔ su1-tɕe pɑ̃ sz=ku
+702.wav|ɕi1=mɑ̃ noŋ=ʦɔ ti=kʰɑ̃1 voʔ .
+703.wav|gəʔ zz sɑ-məʔ-zz ?
+704.wav|gəʔ zz pɪʔ=ci=pəŋ di=nɔ .
+705.wav|gəʔ zz noŋ-ku pɪʔ=ci=pəŋ di=nɔ ?
+706.wav|vəʔ zz-ku , zz ŋu r-ʦz gəʔ=pɪʔ ci=pəŋ di=nɔ .
+707.wav|gəʔ ŋe=zz sɑ-ɲɪɲ=gəʔ kʷɑ̃1-bø ?
+708.wav|gəʔ ŋe=zz ɐʔ1-lɐʔ-ɦəʔ kʷɑ̃1-bø .
+709.wav|e1=mi ɪʔ=ŋe zz ɲɪɲ 'nɑ-ku kʷɑ̃1-bø ?
+71.wav|tɕɪɲ=vəŋ , soŋ mɪɲ=liɔ 'ləʔ vɐʔ ?
+710.wav|e1=mi gəʔ kʷɑ̃1-bø zz ɦi lɑ gəʔ .
+711.wav|gəʔ de di=nɔ ɪʔ=zəʔ zz ɦi ɦioŋ-ɦəʔ vɐʔ ?
+712.wav|məʔ ɔ , ɪʔ=zəʔ ŋu lɐʔ=ɦioŋ .
+713.wav|gəʔ pəŋ=sz zz ŋu-ɦəʔ .
+714.wav|e1=pəŋ=sz zz ɑ1-'lɑ r-ʦz gəʔ .
+715.wav|məŋ=kʰɤ=dɤ ɦiɤ ku-ɲɪɲ .
+716.wav|sz=kɑ kɔ1=dɤ ze=zz sz .
+717.wav|mo-lu ziɑ=te=ku ɦiɤ-kɑ1 ɲɪɲ-ɦɑ̃ .
+718.wav|ɦiɤ ɪʔ-kɑ1 ɲɪɲ-ɦɑ̃ lɐʔ=lɐʔ mo-lu ziɑ=te=ku .
+719.wav|noŋ oʔ=li ɦiɤ di=nɔ sz=vɐʔ ?
+72.wav|ɦi vɐʔ liɔ-liɔ , ɦi tɕəʔ-cʰi 'ləʔ .
+720.wav|ɦiɤ-ku .
+721.wav|ɦiɤ ci-ho ?
+722.wav|ɦiɤ ciɔ1-kʷe .
+723.wav|gəʔ pəŋ=sɪɲ1=sz noŋ=ɦiɤ vɐʔ ?
+724.wav|gəʔ pəŋ=sz ŋu məʔ .
+725.wav|noŋ zz vɐʔ zz ɦiɤ liã de di=nɔ ?
+726.wav|gəʔ de siã1=ci1 zz vɐʔ zz noŋ-ku ?
+727.wav|noŋ fɐʔ=pʰiɔ ɦiɤ-vəʔ-ɦiɤ ?
+728.wav|ɦiɤ=zz ɦiɤ-ku , məʔ=tɑ le .
+729.wav|noŋ=iɔ1 həʔ sɑ ɪɲ=liɔ ?
+73.wav|ɦi cʰi ɑ1-li tɪʔ 'ləʔ ?
+730.wav|ŋu iɔ1 ɪʔ=pe1 nɑ=zo .
+731.wav|noŋ hʷø=ɕi cʰɪʔ=ti sɑ ?
+732.wav|noŋ kʰu=i pəʔ ŋu ɪʔ=ti nɑ=ɦiɤ ŋ-ɕiã1=dɤ .
+733.wav|noŋ hʷø=ɕi ɑ1-li ɪʔ=kʰʷe ? gəʔ=kʰʷe ɦe-zz e1=kʰʷe ?
+734.wav|məʔ=kʷe=ɦi , zø=bi ɑ1-li ɪʔ=kʰʷe .
+735.wav|ɦe-iɔ1 tu1=sɔ ?
+736.wav|ɦe-iɔ1 ɪʔ=ŋe=ŋe .
+737.wav|ɑ1-li ɪʔ ʦɐʔ1 noŋ hʷø=ɕi ɪʔ=ŋe ?
+738.wav|ŋu ɪʔ ʦɐʔ1 ɦɑ vəʔ=iɔ1 .
+739.wav|ŋu iɔ1 kɔ=ʦã si1-sã1 , li=si1-sã1 de=ɪʔ de .
+74.wav|kʰu-nəŋ liɔ-liɔ tʰi=ɦioʔ=kʷø .
+740.wav|ɦi lɑ liã we ɦi le lɔ mɑ̃ gəʔ , vəʔ=siã pɑ̃=noŋ de .
+741.wav|noŋ siã cʰɪʔ=ti ti=sɪɲ1 vɐʔ ?
+742.wav|noŋ zz=ku kɔ1=ɕɪɲ , zy=cʰɪʔ ɪʔ=ti vɐʔ .
+743.wav|gəʔ-nəŋ-ɦəʔ so1-fɐʔ ŋu vəʔ=siã mɑ .
+744.wav|gəʔ ʦɑ̃ zz=tʰi ɦi kɔ ŋu kɑ̃-ɦəʔ .
+745.wav|e1 mi ti pɔ ʦz məʔ , noŋ kɔ ɦi soŋ təʔ-cʰi .
+746.wav|ʦe hɔ ŋe=gəʔ , ziã gəʔ-nəŋ ɦiã=ʦz gəʔ , noŋ=iɔ1 vɐʔ ?
+747.wav|noŋ tɕɔ=pʰiɔ wəʔ=ʦe sɪɲ-ɦioŋ=kʰɑ tɑ=le vɐʔ ?
+748.wav|ŋu cʰi 'ne lɔ=wɑ̃ zɪɲ=təʔ le .
+749.wav|ɦi 'ne gəʔ-nəŋ-kɑ ne ʦu-ku sã1=wəʔ gʷe pəʔ ŋu .
+75.wav|ɑ1-'lɑ cʰi tʰi=ɦioʔ=kʷø kʰø1 ciɔ .
+750.wav|ŋu ɲiɔ loʔ=sø1 tɕɑ̃=ze kʷe=zɑ̃ 'ləʔ .
+751.wav|dɑ-ciɑ1 di=foŋ=sø1 tɕø1 tɕø1 .
+752.wav|ɲiɔ sɔ=ʦɤ sɔ ɪʔ=sɔ di=lɑ̃=ɕiã .
+753.wav|ɲiɔ kɑ=ʦz kɔ1 dɤ-ɦəʔ hʷe1=zəŋ kʰɑ1 ɪʔ kʰɑ1 .
+754.wav|ɟy=zɐʔ=ʦz mɑ-kʷɑ̃1 'ləʔ .
+755.wav|ɪʔ=kʰʷe=ɦiø de pu1=li kʰɔ1-se tʰəʔ-liɔ .
+756.wav|de=ʦz ciɐʔ pəʔ ɦi ʦɑ̃ hɔ 'ləʔ .
+757.wav|noŋ 'ne i1=zɑ̃  ɲiɪʔ=liã  tɕəʔ=le !
+758.wav|i1=zɑ̃  ɲiɪʔ=liã  tɕəʔ-cʰi 'ləʔ .
+759.wav|ŋu bɪɲ=zã sɪɲ1 təʔ=le təʔ=gəʔ ʦɔ .
+76.wav|noŋ=ɦiɤ sɑ e=hɔ vɐʔ ?
+760.wav|ŋu hʷø=ɕi kʰʷəŋ le=ciɐʔ .
+761.wav|ŋu 'me=tʰi1 loʔ=ti=ʦoŋ cʰi=le .
+762.wav|ŋu iɔ1 kʰʷəŋ tɔ pɐʔ=ti pø=ze kɑ̃=kɑ̃ cʰi=le .
+763.wav|ŋu tɕø1 hɔ i1=zɑ̃ i=ɦɤ=zy cʰɪʔ=ʦɔ=ve .
+764.wav|ŋu zəŋ-kʷɑ̃1 le dɑ vəʔ=ɟɪʔ lɔ , ʦəʔ1=hɔ tɕəʔ=məŋ mɑ dɑ-pɪɲ ɦiɤ-diɔ .
+765.wav|ŋu kʰu=i toʔ=toʔ=dɪɲ=dɪɲ cʰɪʔ ɲiɤ=nɑ mi pɔ1 ci=de , wəʔ=ʦe pʰɔ1=ve ʦiã=tɕe .
+766.wav|ŋu 'me=tʰi1 ʦɔ=lɑ̃ pɐʔ=ti ʦoŋ=li=kʰe oʔ=li , cy=ti=ʦoŋ kʰe=sz koŋ1=ʦoʔ .
+767.wav|zoŋ zɑ̃-pø-ɲiɪʔ ɪʔ=zəʔ ʦu=tɔ ɦiɑ=kʰʷɑ=dɤ .
+768.wav|ʦoŋ1=lɑ̃=ɕiã zəʔ-ɲi ti=ʦoŋ ʦu=ɦiɤ , tɔ ɑ1-'lɑ te-we zəʔ-dɑ̃ cʰi cʰɪʔ=ʦoŋ1=ve .
+769.wav|ɑ1-'lɑ cɪɲ=zã ʦu=tɔ ɦo-pø-tʰi1 ɪʔ=ti ʦoŋ , ɦəʔ=ve zz soŋ zɑ̃ le-ku .
+77.wav|ŋu hʷø=ɕi kʰø1=sz .
+770.wav|ʦu=hɔ sã1=wəʔ ɪʔ-pe ŋ-ti pø=we tɔ=oʔ=li cʰɪʔ=ɦiɑ=ve .
+771.wav|ɦiɑ=dɤ ɦiɑ=pɔ fe1=fe1 , di=zz kʰø1=kʰø1 , dɑ hɔ ɦioʔ zy kʰʷəŋ-kɔ .
+772.wav|ŋu ɦiɑ=li=ɕiã ɪʔ=zəʔ tɕəʔ-cʰi gəʔ , tʰəʔ bã=ɦiɤ ɪʔ=dɔ bɐʔ=siã1=siã1 .
+773.wav|we=le ʦe zɑ̃ zɑ̃=mɑ̃ , fɐʔ=fɐʔ  , loŋ=tɔ zəʔ-ɪʔ ti=ʦoŋ ʦe kʰʷəŋ-kɔ .
+774.wav|noŋ ɦi=le lɐʔ=lɐʔ ʦu=sɑ ?
+775.wav|ŋu=lɐʔ=lɐʔ tã=di=nɔ .
+776.wav|noŋ-ku bã=ɦiɤ ɟɪɲ=le lɐʔ=he=mɑ̃ ti=sɑ ?
+777.wav|ɦi ɪʔ=zəʔ lɐʔ=he ʦu=sã1-i .
+778.wav|moʔ=zi ŋu m-məʔ lɐʔ ʦu=sɑ .
+779.wav|noŋ-ku bã=ɦiɤ nɑ-nəŋ ɦe m-məʔ le 'lɑ ?
+78.wav|zɪɲ ɦi ʦu sɐʔ ?
+780.wav|noŋ kʰø1 , ɦi le 'ləʔ .
+781.wav|tʰi1=cʰi ɪʔ=tʰi1 pi ɪʔ=tʰi1 lã .
+782.wav|ɦi me-me-ciɔ lɐʔ=lɐʔ kø=zɑ̃ cʰi .
+783.wav|ɦi iɔ1 zɑ̃ ʦɪɲ 'ləʔ .
+784.wav|noŋ vəʔ=iɔ1 lɐʔ=lɐʔ=ʦɑ̃ kɑ̃=du !
+785.wav|noŋ lɐʔ=he təŋ sɑ-ɲɪɲ ɑ ?
+786.wav|ŋu vəʔ təŋ sɑ-ɲɪɲ .
+787.wav|ʦəŋ-ku zɑ̃=pø=tʰi1 , ŋu=ze lɐʔ=he=mɑ̃ tã=zz .
+788.wav|zoʔ=ɲiɪʔ ŋu tã=di=ɦo le-ku zəŋ-kʷɑ̃1 , noŋ lɐʔ=lɐʔ ʦu=sɑ ?
+789.wav|gəʔ=tʰɔ vɑ̃=ʦz zz ɑ1-'lɑ nø-ŋ pɑ̃ ɲy-si təŋ=gəʔ .
+79.wav|tɕɪɲ ɦi pɑ̃ ŋu pu zɪʔ ɪɲ1=vəŋ .
+790.wav| ɲɪɲ 'nɑ  kʰø1 , tɕɑ̃=kʰe lɐʔ=lɐʔ , zz-vɑ̃-ke məŋ ɦɑ-məʔ kʷe !
+791.wav|ɦi lɑ tɕoŋ=tɕoŋ=mɑ̃=mɑ̃ cʰi-kʰø1 ʦoʔ=ɟy pi-se , oʔ=li məʔ-zz ze=tʰe lɐʔ=he .
+792.wav|tɕe=tɕɪʔ hɔ lɐʔ=he , vəʔ=ɕiɔ=təʔ sɑ=gəʔ=zəŋ-kʷɑ̃1 le=sɔ .
+793.wav|siɔ=tɕe tʰe 'ləʔ ɪʔ de=ʦz , cʰɪʔ zã lɐʔ he gəʔ ɲioʔ-tʰɑ̃ tu1 m-məʔ sɤ1 hɔ .
+794.wav|ɲɪɲ 'nɑ kʰø1 , ɦi lɑ sz=vɑ̃ li tɔ sɤ1=ʦoʔ təʔ tɕɪɲ1=tɕɪɲ1=sɑ̃=sɑ̃ gəʔ .
+795.wav|siɑ=zz de kɔ1=dɤ ɪʔ-dɪʔ ʦø=ɲiɪʔ sz li wəŋ=lɐʔ=he ci=pəŋ kʰɑ=tʰoŋ1 sz .
+796.wav|ziã kɔ1=dɤ ci=ʦã ku=səʔ=ku=ɕiã1 ku-zz ɦo=ko lɐʔ=he .
+797.wav|dɑ vɑ̃=ci=li=ɕiã kɑ1-sã1 tɔ vəʔ tʰe1-pe1 lɐʔ=he !
+798.wav|ɪʔ=tʰɔ ɦoŋ-moʔ kɑ1-sã1 iɔ1 zəʔ ci-ve ɦiã=si le !
+799.wav|zəŋ-kʷɑ̃1 ɦe=ʦɔ lɐʔ=he le , dɑ-ciɑ1 zu-ɦo le=gɑ gɑ=se1=wu vɐʔ .
+8.wav|ɦiɤ sɐʔ hɔ=zz=tʰi vɐʔ ?
+80.wav|noŋ ciɐʔ=ʦəʔ nɑ-nəŋ ?
+800.wav|zo=wu li ʦe tɕoŋ=ti sz=lɐʔ=he .
+801.wav|ɑ1-'lɑ zu=lɐʔ=he kʰø1=kʰø1 di=zz .
+802.wav|nɔ , ʦoʔ=ɟy tʰɪʔ təʔ ʦəŋ1=hɔ cɪɲ=ʦã lɐʔ=he .
+803.wav|iɔ1 təŋ ɦi tʰɪʔ hɔ , ɦe-ɦiɤ ɪʔ=ɕɪʔ lɐʔ=he le !
+804.wav|ɑ1-'lɑ iɔ1 we-cʰi le , noŋ tʰoʔ ɐʔ1-lɐʔ-ɦəʔ zz=tʰi ɪʔ=dɪɲ ly=sɪɲ1 lɐʔ=he .
+805.wav|noŋ ve cʰɪʔ=ku 'ləʔ vɐʔ ?
+806.wav|ŋu ɦe-məʔ-cʰɪʔ ku .
+807.wav|noŋ cɪɲ1=ʦɔ1 cʰi tø li ku=vɐʔ ?
+808.wav|ŋu i cɪɲ=ʦã ɦiø məʔ-cʰi tø li 'ləʔ .
+809.wav|noŋ sã1=ŋ-pʰi cʰɪʔ=ku vɐʔ ?
+81.wav|hɔ-ku , zy=təʔ nəŋ=dɪɲ hɔ 'ləʔ .
+810.wav|lɐʔ liã=ɲi zi cʰɪʔ=ku ɪʔ=tʰɑ̃1 .
+811.wav|ŋu=mɑ 'ləʔ siɔ=tɕe , sɔ=hɔ 'ləʔ ve , təŋ ŋu r-ʦz we=le cʰɪʔ=ve .
+812.wav|i=cɪɲ təŋ 'ləʔ pø-ku ʦoŋ=dɤ 'ləʔ .
+813.wav|ŋu we-tɕɪɲ 'ləʔ ʦoŋ=ti koŋ1=pɑ̃=mɑ̃ tã=sɔ hɔ 'ləʔ vɑ̃=ci .
+814.wav|noŋ kʰø1 , de=ʦz kɔ1=dɤ ɦe pɑ-liɔ ɪʔ-dɪʔ ɦiã=pe .
+815.wav|tɔ=ɦi le ŋu-ɦiɤ tã hɔ liɔ-liã pʰi1 kɔ=ʦz .
+816.wav|təŋ tʰi1=hɔ 'ləʔ , ŋu=iɔ1 'ne kɔ=ʦz soŋ=tɔ tɕəʔ=pe=zo cʰi .
+817.wav|ŋu r-ʦz kəŋ1 siɔ wɑ̃=mɑ dɪʔ=pʰi cʰi-'ləʔ .
+818.wav|ɦi cʰi-mɑ liɔ-liã tʰɑ̃1 ze m-məʔ mɑ=tɔ .
+819.wav|ŋu kʰø1 ɦi zz , cʰɪʔ-liɔ kʰʷəŋ , kʰʷəŋ 'ləʔ cʰɪʔ , tã=tã ɦiɤ-ɕi , le=zz le !
+82.wav|ɦe-ɦiɤ bɪʔ-ɦəʔ zz=tʰi vɐʔ ?
+820.wav|tʰi1=liã=kʰʷɑ 'ləʔ , ŋu=iɔ1 ʦɤ-liɔ .
+821.wav|sz=kʰe kʰʷɑ le , pʰɔ1=pe1=zo cʰɪʔ-liɔ ʦe ʦɤ .
+822.wav|zəŋ-kʷɑ̃1 iɔ1 tɔ=kʰʷɑ 'ləʔ , noŋ nɑ-nəŋ ɦe ŋɑ fɐʔ ŋɑ fɐʔ .
+823.wav|ŋu=iɔ1 tɔ tɕɔ1=zz cʰi , zoʔ pʰɔ1=mi ɑ , ʦy=ɲiã=ɦiø=ʦz ɑ , ze iɔ1=mɑ .
+824.wav|zoʔ=ɲiɪʔ ŋu kʰʷɑ=iɔ1 tɕəʔ=məŋ gəʔ zəŋ-kʷɑ̃1 , ɦi tɔ ɪʔ ɦiɔ ɪʔ ɦiɔ gəʔ le 'ləʔ .
+825.wav|ɦi lɑ zɑ̃=pø zəʔ-le zu 'ləʔ ɕɪʔ , ciã ɦo-pø-ɲiɪʔ zy iɔ1=li kʰe zɑ̃=he .
+826.wav|ŋu siã cʰi-mɑ ʦəʔ1 y=bø , noŋ tʰəʔ ŋu ɪʔ=dɔ cʰi hɔ vɐʔ ?
+827.wav|ŋu ku-r ʦz=ʦã dɑ-liɔ ɕi1=mɑ̃ ʦu i-sã1 .
+828.wav|zz=ku ŋu gəʔ ŋe sã1=wəʔ kʰu=i ʦu=kʷã1 , ŋu=iɔ1 li=pɑ=ɪʔ tɔ nø-cɪɲ1 cʰi .
+829.wav|ciɑ-sz ŋu-kɑ̃ po=noŋ tʰɪɲ , dɑ-ciɑ1 vəʔ=iɔ1 ʦɤ=le ʦɤ-cʰi , noŋ=ɦiɤ i-ci ?
+83.wav|ŋu hɔ=tɕɪʔ ɕiã1=i1 vɐʔ ?
+830.wav|ɪʔ=te ŋu ɦiɤ-kʰu-nəŋ , ŋu zy=iɔ1 tʰiɔ-zɔ1 .
+831.wav|tɕø-kɑ1 pʰɑ te-ɦəʔ ɦe-ɦo , noŋ-we tɕø1 ɑ1-li ɟi i1=zɑ̃ ?
+832.wav|cɪɲ1=ʦɔ1 tɕø1 'ləʔ gəʔ=ɟi koŋ ɕi-ɕi gəʔ tɕəŋ=se1 , ŋu bɔ təʔ tɕəʔ-cʰi vɐʔ ?
+833.wav|ʦoʔ=ɕɪɲ ɦi vəʔ we-cʰi ku=tɕəŋ1=ʦɪʔ 'ləʔ .
+834.wav|ɑ1-'lɑ dɑ-ke cʰi-ɦəʔ , pəʔ1-ku iɔ1=kʰø1 tʰi1=cʰi nɑ-nəŋ ʦe cyɪʔ=dɪɲ .
+835.wav|zɑ̃-he-ɲɪɲ dɑ̃ mo-lu ɪʔ ʦɐʔ1 tɪɲ , dɑ-ke ɦɑ-zz tu1=zz səŋ1-tʰe ɪʔ=ʦoŋ .
+836.wav|ciɔ1-kʷe mo-lu sɑ̃1=ti zɪʔ=ʦoŋ1 , sɑ̃1=pʰɪɲ lɪɲ=lɑ̃ mø=moʔ , ʦəŋ1 hɔ=kʰø1 !
+837.wav|ɲɪɲ-ɦɑ tɕəʔ=le dɑ̃ fɐʔ dɑ̃ fɐʔ , tɕɪʔ=tɤ1=pɐʔ=tɤ1 , gɐʔ-le gɐʔ=cʰi .
+838.wav|tɔ vəʔ=ɪʔ=dɪɲ iɔ1=mɑ sɑ-məʔ-zz , li sɑ ciɐʔ=cɪɲ .
+839.wav|ɦiɤ-zəŋ-kʷɑ̃1 dɑ̃ dɑ̃ kʰø1=kʰø1 , lɪɲ lɪɲ=zz=mi , pɔ pɔ ŋe=foʔ .
+84.wav|vɐʔ le=se1 , zɪʔ=te=vɐʔ kʰu=i .
+840.wav|ɪʔ dɑ̃ mo-lu , ʦoŋ=kʷe ŋɔ=vəʔ=lɔ iɔ1=mɑ ti məʔ-zz we=ʦø cʰi .
+841.wav|ɦi=le nɔ=mã gəʔ di=fɑ̃ , ɦiɑ=zz=mi ɦɑ-hɔ təʔ ɪʔ=tʰɐʔ=wu=du .
+842.wav|nø-cɪɲ1 toŋ=lu kɔ1=dɤ pɐʔ=ɲi lɔ=ti tu1 , nø-cɪɲ1 si1=lu kɔ1=dɤ kɔ1=tɑ̃ ʦɪɲ1=pʰɪɲ=ti tu1 .
+843.wav|wɑ=he=lu gəʔ sɑ̃1=pʰɪɲ kɔ1=iɑ zi=we , ɦiɤ he=pʰɑ tʰəʔ=səʔ .
+844.wav|zi=ciɑ1 we sɑ̃1-cʰiø kɔ1=ʦoŋ1=ti1 tɑ̃ sɑ̃1=pʰɪɲ ze=ɦiɤ , tɕu=we cɪɲ=ɦɪɲ .
+845.wav|ʦe=iɔ1 kʰe=ŋe kɑ , cʰi-kʰø1 zəŋ-mɪɲ=kʷɑ̃-zã ɦo dɤ-ɦəʔ di-ɦo sɑ̃1-zã .
+846.wav|siɔ-hu=ʦz be ɲy-bã-ɦiɤ le bɐʔ=siã1 , ŋe=ʦɪɲ1 kʰø1 təʔ ŋ=ho1=pɐʔ=məŋ .
+847.wav|de=de li gəʔ tɕɔ=pʰiɔ moʔ=kʰoŋ1 vəʔ=iɔ1=cɪɲ , cʰi zɪɲ=zz=doŋ tɕy=kʰʷø ci1 hɔ=le .
+848.wav|zɑ̃=he ɪʔ=fɑ̃=mi tɕɐʔ tʰəʔ-liɔ ciɔ1-kʷe ɟy=vɑ̃ ʦz , ɪʔ=fɑ̃=mi kʰe=pʰɪʔ 'ləʔ ciɔ1-kʷe sɪɲ1=vɑ̃=ʦz .
+849.wav|ci=tɕɪɲ1=cɪʔ 'ləʔ ʦɤ1-we kʰoŋ1=cʰi , ɦiɤ kɑ̃-ti1 'ləʔ zz=ʦoŋ1=sɪɲ1 gəʔ cʰi=uəŋ .
+85.wav|ŋu siã tã ʦəʔ1 di=ɦo , le=se1 vɐʔ ?
+850.wav|loʔ=di tɑ̃=ʦoŋ1 , kɑ-se1 lɔ , bɔ=pu lɔ , wu=boʔ lɔ , di=ɦiø foŋ-kʷɑ̃1 təŋ=təŋ .
+851.wav|bɐʔ=siã1 zɑ̃=he sɪɲ1 zɔ-ɦəʔ loʔ=di ɦɑ hɐʔ ɦiɤ-cɪɲ !
+852.wav|mɪɲ=cʰi ʦø=ɕiã ku-zz lɐʔ=lɐʔ tʰɑ=bɪɲ ɟiɔ loʔ=di tɑ̃=ʦoŋ1 zɔ 'ləʔ-ku " sɪɲ1=tʰi1=di " .
+853.wav|nɔ zz=ʦoŋ1=sɪɲ1 pʰɪʔ=tɕəʔ sɪɲ1-ɦəʔ tʰi1=di , nɔ ʦoŋ1 tɕy=zɪɲ , ɦiɤ tɕɑ̃=sɪɲ1 lɔ .
+854.wav|ɪʔ ʦɐʔ1 ʦã-zã gəʔ wu=boʔ sz ci-ho tɕɪɲ1=sɑ̃ !
+855.wav|ɪʔ zã-bɑ te kʰu=məŋ vɑ̃=ʦz , ŋɑ=piɔ ɦe=ziã ɟy loŋ=dɑ̃ .
+856.wav|li=ɕiã kʰe-liɔ ɪʔ be be ɤ=səʔ siɔ=ti , zɪɲ-diɔ hɐʔ tiɑ !
+857.wav|tɔ gəʔ=tɐʔ le tɤ1 ɪʔ=tɤ1 , kø-ciɐʔ vəʔ=iɔ1 tʰəʔ hɔ ɔ !
+858.wav| ʦz=dɤ tɔ sɑ=di=fɑ̃ mɑ ?
+859.wav|gəʔ-ɦəʔ məʔ-zz ci=di ?
+86.wav|məʔ vəŋ=di , noŋ tã hɔ 'ləʔ .
+860.wav|gəʔ ʦəʔ1 ʦɔ=siã1=ci1 'ne-tɕəʔ le pəʔ ŋu kʰø1=kʰø1 ciɔ .
+861.wav|gəʔ=ʦoŋ ɦiã=ʦz gəʔ bi-kɐʔ=ʦz  ɲɪɲ 'nɑ  ɦiɤ=təʔ mɑ=vɐʔ ?
+862.wav|kɑ=di zz ɲie=ŋ kʰʷe ŋ-koʔ .
+863.wav|ciɑ=cy=gəʔ ! kʰu=i bi=ɲi ti=vɐʔ ?
+864.wav|tʰəʔ ne=kʰø1 'ləʔ , ɦiɤ-vəʔ-ɦiɤ kʰʷø=səʔ sɪɲ1 ɪʔ=ti gəʔ ?
+865.wav|noŋ kʰø1 gəʔ-ɦəʔ liã=ɦiã tɑ̃=ʦoŋ1 ɑ1-li ɪʔ=ɦiã hɔ ?
+866.wav|zz=mɔ zz zz=mɔ ɪʔ=ti 'ləʔ , kɑ=di tʰəʔ-du !
+867.wav|vəʔ=iɔ1 ciɑ bɪʔ=ciɐʔ gəʔ , iɔ1 ʦəŋ1=ʦoŋ1 ɪʔ=ŋe gəʔ !
+868.wav|cɪɲ1=ʦɔ1 gəʔ ŋe məʔ-zz dɑ ke=kɑ , noŋ tʰɪɲ ci hɔ=le .
+869.wav|vəʔ=iɔ1 zz dɑ-ɕɪɲ=hu ɔ , siɔ=di=fɑ̃ səŋ1-tɕe gəʔ !
+87.wav|gəʔ ʦɐʔ1 sɤ=ci1 me-hɔ gəʔ , hɔ kʰø1=kʰø1 ciɔ=vɐʔ ?
+870.wav|hu=səʔ pʰã=pʰã=ɕiã gəʔ ! ɑ1-'lɑ zoŋ-le vəʔ ʦu ɪʔ=tɕiã=dɤ gəʔ sã1-i gəʔ .
+871.wav|kɑ=di hɔ tã ʦəʔ=dɤ vɐʔ ?
+872.wav|gəʔ ŋe=zz ʦɔ=dɤ .
+873.wav|pɑ̃ ŋu kʰe=ʦã fɐʔ=pʰiɔ .
+874.wav|ɦi=le tɔ=tɕz ɦiɤ " tɕɔ1=zz " , ɪʔ=ci=dɤ kʰu=i mɑ ciɔ1-kʷe məʔ-zz .
+875.wav|pəʔ1-ku zɑ̃=he ɦe-ɦiɤ vəʔ sɔ siɔ=tʰe=dɤ , mɑ məʔ-zz kʰu=i tʰɔ=kɑ=we-kɑ .
+876.wav|e , gəʔ ŋe cyɪʔ=ʦz ci=di ɪʔ=cɪɲ1 ɑ ?
+877.wav|siɑ=lɐʔ he=zəʔ=kʰʷe ŋ=cɪɲ1 , ŋu kʰu=i mɑ pəʔ=noŋ zəʔ=ɲiø loʔ=cɪɲ1 .
+878.wav|ŋu tu1 mɑ=ti , hɔ ʦe  kʰɤ=ɟiã  ɪʔ=ŋe vɐʔ ?
+879.wav|noŋ kʰø1 ɦo-dɤ liã ʦɐʔ1 kəʔ siɔ-ɦəʔ .
+88.wav|tɑ̃=zø kʰu=i , noŋ kʰø1=hɔ 'ləʔ .
+880.wav|ŋu zz tʰoŋ=hu , noŋ=iɔ1 ci məʔ , zy ʦəʔ1=hɔ zəʔ=ɲiø ŋ=cɪɲ1 .
+881.wav|hɔ 'ləʔ hɔ 'ləʔ ! zy zəʔ=ɲiø ŋ=cɪɲ1 vɐʔ .
+882.wav|noŋ ʦəʔ1 tɕəŋ ɦiɤ-vəŋ-di vɐʔ ?
+883.wav|ɑ1-'lɑ tʰi1=tʰi1 lɐʔ gəʔ=tɐʔ ʦu=sã1-i , vəʔ-we ciɔ-noŋ cʰɪʔ-kʰʷe gəʔ !
+884.wav|kəʔ=məʔ ʦe=kɑ1 ŋu liã ʦɐʔ1 !
+885.wav|hɔ-ku , noŋ 'ne-cʰi hɔ 'ləʔ .
+886.wav|ɦi ʦã ku-zz se1=koʔ=səŋ1=pʰe , lɪʔ=lɐʔ=he kʰø1=zɑ̃-cʰi hɐʔ=se !
+887.wav|siɔ=lɪɲ gəʔ mi=mɔ sã1=təʔ=ɲioŋ , ŋe=ʦɪɲ1 ɦiɤ-dɑ , ŋe=zɪʔ=mɔ lɔ-zã .
+888.wav|ɦi ku-tʰi ɦɪɲ sã1=təʔ ɦɪɲ=tɕəŋ le ! wu=ciɐʔ=kʰʷəʔ , iɔ1=səŋ1 si , du-bi ɦiɤ-ɦiɤ ci1=ɲioʔ .
+889.wav|ɦi bɪɲ=zã ʦz=i tø li lɔ , ɕioŋ=ci1 foʔ=ci1 tu1=zz pɑ̃1 pɑ̃1 ŋã=gəʔ !
+89.wav|ɦi nɑ-nəŋ ɦe=məʔ we=le ?
+890.wav|vəʔ ziã ɦiɤ=ʦoŋ nø=siɔ=nø , sã1='ləʔ si=si ʦã-zã , ziã kəŋ1 dɤ=ŋɑ=tɕe .
+891.wav|ɦi məʔ , ɦiɤ-zz ɑ=təŋ1=təŋ1 , ɦiɤ-zz zɑ̃=təʔ ɲioʔ ɦɑ ze tɕəʔ=le .
+892.wav|cʰɪʔ təʔ tʰəʔ=tu1 , zã-təʔ bø le=iɔ1 si , ne=məʔ iɔ1 ɪɲ=ɕiã fɐʔ=ɦioʔ .
+893.wav|ciɐʔ ɪʔ-ʦã 'ləʔ məʔ , zy ɕi=təʔ miɔ-diɔ təʔ=le , pɑ=cʰi  le=məʔ lɔ pʰiɔ=liã gəʔ 1
+894.wav|noŋ kʰø1 ɦi gɑ̃ nɔ gəʔ ɦiã=ʦz , tɔ-ɦɑ mae kʰu e .
+895.wav|ɦi tã=pe1 təʔ iɔ1=li=iɔ1=cʰi , gɑ̃=dɤ sz vəʔ=de 'ləʔ !
+896.wav|səŋ1=tʰi hɔ=məʔ , ɲɪɲ lɔ cʰi-cɪɲ ; vəʔ hɔ məʔ , sɑ=zz=tʰi ɦɑ məʔ=siã ʦu .
+897.wav|ɪʔ=pʰəʔ lɔ=dɤ lɔ=tʰɑ , tʰi1=tʰi1 vəʔ tʰəʔ=pe1 , ue=iɔ1 ŋɑ̃=dɤ ʦø=səŋ1 tʰi .
+898.wav|zoŋ-siɔ vəʔ tø li , ɪʔ-ɲiɪʔ-tɔ-ɦiɑ ʦu=koŋ1 kʰu , ne=məʔ loŋ tɕəʔ ɦɤ be .
+899.wav|sã1=wəʔ iɔ1 ʦu=si , cʰɪʔ=ve iɔ1=cʰɪʔ tɕu , se1=tɕø1 vəʔ cʰɪʔ=tu1 .
+9.wav|məʔ sɐʔ=tʰəʔ bɪʔ-ɦəʔ .
+90.wav|e mi tɪʔ li=gəʔ tɪʔ tu1=sɔ ɦiø ɑ ?
+900.wav|cʰi=cʰi 'məŋ='məŋ sã1-mɔ-bɪɲ , ɕi1=ɕi1=hɑ=hɑ tʰi1=zɤ=mɪɲ .
+901.wav|ɟɪɲ dɑ-ɦioʔ , ɟɪɲ tʰi=dɤ , ɟɪɲ=wø i1=zɑ̃ , ɟɪɲ tã=sɔ vɑ̃=ci .
+902.wav|ʦø=hɔ be ɪʔ=pəŋ kɑ1-ɦioŋ i=we sɤ=tɕɐʔ lɐʔ ʦəŋ=dɤ pi , zã=zã fe1=fe1=kʰø1 .
+903.wav|zoʔ=ɲiɪʔ ŋu-cʰi kʰø1=i-sã1 lɔ ʦu ci-zo , kʰø1=kʰø1 ɦiɤ-vəʔ-ɦiɤ sɑ mɔ=bɪɲ .
+904.wav|mɑ̃ 'ləʔ vəʔ ʦz=i ɕy1-sɪʔ lɔ tø li , ɦo-tʰɑ̃1 sã1 dɑ=mɔ=bɪɲ cʰi le=le vəʔ=ɟɪʔ .
+905.wav|pu=ɦiɐʔ hɔ zz hɔ , pəʔ1-ku ɦiɐʔ=pu vəʔ=zz zəʔ=pu .
+906.wav|ləŋ=tɔ ŋu 'ləʔ , zz vɐʔ ?
+907.wav|noŋ zu-ɦo le , ɦiɤ sɑ vəʔ=səʔ=i ?
+908.wav|sɪɲ1=kʰɤ=dɤ ɦiɤ=ŋe tʰoŋ lɔ , ve cʰɪʔ=vəʔ=loʔ .
+909.wav|ɑ1=zz gəʔ=tɐʔ tʰoŋ ? gəʔ-ɦəʔ-zz we=tʰoŋ .
+91.wav|noŋ 'ləʔ he ɑ1-li ʦəʔ1 dɑ-ɦoʔ doʔ=sz ?
+910.wav|tʰoŋ-liɔ ci-ɲiɪʔ 'ləʔ ? noŋ lɔ=ʦɔ we=bɪɲ ɦiɤ=vɐʔ ?
+911.wav|tʰoŋ=zz tʰoŋ ku=ɕɪʔ gəʔ , m-məʔ ɦi=le=ciɑ li-ɦe .
+912.wav|we=kʰɤ nɑ-nəŋ ? siã vəʔ=siã tʰu ?
+913.wav|ɦiɤ=ti oʔ=sɪɲ1 , de=zz tʰu vəʔ tɕəʔ=le .
+914.wav|vəʔ fɑ̃=sɪɲ1 məʔ , noŋ-cʰi ʦu ʦəʔ1 we=cɪɲ=ʦo ɪʔ-zo .
+915.wav|gəʔ ŋe=ɦiɐʔ ɪʔ=tʰi1 cʰɪʔ se1=tɕz .
+916.wav|ve ɦɤ ɦiɐʔ=sz cʰɪʔ bɪɲ ke=dɤ ɪʔ ke=dɤ , ɦiɐʔ=pʰi cʰɪʔ=ɪʔ lɪʔ .
+917.wav|ne ɦo-tʰɑ̃1 ɪʔ=dɪɲ=iɔ1 vɑ̃-ʦz zɐʔ-lã , cʰɪʔ=ve vəʔ iɔ1=cʰɪʔ 'ləʔ ku=dɤ .
+918.wav|ʦã ɦiø=vɐʔ=ci , noŋ ʦø=ɟɪɲ hɔ=vɐʔ ?
+919.wav|ŋu me-hɔ gəʔ , noŋ ne , kɑ̃=kɑ̃ zoŋ ɕiã-ɦo-dɤ we le-ɑ ?
+92.wav|noŋ hɔ ly=li gəʔ=kɑ̃ ɪɲ1=vəŋ vɐʔ ?
+920.wav|zz-ku , ŋu ɑ1 me-hɔ .
+921.wav|nɑ-nəŋ noŋ ɦi=le zɑ̃-he-ɦe-ɦo kɑ̃='ləʔ kəʔ hɔ ?
+922.wav|zz vɐʔ , ŋu ʦz1=zi ɪʔ=dø zəŋ-kʷɑ̃1 ɪʔ=zəʔ lɐʔ=lɐʔ mɑ̃=lɑ̃ siã1=ɦoʔ zɑ̃-he-ɦe-ɦo .
+923.wav|mɑ̃=lɑ̃ siã1 ɑ1 hɔ-ɦoʔ zɑ̃-he-ɦe-ɦo ɑ ?
+924.wav|zz-ku , ŋu ɑ1 zz tʰɪɲ bã=ɦiɤ ciɑ-zɔ gəʔ .
+925.wav|zz sɐʔ=mɑ̃ ze ?
+926.wav|zz he zz=mɑ̃ . ŋu tʰi1=tʰi1 tɔ ɦi lɑ zɑ̃-he-ɦe-ɦo zz=ti ɦoʔ-zɪʔ , kʰu=i le si=ʦo te-zz , tʰɪɲ loʔ=ɪɲ1 , ɦoʔ=te ɦo .
+927.wav|ɲiø=le noŋ=ɦiɤ kəʔ hɔ-ku koŋ1=ɟy pɑ̃=mɑ̃ . mɑ̃=ʦz zz tu1=sɔ ?
+928.wav|mɑ̃=ʦz zz  
+929.wav|te=vəʔ=cʰi , ɦi=le sɑ-zəŋ-kʷɑ̃1 'ləʔ ?
+93.wav|noŋ ʦø=kɔ1 ɦoʔ-lɪʔ zz sɑ ?
+930.wav|zəʔ=ti cʰyɪʔ zəʔ-ŋ=fəŋ1 .
+931.wav|ɲɪɲ 'nɑ iɐʔ-hɔ le sɑ-zəŋ-kʷɑ̃1 bã dɤ-ɦəʔ ?
+932.wav|ɦe-ɦiɤ pø-ku ʦoŋ=dɤ , zəŋ-kʷɑ̃1 lɔ tɕoŋ1=z gəʔ .
+933.wav|ŋu ʦoŋ1=lɑ̃ siã1 zəʔ-ɲi ti=pø ɦe-iɔ1 tɔ=pʰu toŋ-cʰi .
+934.wav|ɦiɑ=ve ɦe-məʔ hɔ , iɔ1 tɔ loʔ=ti pø .
+935.wav|ŋu=lɐʔ ɪʔ-ku ʦoŋ=dɤ i=zi zy=cʰɪʔ 'ləʔ ʦoŋ1=ve .
+936.wav|mɪɲ zɔ1-noŋ cy=ti ʦoŋ=iɔ1 tɔ gəʔ=tɐʔ le .
+937.wav|ɦi lɐʔ e1 mi=tɪʔ zz 'ləʔ tu1=sɔ zəŋ-kʷɑ̃1 'ləʔ ?
+938.wav|ŋu-təŋ 'ləʔ noŋ lɔ=tu1 zəŋ-kʷɑ̃1 'ləʔ .
+939.wav|siɔ=ʦã , noŋ zz ɑ1-li ɪʔ=ɲi ɦiã=gəʔ ?
+94.wav|ɑ1-'lɑ sɑ-zəŋ-kʷɑ̃1 kʰe=sz koŋ1=ʦoʔ ?
+940.wav|ɪʔ=cy=pɐʔ=ɲi-ɲi ɦiã=gəʔ .
+941.wav|noŋ-səŋ1 ɲiɪʔ ci-ɦiɪʔ ci=ɦɔ ?
+942.wav|zəʔ-ɲyɪʔ zəʔ-pɐʔ ɦɔ . noŋ sɑ-zəŋ-kʷɑ̃1 sã1=gəʔ ?
+943.wav|ŋu siɔ=noŋ sz-ku ɦɔ=dɤ .
+944.wav|cɪɲ1=ʦɔ1 zz sɑ ɲiɪʔ=ciɐʔ ?
+945.wav|cɪɲ1=ʦɔ1 tɕɪʔ-ɲyɪʔ r-səʔ ŋ-ɦɔ .
+946.wav|cɪɲ1=ʦɔ1 li=pɑ ci ?
+947.wav|məŋ-ʦɔ1 ʦəŋ1=hɔ li=pɑ=tʰi1 .
+948.wav|ŋu i=ɦiø li zz 'ləʔ ci-ku li=pɑ .
+949.wav|noŋ we=tɔ ciɑ1-ɕiã cʰi zz ci=tʰi1 ɲiɪʔ=ciɐʔ ?
+95.wav|lɔ ziɑ=ziɑ=noŋ pɑ̃=mɑ̃=gəʔ .
+950.wav|zɑ̃-ku ɦɔ=dɤ zz cy-ɲyɪʔ=pɪɲ1 vɐʔ ?
+951.wav|gəʔ-ɦəʔ ɦɔ=dɤ zz=ci ɦiɪʔ-vəŋ1 ?
+952.wav|cʰi=ɲi pɐʔ-ɲyɪʔ noŋ1 lɐʔ ɑ-li1 tɪʔ ?
+953.wav|cɪɲ1=ʦɔ1 tʰi1=cʰi lɔ-hɔ-ɦəʔ .
+954.wav|zoʔ=ɲiɪʔ zz sɑ tʰi1=cʰi ɑ ?
+955.wav|zoʔ=ɲiɪʔ loʔ-liɔ ɪʔ=tʰi1 gəʔ=z .
+956.wav|məŋ-ʦɔ1 tʰi1=cʰi we-təʔ hɔ=vɐʔ ?
+957.wav|məŋ-ʦɔ1 iɔ1 loʔ=sɪʔ .
+958.wav|ɪʔ-ku zɑ̃=pø=tʰi1 zz ɪɲ-tʰi1 .
+959.wav|ɦo-pø-tʰi1 dɑ-ke tʰi1=ʦø zɪɲ .
+96.wav|ziɑ=ziɑ=noŋ , ziɑ=ziɑ=noŋ gəʔ hɔ=i .
+960.wav|gəʔ tɕiã tʰi1=cʰi lɔ=lã=gəʔ , zã=zã lã=tɔ lɪɲ-ɦo liã se1=du .
+961.wav|zɑ̃=he ɲiɪʔ=tʰi1 ʦø=kɔ1 uəŋ=du iɔ1 tɔ se1-səʔ=pɐʔ cy=du , ʦəŋ1=zz ɲiɪʔ=sɐʔ !
+962.wav|we=sɑ gəʔ liã=tʰi1 ɪʔ=tʰi1 pi=ɪʔ tʰi1=ɲiɪʔ ?
+963.wav|oʔ , ɦi=le tɔ ɦiɤ ti=foŋ 'ləʔ , sɔ-vi foŋ=liã ti='ləʔ .
+964.wav|tʰi1=cʰi z=pɔ=ciã , cɪɲ1=ʦɔ1 ɦiɑ kʰʷɑ=iɔ1 loʔ=le zəŋ=z .
+965.wav|noŋ zz ɑ1-li tɐʔ=gəʔ ?
+966.wav|ŋu zz lɐʔ wɑ=he=lu .
+967.wav|noŋ-ku di=ʦz ciã=pəʔ ŋu tʰɪɲ hɔ vɐʔ ?
+968.wav|ŋu=lɐʔ=lɐʔ wɑ=he=lu  ɦɔ  səʔ .
+969.wav|te=vəʔ=cʰi ,  ɦɔ=lɐʔ=ke sɑ=di=fɑ̃ ?
+97.wav|kɐʔ=tʰɑ̃1 noŋ pɑ̃-'ləʔ ŋu=ci du-mɑ̃ 'ləʔ .
+970.wav|lɐʔ=ke loŋ=dɑ̃ zɐʔ zɐʔ li=ɕiã=dɤ .
+971.wav|ziɑ=ziɑ=noŋ pɑ̃=ŋu ʦz=ti ɪʔ-ɕiɑ .
+972.wav|gəʔ=diɔ loŋ=dɑ̃ pɪʔ=zəʔ bɔ=bɔ tɔ=ti . .
+973.wav|bɔ tɔ gəʔ=mi ɪʔ-diɔ siɔ loŋ=dɑ̃ ʦu ʦø=ʦø ue .
+974.wav|lɐʔ=lɐʔ di-ɲi  tʰu=dɑ  vɑ̃=ʦz gəʔ di=se1=ciɑ1 .
+975.wav|ziɑ=ziɑ=noŋ ʦoŋ1=se1=poʔ-lu ŋ-səʔ liã=ɦɔ lɐʔ=lɐʔ ɑ1-li tɐʔ ?
+976.wav|ʦɔ1 ɦiɤ=ʦø ue ʦɤ tɔ di-ɲi diɔ loŋ=dɑ̃ zy=zz 'ləʔ .
+977.wav|tɕɪɲ vəŋ-tɔ dɑ sz=kɑ cʰi nɑ-nəŋ ʦɤ ?
+978.wav|noŋ ɪʔ=zəʔ li ʦɔ1 zi=dɤ ʦɤ , ku-liɔ ɦoŋ-loʔ təŋ zy tɔ-liɔ .
+979.wav|kəʔ=məʔ tɔ-liɔ zəŋ-mɪɲ=kʷɑ̃-zã nɑ-nəŋ=ciɑ ʦɤ=fɐʔ ?
+98.wav|vɐʔ kʷø nɑ-nəŋ , ze iɔ1 ziɑ=ziɑ=noŋ gəʔ .
+980.wav|tɕz=di zz nø-cɪɲ1=lu , si1=zɑ̃ lu=kʰɤ .
+981.wav|noŋ-zoŋ gəʔ=tɐʔ ku=cʰi tɔ e1=mi , tɕø1=ku di-ɲi diɔ=wã mo-lu zy=zz .
+982.wav|ɦiɤ=ʦø mo-lu te=mi ku=cʰi ti=zy tɔ-liɔ .
+983.wav|nɑ-nəŋ=ciɑ ɦiø=gəʔ ?
+984.wav|zoŋ gəʔ=tɐʔ tɔ e1=mi lɔ ɟɪɲ-ɦəʔ ?
+985.wav|e1=mi ɦiɤ ʦəʔ1 sz pɔ=dɪɲ , gəʔ=mi ɦiɤ be tɕɔ1=zz , noŋ kʰø1 təʔ=tɔ vɐʔ ?
+986.wav|noŋ tɔ gəʔ=tɐʔ ʦø=ue=koʔ=ʦz lɑ̃=cʰi tɕəŋ-di-tʰɪʔ .
+987.wav|si1=iɔ1 tɕəŋ  lu liã=ze , ʦe=ʦø di=tʰɪʔ ɪʔ=ɦɔ=si , kʰu=i tɔ-liɔ .
+988.wav|kəʔ=zz lu mae ɦiø=gəʔ , ɑ1-'lɑ ciɔ tɕɑ1=dɤ cʰi sø='ləʔ .
+989.wav|ziɑ=ziɑ=noŋ gəʔ=tɐʔ zz sɑ=di=fɑ̃ ?
+99.wav|lɔ ziɑ=ziɑ=noŋ gəʔ kʷe=sɪɲ1 .
+990.wav|vəʔ hɔ=i-sz1 gəʔ diɔ=lu zz sɑ lu ?
+991.wav|tɕɪɲ məŋ-noŋ wu=bɪɲ ve=ti li gəʔ=tɐʔ ɦiø=vɐʔ ?
+992.wav|te=vəʔ=cʰi , tɔ nø-cɪɲ1 toŋ=lu nɑ-nəŋ ʦɤ=ɟɪɲ ɪʔ=ti ?
+993.wav|ŋu=ɦi le gəʔ we=ʦz lɐʔ di=du kɔ1=dɤ ɑ1-li tɐʔ ?
+994.wav|ɑ1-li gəʔ fɑ̃=ɕiã zz zɔ1-nø ?
+995.wav|ɪʔ=zəʔ zɔ1-zi ʦɤ te vɐʔ ?
+996.wav|ziɑ=ziɑ=noŋ pɑ̃ ŋu gəʔ ʦã=ʦz dɤ=lɑ̃ ɕiã ɦo=ʦəʔ tɕɔ=du .
+997.wav|tɕɪɲ=vəŋ gəʔ=tɐʔ vu=ɟɪɲ ɦiɤ tɕz=su=vɐʔ ?
+998.wav| lu=ʦɔ siã1=ɦiã1 poʔ-lu fɑ̃=ɕiã kʰe=gəʔ koŋ-ciɔ1 cy1 ɑ-li1 tɕəŋ ?
+999.wav|zɑ̃=he
