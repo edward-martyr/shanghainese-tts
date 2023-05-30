@@ -14,7 +14,7 @@ for folder in (f for f in data_folders if not f.stem.startswith(".")):
         for txt, wav in zip(txts, wavs):
             transcription = sub("\w\.", "", txt.read_text())
             transcription = sub("伊", "佢", transcription)
-            transcription = sub("额", "个", transcription)
+            transcription = sub("[额呃]", "个", transcription)
             transcription = sub("萨", "啥", transcription)
             transcription = sub("窝里", "屋里", transcription)
             transcription = sub("特", "脱", transcription)
