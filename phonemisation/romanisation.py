@@ -42,8 +42,8 @@ def raw_romanise_sentence(text: str) -> str:
 def romanisation_to_ipa(text: str) -> str:
     text = sub("syu", "sy", text)
 
-    text = sub("gh", "ɦ", text)
-    text = sub("sh", "ɕ", text)
+    text = sub("^gh", "ɦ", text)
+    text = sub("^sh", "ɕi", text)
 
     text = sub("h$", "ʔ", text)
     text = sub("eʔ$", "əʔ", text)
@@ -60,7 +60,6 @@ def romanisation_to_ipa(text: str) -> str:
     text = sub("^y", "ɦi", text)
     text = sub("ii", "i", text)
     text = sub("iu", "y", text)
-    # text = sub(r"ɲi([^nʔ])", r"ɲ\1", text)
 
     text = sub("ao", "ɑ", text)
     text = sub("on$", "oŋ", text)
