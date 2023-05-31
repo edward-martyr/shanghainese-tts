@@ -33,7 +33,7 @@
 1027.wav|ɦi tʰu sz=ly ly , ciɐʔ=mɑ hʷɑ cʰi , nɔ , ʦoŋ1=foŋ 'ləʔ , ɦi i bi noŋ , noŋ məʔ be=fɐʔ le
 1028.wav|noŋ ʦəʔ1=hɔ kəŋ1 ɦi təŋ-'ləʔ ɪʔ=dɔ
 1029.wav|ŋɑ-kɑ1 gəʔ=ʦoŋ siɔ ɲɪɲ dɑ-liɔ , noŋ vɐʔ kʰø1 gəʔ=ʦoŋ siɔ=ɲɪɲ=ɦi le , ŋɑ=koŋ1 ŋɑ=bu ciɔ-liɔ tɕɪɲ=ŋu , ɦo-tʰɑ̃1 məʔ ɦioŋ-ɦəʔ
-103.wav|ɪɲ1=we ŋu ʦã=mi kɔ1=dɤ ɦiɤ tɪʔ ɪʔ=pɐʔ ɪʔ=pɐʔ=se1-səʔ vae
+103.wav|ɪɲ1=we ŋu ʦã=mi kɔ1=dɤ ɦiɤ tɪʔ ɪʔ=pɐʔ ɪʔ=pɐʔ=se1-səʔ ve
 1030.wav|ɦi tɔ ɦi gəʔ dɑ-liɔ , tɔ ɦi zəʔ ci=sø ɲie=ci=sø , ɦi lɔ=ʦɔ mɑ̃-ci-tʰəʔ 'ləʔ , ɦi ɦiɤ ɦi gəʔ cʰiø-ʦz
 1031.wav|ɦi ɦe i bi noŋ le
 1032.wav|gəʔ-ɦəʔ ɦe=ɦo kɑ̃-ɦəʔ te-ɦəʔ , ŋu ɦi=le ciɐʔ-zɐʔ siɔ=tɕɪɲ1=ɲi
@@ -42,9 +42,9 @@
 1035.wav|vɐʔ iɔ1-kɑ̃ ɪʔ=ɦiã , ŋu ɦiɤ zã-ʦz kəŋ1 ɑ1-'lɑ lɔ=koŋ1 ɦɑ=ciã
 1036.wav|noŋ vɐʔ iɔ1 te səŋ-ʦz , 'ne səŋ-ʦz tɑ̃ pɔ=pe , hɔ=ziã səŋ-ʦz zz=noŋ sɐʔ ɲɪɲ sɐʔ ɲɪɲ
 1037.wav|zəʔ ʦi lɑ̃ səŋ-ʦz ɦi
-1038.wav|ʦe dɑ-ɪʔ=ŋe , e y1 , vɐʔ iɔ1=noŋ 'ləʔ , mae ciɔ ɦoʔ-dɑ̃-li kʰe-we kɐʔ sɐʔ ciɔ ɦi lɑ ɦiɑ=ɲiã cʰi , ɦe=vɐʔ iɔ1=noŋ gəʔ-ɦəʔ lɔ=dɤ lɔ=tʰɑ cʰi le , ŋu kɑ̃-ɦəʔ
+1038.wav|ʦe dɑ-ɪʔ=ŋe , e y1 , vɐʔ iɔ1=noŋ 'ləʔ , me ciɔ ɦoʔ-dɑ̃-li kʰe-we kɐʔ sɐʔ ciɔ ɦi lɑ ɦiɑ=ɲiã cʰi , ɦe=vɐʔ iɔ1=noŋ gəʔ-ɦəʔ lɔ=dɤ lɔ=tʰɑ cʰi le , ŋu kɑ̃-ɦəʔ
 1039.wav|ɦiɤ ciɔ1-kʷe siɔ vɤ=sz1 sɐʔ li fɑ̃ siã=təʔ=tɔ noŋ gəʔ-ɦəʔ
-104.wav|gəʔ-ɦəʔ ɪʔ=pɐʔ=se1-səʔ vae ɲi , zz ɪʔ-goŋ1 zz ɦiɤ=ŋu=gəʔ
+104.wav|gəʔ-ɦəʔ ɪʔ=pɐʔ=se1-səʔ ve ɲi , zz ɪʔ-goŋ1 zz ɦiɤ=ŋu=gəʔ
 1040.wav|ɦiɑ=ɦiɑ nɑ=nɑ ɑ , siã1=vɐʔ=tɔ gəʔ
 1041.wav|ʦoŋ=kʷe 'ne ɦi zz-ciɑ1=gəʔ bã=ɦiɤ=cʰiø li , ɦe-ɦiɤ siã=siã ɲɪɲ-kɑ1 ŋɑ dɤ-ɦəʔ ɲɪɲ , noŋ-kɑ̃ te=vɐʔ , ɦi
 1042.wav|vɐʔ siã=tɔ noŋ gəʔ bɑ1 lɔ=dɤ lɔ=tʰɑ
@@ -58,7 +58,7 @@
 105.wav|ɪʔ-bu-vəŋ1 dɑ-bu=fəŋ1 zz ɑ1-'lɑ di-di gəʔ , ɪɲ1=we , zz=mɑ ze=liɔ , ʦz=ʦz=cɪɲ1 ʦɤ1=ʦø
 1050.wav|poʔ-cɪɲ1 e=su ʦz=we ɲy=ɪɲ1 tɕe=zɪʔ
 1051.wav|ɦi=le ɑ1-'lɑ le liɔ=liɔ kʷe-z cʰɪʔ-ɦəʔ ɦo=di
-1052.wav|e , ɐʔ1-ʦiɑ , ŋu=ɦi le vɐʔ ɕiɔ=təʔ noŋ ŋu , noŋ ɦi=le lɐʔ=he loŋ ŋe sɑ=gəʔ cʰɪʔ , gəʔ tʰi1=ɲiɪʔ dɪʔ gəʔ cʰɪʔ zz=mae ve=gəʔ
+1052.wav|e , ɐʔ1-ʦiɑ , ŋu=ɦi le vɐʔ ɕiɔ=təʔ noŋ ŋu , noŋ ɦi=le lɐʔ=he loŋ ŋe sɑ=gəʔ cʰɪʔ , gəʔ tʰi1=ɲiɪʔ dɪʔ gəʔ cʰɪʔ zz=me ve=gəʔ
 1053.wav|ŋu y1 , ɦi le cʰɪʔ ʦəŋ1-ku bɪɲ liã=sɪɲ1 ciã=ŋu ʦəŋ1-ku , i1-zəʔ zz zz=ɦã li=ɕiã gəʔ ɪʔ-diɔ ʦø=ne=gəʔ ɪʔ-diɔ zy=zz cʰɪʔ
 1054.wav|gəʔ ɦi=le tʰi1=cʰi mɑ tʰi1=cʰi ɲiɪʔ='ləʔ , ɦiɤ vɐʔ ɕiɔ=təʔ mɑ ti=sɑ siɔ=tɕe hɔ
 1055.wav|ne=məʔ cɪɲ1=ʦɔ1 cɪɲ1=ʦɔ1 cʰɪʔ-liɔ ɲioʔ mɑ , məŋ-ʦɔ1 iɔ1 cʰɪʔ-ŋ
@@ -73,7 +73,7 @@
 1063.wav|i=su we=ʦz , noŋ-ɲi hʷø=ɕi cʰɪʔ=hʷəŋ cʰɪʔ=su
 1064.wav|ŋu ci1=pəŋ lɑ̃ te vɐʔ ɦɑ-zz cʰɪʔ=su gəʔ
 1065.wav|ɪɲ1=we ŋu cʰɪʔ=hʷəŋ ku-ɦiɤ lɔ=tu1 , hʷəŋ gəʔ te vɐʔ ɪʔ cʰɪʔ ŋu te vɐʔ zy ciɐʔ-zɐʔ ve cʰɪʔ vɐʔ ɦo-cʰi
-1066.wav|de=zz ɑ1-'lɑ oʔ=li siã1 ɦi lɑ liã-ku ɲɪɲ zy mae hʷø=ɕi cʰɪʔ=hʷəŋ ŋu
+1066.wav|de=zz ɑ1-'lɑ oʔ=li siã1 ɦi lɑ liã-ku ɲɪɲ zy me hʷø=ɕi cʰɪʔ=hʷəŋ ŋu
 1067.wav|kəʔ=məʔ ŋu ɦiɤ-zəŋ-kʷɑ̃1 ɲi ʦu-ku , we tɪʔ siã=be=fɐʔ , zz-ciɑ1 iɔ1=cʰɪʔ mɑ nɑ-nəŋ-be ɲi
 1068.wav|ŋu te vɐʔ ʦəʔ1=ɦiɤ ʦɔ lɑ̃ ɕiã lɔ=ʦɔ bo=cʰi=le , 'ne=gəʔ ɦiã=se1=z , tɐʔ-tɐʔ tɐʔ-tɐʔ tɐʔ-tɐʔ tɐʔ
 1069.wav|ʦe=zəŋ koŋ1=sz ŋu , zø ɦɤ 'ne ɦi ʦɪɲ1 lɐʔ he , ʦɪɲ1 ɪʔ=tʰi1
@@ -86,9 +86,9 @@
 1075.wav|ŋu ʦoŋ=kʷe ɲi sɔ-ɕy tɕɪʔ liã=pʰi ɦe=ɲioʔ
 1076.wav|pɑ=ŋe , pɑ=ŋe , mɑ-ɦəʔ liã=kʰʷe ɦiã=di toŋ1-ko1
 1077.wav|ne=məʔ 'ne gəʔ pi1-ʦi1 pɑ-ɦo cʰi , ɪɲ1=we ʦɔ=ŋe sɔ=hɔ , ɲiã ɦi lã lɐʔ he , ɦi gəʔ cʰɪʔ cʰɪʔ te vɐʔ
-1078.wav|ɦe=mae pʰe=mae we=kʰɤ gəʔ , ne=məʔ=ŋu=ɲi ɦe-ɦiɤ we=sɑ dɔ=li ɲi
+1078.wav|ɦe=me pʰe=me we=kʰɤ gəʔ , ne=məʔ=ŋu=ɲi ɦe-ɦiɤ we=sɑ dɔ=li ɲi
 1079.wav|ɪɲ1=we ɑ1-'lɑ oʔ=li siã1 ɦi lɑ liã-ku ɲɪɲ hʷø=ɕi cʰɪʔ=hʷəŋ gəʔ , ɦi lɑ ʦoŋ=kʷe=zz siã=be=fɐʔ e
-108.wav|lɔ ti=ʦz , zəʔ zəʔ-ve ɲie=vae dɤ ɲi , zz ɪʔ=ʦoŋ , noŋ , zz ɪʔ=ʦoŋ zz=mɪɲ gəʔ dɤ
+108.wav|lɔ ti=ʦz , zəʔ zəʔ-ve ɲie=ve dɤ ɲi , zz ɪʔ=ʦoŋ , noŋ , zz ɪʔ=ʦoŋ zz=mɪɲ gəʔ dɤ
 1080.wav|ʦoŋ=kʷe cɪɲ1=ʦɔ1 ŋ məŋ-ʦɔ1 ho
 1081.wav|cɪɲ1 zɔ1-ku ci məŋ-ʦɔ1 ɐʔ , ʦoŋ=kʷe diɔ-le diɔ=cʰi diɔ hʷəŋ gəʔ
 1082.wav|kəʔ=məʔ ŋu nɑ-nəŋ-be 'lɑ ! ŋu ɦiɤ-zəŋ-kʷɑ̃1 ɲi zy tɕe-zã li zy cʰi-mɑ ŋe he=tɑ ŋu
@@ -129,7 +129,7 @@
 1113.wav|pi hɔ 'ləʔ i=ɦɤ=te vɐʔ , 'ne gəʔ ɲioʔ te vɐʔ zy gəʔ me=kø1-tɕe pɑ=lɐʔ ɦo-dɤ
 1114.wav|gəʔ ɲioʔ tɐʔ kɔ1 gəʔ me=kø1-tɕe ɪʔ=dɔ ʦəŋ1 , ʦəŋ1=hɔ 'ləʔ i ɦɤ
 1115.wav|noŋ 'ne gəʔ ʦe ɦo le-ku di=fɑ̃ cʰi pɑ=lɐʔ ɦo-dɤ , gəʔ ɪʔ=dɔ ʦəŋ1 , ʦəŋ1=gəʔ pø-ku ʦoŋ=dɤ i ɦɤ , te=vɐʔ
-1116.wav|zø=ɦɤ=ʦəŋ1 hɔ=noŋ te vɐʔ 'ne ɦi mae ciɔ 'ne ʦəʔ1 ɪʔ=tʰu , tʰu=lɐʔ ʦəʔ1 bø=ʦz li , ŋu y1 , gəʔ ʦəʔ1 me=kø1-tɕe fəŋ=gəʔ vɐʔ ŋu y1 le=təʔ gəʔ hɔ=cʰɪʔ
+1116.wav|zø=ɦɤ=ʦəŋ1 hɔ=noŋ te vɐʔ 'ne ɦi me ciɔ 'ne ʦəʔ1 ɪʔ=tʰu , tʰu=lɐʔ ʦəʔ1 bø=ʦz li , ŋu y1 , gəʔ ʦəʔ1 me=kø1-tɕe fəŋ=gəʔ vɐʔ ŋu y1 le=təʔ gəʔ hɔ=cʰɪʔ
 1117.wav|ɦi ɦiɤ=sz li ɦiɤ ʦz ku-liɔ , noŋ ʦz ɦo le-ku sɑ̃ li te vɐʔ zy-cʰi sɔ toŋ1-ko1 pi1-ʦi1 fe-gɑ
 1118.wav|ne=məʔ gəʔ , ɪɲ1=we ɦiɤ=sz li vɐʔ zz ŋe=ŋu lɐʔ mɑ , ʦz tʰəʔ gəʔ zəŋ-kʷɑ̃1 zy ɪʔ=pʰu ʦz tʰəʔ=lɐʔ
 1119.wav|ʦe-kɑ̃ ɦi ʦe ʦəŋ1 gəʔ zəŋ-kʷɑ̃1 , zy su=ɦiɤ ɦiɤ=sz ɲi ɦiɤ ze ʦəŋ1=lɐʔ me=kø1-tɕe kɔ1=dɤ
@@ -154,7 +154,7 @@
 1136.wav|ɦi lɑ ciã tɕu ʦɔ kɑ1-ku , tɕu=gəʔ mi-dɔ , dɑ̃=tɕu bɔ=tʰəʔ le
 1137.wav|kəʔ=məʔ zy vɐʔ hɔ=cʰɪʔ 'ləʔ , su=i ŋu lɔ hʷø=ɕi sɔ=gəʔ ŋu dɑ̃=tɕu ŋ-ɲioʔ
 1138.wav|ne=məʔ gəʔ dɑ̃=tɕu=bɑ=kʷəʔ ŋu le=təʔ hʷø=ɕi sɔ , noŋ vɐʔ ɕiɔ=təʔ hʷø=ɕi sɔ=vɐʔ ,
-1139.wav|ŋu , ŋu ɪʔ-pe-sɪɲ zz gəʔ-nəŋ-kɑ ɦiã=ʦz gəʔ , ŋu zz=mae hʷø=ɕi mɑ gəʔ=ʦoŋ tɕɑ̃ pi=ŋ gəʔ , ɪɲ1=we ɲɪɲ-kɑ1 mɑ tɑ-ŋ mɑ , ŋu hʷø=ɕi mɑ=tɕɑ̃ pi=ŋ
+1139.wav|ŋu , ŋu ɪʔ-pe-sɪɲ zz gəʔ-nəŋ-kɑ ɦiã=ʦz gəʔ , ŋu zz=me hʷø=ɕi mɑ gəʔ=ʦoŋ tɕɑ̃ pi=ŋ gəʔ , ɪɲ1=we ɲɪɲ-kɑ1 mɑ tɑ-ŋ mɑ , ŋu hʷø=ɕi mɑ=tɕɑ̃ pi=ŋ
 114.wav|vɐʔ ɕiɔ=təʔ sɐʔ di-fɑ̃-ɦəʔ
 1140.wav|tɕɑ̃ pi=ŋ ɦe=vɐʔ=iɔ1 lɔ-dɑ gəʔ , ʦoŋ=kʷe dɑ-ke zz kʰɔ ɲie=kʰʷe ɪʔ=cɪɲ1 gəʔ gəʔ=ʦoŋ siɔ y=y gəʔ
 1141.wav|ŋu mɑ we le=te vɐʔ , bɐʔ gəʔ ku-dɤ ze=loŋ tʰəʔ , zø=ɦɤ=ɲi , gəʔ-nəŋ 'ne ɦi bɔ ɦi i1
@@ -168,12 +168,12 @@
 1149.wav|zø ɦɤ cʰɪʔ-ɦəʔ zəŋ-kʷɑ̃1 , ɦi lɑ gəʔ zz-kɑ̃ gəʔ ŋ-kʷəʔ=dɤ gəʔ ke lɔ=ʦoʔ=gəʔ mɑ
 115.wav|su=i ciã=lɐʔ gəʔ vəŋ=di kɔ1=dɤ ɲi , noŋ-kɑ̃ 'ləʔ te-ɦəʔ
 1150.wav|ŋu zy 'ne gəʔ ŋ-kʷəʔ=dɤ kɔ1 gəʔ ke ɲi kɔ1 gəʔ ŋ=ɲi ɪʔ=dɔ cʰɪʔ-ɦo cʰi
-1151.wav|cʰɪʔ-ɦo cʰi-ɲi , ɦiɤ pu 'ləʔ ke kəʔ=məʔ ɦiɤ e1=gəʔ lɐʔ , kəʔ=məʔ cʰɪʔ cʰi le-ɲi , ɦe=mae bi=tɑ̃ , noŋ sɔ ɪʔ=tʰɑ̃1 ɲi ʦoŋ=kʷe hɔ=cʰɪʔ liã=tʰi1
+1151.wav|cʰɪʔ-ɦo cʰi-ɲi , ɦiɤ pu 'ləʔ ke kəʔ=məʔ ɦiɤ e1=gəʔ lɐʔ , kəʔ=məʔ cʰɪʔ cʰi le-ɲi , ɦe=me bi=tɑ̃ , noŋ sɔ ɪʔ=tʰɑ̃1 ɲi ʦoŋ=kʷe hɔ=cʰɪʔ liã=tʰi1
 1152.wav|hɔ pi-zz ciã , cɪɲ1=ʦɔ1 ʦi1 'ləʔ i ɦɤ , kəʔ=məʔ ŋu ɪʔ=fɑ̃=mi ɦe-zz tʰɤ1=le , le=təʔ tʰi1=tʰi1 cʰi sɔ=siɔ=tɕe
 1153.wav|lɪɲ=ɪʔ=fɑ̃=mi ciã=ɲi , ŋu siã ɦe=zy ciã=tʰoŋ1=ku gəʔ fɑ̃=mi ɲi zy pu=lɐʔ=ŋe ke ʦɪɲ-cʰi
 1154.wav|ne=məʔ gəʔ kɑ=di ɲi ɦe=vɐʔ=cy , ŋu=ɦe ciɐʔ-zɐʔ ɦiɤ=ŋe kɑ=li məʔ='me gəʔ , nɔ gəʔ kø-ciɐʔ
 1155.wav|su=i ciã=ŋu ɲi ɦe=ciã ciɑ-zɔ ku hɔ=ci ɲɪɲ , ŋu ciã='ne sz=sz=kʰø1 ciɐʔ-zɐʔ hɔ=vɐʔ
-1156.wav|ŋu ciɐʔ-zɐʔ zz=mae hɔ-ku
+1156.wav|ŋu ciɐʔ-zɐʔ zz=me hɔ-ku
 1157.wav|kəʔ=məʔ ɦi lɑ iɔ1=cʰɪʔ ɦo=le ɲɪɲ ɲi=ɦe ciɐʔ-zɐʔ we-kʰu=i gəʔ
 1158.wav|ŋu ciɐʔ-təʔ ɪɲ1=we tɕu pi=ŋ ɲi zz sɑ ɲi zz sɑ zoʔ-z he=hu
 1159.wav|he=hu ŋu ʦoŋ=kʷe ɪɲ=ziã tɑ̃=ʦoŋ1 , he=hu cʰɪʔ-ɦəʔ zəŋ-kʷɑ̃1 iɔ1 ʦz=i ŋu , he=hu zz fɐʔ=gəʔ , ɲɪɲ-kɑ1 ciã=ci ɐʔ ci ɐʔ ci ɦe=fɐʔ=gəʔ
@@ -191,7 +191,7 @@
 117.wav|gəʔ , wɑ̃ 'lɔ-sz , noŋ kɑ̃=kɑ̃ kɑ̃-ɦəʔ vəŋ=di te-ɦəʔ , ŋu=ɦi le ɲi , ɦɑ cɪɲ=zã=sɪɲ lɐʔ=lɐʔ ŋɑ=dɤ bɔ koŋ1=sz1 gəʔ
 1170.wav|kəʔ=məʔ , ʦe-kɑ̃ ɦi=le tʰi1=ɲiɪʔ mɑ , cʰɪʔ=ve cʰɪʔ vɐʔ ɦo-cʰi məʔ we=kʰɤ
 1171.wav|kəʔ=məʔ təŋ-z ciã=kʰe kʰe=we
-1172.wav|e1 , te , ŋu ʦɔ1=gəʔ məʔ-zz zz ɦe=mae tɕɪɲ1=sɑ̃ ɕiã , ŋu ɦiɤ-zəŋ-kʷɑ̃1 vɐʔ , noŋ-kɑ̃ cʰi ʦɔ1 lu1 te vɐʔ , ŋu ɦiɤ-zəŋ-kʷɑ̃1 gəʔ=ʦoŋ sɪɲ1
+1172.wav|e1 , te , ŋu ʦɔ1=gəʔ məʔ-zz zz ɦe=me tɕɪɲ1=sɑ̃ ɕiã , ŋu ɦiɤ-zəŋ-kʷɑ̃1 vɐʔ , noŋ-kɑ̃ cʰi ʦɔ1 lu1 te vɐʔ , ŋu ɦiɤ-zəŋ-kʷɑ̃1 gəʔ=ʦoŋ sɪɲ1
 1173.wav|zy sɪɲ1 ɑ mɑ=təʔ le , ŋu ɦiɤ-zəŋ-kʷɑ̃1 ɦe-we tɪʔ ʦɔ1 ʦɔ1 ɦi gəʔ
 1174.wav|ɦiɤ-zəŋ-kʷɑ̃1 ɲi ŋu zy cʰi-mɑ ŋe=ciɔ sɑ=gəʔ , dɤ=vu=ɟi1
 1175.wav|bɪɲ=zã=zəŋ-kʷɑ̃1 ʦɔ1 ʦɔ1 ɦi , ɪɲ1=we ŋu ʦoŋ=kʷe ʦəʔ1=hɔ ʦoŋ=kʷe i=su gəʔ gəʔ fɑ̃=mi le ʦɔ1
@@ -205,16 +205,16 @@
 1182.wav|bɐʔ ɦi cʰɪʔ , ne=məʔ ʦoŋ=kʷe kəŋ1 ɦi diɔ-diɔ we=kʰɤ gəʔ , ɦi=le gəʔ=ʦoŋ siɔ=ɲɪɲ=noŋ ɕiɔ-təʔ-ɦəʔ iɑ
 1183.wav|ze=ziã wɑ̃=ti ɪʔ-ɦiã-ɦəʔ , cɪɲ1=ʦɔ1 pəʔ1-ku cʰɪʔ ci tɕz , məŋ-ʦɔ1 məʔ cʰɪʔ ɲiɤ=bɑ
 1184.wav|ɦɤ=dɤ mɑ cʰɪʔ ɦiã=bɑ , ʦoŋ=kʷe 'me=tʰi1 pɑ̃ ɦi lɐʔ fe1=ho1=dɤ , we lɔ ɦi ʦø ŋu
-1185.wav|kɐʔ=ləʔ ɑ1-'lɑ lɔ=koŋ1 ɲi , ɦe ɪʔ=zəʔ kɑ̃-ɦəʔ gəʔ ʦəʔ1 siɔ wɑ̃=ti zz=mae ne voʔ=zz gəʔ
+1185.wav|kɐʔ=ləʔ ɑ1-'lɑ lɔ=koŋ1 ɲi , ɦe ɪʔ=zəʔ kɑ̃-ɦəʔ gəʔ ʦəʔ1 siɔ wɑ̃=ti zz=me ne voʔ=zz gəʔ
 1186.wav|ne məʔ ɦi ɲi , ɑ1-'lɑ we=sɑ dɔ=li ciã ɦi ne voʔ=zz , ɦi cɪɲ1=ʦɔ1 cʰɪʔ lɐʔ gəʔ məʔ-zz ɲi , məŋ-ʦɔ1 zz vɐʔ cʰɪʔ-ɦəʔ
 1187.wav|su=i tʰi1=tʰi1 iɔ1=pɑ̃ ɦi fe1=ho1=dɤ gəʔ , ne məʔ ɦi ŋ-ho hɑ ɦi ɦi=pi ve=gəʔ
 1188.wav|ɦe=vɐʔ iɔ1=cʰɪʔ iɑ , kəʔ=məʔ ɦi gəʔ ŋ-ho hɑ ɦiɤ=məʔ hɔ məʔ ho1=dɤ hɔ fe1
 1189.wav|e1 , kəʔ=məʔ ɦe-zz nɑ-nəŋ-be , ʦəʔ1=hɔ lɐʔ=lɐʔ gəʔ ɲioʔ kɔ1=dɤ
 119.wav|ʦø=ʦø cʰi=mo ʦu ci1=cɪɲ1 iɔ1=ɪʔ pɐʔ-ve ʦz=cɪɲ1 , kəʔ=məʔ ɑ1-'lɑ ɲi , sɪɲ1=li siã1 ɦɑ lɐʔ=siã , ɑ1-'lɑ ɦɑ wɑ-tʰəʔ ku , pɪʔ cɪɲ-ɦɑ koŋ1=sɪɲ1 ciɑ1-dɪɲ
 1190.wav|kɐʔ=ləʔ ɪʔ=tʰi1 tɔ ɦiɑ pɑ̃ ɦi fe1=ho1=dɤ
-1191.wav|su=i ciã ɑ1-'lɑ cʰɪʔ cʰi=le ɦɑ mae ve=gəʔ , ŋu ɲi vɐʔ dɑ iɔ1=cʰɪʔ gəʔ hʷəŋ gəʔ , ŋu zy hʷø=ɕi cʰɪʔ=su gəʔ
+1191.wav|su=i ciã ɑ1-'lɑ cʰɪʔ cʰi=le ɦɑ me ve=gəʔ , ŋu ɲi vɐʔ dɑ iɔ1=cʰɪʔ gəʔ hʷəŋ gəʔ , ŋu zy hʷø=ɕi cʰɪʔ=su gəʔ
 1192.wav|ne=məʔ ŋu ɦiɤ-zəŋ-kʷɑ̃1 ɲi zy 'ne gəʔ-ɦəʔ , gəʔ-ɦəʔ ziã noŋ-kɑ̃ gəʔ gəʔ=ʦoŋ he=tɑ gəʔ-nəŋ kəʔ loŋ=loŋ ɦi
-1193.wav|ɦi ciɐʔ-təʔ le pae1 zɑ̃=le ŋe ɦi ɦe ciɐʔ-təʔ me-hɔ cʰɪʔ-ɦəʔ
+1193.wav|ɦi ciɐʔ-təʔ le pe1 zɑ̃=le ŋe ɦi ɦe ciɐʔ-təʔ me-hɔ cʰɪʔ-ɦəʔ
 1194.wav|de ɦi gəʔ=ʦoŋ tɕɪɲ1=tɕe ɑ , mi=ɕi ɑ , oŋ=tɕe ɑ gəʔ=ʦoŋ su1-tɕe ɦi zz vɐʔ bã gəʔ
 1195.wav|ɦi gəʔ=ʦoŋ ɦiã=se1=z tɕɔ=zəŋ koŋ1=sz ɑ kɔ1=bɐʔ sz ɑ sɑ-məʔ-zz , ɦi cʰɪʔ cʰɪʔ we-kʰu=i gəʔ
 1196.wav|siɔ ɲɪɲ ɑ ʦəŋ1-ku ze gəʔ-nəŋ-kɑ gəʔ , tʰəʔ=bɪʔ nø siɔ ɲɪɲ ɦe-hɔ , nø=dɑ ɲɪɲ ɦe-hɔ
@@ -242,13 +242,13 @@
 1215.wav|lɪʔ=ɟi1 'ləʔ i ɦɤ ʦe-cʰi ʦɔ1 , noŋ gəʔ mɔ=dɤ ʦɔ1=tɕəʔ le zy lɔ=tɕɪɲ1=sɑ̃
 1216.wav|ŋu gəʔ zz gəʔ zoŋ sɑ li fɑ̃=ɦoʔ təʔ=le , ŋu ɲiø=le lɐʔ=ve ti li ʦu-ku
 1217.wav|ɪɲ1=we ɑ1-'lɑ ve=ti li kʰəŋ=dɪɲ zz iɔ1-kɑ̃ mɑ=siã1 gəʔ , noŋ lɐʔ=lɐʔ=wɑ̃ gəʔ mɔ=dɤ ɲɪɲ-kɑ1 kʰɐʔ=wu sɑ=ɲɪɲ iɔ1=cʰɪʔ ɑ
-1218.wav|tø1=tɕəʔ-cʰi ɲɪɲ-kɑ1 tʰe=tʰe tae ɦe-le vɐʔ ɟɪʔ lɐʔ , noŋ-kɑ̃ te=vɐʔ
+1218.wav|tø1=tɕəʔ-cʰi ɲɪɲ-kɑ1 tʰe=tʰe te ɦe-le vɐʔ ɟɪʔ lɐʔ , noŋ-kɑ̃ te=vɐʔ
 1219.wav|su=i ciã=ɲi , ɦi ɑ1-'lɑ gəʔ-zəŋ-kʷɑ̃1 le=sɔ mɔ=dɤ zi=dɤ ɪʔ=kʷø lã=kʰe=sz pɑ=hɔ lɐʔ=he
 122.wav|ɕi , hʷø=ɕi ɲi tɔ ŋɑ=dɤ cʰi bɔ=bɔ liɔ-ciɑ liɔ-ciɑ , ʦz=sɔ ŋu iɔ1 ɕiɔ=təʔ gəʔ sɪɲ-sɪʔ vɐʔ
 1220.wav|lã=hɔ , ɪɲ1=we lã=sz vɐʔ hɔ=cʰɪʔ , lã=sz cʰɪʔ lɐʔ , ɪɲ1=we noŋ ve-ɪʔ du-bi zɐʔ ɲɪɲ-kɑ1 iɔ1=le zɪɲ=zɐʔ=noŋ lɐʔ
 1221.wav|su=i pɑ lã=kʰe=sz ʦɑ̃=hɔ , ne=məʔ mɔ=dɤ=ʦz
 1222.wav|tø1=bəŋ tɕəʔ=le mo-zɑ̃ gəʔ tɔ lɐʔ gəʔ lã=kʰe=sz li siã1
-1223.wav|zø ɦɤ 'ne ɦi 'liɔ cʰi=le gəʔ mɔ=dɤ zy pɪʔ-loʔ-sã1-tɕɪɲ1 , noŋ mae ciɔ sz=sz=kʰø1
+1223.wav|zø ɦɤ 'ne ɦi 'liɔ cʰi=le gəʔ mɔ=dɤ zy pɪʔ-loʔ-sã1-tɕɪɲ1 , noŋ me ciɔ sz=sz=kʰø1
 1224.wav|ŋu , gəʔ dɔ=li , ŋu ʦoŋ=ʦɔ1 mɔ=dɤ ʦoŋ=kʷe ʦoŋ=kʷe loŋ=vɐʔ=hɔ
 1225.wav|kəʔ=məʔ ɦi=le mɑ ʦoŋ=kʷe loŋ=ti su=tɕe , noŋ vɐʔ=ciã , 'ŋ , 'ŋ , su=tɕe mɑ
 1226.wav|ciã ne=tʰɪɲ ti=kəʔ tʰi1=ɲiɪʔ 'ləʔ , gəʔ tɕe-zã li siã1=gəʔ tɕe , bɪɲ liã=sɪɲ1 ciã
@@ -256,7 +256,7 @@
 1228.wav|ɦi=le tʰi1=lã mɑ , kɑ̃-cʰi-le loʔ-ɦiɪʔ tɕe loʔ-ɦiɪʔ tɕe , tɕɪɲ1=tɕe lɔ-hɔ-ɦəʔ , kəʔ=məʔ , zy=zz
 1229.wav|ɦi=le mɑ , tɕɪɲ1=tɕe i=cɪɲ=ku zz=lɐʔ , vɐʔ hɔ=cʰɪʔ lɐʔ
 123.wav|iɔ1 kəŋ1 tɪʔ zɑ̃ gəʔ zo-we gəʔ
-1230.wav|kəʔ=məʔ ŋu ʦø=məŋ mɑ ʦəʔ1 tʰi1=ʦɪɲ1 dɑ-bɐʔ=tɕe , tʰi1=ʦɪɲ1 dɑ-bɐʔ=tɕe mae=tɕø gəʔ
+1230.wav|kəʔ=məʔ ŋu ʦø=məŋ mɑ ʦəʔ1 tʰi1=ʦɪɲ1 dɑ-bɐʔ=tɕe , tʰi1=ʦɪɲ1 dɑ-bɐʔ=tɕe me=tɕø gəʔ
 1231.wav|'ŋ , sɔ=gəʔ zəŋ-kʷɑ̃1 ɲi , 'ŋ , ziã koʔ=ʦoŋ=koʔ=ɦiã su=gəʔ məʔ-zz
 1232.wav|su=zəʔ-cɪɲ ɑ , ne=məʔ həʔ=moʔ-r ɑ
 1233.wav|pɑ=ti fe-gɑ , pɑ=ti dɤ=vu=ɟi1 sɔ=sɔ
@@ -287,7 +287,7 @@
 1256.wav|ʦəŋ1-ku lɔ=vɐʔ ɦioŋ-i gəʔ , kəʔ=məʔ ɦi lɑ ɪʔ=zəʔ ciã ku-ku ci=kɐʔ ɐʔ=lɐʔ
 1257.wav|ci mɑ zz fɐʔ=gəʔ , ɐʔ=ʦz ɲi , 'ŋ , zz zz zz gəʔ
 1258.wav|ciɔ=sɑ , tɕɪɲ1=liã=gəʔ , su=i cʰɪʔ ɐʔ=ʦz ɲɪɲ pi-ciɔ tu1
-1259.wav|de=zz ɐʔ=ʦz tʰi1=ɲiɪʔ mae ne=cʰɪʔ gəʔ , noŋ=iɔ1 məʔ cʰɪʔ kʰɔ ɐʔ
+1259.wav|de=zz ɐʔ=ʦz tʰi1=ɲiɪʔ me ne=cʰɪʔ gəʔ , noŋ=iɔ1 məʔ cʰɪʔ kʰɔ ɐʔ
 126.wav|de=zz ɦiɤ tɪʔ ɪʔ pɐʔ-ve ŋu vɐʔ kʰu-nəŋ ʦe ʦɪɲ-cʰi 'ləʔ
 1260.wav|e , ʦəŋ1-ku , ciã ne=tʰɪɲ noŋ ɦi le mɑ kʰɔ ɐʔ iɔ1-məʔ soʔ=sɪɲ tɔ
 1261.wav|nɔ , nɔ gəʔ=ʦoŋ pi-ciɔ gəʔ ʦəʔ=liã=pi ciɔ hɔ-ku ti-ciɑ1 cʰi cʰi-mɑ
@@ -302,12 +302,12 @@
 127.wav|noŋ gəʔ ɪʔ ciɔ pɑ ŋ-ɲi le , se1=kɑ1 liã , gəʔ ŋ-ɲi sɐʔ ɦɪɲ=səʔ ɑ , ʦe-kɑ̃ moʔ=zi , gəʔ ʦəʔ1 ɦiɪʔ=zɪɲ
 1270.wav|de=zz ŋu ciɑ-sz ciã=lɐʔ=lɐʔ oʔ=li sɔ=tɕe ŋu zy liã=ɦiã , ŋu we tɪʔ loŋ ŋe
 1271.wav|dɤ=vu ɑ , loŋ=ŋe ɲioʔ=sz ɑ , loŋ ŋe=zi tɕe ɑ , təŋ zəŋ=kã1 , zi=tɕe ɲioʔ dɤ=vu kã1
-1272.wav|te=vɐʔ , ɦiɤ-ɦiɤ ŋe=ŋu , ɦiɤ tɕɪɲ1=de cʰɪʔ cʰi=le , ŋu kø-ciɐʔ ɦe=mae sɑ̃=kʰɤ gəʔ
-1273.wav|pi-zz kɑ̃-noŋ loŋ ʦəʔ1 fe-gɑ de=sɑ̃ ɑ , ɦe=mae sɑ̃=kʰɤ gəʔ
+1272.wav|te=vɐʔ , ɦiɤ-ɦiɤ ŋe=ŋu , ɦiɤ tɕɪɲ1=de cʰɪʔ cʰi=le , ŋu kø-ciɐʔ ɦe=me sɑ̃=kʰɤ gəʔ
+1273.wav|pi-zz kɑ̃-noŋ loŋ ʦəʔ1 fe-gɑ de=sɑ̃ ɑ , ɦe=me sɑ̃=kʰɤ gəʔ
 1274.wav|pi-zz ciã=loŋ ʦəʔ1 ʦo=tɕe de=sɑ̃ ɑ , ziã ŋu kɑ̃=kɑ̃ ɦioŋ-ɦəʔ toŋ1-ko1 sɑ̃=ɑ . pi-zz kɑ̃-noŋ loŋ=ŋe ɕiã1=ku ɑ , dɤ=vu=ɟi1 sɔ=zəŋ=koŋ1 gəʔ=ʦoŋ sɑ̃
 1275.wav|ze=vɐʔ ɪʔ=dɪɲ pi gəʔ=ʦoŋ ci-tʰɑ̃ ɐʔ=sɑ̃ ŋe=ŋu , su=i ciã=ŋu gəʔ pi , lɐʔ=lɐʔ ŋu gəʔ kʷø=ti kɔ1=dɤ
 1276.wav|ŋu vɐʔ zz ɪʔ=dɪɲ=iɔ1 , vɐʔ kʷɑ tɕɔ ɦe-hɔ , sɔ=sɑ̃ ɦe-hɔ
-1277.wav|ŋu hɔ=ziã ɦioŋ hʷəŋ gəʔ zz=mae sɔ-ɦəʔ , ŋu ɦioŋ=su ku-zz pi-ciɔ tu1
+1277.wav|ŋu hɔ=ziã ɦioŋ hʷəŋ gəʔ zz=me sɔ-ɦəʔ , ŋu ɦioŋ=su ku-zz pi-ciɔ tu1
 1278.wav|su=gəʔ kɔ1=dɤ lɐʔ , ɪʔ-pe-sɪɲ lɐʔ=lɐʔ fe1-ɦã-dɤ , hʷəŋ gəʔ kɔ1=dɤ ŋu hɔ=ziã ɪʔ-pe-sɪɲ zy=noŋ di=pɑ̃ sɑ̃ zy=zz di=pɑ̃ sɑ̃
 1279.wav|ci-tʰɑ̃ zy ci-tʰɑ̃ , noŋ-kɑ̃ te=vɐʔ
 128.wav|zɔ=zəŋ koŋ1 'ləʔ ciɔ1-kʷe
@@ -315,7 +315,7 @@
 1281.wav|bã-zɐʔ ŋu ɲi hʷø=ɕi cʰɪʔ=su gəʔ , e y1 ʦəŋ1-ku ɦiɤ-zəŋ-kʷɑ̃1 lɔ tʰɔ-i , kəʔ=məʔ ɦiɤ-zəŋ-kʷɑ̃1 zəʔ=le məʔ=be fɐʔ cʰɪʔ liã tʰi1 hʷəŋ gəʔ
 1282.wav|kəʔ=məʔ nɔ zz zz zz zz=tʰəʔ mɑ=ti ci ɑ , mɑ=ti ɐʔ ɑ , ɪʔ ʦɐʔ1 kəʔ=ʦz me-hɔ gəʔ
 1283.wav|kəʔ=ʦz ɲi=sɔ kəʔ=ʦz sɑ̃ , ɦi lɑ ciã vɐʔ zz ɪʔ kəʔ tɪɲ cy ci mɑ , ne=məʔ ʦø=məŋ mɑ ʦəʔ1 mɑ ʦəʔ1 kəʔ=ʦz sɑ̃
-1284.wav|de kəʔ=ʦz sɑ̃=sɔ=fɐʔ ɦe=mae ɦiɤ-kɑ̃-cy gəʔ , mɑ-ɦəʔ di=fɑ̃ iɔ1=mɑ lɐʔ=hɔ
+1284.wav|de kəʔ=ʦz sɑ̃=sɔ=fɐʔ ɦe=me ɦiɤ-kɑ̃-cy gəʔ , mɑ-ɦəʔ di=fɑ̃ iɔ1=mɑ lɐʔ=hɔ
 1285.wav|ciɑ-sz sɔ-ɕy mɑ gəʔ di=fɑ̃ mɑ-ɦəʔ ɦiɤ=ti sɔ-ɕy ɦiɤ=ti liã=ɦiã ti , gəʔ ʦəʔ1 kəʔ=ʦz mi-dɔ ɑ , ʦoŋ=kʷe liã=ɦiã ti=gəʔ
 1286.wav|gəʔ ʦəʔ1 kəʔ=ʦz te=vɐʔ mɑ-ɦəʔ di=fɑ̃ lɔ ɦiɤ-kɑ̃-cy , ŋu ɲiø=le lɐʔ=lɐʔ zɑ̃=pe1 zəŋ-kʷɑ̃1 , ɑ1-'lɑ ɦiɤ-ku doŋ=zz ɑ ɦi ciã
 1287.wav|zoŋ ɦi lɑ ɲy əŋ1 ɦiã tɕəʔ le ɦi zy ɪʔ=zəʔ zz mɑ gəʔ ɲɪɲ gəʔ kəʔ=ʦz gəʔ
@@ -349,16 +349,16 @@
 1311.wav|kəʔ=məʔ ɦiɤ=ciã , ɦe kɑ̃-kɑ̃ kɑ̃-kɑ̃ su=tɕe , kəʔ=məʔ su=tɕe ɲi=ɦi le mi=ɕi pi-ciɔ tu1 , ɑ zz-ɑ !
 1312.wav|gəʔ , ɦe-ɦiɤ mɑ toŋ1-ko1 , ɦe-ɦiɤ ɲi nø-ko1
 1313.wav|e1 , nø-ko1 zəʔ ʦi lɑ̃ te vɐʔ , mɑ=we le=te vɐʔ , gəʔ-ɦəʔ ʦəŋ1=ʦəŋ1 ɦi
-1314.wav|nø-ko1 ɦe=mae hɔ=cʰɪʔ , ɑ1-'lɑ lɔ=ʦɔ siɔ zəŋ-kʷɑ̃1 cʰɪʔ nø-ko1 mi=kəʔ-tɐʔ , ɦi=le gəʔ=ʦoŋ zz vɐʔ cʰɪʔ
+1314.wav|nø-ko1 ɦe=me hɔ=cʰɪʔ , ɑ1-'lɑ lɔ=ʦɔ siɔ zəŋ-kʷɑ̃1 cʰɪʔ nø-ko1 mi=kəʔ-tɐʔ , ɦi=le gəʔ=ʦoŋ zz vɐʔ cʰɪʔ
 1315.wav|gəʔ mɑ tɔ hɔ ŋu fəŋ=gəʔ nø nø-ko1 ɑ , mɑ we=le ʦəŋ1=ʦəŋ1 ɦi ɑ , me-hɔ cʰɪʔ-ɦəʔ
 1316.wav|ɦiɤ-zəŋ-kʷɑ̃1 ɲi si1 bɐʔ ɦi sɔ ʦəŋ1=ʦəŋ1 zoʔ , zø=ɦɤ=ʦe pɑ=lɐʔ=tʰɪʔ ku=ʦz li siã1 tɕɔ=tɕɔ
-1317.wav|sɔ-ɕy tɔ ɪʔ=ti=ti ʦiã=ɦiɤ , ɦe=mae hɔ=cʰɪʔ e ! nø-ko1 sɔ=ku vɐʔ
+1317.wav|sɔ-ɕy tɔ ɪʔ=ti=ti ʦiã=ɦiɤ , ɦe=me hɔ=cʰɪʔ e ! nø-ko1 sɔ=ku vɐʔ
 1318.wav|ŋu nø-ko1 hɔ=ziã vɐʔ du-cʰɪʔ , de=zz ŋu ɦiɤ tʰɑ̃1 tɕəʔ-cʰi ɲɪɲ-kɑ1 loŋ lɐʔ ʦəʔ1 nø-ko1 sz=bɐʔ ŋu cʰɪʔ lɔ hɔ=cʰɪʔ
 1319.wav|ɦi zz bɔ=ʦz kɔ1=dɤ bɔ tɕəʔ le-ku , ɲɪɲ-kɑ1 tɕɪɲ1=tɕɔ ɪʔ pi=dɤ
 132.wav|ŋu fi1=zã doŋ=i noŋ gəʔ-ɦəʔ kʷø=ti
 1320.wav|ɦi gəʔ nø-ko1 vɐʔ zz wɑ̃ gəʔ , zz tɕɪɲ1 nø-ko1 ŋɑ-kɑ1 bi=vɐʔ loŋ tʰəʔ=gəʔ
 1321.wav|ɦi gəʔ nø-ko1 te=vɐʔ , cʰɪʔ=zɑ̃ cʰi te vɐʔ lɔ=tɕø gəʔ , pɑ ŋe=ŋe tɕoŋ=ɕiã1 , e1 , ɦi vɐʔ zz di gəʔ
-1322.wav|ɦi zz ɦe gəʔ , ŋu=ciã y1 , noŋ gəʔ ʦəʔ1 nø-ko1 tɔ=mae sɔ=tɕəʔ gəʔ sz=bɪɲ le 'ləʔ ŋu
+1322.wav|ɦi zz ɦe gəʔ , ŋu=ciã y1 , noŋ gəʔ ʦəʔ1 nø-ko1 tɔ=me sɔ=tɕəʔ gəʔ sz=bɪɲ le 'ləʔ ŋu
 1323.wav|ɦi ciã e , ŋu ciã=ŋu=zz zoŋ-le vɐʔ cʰɪʔ nø-ko1 gəʔ ɲɪɲ , ɦe-we cʰi kɑ̃-noŋ gəʔ ʦəʔ1 nø-ko1 hɔ
 1324.wav|səʔ-mɪɲ noŋ gəʔ ʦəʔ1 nø-ko1 i=cɪɲ=sɔ tɔ=we lɐʔ , vɐʔ tɕu=gəʔ
 1325.wav|ɦɤ=dɤ ɦi zy ciã , noŋ=iɔ1 məʔ ziã=noŋ hɔ=ɦiã , 'ŋ , ciɔ=sɑ 'ne ɪʔ ʦɐʔ1 'ne ɪʔ ʦɐʔ1 we-cʰi
@@ -380,7 +380,7 @@
 134.wav|zəʔ=ʦi zɑ̃ ɑ1-'lɑ si1 ɲi=ci dɑ=gəʔ ɲi , cʰɪʔ-liɔ ciɔ1-kʷe cʰy
 1340.wav|ɦe=ɦe sɑ=gəʔ məʔ , iɔ1 ɲiɐʔ lɐʔ=kø1 , ŋu=ŋu kʰɔ=fu ʦø=məŋ sɔ=sɔ=vɐʔ hɔ , de ɑ1-'lɑ oʔ=li siã1=ɲɪɲ=sɔ kʰɔ=fu sɔ kʰɔ=fu sɔ=lɐʔ lɔ=hɔ
 1341.wav|iɔ1 si1 bɐʔ ɦi , bɐʔ ɦi iɔ1  kø1
-1342.wav|kəʔ=məʔ sz=fəŋ1 məʔ=lɐʔ ʦe-cʰi ʦo , sɔ=tɕəʔ le zz=mae hɔ=cʰɪʔ , zy ɦiɤ iɔ1=lɔ cɪʔ-kʷəŋ gəʔ , ɪʔ ʦɐʔ1 kʰɔ=fu
+1342.wav|kəʔ=məʔ sz=fəŋ1 məʔ=lɐʔ ʦe-cʰi ʦo , sɔ=tɕəʔ le zz=me hɔ=cʰɪʔ , zy ɦiɤ iɔ1=lɔ cɪʔ-kʷəŋ gəʔ , ɪʔ ʦɐʔ1 kʰɔ=fu
 1343.wav|te-ɦəʔ , gəʔ sɔ kʰɔ=fu noŋ zz=ku zz ɦiɤ li vɐʔ ʦo , ɪɲ1=we gəʔ kʰɔ=fu vɐʔ hɔ=cʰɪʔ
 1344.wav|ɦi ɦiɤ li ʦo ku-ku kʰɔ=fu gəʔ mi-dɔ ɲi , zy=zz liã=ɦiã , ɕiã1=pʰəŋ=pʰəŋ gəʔ
 1345.wav|ɕiã1=pʰəŋ=pʰəŋ gəʔ , ɦi ʦz hɔ lɐʔ ʦz tʰəʔ lɐʔ i ɦɤ ʦe ʦo=tɕəʔ le kɔ1=noŋ zəʔ=ʦɪʔ gəʔ-nəŋ-kɑ sɔ
@@ -401,11 +401,11 @@
 1359.wav|noŋ vɐʔ siã1-sɪɲ , noŋ məŋ-ʦɔ1 cʰi-mɑ ŋ-koʔ ɦã=li wɑ̃=dɤ ŋɑ mɑ pø=cɪɲ1
 136.wav|'ŋ , sɐʔ=gəʔ , gəʔ ciɔ-ku , mɑ gəʔ-ɦəʔ-zz , ci1=cɪɲ1 ɦɑ-hɔ
 1360.wav|loŋ-ku pø=kʰʷe gəʔ dɤ=vu , dɤ=vu wɑ̃=dɤ ŋɑ sɑ̃=sɔ tɕəʔ le-we lɔ=si=gəʔ
-1361.wav|e1 , ɦi lɔ si , ŋɑ-kɑ1 mae ɦo-ve gəʔ , ŋu ɦe=mae hʷø=ɕi gəʔ gəʔ ʦəʔ1 sɑ̃=gəʔ
+1361.wav|e1 , ɦi lɔ si , ŋɑ-kɑ1 me ɦo-ve gəʔ , ŋu ɦe=me hʷø=ɕi gəʔ gəʔ ʦəʔ1 sɑ̃=gəʔ
 1362.wav|zy=ciã lɔ=ʦɔ ɲi , ŋu zy=ciã ŋɑ-tɕz hɔ-ku zəŋ-kʷɑ̃1 ɲi , zy kɑ̃-zz
-1363.wav|ɪʔ=zəʔ sɔ=gəʔ , ɑ1-'lɑ oʔ=li siã1 ɦɑ ciã=mae hɔ=cʰɪʔ
+1363.wav|ɪʔ=zəʔ sɔ=gəʔ , ɑ1-'lɑ oʔ=li siã1 ɦɑ ciã=me hɔ=cʰɪʔ
 1364.wav|ɪɲ1=we wɑ̃=dɤ ŋɑ ɦe-zz pi ciɔ=ŋã gəʔ mɑ ,  tɕɐʔ  tɕɐʔ te vɐʔ
-1365.wav|kɐʔ=ləʔ ciã , ɦi=le=ŋu=sɔ gəʔ ʦəʔ1=sɑ̃ ɲi zz=mae , zy=zz ciã=mae sɔ=lɐʔ 'ləʔ
+1365.wav|kɐʔ=ləʔ ciã , ɦi=le=ŋu=sɔ gəʔ ʦəʔ1=sɑ̃ ɲi zz=me , zy=zz ciã=me sɔ=lɐʔ 'ləʔ
 1366.wav|noŋ gəʔ-ɦəʔ zz sz ɦi , tɑ̃=zø ɦi lɔ ɦiɤ-kɑ̃-cy
 1367.wav|ɦi məʔ=kɑ̃-cy , su=i nɑ-nəŋ hɔ=bɪɲ ɪʔ=cɪʔ zz=sz ɲi-cɪʔ zz=sz ɲi , su=i ciã=lɐʔ=lɐʔ ciɔ1-kʷe siɔ=tɕe kɔ1=dɤ
 1368.wav|gəʔ-zəŋ-kʷɑ̃1 ŋu lɔ=ʦɔ lɐʔ=ve ti li ʦu-ku zəŋ-kʷɑ̃1 , zy ze=kʰø1 gəʔ-ɦəʔ zz=sz fe1=tɕəʔ le
@@ -419,7 +419,7 @@
 1375.wav|zz-ku zz-ku , ne=məʔ nɔ ɦi=le tʰi1=ciɑ=ɲiɪʔ ɲi
 1376.wav|ŋu ɪʔ=zəʔ siã=cʰɪʔ gəʔ gəʔ ʦəʔ1 siɔ=tɕe , zy=zz wɑ̃=zø
 1377.wav|kəʔ=məʔ , 'ŋ , ciɑ-sz kʰɔ=cy ti=mɑ=zø be ,
-1378.wav|ɪʔ-pe-sɪɲ mɑ zø=sz , de=sɔ zø=sz ɦe=mae ne sɔ=gəʔ
+1378.wav|ɪʔ-pe-sɪɲ mɑ zø=sz , de=sɔ zø=sz ɦe=me ne sɔ=gəʔ
 1379.wav|gəʔ=ci ciɔ=sɑ , sɔ=lɐʔ=vɐʔ hɔ=te vɐʔ , ɦi lɑ ciã , ŋu zy ciɐʔ-təʔ sɔ=lɐʔ=vɐʔ hɔ , te=vɐʔ
 138.wav|ɪʔ=dɪɲ=iɔ1 siɔ=sɪɲ1
 1380.wav|ʦø=məŋ zz lɔ sɪɲ1=cʰi gəʔ , lɔ ne=cʰɪʔ gəʔ , kəʔ=məʔ
@@ -453,10 +453,10 @@
 1405.wav|ŋu , noŋ-kɑ̃ cʰi bo1=sɑ1 , bo1=sɑ1 ŋu tɔ ɪʔ=zəʔ cʰɪʔ-ɦəʔ
 1406.wav|gəʔ bo1=sɑ1 ŋ , ŋu pʰo ɦiɤ , kəʔ=məʔ bo1=sɑ1 ŋ=vɐʔ zz lɔ tɕɪɲ1=de gəʔ mɑ , gəʔ ʦəŋ1=tɕəʔ le=zz , ŋu zy
 1407.wav|iɔ1 pɑ sɑ ʦəŋ1=ʦəŋ1 ŋ=gəʔ zz ɦiɤ , 'ŋ , zz=ŋ
-1408.wav|gəʔ lu=zø ɦɤ ʦe pɑ=ti tɕoŋ ciã1 , ŋu y1 fɐʔ-ciɐʔ ʦəŋ=tɕəʔ le-we mae hɔ=cʰɪʔ , ŋu tɔ məʔ kʰɔ=ly tɔ ɦiɤ ciɔ zɑ̃-cʰi
+1408.wav|gəʔ lu=zø ɦɤ ʦe pɑ=ti tɕoŋ ciã1 , ŋu y1 fɐʔ-ciɐʔ ʦəŋ=tɕəʔ le-we me hɔ=cʰɪʔ , ŋu tɔ məʔ kʰɔ=ly tɔ ɦiɤ ciɔ zɑ̃-cʰi
 1409.wav|ɪɲ1=we ŋu pʰo ɦiɤ mɑ . kəʔ=məʔ noŋ-kɑ̃ gəʔ ʦəʔ1 ɦiɤ ciɔ zɑ̃-cʰi pi-ciɔ hɔ=cʰɪʔ
 141.wav|ɪʔ pɐʔ-ve kɐʔ ŋu kɔ=su noŋ vɐʔ zz ɑ1-'lɑ ʦu-ku
-1410.wav|ŋu mae ciɔ we-cʰi , ŋu ɦe=cʰi sz=sz=kʰø1 , gəʔ ʦəʔ1 gəʔ ʦəʔ1=ŋ ɑ sɔ=sɔ kʰø1
+1410.wav|ŋu me ciɔ we-cʰi , ŋu ɦe=cʰi sz=sz=kʰø1 , gəʔ ʦəʔ1 gəʔ ʦəʔ1=ŋ ɑ sɔ=sɔ kʰø1
 1411.wav|ɦi , vɐʔ zz te-te gəʔ ʦəʔ1=ŋ hɔ=cʰɪʔ , ɦi ŋɑ-kɑ1 ɦo dɤ-ɦəʔ fəŋ=sz ɦe=lɔ hɔ=cʰɪʔ
 1412.wav|lɔ=ŋe=ŋu , ɦi gəʔ ŋ te vɐʔ cʰɪʔ=zɑ̃ cʰi-zy ciã lɔ=nəŋ gəʔ , ziã dɤ=vu ɪʔ-ɦiã-ɦəʔ
 1413.wav|ɦi lɔ=nəŋ , ɦi we=sɑ dɔ cɪɲ1 tɕu ɲɪɲ tɕu , ɦi ɪʔ sz te vɐʔ zy ziã ʦi1 ku lɐʔ
@@ -472,7 +472,7 @@
 1422.wav|ɑ ! ʦø=məŋ hʷø=ɕi nɔ ʦəŋ1=lɐʔ cʰɪʔ-ɦəʔ
 1423.wav|ɦɤ=dɤ vɐʔ zz-kɑ̃ ʦɪɲ=kʰɤ=gəʔ se1=vəŋ ŋ=vɐʔ=hɔ mɑ , ciã=ɦiɤ tɪʔ gəʔ=ʦoŋ gəʔ=ʦoŋ gəʔ=ʦoŋ ɦiɪʔ=zɪɲ gəʔ=ʦoŋ
 1424.wav|fi=ɦi gəʔ=ʦoŋ gəʔ ɦiɪʔ=zɪɲ lɐʔ=lɐʔ=he mɑ , su=i se1=vəŋ ŋ=vɐʔ ʦəŋ1=lɐʔ
-1425.wav|su=i ʦø=məŋ cʰɪʔ cʰɪʔ-ŋ , kɑ̃-cʰi-le he=hu gəʔ ʦəʔ1 se1=vəŋ ŋ=ŋu=tɔ zz=mae hʷø=ɕi cʰɪʔ-ɦəʔ
+1425.wav|su=i ʦø=məŋ cʰɪʔ cʰɪʔ-ŋ , kɑ̃-cʰi-le he=hu gəʔ ʦəʔ1 se1=vəŋ ŋ=ŋu=tɔ zz=me hʷø=ɕi cʰɪʔ-ɦəʔ
 1426.wav|ɦiɤ nəŋ , r-tɕiɑ1 lɔ=bi tɑ̃-ku , dɑ ɦe=vɐʔ dɑ gəʔ , vɐʔ ziã wɑ̃-ŋ ɑ
 1427.wav|gəʔ=ʦoŋ tɕɑ̃ pi=ŋ lɐʔ sɑ he=hu tu1=sɔ tu1=sɔ ɕɪʔ ʦɪɲ-cʰi lɐʔ
 1428.wav|ne=məʔ gəʔ ʦəʔ1 u-zəʔ-ŋ , lɔ , lɔ hʷø=ɕi mɑ-ɦəʔ , mɑ=lɐʔ ɪʔ ʦɐʔ1 gəʔ-ɦəʔ
@@ -503,7 +503,7 @@
 1450.wav|ɑ1-'lɑ ɦi=le le-kɑ̃ ciã dɪʔ-ɦəʔ cʰɪʔ
 1451.wav|cʰɪʔ mɑ , e-ɦiɔ ɦi le cʰɪʔ zz
 1452.wav|vɐʔ de le , dɪʔ-ɦəʔ tɐʔ lɔ=ʦɔ zz vɐʔ hɔ-pi le , ɦi=le zz , lɔ=ʦɔ zz=məʔ cʰɪʔ , ɦi=le dɪʔ-ɦəʔ cʰɪʔ zz
-1453.wav|cʰɪʔ təʔ=le , mɔ=bɪɲ ze=tɕəʔ le le , ɦi=le vɐʔ zz-kɑ̃ cʰɪʔ-ɦəʔ vəŋ=di le , ɦi=le iɔ1 ɦae=ʦz cʰɪʔ , ɑ1-'lɑ ɦi=le kʰø1 ziã cʰɪʔ-liɔ tʰəʔ ɦiɤ
+1453.wav|cʰɪʔ təʔ=le , mɔ=bɪɲ ze=tɕəʔ le le , ɦi=le vɐʔ zz-kɑ̃ cʰɪʔ-ɦəʔ vəŋ=di le , ɦi=le iɔ1 ɦe=ʦz cʰɪʔ , ɑ1-'lɑ ɦi=le kʰø1 ziã cʰɪʔ-liɔ tʰəʔ ɦiɤ
 1454.wav|te=vɐʔ , tʰəʔ ɦe
 1455.wav|tʰəʔ di , ze=hɐʔ gəʔ le
 1456.wav|gəʔ , ɑ1-'lɑ siɔ zəŋ-kʷɑ̃1 zy=cʰɪʔ sɐʔ məʔ-zz ɑ
@@ -560,7 +560,7 @@
 1501.wav|su=i ŋu ɲi , zy=zz ciã , lɔ hʷø=ɕi nu=lɪʔ sã1=wəʔ gəʔ ɪʔ ʦɐʔ1 koʔ , we=tɪʔ ciã , ŋu ʦəʔ1=iɔ1 zz
 1502.wav|ɦɪɲ-nø sã1=wəʔ ʦəʔ1=ɦiɤ zz kʰoŋ1=cʰi , di-ɲi
 1503.wav|ɦi lɑ e1 mi=tɪʔ gəʔ
-1504.wav|ŋu mae hʷø=ɕi gəʔ
+1504.wav|ŋu me hʷø=ɕi gəʔ
 1505.wav|ɦɪɲ-nø cʰɪʔ-ɦəʔ pu-lu , zz ɦiɤ=mɪɲ ɑ
 1506.wav|ʦiɔ1 , ɦɪɲ-nø gəʔ po1-ʦiɔ1
 1507.wav|ziã ɕiã1=ʦiɔ1 ɪʔ-ɦiã-ɦəʔ , siɔ y=y gəʔ , ɪʔ ʦɐʔ1 ɪʔ ʦɐʔ1 , gəʔ-ɦəʔ-zz ciɔ ɦɪɲ-nø gəʔ po1-ʦiɔ1
@@ -604,7 +604,7 @@
 1541.wav|su=i ŋu kɑ̃=kɑ̃ doʔ=sz ɦɑ kɑ̃=kɑ̃ tɕəʔ=le
 1542.wav|tɕəʔ=le i ɦɤ zy cʰi-'ləʔ
 1543.wav|cʰi-'ləʔ i ɦɤ
-1544.wav|tɔ-liɔ e1 mi=tɪʔ cʰɪʔ-ɦəʔ məʔ-zz ɲi , zz tɑ̃=zz zəŋ-kʷɑ̃1 bu=de li noŋ ɕiɔ-təʔ-ɦəʔ ɦɑ mae lɔ ci-kʰu gəʔ
+1544.wav|tɔ-liɔ e1 mi=tɪʔ cʰɪʔ-ɦəʔ məʔ-zz ɲi , zz tɑ̃=zz zəŋ-kʷɑ̃1 bu=de li noŋ ɕiɔ-təʔ-ɦəʔ ɦɑ me lɔ ci-kʰu gəʔ
 1545.wav|zy ciã=ɲioʔ məʔ-ɦəʔ , ɪʔ-ɲiɪʔ-tɔ-ɦiɑ cʰɪʔ mi=fəŋ
 1546.wav|e , ve e , ve zz ʦəŋ1-ku
 1547.wav|ɦiɑ=tɔ cʰɪʔ mi diɔ , ʦoŋ1 lɑ̃ cʰɪʔ=ɪʔ təŋ-ve
@@ -762,7 +762,7 @@
 1684.wav|gəʔ ɦiɤ=ɦiɔ=zəŋ-vəŋ1 bɔ=vɐʔ=tɕəʔ le
 1685.wav|kəʔ=məʔ təŋ-z lɑ̃-fi , zy=ciã gəʔ-nəŋ li-ciɑ
 1686.wav|kʰu-nəŋ ɑ , kʰø1=lɐʔ=ke vɐʔ te-ɦəʔ ŋu
-1687.wav|ŋu , gəʔ zz gəʔ cʰɪʔ-ɦəʔ , cʰɪʔ mae ɦiɤ-kɑ̃-cy gəʔ
+1687.wav|ŋu , gəʔ zz gəʔ cʰɪʔ-ɦəʔ , cʰɪʔ me ɦiɤ-kɑ̃-cy gəʔ
 1688.wav|ziã ŋu tɔ ŋɑ=dɤ cʰi ɦɑ zz-ku
 1689.wav|cʰɪʔ zz zø=bi sɐʔ=məʔ , ɲɪɲ-kɑ1 vɐʔ zz
 169.wav|we=le iɔ1-vəŋ ci-ku we-səʔ-moʔ gəʔ
@@ -782,7 +782,7 @@
 1701.wav|dɑ hɔ i ɦɤ , gəʔ tʰɪʔ kʷø=ɪɲ1 pɪʔ=dɪɲ zz tɕu=gəʔ ɪʔ=ʦoŋ ɪʔ=lɪʔ
 1702.wav|kəʔ=məʔ ɦi gəʔ=ʦoŋ tʰɪʔ=kʷø=ɪɲ1 ɲi , iɔ1 kʰe=sz sɔ=kʰe i ɦɤ , ʦe=ɪʔ pʰɔ1 , noŋ kʰø1=tɔ vɐʔ , pʰɔ1 hɔ i ɦɤ
 1703.wav|ɦi gəʔ ʦəʔ1 ŋe səʔ tɕəʔ le 'ləʔ , mo-zɑ̃ zy tɔ tɕəʔ=le , tɔ tɕəʔ=le ʦe pəʔ 'nɑ fəŋ1=pəʔ 'nɑ cʰɪʔ
-1704.wav|cʰɪʔ=zo səʔ ʦəŋ1=ʦəŋ1 gəʔ zo=dɔ , mae ɦiɤ dɔ=li gəʔ , mae ɦiɤ-kɑ̃-cy gəʔ
+1704.wav|cʰɪʔ=zo səʔ ʦəŋ1=ʦəŋ1 gəʔ zo=dɔ , me ɦiɤ dɔ=li gəʔ , me ɦiɤ-kɑ̃-cy gəʔ
 1705.wav|'ŋ , gəʔ-ɦəʔ tʰəʔ foʔ zɐʔ='ləʔ , tʰɪɲ tʰɪɲ
 1706.wav|cʰɪʔ-ɦəʔ , zo-ɦiɪʔ ɲi iɔ1 di-zəŋ gəʔ
 1707.wav|cʰɪʔ-liɔ i ɦɤ ɲi , di-zəŋ ɲi , te ɑ1-'lɑ zz hɔ=ziã zz kʰʷəŋ-kɔ ɲi zy ɦiɤ ɪɲ=ɕiã 'ləʔ , noŋ hɔ=ziã kʰʷəŋ-liɔ kʰʷəŋ-kɔ me-hɔ
@@ -892,11 +892,11 @@
 1800.wav|noŋ kʰø1=kʰø1 ɦi=le
 1801.wav|zɑ̃=he cʰɪʔ-ɦəʔ məʔ-zz , tu1=vɐʔ
 1802.wav|wəʔ=gəʔ , sø1=gəʔ , di=sø1=kʰu-lɐʔ ze-ɦiɤ-ɦəʔ , ʦəʔ1=iɔ1 noŋ siã=cʰɪʔ ɑ li gəʔ di=fɑ̃ lɑ̃ siã1 gəʔ tɕe , ze=ɦiɤ
-1803.wav|ŋu mɑ gəʔ , ŋu ɦɑ mae hʷø=ɕi cʰɪʔ-ɦəʔ
+1803.wav|ŋu mɑ gəʔ , ŋu ɦɑ me hʷø=ɕi cʰɪʔ-ɦəʔ
 1804.wav|ɪʔ-ku nɔ , sɔ-vi ɦiɤ=ti lɐʔ=gəʔ
 1805.wav|'me-ku di-fɑ̃-ɦəʔ ɲi , cʰi zɑ̃=zɑ̃ ɦi
 1806.wav|ɲɪɲ=wəʔ lɐʔ=he , vɐʔ cʰɪʔ ʦu sɐʔ
-1807.wav|noŋ gəʔ sz1-siã tɔ-ɦɑ mae sɪɲ1=zɔ gəʔ
+1807.wav|noŋ gəʔ sz1-siã tɔ-ɦɑ me sɪɲ1=zɔ gəʔ
 1808.wav|ɦi=le gəʔ di=zz=ci1 ɑ
 1809.wav|ɦɑ lɐʔ=lɐʔ tɔ=tɕz pu=soŋ cʰɪʔ
 181.wav|gəʔ-ɦəʔ ʦoŋ=ti ɑ
@@ -956,7 +956,7 @@
 1859.wav|ŋu ɦɑ hʷø=ɕi ʦu gɑ=ʦəʔ gəʔ , bɑ=diɔ
 186.wav|ɪɲ1=we ŋu ʦu=ku ze=vu mɑ ŋu kɑ̃-noŋ zz=ku ciã , noŋ kʰe-liɔ se1=sz=ɲi
 1860.wav|dɑ̃=tɕu gəʔ=ŋ , ŋu lɔ hʷø=ɕi cʰɪʔ gəʔ=ʦoŋ məʔ-zz gəʔ
-1861.wav|ɦiɤ dɑ̃=tɕu ɪʔ=le gəʔ , su=i kʰɤ-vi lɔ=zoŋ=gəʔ , cʰɪʔ di gəʔ , zz=mae lɪɲ
+1861.wav|ɦiɤ dɑ̃=tɕu ɪʔ=le gəʔ , su=i kʰɤ-vi lɔ=zoŋ=gəʔ , cʰɪʔ di gəʔ , zz=me lɪɲ
 1862.wav|poʔ-cɪɲ1 e=su ʦz=we ɲy=ɪɲ1 tɕe=zɪʔ
 1863.wav|poʔ-cɪɲ1 e=su ʦz=we ɲy=ɪɲ1 tɕe=zɪʔ
 1864.wav|ne-ʦɔ1 nø hɔ=le , ɑ1-'lɑ liã-kɑ1-dɤ ɦiɤ hɔ tɕø1 tɕz1-ɲiɤ pɪʔ le
@@ -995,9 +995,9 @@
 1894.wav|ɪɲ1=we gəʔ ʦz=ɲiø zy gəʔ=ti ʦz=ɲiø , di=fi , di=bi zy gəʔ ŋe di=bi
 1895.wav|ziã nø-cɪɲ1=lu we , vɑ̃=kɑ=we tɪʔ tɪʔ=vɐʔ 'lɑ , ioŋ=səŋ1 ioŋ=sz
 1896.wav|ɦɑ=vɐʔ=we tɪʔ , ɪɲ1=we sɐʔ , ʦəʔ1=ɦiɤ ʦã le
-1897.wav|tɔ zz=mae ɕi1=mɑ̃ ɦi tɪʔ-ɦo le-ku
+1897.wav|tɔ zz=me ɕi1=mɑ̃ ɦi tɪʔ-ɦo le-ku
 1898.wav|tɪʔ ɦo=le ŋu tɔ=zz siã-cʰi
-1899.wav|tɪʔ=tɔ lɔ=ʦɔ 'nɑ , gəʔ , ŋ-loʔ=zəʔ vae ɦiã=di
+1899.wav|tɪʔ=tɔ lɔ=ʦɔ 'nɑ , gəʔ , ŋ-loʔ=zəʔ ve ɦiã=di
 19.wav|ze=pəʔ kʷəʔ-ciɑ1 lɐʔ tʰəʔ-liɔ , sɐʔ ciɔ lɐʔ tʰəʔ-liɔ
 190.wav|noŋ zəŋ=pəŋ tu1=sɔ , ŋu zy=sø tɕəʔ=noŋ sø=sɤ1 tu1=sɔ , zy=sø tɕəʔ=noŋ , noŋ=ɦiɤ vɐʔ ɦiɤ
 1900.wav|gəʔ vɐʔ kʰu-nəŋ 'ləʔ i=cɪɲ
@@ -1064,7 +1064,7 @@
 1956.wav|ʦəŋ1=ʦoŋ1 gəʔ , noŋ-kɑ̃ te=vɐʔ te ɑ
 1957.wav|ɑ1-'lɑ ŋɑ=sã1 te=vɐʔ 'lɑ , ʦz1=ɲioʔ=vɐʔ zz lɔ=iɔ1 cʰɪʔ-ɦəʔ
 1958.wav|ɲiɤ=ɲioʔ tɕɑ1=vɐʔ=tu1 kɑ=di le
-1959.wav|məʔ , ɦi=le ʦz1=ʦz1 ɲioʔ kɑ=di ɦe=mae ɟy=gəʔ
+1959.wav|məʔ , ɦi=le ʦz1=ʦz1 ɲioʔ kɑ=di ɦe=me ɟy=gəʔ
 196.wav|ɦi ciã ɦi ʦu-liɔ lɔ-hɔ-ɦəʔ , ciɔ ɑ1-'lɑ ɪʔ=dɪɲ dɤ=ŋ zəʔ-ve
 1960.wav|e , ʦz1=ɲioʔ ɦe-iɔ1 se1 se1 zəʔ=ci
 1961.wav|sɐʔ ɲɪɲ cʰɪʔ ʦz1 ɲioʔ gəʔ 'lɑ
@@ -1105,7 +1105,7 @@
 1993.wav|noŋ gəʔ-nəŋ kəʔ ɦiã=ʦz lɐʔ=lɐʔ ʦu mɑ ʦoŋ=kʷe=zz gəʔ sø=su , ŋu zz gəʔ-nəŋ kəʔ
 1994.wav|ŋ-səʔ sø mɑ , ŋ-səʔ tɕəʔ=dɤ ci1=pəŋ məʔ-ɦəʔ , ŋu ɕiɔ-təʔ-ɦəʔ
 1995.wav|siã1=e1=gəʔ liã-ku ɲɪɲ ɦe-iɔ1 ɲi=ci dɑ le
-1996.wav|e , vae=tɕø1=me lɔ=ʦɔ ciã ɦi hɔ=ziã ɦiɤ-ku tɐʔ=tɑ̃ , hɔ=ziã zz
+1996.wav|e , ve=tɕø1=me lɔ=ʦɔ ciã ɦi hɔ=ziã ɦiɤ-ku tɐʔ=tɑ̃ , hɔ=ziã zz
 1997.wav|ziã=ŋu=vɐʔ ɕiɔ=təʔ sɐʔ ɲɪɲ lɐʔ=he , iɔ1 ɪɲ=cy1 te-ɦəʔ te-ɦəʔ
 1998.wav|kəʔ=məʔ ɦi nɑ-nəŋ məʔ kəŋ1 tɕy1=sã1 ɪʔ=dɔ=le 'lɑ
 1999.wav|vɐʔ ɕiɔ=təʔ , sɐʔ ɲɪɲ ɕiɔ=təʔ ɦi
@@ -1176,7 +1176,7 @@
 2056.wav|vɐʔ lɪɲ-ɦəʔ , ziã tʰu=pɔ1=ʦz ɪʔ-ku
 2057.wav|bɐʔ=noŋ tʰɪɲ-liɔ lɔ=vɐʔ səʔ=ɲi=gəʔ
 2058.wav|ɦi=le hɔ=ziã hɔ=ŋe 'ləʔ
-2059.wav|pəʔ1-ku ɦi he ŋu nø , ʦoŋ=kʷe mae kʰɐʔ=cʰi
+2059.wav|pəʔ1-ku ɦi he ŋu nø , ʦoŋ=kʷe me kʰɐʔ=cʰi
 206.wav|ɪʔ-ku noŋ vɐʔ pəʔ ŋu kʰø1 gəʔ-ɦəʔ ze=vu pɔ=piɔ , di-ɲi=gəʔ noŋ ti=ɐʔ ʦz=tɕe=ɦiɤ vɐʔ
 2060.wav|ɦi ɦe-məʔ te=ŋu=vɐʔ kʰɐʔ=cʰi
 2061.wav|zy=zz ciã=nø , ŋu kʰø1=tɔ ɦi cʰiã1-diɔ te-ɲɪɲ ciɑ1 ciã=ɦe=ɦo gəʔ gəʔ cʰiã1-diɔ lɔ ne=kʰø1 gəʔ
@@ -1205,7 +1205,7 @@
 2082.wav|iɔ1=ci gəʔ-zəŋ-kʷɑ̃1 , pəŋ=səŋ1 ɦe-zz lɐʔ
 2083.wav|nɑ-nəŋ we tɪʔ tɔ ɑ1 du-tɪʔ cʰi , noŋ ɕiɔ=təʔ vɐʔ
 2084.wav|ɦi ʦz=iɔ1 zy=zz e gəʔ
-2085.wav|hɔ=sɪɲ1 ɲɪɲ ɦe=mae cʰɪʔ=ɕiã1 le
+2085.wav|hɔ=sɪɲ1 ɲɪɲ ɦe=me cʰɪʔ=ɕiã1 le
 2086.wav|y1 , iɔ1=si1 'ləʔ , gəʔ hɔ=sɪɲ1 ɲɪɲ ziã gɑ̃-du ɪʔ-ɦiã-ɦəʔ
 2087.wav|kʰø1=kʰø1 ɦe=ɲi=sɪɲ1 bɑ1 'lɑ gəʔ
 2088.wav|hɔ=sɪɲ1 ɲɪɲ ɦiɤ sɐʔ hɔ-'lɑ
@@ -1302,8 +1302,8 @@
 217.wav|tɔ kʷe=ɟi vəŋ-liɔ ɪʔ-cy=ɦe=ɦo i ɦɤ , ɦi vəŋ vɐʔ tɕəʔ i ɦɤ , noŋ zy vɐʔ cʰi tu1 'lu-soʔ 'ləʔ
 2170.wav|ɲiɤ=ɲioʔ , ŋu zɑ̃=tʰɑ̃1 hɔ=ziã zz
 2171.wav|ʦoŋ=kʷe sz-səʔ kʰʷe ʦu=ɦiɤ vɐʔ hɔ=ziã
-2172.wav|ŋu y1 , gəʔ zz ɦe=mae ɟy=gəʔ kɐʔ
-2173.wav|ŋu y1 , ɲiɤ=ɲioʔ ɦɑ mae ɟy=gəʔ
+2172.wav|ŋu y1 , gəʔ zz ɦe=me ɟy=gəʔ kɐʔ
+2173.wav|ŋu y1 , ɲiɤ=ɲioʔ ɦɑ me ɟy=gəʔ
 2174.wav|kəʔ=məʔ noŋ ɪʔ-pe-sɪɲ ɲiɤ=ɲioʔ mɑ tu1=sɔ ɑ , mɑ=sɐʔ=gəʔ ɲiɤ=ɲioʔ ɑ
 2175.wav|ŋu ɦiɤ-zəŋ-kʷɑ̃1 mɑ e ʦoŋ
 2176.wav|nɔ , zy=zz ciã=iɑ , ɲiɤ ʦø=ʦz ziã-ku mɑ ɪʔ ʦɐʔ1
@@ -1314,7 +1314,7 @@
 2180.wav|gəʔ , ɦiɤ-zəŋ-kʷɑ̃1 mɑ , mɑ=e1=ʦoŋ
 2181.wav|ziã ɲiɤ=nø
 2182.wav|ɲie=ci=kʰʷe məʔ-ɦəʔ , ʦz=sɔ ze se1-səʔ
-2183.wav|e , pae=iɔ1 se1 zəʔ=ci kʰʷe
+2183.wav|e , pe=iɔ1 se1 zəʔ=ci kʰʷe
 2184.wav|'ŋ , cʰɪʔ vɐʔ cʰi le
 2185.wav|ziã=ɦi le
 2186.wav|ziã ɑ1-'lɑ mɑ
@@ -1361,14 +1361,14 @@
 2222.wav|zy e1=gəʔ e1=gəʔ , zəŋ-mɪɲ=kʷɑ̃-zã bɑ̃=pi=dɤ
 2223.wav|gəʔ ɪɲ1=we sɐʔ dɔ=li , ɑ1-'lɑ li=dɤ ɦiɤ-ku ɲɪɲ=nø
 2224.wav|ɦi 'me-du fɑ̃=gəʔ
-2225.wav|toŋ=vɐʔ toŋ , ɦi dɑ-ke mae ɦiɤ cʰiã1-diɔ gəʔ , kəʔ=məʔ ɦi nø
+2225.wav|toŋ=vɐʔ toŋ , ɦi dɑ-ke me ɦiɤ cʰiã1-diɔ gəʔ , kəʔ=məʔ ɦi nø
 2226.wav|'nɑ ʦəŋ1=hɔ tɕəʔ ɪʔ=pɐʔ kʰʷe ɦiã=di
 2227.wav|bɪʔ-ɦəʔ ze ɦi pɔ1 tʰəʔ gəʔ
 2228.wav|ɑ1-'lɑ iɔ1 zəʔ ci-ku ɲɪɲ , ʦz=sɔ iɔ1=cʰɪʔ tʰəʔ , ŋ , sz-ŋ=tɕi1 kʰʷe ɦiã=di iɔ1
 2229.wav|gəʔ
 223.wav|nɔ , lɐʔ=lɐʔ gəʔ-ɦəʔ
-2230.wav|ʦoŋ=kʷe ze=mae kɔ1=cɪʔ gəʔ
-2231.wav|gəʔ , tɕe , ʦoŋ=kʷe ze=mae kɔ1=cɪʔ gəʔ , ɪɲ1=we noŋ dɑ , dɑ=ɟɪʔ=ɦiø li=dɤ noŋ 'nɑ=ɲiã gəʔ tɕe ze kɔ1=cɪʔ le-si1 gəʔ
+2230.wav|ʦoŋ=kʷe ze=me kɔ1=cɪʔ gəʔ
+2231.wav|gəʔ , tɕe , ʦoŋ=kʷe ze=me kɔ1=cɪʔ gəʔ , ɪɲ1=we noŋ dɑ , dɑ=ɟɪʔ=ɦiø li=dɤ noŋ 'nɑ=ɲiã gəʔ tɕe ze kɔ1=cɪʔ le-si1 gəʔ
 2232.wav|kəʔ=məʔ , kɔ1=cɪʔ mɑ ɦe-iɔ1 ɦiɤ tɪʔ
 2233.wav|ʦe , ʦe sɐʔ mɑ , sɐʔ=gəʔ , ɪʔ ɲɪɲ ɪʔ=siɔ uø mɑ kã1 , sɐʔ=gəʔ , bɐʔ ɦi kɑ̃-cʰi-le sɐʔ=gəʔ , vɐʔ iɔ1 sɐʔ=gəʔ
 2234.wav|ŋ-tɕz kã1 kɐʔ , vɐʔ iɔ1 sɐʔ=gəʔ kã1 kɐʔ , gɔ=vɐʔ=tɕɪɲ1 , gɔ=vɐʔ toŋ
@@ -1393,7 +1393,7 @@
 2251.wav|ɦiɤ-ku ɦiɤ-ku ø1=ue , we sɐʔ dɔ=li ɲi ŋu di=zz tã=kʰe hɔ kʰø1=kʰø1 , sɤ=ci1 tã=kʰe hɔ , ci1=pəŋ=zɑ̃ hɔ=kʰø1 təʔ=zɐʔ moʔ=təʔ=zɐʔ
 2252.wav|noŋ kɔ1 ɲɪɲ-ɦɑ̃ gəʔ dɪʔ-ɦəʔ məʔ-zz , noŋ hɔ 'ləʔ wɑ=noŋ noŋ noŋ ɦioŋ sɐʔ məʔ-zz li=ɦiɤ
 2253.wav|noŋ noŋ kʰø1 təʔ=zɐʔ ɦi
-2254.wav|de=zz ŋu ɦi=le=nø zy ciã=sɐʔ , ŋu e1=gəʔ vɐʔ iɔ1-kɑ̃ ku=pʰiɔ , ŋu ɦi=le pɔ=ɕi , ŋu ciɐʔ-zɐʔ ɦɑ mae kø-ɕɪɲ=tɕy gəʔ
+2254.wav|de=zz ŋu ɦi=le=nø zy ciã=sɐʔ , ŋu e1=gəʔ vɐʔ iɔ1-kɑ̃ ku=pʰiɔ , ŋu ɦi=le pɔ=ɕi , ŋu ciɐʔ-zɐʔ ɦɑ me kø-ɕɪɲ=tɕy gəʔ
 2255.wav|pɔ=ɕi gəʔ ɦiã məʔ-zz ɲi
 2256.wav|pɔ , nɑ-nəŋ kɑ̃-fɐʔ nø , pɔ=ɕi=nø ŋu ciɐʔ-zɐʔ nø we sɐʔ dɔ=li ɑ , ŋu ɦɑ mɑ-liɔ liã=pɪɲ1
 2257.wav|lɔ=ʦɔ mɑ-ɦəʔ
@@ -1503,13 +1503,13 @@
 2350.wav|ŋu ɦe=vɐʔ zz lɔ=vɐʔ zz lɔ toŋ=gəʔ
 2351.wav|gəʔ su=i ɦiɤ-zəŋ-kʷɑ̃1 siã=siã e y1 , ŋu ɦɑ vɐʔ ɕiɔ=təʔ tɔ=ti pɔ=ɕi=məʔ cʰi-mɑ mɑ=məʔ
 2352.wav|zy ziã=noŋ kɑ̃-cʰi-le pɔ=ɕi ɦɑ vɐʔ pɔ=ɕi te=vɐʔ , ɦiɤ-ku pɔ=ɕi ɦɑ bɪɲ1=vɐʔ zz lɔ pɔ=ɕi=gəʔ
-2353.wav|gəʔ kɐʔ noŋ-kɑ̃ noŋ mae ʦɪɲ1=tʰoŋ1 ku=pʰiɔ gəʔ , su=i ɦɑ siã=siã me=ciɔ zɑ̃=sz ɪʔ-ɕiɑ
+2353.wav|gəʔ kɐʔ noŋ-kɑ̃ noŋ me ʦɪɲ1=tʰoŋ1 ku=pʰiɔ gəʔ , su=i ɦɑ siã=siã me=ciɔ zɑ̃=sz ɪʔ-ɕiɑ
 2354.wav|ɦo-tʰɑ̃1 nəŋ=vɐʔ=nəŋ ciɔ1=ciɔ1 ŋu
 2355.wav|ku=pʰiɔ məʔ ʦəʔ1=ɦiɤ gəʔ-nəŋ kəʔ 'ləʔ , ɦi=le moʔ=zi zɪɲ-hʷɑ̃ ʦəʔ1=ɦiɤ gəʔ ʦəʔ1 ku=pʰiɔ hɔ loŋ=loŋ
 2356.wav|pi-ciɔ ɦəʔ-li=ɦəʔ-fɐʔ
 2357.wav|noŋ vɐʔ iɔ1-kɑ̃ , noŋ ɦi=le ciã=sɐʔ=gəʔ ŋu cʰi tɕɔ vɑ̃=di=tɕe ɦɑ vɐʔ le=se=gəʔ
 2358.wav|ɦi=le vɑ̃=tɕe ɦɑ vɐʔ hɔ=doŋ 'ləʔ
-2359.wav|ɦi=le ɦi=gəʔ=ɦi le , ɦae=kɤ tʰəʔ-liɔ , noŋ-ɦɑ vɐʔ hɔ mɑ-ɦəʔ
+2359.wav|ɦi=le ɦi=gəʔ=ɦi le , ɦe=kɤ tʰəʔ-liɔ , noŋ-ɦɑ vɐʔ hɔ mɑ-ɦəʔ
 236.wav|ɦi ku=pʰiɔ hɔ , zy ʦu=ku=pʰiɔ , de=zz ku=pʰiɔ vɐʔ hɔ 'ləʔ , ɦi kʰʷɑ ti pəʔ ku=pʰiɔ li siã1=gəʔ tɕɔ=pʰiɔ tʰe=tɕəʔ le , zy tɔ gəʔ=ʦoŋ li=ze koŋ1=sz1 li cʰi-ʦu ɦi lɑ zz gəʔ=ʦoŋ kəʔ=li=ze
 2360.wav|noŋ-ɦɑ vɐʔ hɔ=doŋ , ɦi dɪʔ-ɦəʔ sz-vəŋ1 ɦɑ-zz tʰəʔ səŋ1
 2361.wav|gəʔ kɐʔ=ŋu=ɦi le vɑ̃ vɑ̃=tɕe zz=bɪɲ liã=sɪɲ1 ciã ɑ1-'lɑ ɦɑ-zz mɑ=vɐʔ=cʰi
@@ -1521,20 +1521,20 @@
 2367.wav|e vɐʔ zz sɐʔ siɔ su=moʔ ɑ
 2368.wav|su=i ʦəʔ1=hɔ məʔ=be=fɐʔ , ɦɑ ʦəʔ1=hɔ kʰø1-ku e1=gəʔ vɑ̃=ʦz vɐʔ=vɐʔ=ɦi zəʔ=gəʔ mɑ
 2369.wav|su=i ciã=iɑ , vɑ̃=tɕe gəʔ ɦiã məʔ-zz
-237.wav|ŋu ciɐʔ-zɐʔ zz ɦɑ mae ʦəŋ1 cʰiɐʔ=gəʔ=ʦoŋ fɑ̃=ø , de=zz ŋu zɑ̃=tʰɑ̃1 ʦɤ=ʦɪɲ gəʔ ɪʔ-kɑ1 koŋ1=sz1 , ɦi zz gɔ kʷəʔ ʦi vəʔ-ly gəʔ
+237.wav|ŋu ciɐʔ-zɐʔ zz ɦɑ me ʦəŋ1 cʰiɐʔ=gəʔ=ʦoŋ fɑ̃=ø , de=zz ŋu zɑ̃=tʰɑ̃1 ʦɤ=ʦɪɲ gəʔ ɪʔ-kɑ1 koŋ1=sz1 , ɦi zz gɔ kʷəʔ ʦi vəʔ-ly gəʔ
 2370.wav|sz=tʰɑ=səŋ1
 2371.wav|sz-vəŋ1 tʰɑ=ʦoʔ
 2372.wav|te=vɐʔ , noŋ ʦoʔ tɪʔ le ɦi=le ʦəŋ=fu tu1 vu-fɐʔ siã1-sɪɲ
 2373.wav|vɐʔ hɔ=loŋ , ʦoŋ məʔ-zz zz vɐʔ zz 'nɑ bəʔ=siã1 gəʔ=ʦoŋ koŋ1=koŋ1 siɔ=koŋ1 ɲɪɲ bəʔ=siã1 gəʔ
 2374.wav|siɔ=koŋ1 ɲɪɲ ʦəʔ1=ɦiɤ
-2375.wav|'ne gəʔ pɪʔ tɕɔ=pʰiɔ lɔ lɔ=zəʔ zəʔ zəŋ=ɲɪɲ-ɦɑ̃ , tɕi1=ʦəŋ1=vae cʰiɐʔ=gəʔ
+2375.wav|'ne gəʔ pɪʔ tɕɔ=pʰiɔ lɔ lɔ=zəʔ zəʔ zəŋ=ɲɪɲ-ɦɑ̃ , tɕi1=ʦəŋ1=ve cʰiɐʔ=gəʔ
 2376.wav|kəʔ=məʔ e zy , ŋu ɦi=le siã=siã ŋu , ɑ1-'lɑ ku1=zz kʰe koŋ1=sz1 gəʔ cʰi=ɲiɪʔ gəʔ
 2377.wav|e , kʰe koŋ1=sz1 cʰi=ɲiɪʔ noŋ vɐʔ iɔ1-kɑ̃ ɑ
 2378.wav|ɦɑ vɐʔ ɦioŋ-i ɑ
 2379.wav|gəʔ cʰi=ɲiɪʔ ŋu noŋ vɐʔ iɔ1-kɑ̃ ʦu-ku lɔ pe
 238.wav|pəʔ 'nɑ 'me 'me=ɲi gəʔ
-2380.wav|ɦi gəʔ vɤ-te ɦɑ mae zoŋ=gəʔ
-2381.wav|ʦəʔ-ɲɪɲ ɦɑ mae=zoŋ e
+2380.wav|ɦi gəʔ vɤ-te ɦɑ me zoŋ=gəʔ
+2381.wav|ʦəʔ-ɲɪɲ ɦɑ me=zoŋ e
 2382.wav|noŋ=iɔ1 sɤ=si1 ʦu-ku tɕe=liã ʦəʔ=liã ze=iɔ1 ku=kʷe te=vɐʔ , dɪʔ-ɦəʔ lɔ pe cʰi=ɲiɪʔ ɦe-we tɪʔ ʦu ɦo-cʰi
 2383.wav|kəʔ=məʔ zy ziã zy ziã kɑ̃-cʰi-le lɔ pe
 2384.wav|ɦi ɦɑ vɐʔ ci-te
@@ -1555,7 +1555,7 @@
 2398.wav|ɪɲ1=we tɕe=pʰɪɲ vɐʔ ɦəʔ-kɐʔ , noŋ zy ʦoʔ=fi tʰəʔ-liɔ pɔ=fi tʰəʔ-liɔ
 2399.wav|iɔ1 zoŋ=sɪɲ1 ʦu cʰi=le
 24.wav|kʷəʔ-ciɑ1 vɐʔ=fu tɕɔ=pʰiɔ gəʔ
-240.wav|kəʔ=məʔ ɑ1-'lɑ siã=mae kɔ1=gəʔ mɑ , ɦi zz ʦu zəʔ tʰi gəʔ ɦi ɦɑ-məʔ ʦoŋ1-kɑ gəʔ
+240.wav|kəʔ=məʔ ɑ1-'lɑ siã=me kɔ1=gəʔ mɑ , ɦi zz ʦu zəʔ tʰi gəʔ ɦi ɦɑ-məʔ ʦoŋ1-kɑ gəʔ
 2400.wav|mɑ mɑ gəʔ ze=liɔ kɐʔ=sɐʔ=ze lɔ cɪʔ-kʷəŋ gəʔ , ze=zz pəʔ1-sy kɑ̃=gəʔ məʔ-zz , noŋ-kɑ̃ te=vɐʔ
 2401.wav|ʦoŋ ʦz1=ɪʔ ti
 2402.wav|ɦi=le=gəʔ zo-we
@@ -1584,7 +1584,7 @@
 2423.wav|te-ɦəʔ te-ɦəʔ te-ɦəʔ , gəʔ gəʔ zz kʰəŋ=dɪɲ gəʔ
 2424.wav|ɪɲ1=we ɦi bɪɲ liã=sɪɲ1 ciã ɦi ɦɑ gəʔ ɕɪʔ=tɕy=ciɔ1=ɕyɪɲ ɦɑ ɕɪʔ=tɕy 'ləʔ vɐʔ sɔ-liɔ i=cɪɲ
 2425.wav|gəʔ ɦi=le=nø , ɪʔ-pe tɕã ʦoŋ=sø=nø cʰi=ɲiɪʔ ŋu 'ne ɦi loŋ 'ləʔ me-hɔ
-2426.wav|ɦi=le gəʔ=ti koŋ1 ɲɪɲ ɲi kɑ̃-cʰi zz-ciɑ1 , ze ɦe=mae hʷø=ɲɪɲ , ɪɲ1=we sɐʔ dɔ=li , ɦi ʦu-liɔ ɦe-zz vɐʔ tɕu=gəʔ , zəŋ-sɪɲ du=kɔ1
+2426.wav|ɦi=le gəʔ=ti koŋ1 ɲɪɲ ɲi kɑ̃-cʰi zz-ciɑ1 , ze ɦe=me hʷø=ɲɪɲ , ɪɲ1=we sɐʔ dɔ=li , ɦi ʦu-liɔ ɦe-zz vɐʔ tɕu=gəʔ , zəŋ-sɪɲ du=kɔ1
 2427.wav|ɲɪɲ hɔ , gəʔ zz te vɐʔ te lɔ=pɐʔ=sɪɲ kɑ̃-cʰi-le zz=ʦoŋ gəʔ-ɦəʔ ciɔ sɐʔ=gəʔ , gəʔ ɦɪɲ=ɦɪɲ ɲɪɲ-kɑ1 kɑ̃-cʰi-le
 2428.wav|dɪʔ-ɦəʔ ɦɑ-iɔ1 ɦiɤ ci1=ɲy
 2429.wav|be cʰi=ɲiɪʔ vɐʔ zz=ciɑ hɔ be=gəʔ
@@ -1599,7 +1599,7 @@
 2437.wav|gəʔ-ɦəʔ-zz ɪɲ1=we ŋu zz vɐʔ zz lɔ toŋ=gəʔ , cʰi=ɲiɪʔ fɑ̃=mi zz gəʔ-ɦəʔ-zz , te ŋu kɑ̃-cʰi-le zz ʦəŋ1-ku ɪʔ , ʦəŋ1-ku ɪʔ=ŋe=ŋe vɐʔ toŋ
 2438.wav|de=zz zəŋ-sɪɲ
 2439.wav|te=vɐʔ gəʔ zz ŋu zz kʰəŋ=dɪɲ toŋ=gəʔ , ɪɲ1=we ʦu=zz=tʰi iɔ1 ɦiɤ lɔ pe ʦu ɦiɤ zəŋ-sɪɲ 'lɑ
-244.wav|pi-ciɔ zəŋ-sɪɲ gəʔ , ɲɪɲ mae kʰø1=zɑ̃-cʰi ɦɑ mae=pəŋ fəŋ1-ɦəʔ , mae lɔ=zəʔ gəʔ , ɦi ciã ɪʔ=dɪɲ=iɔ1 , ʦu ɲɪɲ iɔ1 zəŋ-sɪɲ gəʔ iɔ1 sɐʔ məʔ-zz
+244.wav|pi-ciɔ zəŋ-sɪɲ gəʔ , ɲɪɲ me kʰø1=zɑ̃-cʰi ɦɑ me=pəŋ fəŋ1-ɦəʔ , me lɔ=zəʔ gəʔ , ɦi ciã ɪʔ=dɪɲ=iɔ1 , ʦu ɲɪɲ iɔ1 zəŋ-sɪɲ gəʔ iɔ1 sɐʔ məʔ-zz
 2440.wav|noŋ vɐʔ iɔ1-kɑ̃ , ɲɪɲ-kɑ1 ɦo-dɤ koŋ1 ɲɪɲ ɑ iɔ1 kʰe=sɪɲ1 ciɔ1-kʷe
 2441.wav|e , koŋ1=ʦz sɤ=si1 iɔ1 tɔ=we , te=vɐʔ=ciã hɔ tu1=sɔ koŋ1=ʦz , tɔ-zəŋ-kʷɑ̃1 fɐʔ zy=iɔ1 fɐʔ
 2442.wav|te=vɐʔ=ɦe ɦiɤ-ɪʔ-ɦəʔ cʰɪʔ , ŋu fɐʔ-ciɐʔ ɑ1-'lɑ ɑ1-'lɑ ku1 te vɐʔ , cʰɪʔ kɐʔ sɐʔ ŋu , ze pəʔ ɦi lɑ cʰɪʔ-liɔ lɔ hɔ=ŋu
@@ -1626,7 +1626,7 @@
 2461.wav|te=vɐʔ , noŋ loŋ-ku ʦəʔ1 se1 ŋ-ve ɦiã=di kʰu=i bəʔ=siã1 'ləʔ
 2462.wav|noŋ=iɔ1 zy=zz ciã=ɲi zy=zz iɔ1=noŋ tu1 ʦu ʦu=koŋ1 kʰu , tu1 kʰø1=kʰø1 tu1 tɪɲ di=nɔ
 2463.wav|e ŋu tɔ iɔ1-vəŋ məŋ-noŋ le , ŋu ɦɑ-siã nɐʔ ʦu=ku=pʰiɔ ʦu , pʰi=zz ciã=ɑ ŋu ʦu-ku ŋ-ve kʰʷe
-2464.wav|vae=kʰʷe=nø zy=zz ciã=iɔ1 ɦe-zz nɔ
+2464.wav|ve=kʰʷe=nø zy=zz ciã=iɔ1 ɦe-zz nɔ
 2465.wav|kɑ=we iɔ1 kɔ1=ti=gəʔ nø=hɔ mɑ=vɐʔ , ɦe-zz kɑ=we ti1=ti gəʔ mɑ , gəʔ-ɦəʔ məʔ-zz ŋu zz ɪʔ=cʰiɔ=vɐʔ=tʰoŋ1 iɑ
 2466.wav|ŋ-ve kʰʷe gəʔ noŋ=ɦiɤ tɪʔ ŋ-ve kʰʷe gəʔ zəŋ=pəŋ
 2467.wav|lɐʔ=lɐʔ=e1 gəʔ=ʦoŋ1 ti1=kɑ=we mɑ , zɪʔ=te=vɐʔ hɔ mɑ kɔ1=kɑ=we
@@ -1640,7 +1640,7 @@
 2474.wav|ɦe-ɦiɤ ɪʔ ʦɐʔ1 zz mɑ-liɔ
 2475.wav|ɪʔ=tɕi1 ku ku-zz cy kʰʷe=dɤ gəʔ
 2476.wav|doŋ=ɦiã ɪʔ ɲɪɲ ɪʔ=tɔ1 , ɦi noŋ tɪʔ tɔ liã kʰʷe ɦi zy tɪʔ tɔ tɔ sz kʰʷe ŋ
-2477.wav|noŋ ʦe-cʰi pu , noŋ dɪʔ-ɦəʔ li=ɕiã dɪʔ-ɦəʔ ŋ-ve kʰʷe i=cɪɲ ɪʔ=pø məʔ-liɔ , ɦe-ɦiɤ liã-ve ŋ 'ləʔ , noŋ dɪʔ-ɦəʔ pu=noŋ mae ne pu=we le-ku
+2477.wav|noŋ ʦe-cʰi pu , noŋ dɪʔ-ɦəʔ li=ɕiã dɪʔ-ɦəʔ ŋ-ve kʰʷe i=cɪɲ ɪʔ=pø məʔ-liɔ , ɦe-ɦiɤ liã-ve ŋ 'ləʔ , noŋ dɪʔ-ɦəʔ pu=noŋ me ne pu=we le-ku
 2478.wav|e , gəʔ gəʔ tɔ zz-ku , gəʔ ŋu zəŋ=ŋu=zəŋ ɲɪɲ=gəʔ
 2479.wav|su=i ɦiɤ=ʦoŋ məʔ-zz tɪʔ=tɔ ti1=gəʔ , ʦəŋ1-ku məʔ=be fɐʔ=cʰi pu=gəʔ
 248.wav|ɦe-iɔ1 hɔ , lɐʔ gəʔ=ʦoŋ zɪɲ-hʷɑ̃ ɦo-dɤ ɲi ciɔ1-kʷe lɔ=pɐʔ=sɪɲ , zəŋ=ʦz pɐʔ-səʔ sø=gəʔ , ɦɑ-ɦiɤ tɪʔ cy-səʔ sø=gəʔ
@@ -1667,7 +1667,7 @@
 2499.wav|ŋu , ɲiø=le gəʔ-nəŋ ɑ
 25.wav|tɕɔ1=ku ŋ zəʔ-ve i-ne gəʔ , kʷəʔ-ciɑ1 vɤ-te gəʔ tɕɔ=pʰiɔ , gəʔ zz ʦəŋ1=səʔ vəŋ=ɟi de=ɦo le-ku
 250.wav|pɔ=zo li siã1 ʦu-ku ɲɪɲ təŋ=təŋ
-2500.wav|gəʔ gəʔ=ʦoŋ məʔ-zz tɔ-ɦɑ mae=hɐʔ ɲɪɲ gəʔ mɑ
+2500.wav|gəʔ gəʔ=ʦoŋ məʔ-zz tɔ-ɦɑ me=hɐʔ ɲɪɲ gəʔ mɑ
 2501.wav|gəʔ ku=pʰiɔ gəʔ-nəŋ vɐʔ we-ʦu gəʔ ɲɪɲ nø=ɦi le kɑ̃-cʰi-le ɦɑ-zz ʦoŋ vɤ-te
 2502.wav|ɪɲ1=we sɐʔ dɔ=li ɑ
 2503.wav|gəʔ-ɦəʔ kɔ1=kɑ we=məʔ , noŋ i=cɪɲ mɑ-liɔ ciɑ-sz tɪʔ-ɦo=cʰi , vɐʔ toŋ=gəʔ ɲɪɲ tɔ-zəŋ-kʷɑ̃1 tɪʔ tʰəʔ-liɔ , ɪʔ=zəʔ ɲiã ɦi cʰi ɲiã ɦi cʰi tɪʔ=tɪʔ
@@ -1724,7 +1724,7 @@
 255.wav|kəʔ=məʔ ʦəŋ1=hɔ gəʔ ʦəʔ1 ci1-we ɦɤ=ʦɪɲ 'ləʔ , tɑ̃=zø , di=ɪʔ=ɲi we-kʰu=i gəʔ , di-ɲi=ɲi we-kʰu=i gəʔ
 2550.wav|gəʔ tɔ ɦɑ-zz ʦɐʔ1 mo=ve zz=tʰi ɑ gəʔ-ɦəʔ
 2551.wav|gəʔ ɦɑ vɐʔ dɑ=kø ʦu , gəʔ-nəŋ ʦəŋ1-ku ɦɑ hɐʔ=gəʔ
-2552.wav|ɦi=le dɤ=ʦz=məʔ ɦɑ vɐʔ kø , dɤ=ʦz ŋɑ=dɤ ŋɑ-kɑ1 , ɦi=le gəʔ=ʦoŋ məʔ-zz ciã pʰi=zz ciã=ɑ , dɤ=ʦz=lɐʔ=ze mae=hɐʔ ɲɪɲ gəʔ
+2552.wav|ɦi=le dɤ=ʦz=məʔ ɦɑ vɐʔ kø , dɤ=ʦz ŋɑ=dɤ ŋɑ-kɑ1 , ɦi=le gəʔ=ʦoŋ məʔ-zz ciã pʰi=zz ciã=ɑ , dɤ=ʦz=lɐʔ=ze me=hɐʔ ɲɪɲ gəʔ
 2553.wav|ɦi=le ciɔ1-kʷe məʔ-zz vɐʔ kø dɤ=ʦz , vɑ̃=tɕe=məʔ dɤ=ʦz pəʔ=noŋ kɑ̃-cʰi-le me-hɔ gəʔ , de=zz tɕɔ=pʰiɔ kɔ1=dɤ zz zəʔ=le dɐʔ=vɐʔ=tɔ iɔ1=ɟy
 2554.wav|gəʔ zz hu1 gəʔ zz ɑ1-'lɑ
 2555.wav|koŋ1=ʦz siɔ-ɦəʔ ɲɪɲ ɑ , gəʔ , gəʔ zz ɪʔ-ku ɪʔ=dɑ hɑ1-hɑ1 , me=ʦz1 ɑ gəʔ zz-ɑ , mɑ vɑ̃=ʦz zz mɑ=vɐʔ cʰi=gəʔ
@@ -1819,7 +1819,7 @@
 2635.wav|zy zy=iɔ1 kʰø1-ku gəʔ ʦəʔ1 ve=ti ɲi , ʦɪɲ-cʰi
 2636.wav|ŋu zz vɐʔ zz ɦiɤ=təʔ ɲɪɲ ly=liã
 2637.wav|ciɑ-sz ciã=məʔ ɲɪɲ ly=liã ɲi , siã=cʰɪʔ
-2638.wav|ŋu ɦɑ vɐʔ tɔ gəʔ pae ve=ti li=ɕiã cʰi-cʰɪʔ , ɪɲ1=we we sɐʔ=gəʔ li=tɕe kʰəŋ=dɪɲ vɐʔ zz vɐʔ sɪɲ1=si gəʔ
+2638.wav|ŋu ɦɑ vɐʔ tɔ gəʔ pe ve=ti li=ɕiã cʰi-cʰɪʔ , ɪɲ1=we we sɐʔ=gəʔ li=tɕe kʰəŋ=dɪɲ vɐʔ zz vɐʔ sɪɲ1=si gəʔ
 2639.wav|zz=ku ciã gəʔ ʦəʔ1 ve=ti ɲɪɲ ly=liã
 264.wav|se1-ku ɦɔ=dɤ
 2640.wav|ŋu lɔ tu1-ku , te=vɐʔ=mɑ zu=lɪʔ lɔ=kɔ1 gəʔ
@@ -1844,8 +1844,8 @@
 2658.wav|e , ɦi=le təŋ-ləʔ oʔ=li siã1 gəʔ-nəŋ kəʔ ɦiã=ʦz tɪʔ te vɐʔ , ŋu ciɐʔ-zɐʔ gəʔ-ɦəʔ kɔ1=dɤ te=vɐʔ 'lɑ , ɦɑ-zz lɔ iɔ1=cɪɲ gəʔ ɪʔ=ʦɑ̃ zz=tʰi
 2659.wav|ɦiɤ-iɔ1 bɑ=mɪɲ hɔ ɦiɤ-iɔ1 ɦiɤ ɲɪɲ=cʰi ɦiɤ-iɔ1 sɪɲ=kɑ pi hɔ . e1 , gəʔ-ɦəʔ te=vɐʔ 'lɑ , cɪɲ1=ɲi=ʦz ŋu ciɐʔ-zɐʔ gəʔ ʦɑ̃ zz=tʰi te=vɐʔ
 266.wav|ɦe-ɦiɤ ciɔ1-kʷe ɲɪɲ zəŋ=ʦz kɑ̃=kɑ̃ kʰe=sz dɤ , ɦɑ-zz tɕɪɲ bã=ɦiɤ ciɑ-zɔ ʦɪɲ-cʰi , ɦiɤ-si1 bã=ɦiɤ i=cɪɲ lɐʔ=lɐʔ li siã1 ɪʔ=ɲi tɔ ɲi-ɲi 'ləʔ
-2660.wav|tɔ=zz ŋu ciɐʔ-zɐʔ ɦiɤ-zz ɪʔ-diɔ sɪɲ1-ɦəʔ fɑ̃=fɐʔ , tɔ zz=mae hɔ-ku
-2661.wav|zz-ku , ʦu ve=ti zəʔ=ʦi zɑ̃ mae ne=gəʔ
+2660.wav|tɔ=zz ŋu ciɐʔ-zɐʔ ɦiɤ-zz ɪʔ-diɔ sɪɲ1-ɦəʔ fɑ̃=fɐʔ , tɔ zz=me hɔ-ku
+2661.wav|zz-ku , ʦu ve=ti zəʔ=ʦi zɑ̃ me ne=gəʔ
 2662.wav|'ŋ , ɦiɤ-cy ɦe=ɦo zy nɑ-nəŋ ciã=vɐʔ , ve=ti
 2663.wav|tʰi1=tʰi1
 2664.wav|ɦiɤ ɲɪɲ=kʰe tʰi1=tʰi1 ɦiɤ ɲɪɲ=kʷe
@@ -1870,9 +1870,9 @@
 2681.wav|e-ɦiɔ , kɑ̃-tɔ kʷɑ̃1-mɪɲ dəŋ kʷɑ̃1-mɪɲ dəŋ zz sã1-i ɪʔ=zəʔ lɔ=hɔ e , zɑ̃=he ɲɪɲ ze lɔ hʷø=ɕi gəʔ
 2682.wav|zz-ku , ɦi mi-dɔ ɦiɤ hɔ ɦiɤ-ɦiɤ təʔ ʦz1=mɪɲ=du
 2683.wav|su=i ɪʔ=zəʔ zz ɪʔ=zəʔ zz lɔ=hɔ , lɔ=zɤ ɲɪɲ hʷø=ɲɪɲ=gəʔ
-2684.wav|kʷɑ̃1-mɪɲ dəŋ ŋu ɦɑ mae hʷø=ɕi cʰi cʰɪʔ-ɦəʔ
+2684.wav|kʷɑ̃1-mɪɲ dəŋ ŋu ɦɑ me hʷø=ɕi cʰi cʰɪʔ-ɦəʔ
 2685.wav|zz-ku iɑ , e1=mi=kɑ ciɔ1=tʰoŋ1 ɦiɤ bi=tɑ̃ te=vɐʔ
-2686.wav|kəʔ=məʔ zɑ̃=he ɲɪɲ zz=mae hʷø=ɕi cʰi cʰɪʔ-ɦəʔ .
+2686.wav|kəʔ=məʔ zɑ̃=he ɲɪɲ zz=me hʷø=ɕi cʰi cʰɪʔ-ɦəʔ .
 2687.wav|kəʔ=məʔ lɪɲ=ŋɑ nø zy=zz ciã
 2688.wav|ciɔ1-kʷe nø , zy=zz ciã noŋ-kɑ1=loʔ .
 2689.wav|pi-fɑ̃ ciã=ɦiɤ=ti , 'ŋ ciɔ1-cʰy gəʔ di=fɑ̃ ɪʔ-ɦiã-ɦəʔ voŋ=ɦi ɑ , tɕɪɲ1=pʰu ɑ
@@ -1892,7 +1892,7 @@
 2700.wav|kəʔ=məʔ gəʔ-nəŋ kəʔ=nø , 'nɑ zy=zz ciã=te doŋ-ɦoʔ zy-we doŋ=zz zy-we , dɑ-ciɑ1 ze=si=zəʔ gəʔ=ʦoŋ di=fɑ̃ 'me-tu1 gəʔ
 2701.wav|ziã gəʔ ʦoŋ=le ɦɪɲ=gəʔ ve ti=nø , lɐʔ=ləʔ zy-we tɑ̃=ʦoŋ1 , ŋu ɦɑ tɕø-kɑ1 ku hɔ=ci tʰɑ̃1
 2702.wav|tɔ-liɔ ɦiɑ=li siã1=nø 'nɑ=ve cʰɪʔ=hɔ ʦz=i ɦɤ , zy we-təʔ pʰɑ tɕo-ʦz soŋ=tɔ 'nɑ di=tʰɪʔ=ze , zø=ɦɤ=nø 'nɑ ʦe we=zɑ̃=he
-2703.wav|kəʔ=məʔ ɦi lɑ nø gəʔ=ʦoŋ sã1-i ɦɑ-ʦu ləʔ=mae wəʔ=gəʔ ɪɲ-ke-kɑ̃
+2703.wav|kəʔ=məʔ ɦi lɑ nø gəʔ=ʦoŋ sã1-i ɦɑ-ʦu ləʔ=me wəʔ=gəʔ ɪɲ-ke-kɑ̃
 2704.wav|e cɪɲ1=ɲi=ʦz ze=iɔ1 vɐʔ dø=gəʔ le , le ke=pi zz-ciɑ1=gəʔ gəʔ=ʦoŋ cɪɲ=ɦɪɲ tɕɐʔ=liɐʔ ŋu
 2705.wav|ɑ1-'lɑ lɔ=ʦɔ=ʦz ŋu gəʔ-ɦəʔ ciɔ sɐʔ=gəʔ , ciɐʔ-zɐʔ nɔ noŋ-kɑ̃ zɑ̃=he vu=ɟɪɲ ɑ
 2706.wav|zy=zz gəʔ-ɦəʔ ciɔ sɐʔ ɑ zoŋ=mɪɲ gəʔ=tɐʔ , noŋ-kɑ1=loʔ ɦɑ lɔ-hɔ-ɦəʔ , zoŋ=mɪɲ zz ɪʔ=zəʔ ʦu lɔ=hɔ , de=zz
@@ -1903,8 +1903,8 @@
 2710.wav|ɦi tɕo-ʦz lɔ=sɐʔ ze=zz zz-ciɑ1 təŋ-z zz cʰi , e , ɦɑ-zz təŋ-ləʔ e1=mi=dɤ noŋ-kɑ1=loʔ
 2711.wav|si1=zz ɪʔ=ɦiɑ=tʰi1 ɑ wəʔ=ʦe vu=ɟɪɲ , gəʔ=pɪɲ=kʷø cʰi zz ɪʔ=ɦiɑ=tʰi1 ɑ .
 2712.wav|dɑ-ciɑ1 ɪʔ=dɔ ciɔ1 kɔ1-sɪɲ1 ɑ , e , tɕɑ̃ tɕɑ̃=ku1 ɑ , tã=tã=bɑ ɑ , təŋ1=ləʔ ɪʔ=dɔ
-2713.wav|te=vɐʔ zy gəʔ-nəŋ kəʔ ɦiã=ʦz ku ɪʔ=ɦiɑ=tʰi1 , tɔ zz=mae hɔ-ku cʰɪʔ cʰɪʔ ɦi lɑ gəʔ tɑ̃=di gəʔ=noŋ fu-tɕe pʰɪɲ
-2714.wav|ʦe , ne=məʔ ʦe mɑ=ti we=le , ʦe tɑ tɔ zz-ciɑ1 , sã1 sã1=zəŋ gəʔ tɑ̃=ʦoŋ1 le təŋ-z ɦɑ zz=mae hɔ-ku ɪʔ=ʦɑ̃ zz=tʰi
+2713.wav|te=vɐʔ zy gəʔ-nəŋ kəʔ ɦiã=ʦz ku ɪʔ=ɦiɑ=tʰi1 , tɔ zz=me hɔ-ku cʰɪʔ cʰɪʔ ɦi lɑ gəʔ tɑ̃=di gəʔ=noŋ fu-tɕe pʰɪɲ
+2714.wav|ʦe , ne=məʔ ʦe mɑ=ti we=le , ʦe tɑ tɔ zz-ciɑ1 , sã1 sã1=zəŋ gəʔ tɑ̃=ʦoŋ1 le təŋ-z ɦɑ zz=me hɔ-ku ɪʔ=ʦɑ̃ zz=tʰi
 2715.wav|ɦi=le ŋu , zy=zz ciã , 'ŋ , zy kɑ̃1-ʦəʔ di-cʰy nø
 2716.wav|ɦi ʦu sɪɲ1 cɪʔ pɪɲ kʷø , ɦi ɦɑ we-təʔ lɔ we-təʔ lɑ=sã1-i gəʔ
 2717.wav|tɔ-liɔ voŋ ɲi ku=ʦɪʔ gəʔ zəŋ-kʷɑ̃1 , kəʔ=məʔ sã1-i pi-ciɔ tɕɪɲ1=de
@@ -1915,11 +1915,11 @@
 2721.wav|ɦi lɑ zy 'ne , ŋu , kɑ=di ɲi , ø=ʦɔ ɲiø=le kɑ=di tã ʦəʔ=dɤ , zy ɕɪʔ=ɦɪɲ kʰɐʔ=wu
 2722.wav|kəʔ=məʔ ɑ1-'lɑ nø oʔ=li siã1=nø , cɪɲ=zã zz gəʔ-nəŋ kəʔ ɦiã=ʦz gəʔ
 2723.wav|tɔ-liɔ tɕəŋ1=ʦɪʔ gəʔ zəŋ-kʷɑ̃1 nø , zy mɑ̃ lɑ̃ siã1=kʰø1
-2724.wav|pi-fɑ̃ ciã , cɪɲ1=ɲi ɦɑ̃=ʦɤ1 ɦiɤ ci-ku di=fɑ̃ , ŋu , sɪɲ1=cɪʔ pɪɲ=kʷø kɑ=di tã ʦəʔ=dɤ tã-liɔ zz=mae tɔ=we gəʔ
+2724.wav|pi-fɑ̃ ciã , cɪɲ1=ɲi ɦɑ̃=ʦɤ1 ɦiɤ ci-ku di=fɑ̃ , ŋu , sɪɲ1=cɪʔ pɪɲ=kʷø kɑ=di tã ʦəʔ=dɤ tã-liɔ zz=me tɔ=we gəʔ
 2725.wav|kəʔ=məʔ ɑ1-'lɑ zy we-təʔ cʰi=tɪɲ ci=ci vɑ̃=ci . tɪɲ=ci=ci vɑ̃=ci nø , oʔ=li siã1 tɕɪɲ=tɕɪɲ=ciø=ciø nø=zy ɪʔ=dɔ cʰi , ɪʔ=dɔ cʰi , cʰi təŋ=gəʔ liã=tʰi1 se1=tʰi1
 2726.wav|kəʔ=məʔ zy=zz ciã 'ŋ , sã-təʔ ɲi , zy=zz ciã zɑ̃=he cɪɲ1=ʦɔ1 ŋu ciɔ1=noŋ pɑ=ɲi , məŋ-ʦɔ1 ŋu kəŋ1=noŋ pɑ=ɲi
 2727.wav|dɑ-ciɑ1 zy təŋ-ləʔ e1=mi kəʔ=məʔ , zy dɑ-ciɑ1 zy zy=lɐʔ ɪʔ=dɔ te=vɐʔ , ɲiɪʔ-li-ɕiã nø , zy ɦe-hɔ tɕəʔ-cʰi bəʔ=siã1=siã1
-2728.wav|kəʔ=məʔ gəʔ-nəŋ kəʔ=nø , 'nɑ zy=zz ciã dɑ-ciɑ1 ze=mae zəʔ=we , ɦi lɑ nø ɦɑ təʔ=tɔ li=ɪʔ , ɑ1-'lɑ mɑ ɦɑ təʔ=tɔ zəʔ=we
+2728.wav|kəʔ=məʔ gəʔ-nəŋ kəʔ=nø , 'nɑ zy=zz ciã dɑ-ciɑ1 ze=me zəʔ=we , ɦi lɑ nø ɦɑ təʔ=tɔ li=ɪʔ , ɑ1-'lɑ mɑ ɦɑ təʔ=tɔ zəʔ=we
 2729.wav|kəʔ=məʔ gəʔ-ɦəʔ be=fɐʔ ɲi , ŋu ciɐʔ-zɐʔ ɦɑ zz=cɪɲ ɦɪɲ=ʦe siã tɕəʔ=le ɪʔ-ku hɔ-ku be=fɐʔ
 273.wav|ŋu bã=ɦiɤ sz-səʔ pɐʔ-ve ŋu
 2730.wav|gəʔ zz me-hɔ ŋu nɑ-nəŋ fɑ̃=bi , nɑ-nəŋ kəʔ=le
@@ -1928,7 +1928,7 @@
 2733.wav|lɔ=kʰe kʰe=sɪɲ1 sɪɲ1=gəʔ , zy fɑ̃ tɕəʔ=ti fɑ̃ soŋ , tɕəʔ=ti ɕiã=zɤ sã1=wəʔ
 2734.wav|tɕəʔ=ti təŋ lɐʔ=e1 mi=tɐʔ , zy zy=zz ke nɑ-nəŋ bəʔ=siã1 , zy nɑ-nəŋ bəʔ=siã1 ke nɑ-nəŋ cʰɪʔ zy nɑ-nəŋ cʰɪʔ nɑ nəŋ-le zy nɑ nəŋ-le gəʔ zz ʦəŋ1-ku zz lɔ=hɔ ɪʔ=ʦɑ̃ zz=tʰi
 2735.wav|cʰɪɲ soŋ iɑ , ɦi=le ɲɪɲ zy wəʔ-'ləʔ cʰɪɲ soŋ ti , vɐʔ iɔ1=wəʔ 'ləʔ tʰəʔ cʰɪʔ=lɪʔ
-2736.wav|ŋu pəŋ=səŋ1 zy ɲɪɲ tɔ-liɔ gəʔ-nəŋ kəʔ sø=su , i=cɪɲ ciɐʔ-zɐʔ ŋu mae mae mae mae cʰɪʔ=lɪʔ gəʔ
+2736.wav|ŋu pəŋ=səŋ1 zy ɲɪɲ tɔ-liɔ gəʔ-nəŋ kəʔ sø=su , i=cɪɲ ciɐʔ-zɐʔ ŋu me me me me cʰɪʔ=lɪʔ gəʔ
 2737.wav|zy=zz ciã=iɔ1 siã=be=fɐʔ iɔ1 cʰɪɲ soŋ . kəʔ=məʔ cʰɪɲ soŋ gəʔ , te zz-ciɑ1 le-kɑ̃ zz zz ɦɑ-zz ɪʔ=ʦoŋ ɕiã=zɤ te=vɐʔ
 2738.wav|ŋu ciɐʔ-zɐʔ me-hɔ gəʔ
 2739.wav|kəʔ=məʔ ve ti=nø , ŋu ciɐʔ-zɐʔ nø , 'ŋ , hɔ-ku ve=ti ŋu zy=zz ciã
@@ -1938,7 +1938,7 @@
 2742.wav|ciɑ-sz ciã cɪɲ1=ɲi vɐʔ ʦəŋ=be tɕəʔ-cʰi gəʔ , kəʔ=məʔ zy zy lɔ=ʦɔ , zy kʰe=sz iɔ1-cʰi tɪɲ=ɲi ɦiɑ=ve 'ləʔ
 2743.wav|tɪɲ=ɲi ɦiɑ=ve nø , ɪʔ-pe ɦi le 'ləʔ ʦoŋ1=tɕy1=ʦɪʔ zi=ɦɤ=zy kʰe=sz iɔ1 tɪɲ-liɔ 'lɑ , tɪɲ-liɔ i ɦɤ
 2744.wav|kəʔ=məʔ ciɑ-sz kɑ̃-noŋ pɑ=ləʔ ɦɤ=dɤ tɪɲ ɲi , ɦe-iɔ1 bɑ=de ŋu , tɪɲ=gəʔ zəŋ-kʷɑ̃1 ɦe-iɔ1 bɑ=de ŋu , bɑ=de ɦiɤ=noŋ dɪɲ ɑ li ci=ʦoʔ
-2745.wav|ɑ li ci=ci pɔ1=vɑ̃ kəʔ=məʔ zy bɐʔ ɦi tɪɲ-ɦo le , noŋ ciɑ-sz ciã cʰi-'ləʔ uae=gəʔ ɦe=ɦo ɲi , ɲi ɦiɑ=ve zy tɪɲ=vɐʔ zɐʔ 'ləʔ .
+2745.wav|ɑ li ci=ci pɔ1=vɑ̃ kəʔ=məʔ zy bɐʔ ɦi tɪɲ-ɦo le , noŋ ciɑ-sz ciã cʰi-'ləʔ ue=gəʔ ɦe=ɦo ɲi , ɲi ɦiɑ=ve zy tɪɲ=vɐʔ zɐʔ 'ləʔ .
 2746.wav|kəʔ=məʔ ɦi=le ɪʔ-pe ɲi ɦiɑ=ve nø , ɪʔ-pe-sɪɲ ze=le ŋɑ=dɤ cʰɪʔ-ɦəʔ
 2747.wav|cʰɪʔ=hɔ ʦz sã-lɪʔ iɑ , cʰɪʔ=hɔ ʦz we=le zy zy zy məʔ sɑ=zz=tʰi 'ləʔ ɑ zz-ɑ
 2748.wav|zz-ku zz-ku hɔ-ku ve=ti ɲi ɦiɑ=ve ʦəŋ1-ku zz lɔ=ne tɪɲ=gəʔ , ʦəʔ1=iɔ1 zz=noŋ ciɑ-sz ciã=məʔ=ɟɪʔ zz cʰi tɪɲ
@@ -1947,7 +1947,7 @@
 2750.wav|zø ɦɤ ʦəʔ1=hɔ kɑ̃-ti1 piɔ=ʦəŋ , tɔ gəʔ-ɦəʔ ciɔ sɐʔ=gəʔ , ɦe-məʔ tɪɲ=tʰəʔ=gəʔ ve=ti cʰi , su=i ze=sɐʔ=gəʔ zz=tʰi ze=iɔ1 ɦi=le iɔ1 ci=wɐʔ
 2751.wav|cʰɪʔ=ve ɦɑ-iɔ1 ci=wɐʔ , sɐʔ=gəʔ ɦɑ-iɔ1 ci=wɐʔ ze=iɔ1 ɦiɤ ci=wɐʔ , ci=wɐʔ hɔ=zø ɦɤ zy təŋ-z zz nəŋ-kɤ ʦu=tɔ zz-ciɑ1
 2752.wav|zy=zz kɑ̃-zz ʦø siã=iɔ1 ku-ʦø nəŋ-kɤ dɐʔ=tɔ gəʔ , moʔ=tɪʔ zy=zz gəʔ-nəŋ kəʔ
-2753.wav|ve=ti cɪɲ=ɦɪɲ=ʦe nø=mae ne ʦu e , ɦi iɔ1=kʷø we-səŋ1 , ɦiɤ-iɔ1 kʷø ø1=zi , kʷø siɔ1-vɑ̃
+2753.wav|ve=ti cɪɲ=ɦɪɲ=ʦe nø=me ne ʦu e , ɦi iɔ1=kʷø we-səŋ1 , ɦiɤ-iɔ1 kʷø ø1=zi , kʷø siɔ1-vɑ̃
 2754.wav|ciɑ-sz gəʔ we-səŋ1 koŋ1=ʦoʔ ʦu=ləʔ=vɐʔ hɔ , kəʔ=məʔ zy zy=iɔ1 zɤ=tɔ gəʔ kʰɐʔ=wu gəʔ dɤ=su
 2755.wav|ɑ1-'lɑ zɑ̃=tʰɑ̃1 zy ɦiɤ 'ŋ , ɦiɤ ʦɐʔ1 ve=ti li zy pɔ1 liɔ-liã ʦoʔ mɑ , liã=ʦoʔ zy=zz doŋ-ɦoʔ zy-we
 2756.wav|cɪʔ=ku bɑ̃=pi=dɤ gəʔ doŋ-ɦoʔ ɪʔ=ʦoʔ li siã1=dɤ ŋu cʰɪʔ=tɔ ɪʔ-ku ʦɑ̃=lɑ̃ , ɪʔ ʦɐʔ1 tɕe li=ɕiã cʰɪʔ=tɔ ɪʔ ʦɐʔ1 ʦɑ̃=lɑ̃
@@ -1964,7 +1964,7 @@
 2766.wav|kəʔ=məʔ ɦɤ=dɤ nø , ŋu tʰɪɲ ɑ1-'lɑ bã=ɦiɤ ciã , ɦi ciã ɦi lɑ ɦɤ=dɤ nø zɪɲ=ɲiø ɦɑ cɪɲ=zã=tɔ gəʔ pe1 ve=ti cʰi-cʰɪʔ , ɪɲ1=we we sɐʔ dɔ=li cʰi-cʰɪʔ 'ləʔ i=ɦɤ=nø
 2767.wav|'ŋ , bã=tɔ vəŋ=di nø , cɪɲ li-we təʔ tʰu=zø tɕz=li hɔ , r-tɕiɑ1 ɲi , ɦi cʰi-cʰɪʔ 'ləʔ i ɦɤ ŋu , cɪɲ=li kʰø1=tɔ ɦi lɑ le 'ləʔ ŋu kəŋ1 ɦi lɑ tã=ʦɔ1=hu1
 2768.wav|ʦe ʦe-kɑ̃ tɔ zɑ̃=tʰɑ̃1 ɪʔ ʦɐʔ1 ʦɑ̃=lɑ̃ gəʔ zz=tʰi , piɔ=zz ɲi , piɔ=zz ɲi zy=zz zy 'ŋ cʰi ɦi . ɑ zz-ɑ
-2769.wav|kəʔ=məʔ gəʔ pae=ve ti=nø , ɦi=le sã1-i ɦe-zz ʦu-liɔ lɔ hu-ɦoŋ gəʔ
+2769.wav|kəʔ=məʔ gəʔ pe=ve ti=nø , ɦi=le sã1-i ɦe-zz ʦu-liɔ lɔ hu-ɦoŋ gəʔ
 277.wav|lɐʔ=lɐʔ se1-ku ɦɔ=dɤ tɑ̃=ʦoŋ1 , ɦi ciɑ-zɔ 'ləʔ ŋu , ɦe ciɑ-zɔ 'ləʔ ɪʔ-ku bã=ɦiɤ ciɑ-zɔ liã-ku bã=ɦiɤ , ɪʔ-ku bã=ɦiɤ dɤ-liɔ loʔ-ve , ŋu dɤ ŋ-ve
 2770.wav|su=i ciã ɦiɤ-ku zəŋ-kʷɑ̃1 wɑ-zz pi hɔ=zz
 2771.wav|we=ci1 koŋ1=kʷe ɦɑ lɔ iɔ1=cɪɲ gəʔ , su=i kʷø=li=ʦe nɑ-nəŋ kəʔ 'ne mɤ ɪʔ=ʦɑ̃ vɐʔ hɔ-ku zz=tʰi nɑ-nəŋ kəʔ pəʔ ɦi
@@ -2025,7 +2025,7 @@
 2820.wav|ŋu ciɐʔ-zɐʔ gəʔ cʰɪʔ nø , zz lɔ iɔ1=cɪɲ gəʔ , cʰɪʔ nø , cʰɪʔ ləʔ hɔ 'ləʔ i ɦɤ , ɦiɤ tɪʔ ɦiɤ tɪʔ ɪʔ=dɪɲ gəʔ=ɦɪɲ ɦiã-liɔ
 2821.wav|kəʔ=məʔ te=səŋ1 tʰi=nø , zy ɦɑ-we tɪʔ hɔ-ɑ zz-ɑ
 2822.wav|kəʔ=məʔ lɪɲ=ŋɑ ɲi , ŋu ciɐʔ-zɐʔ 'ŋ , zz=tʰəʔ cʰɪʔ ʦz1=ŋɑ , ɑ1-'lɑ tɕø1 ɦɑ lɔ iɔ1=cɪɲ e , tʰəʔ=bɪʔ zz
-2823.wav|ŋu ɑ1-'lɑ zɑ̃-liɔ=sø=su gəʔ gəʔ=ti gəʔ=ti lɔ=doŋ=ʦz ŋu , noŋ ciɑ-sz ciã=tɕø1 ləʔ tʰəʔ tʰe=pae gəʔ
+2823.wav|ŋu ɑ1-'lɑ zɑ̃-liɔ=sø=su gəʔ gəʔ=ti gəʔ=ti lɔ=doŋ=ʦz ŋu , noŋ ciɑ-sz ciã=tɕø1 ləʔ tʰəʔ tʰe=pe gəʔ
 2824.wav|ciɐʔ-zɐʔ di-di dɐʔ=dɐʔ , ɲɪɲ ciɑ1 zy ciɐʔ-zɐʔ noŋ gəʔ ɲɪɲ lɔ di=dɐʔ=gəʔ , noŋ ɪʔ=dɪɲ=iɔ1 tɕø1=ləʔ tɕɪɲ1=tɕɪɲ1=sɑ̃=sɑ̃
 2825.wav|zɑ̃-ɦo tɐʔ=pʰe iɔ1=hɔ , gəʔ zz lɔ iɔ1=cɪɲ gəʔ , pəʔ , pəʔ=pəʔ ɲɪɲ-kɑ1 kʰø1=kʰø1 tɔ ɲi zz e1=ʦoŋ
 2826.wav|'ŋ , lɔ=lɔ lɔ=səʔ ɲi=gəʔ , gəʔ-nəŋ kəʔ ɪʔ-ku kø-ciɐʔ
@@ -2046,7 +2046,7 @@
 284.wav|di=se1 tʰɑ̃1 zz liã-ve , ɪʔ-goŋ1 ŋ-ve kɐʔ , ŋu bã=ɦiɤ ɪʔ=ci=dɤ loʔ-ve
 2840.wav|gəʔ ŋu tɔ zz=məʔ cʰɪʔ=ku , tʰɪɲ=noŋ ciɑ-zɔ ləʔ=ciɑ hɔ=ŋu , ʦɪʔ ɦo=le ɪɲ=ke ɦɑ-iɔ1 cʰi zɑ̃=sz zɑ̃=sz
 2841.wav|e , ʦəŋ1-ku zz hɔ=cʰɪʔ iɑ , ŋu zɑ̃=tʰɑ̃1 ʦz te vɐʔ , ɪɲ1=we ɦi le=te vɐʔ 'lɑ , ɲi=ci=cʰɪɲ gəʔ siɔ=bã=ɦiɤ , ɦi lɑ ze hʷø=ɕi cʰɪʔ sɪɲ1=si gəʔ məʔ-zz gəʔ
-2842.wav|zø ɦɤ oʔ=li siã1 siɔ=bã=ɦiɤ , ɦi zy ciã , e , gəʔ pɪɲ1=gəʔ lɪʔ-ʦz1 hɔ=cʰɪʔ . kəʔ=məʔ , ŋu zy e ŋu ɦɑ hɔ=ziã ɦɑ mae ɦiɤ-cɪɲ gəʔ , ɪʔ=mɑ zy mɑ-liɔ 'me-tu1 gəʔ 'lɑ
+2842.wav|zø ɦɤ oʔ=li siã1 siɔ=bã=ɦiɤ , ɦi zy ciã , e , gəʔ pɪɲ1=gəʔ lɪʔ-ʦz1 hɔ=cʰɪʔ . kəʔ=məʔ , ŋu zy e ŋu ɦɑ hɔ=ziã ɦɑ me ɦiɤ-cɪɲ gəʔ , ɪʔ=mɑ zy mɑ-liɔ 'me-tu1 gəʔ 'lɑ
 2843.wav|e mɑ hɔ=ʦz we le=cʰɪʔ 'ləʔ te vɐʔ 'lɑ , e zz hɔ=cʰɪʔ , su i=te vɐʔ 'lɑ ŋu ɦi=le ciɐʔ-zɐʔ ɦi ɦi le ze-kɑ̃ e , cʰɪʔ lɪʔ=ʦz te=vɐʔ 'lɑ , lɔ=hɔ e
 2844.wav|zy=zz ciã=te pu , zy=zz ciã=te zəŋ=zɑ̃ ɑ , sɐʔ məʔ-zz ze=ɦiɤ təʔ , vɐʔ cʰi kʷø ɦi ŋu , ʦəʔ1=iɔ1 zz-ciɑ1 hʷø=ɕi cʰɪʔ
 2845.wav|zz=ku ɦi ʦəŋ1=hɔ ɦiɤ=ti koŋ1=ɦiɔ gəʔ zz ʦø=ʦø hɔ=le , gəʔ ciɑ1 dɑ hʷø=ɕi , su=i ɦi le=te vɐʔ 'lɑ , noŋ-kɑ̃ cʰɪʔ məʔ-zz ŋu
@@ -2061,7 +2061,7 @@
 2853.wav|'ŋ , kəʔ=məʔ zy=zz ciã , 'ŋ , gəʔ-ɦəʔ nø nəŋ-zy 'me=tʰi1 iɔ1=cʰɪʔ sz=ku , ne=kɑ=nø zy=zz ciã=tɪɲ hɔ=cʰɪʔ liã ʦɐʔ1
 2854.wav|liã=ʦoŋ tɔ se1=ʦoŋ gəʔ pʰɪɲ=ʦoŋ , vɐʔ iɔ1 te-te cʰɪʔ=ɪʔ ʦoŋ pʰɪɲ=ʦoŋ
 2855.wav|kəʔ=məʔ sz=ku cʰɪʔ-liɔ i ɦɤ ɲi , zz ɪɲ-ke-kɑ̃ zz vɐʔ tɕu=gəʔ , li siã1=dɤ vi-səŋ1-su  ɦɑ-tu1 , te=vɐʔ te sɪɲ1=ɕyɪʔ=kʷø
-2856.wav|te te gəʔ-ɦəʔ 'ŋ , ɦɪɲ=ɦɪɲ=ɦiã ɕɪʔ=sɤ1 le-kɑ̃ zz=mae hɔ-ku
+2856.wav|te te gəʔ-ɦəʔ 'ŋ , ɦɪɲ=ɦɪɲ=ɦiã ɕɪʔ=sɤ1 le-kɑ̃ zz=me hɔ-ku
 2857.wav|kəʔ=məʔ lɪɲ=ŋɑ ɲi , zy=zz ciã cʰɪʔ-ɦəʔ fɑ̃=mi nø , noŋ=iɔ1 hʷəŋ=su iɔ1 tɐʔ=pʰe hɔ
 2858.wav|'ŋ , ʦɔ lɑ̃ ɕiã nø iɔ1=cʰɪʔ ləʔ hɔ , ʦoŋ1 lɑ̃ ɕiã nø iɔ1=cʰɪʔ ləʔ pɔ , ɦiɑ=li siã1 iɔ1=cʰɪʔ ləʔ=sɔ
 2859.wav|kəʔ=məʔ ɲɪɲ=kʰu ɦiɑ=li siã1 ɲɪɲ=kʰu cʰɪʔ tɕɪʔ-fəŋ1 pɔ ɑ , vɐʔ iɔ1=cʰɪʔ ləʔ zy zy lɔ tu1-ku ɑ zz-ɑ kəʔ=məʔ gəʔ-nəŋ kəʔ=nø , te siɔ1-ho ɦɑ=vɐʔ=liã
@@ -2107,7 +2107,7 @@
 2895.wav|noŋ cʰɪʔ ləʔ hɔ , tɕø1=ləʔ=hɔ , kəʔ=məʔ gəʔ-nəŋ kəʔ=nø , zy zz-ciɑ1 nø ɦiɤ=təʔ zz-sɪɲ=sɪɲ1
 2896.wav|noŋ cʰɪʔ ləʔ vɐʔ hɔ , cɪɲ=zã sã1-mɔ-bɪɲ , noŋ ue1=mi-pəʔ1=ʦəŋ1 , kəʔ=məʔ noŋ zz sɐʔ di=fɑ̃ le sɪɲ-sɪɲ1 'lɑ
 2897.wav|noŋ cɪɲ1=ʦɔ1 tɕø1=ləʔ=lɔ di=dɐʔ=gəʔ , noŋ zz-ciɑ1 ciɐʔ-zɐʔ nø=zy ʦɪɲ1=zəŋ ʦɪɲ1=zəŋ zɑ̃-hʷɑ̃ ɦɑ-ɦiɤ təʔ vəŋ=di
-2898.wav|ɪɲ1=we ŋu ɲiø=le koŋ1=ʦoʔ nø , zy=zz zoŋ=zz voʔ=ʦɑ̃ koŋ1=ʦoʔ gəʔ voʔ=ʦɑ̃ koŋ1=ʦoʔ nø=zy , ɦɑ mae ɦiɤ=təʔ 'nyi-cy-ɦəʔ , te=vɐʔ
+2898.wav|ɪɲ1=we ŋu ɲiø=le koŋ1=ʦoʔ nø , zy=zz zoŋ=zz voʔ=ʦɑ̃ koŋ1=ʦoʔ gəʔ voʔ=ʦɑ̃ koŋ1=ʦoʔ nø=zy , ɦɑ me ɦiɤ=təʔ 'nyi-cy-ɦəʔ , te=vɐʔ
 2899.wav|'ŋ ɑ1-'lɑ ɑ1-'lɑ ɑ1-'lɑ nø=zy bɪɲ=zã , ɪɲ1=we zz ʦu pʰɪɲ=bɑ gəʔ 'lɑ
 29.wav|gəʔ , gəʔ ɲɪɲ-ɦɑ̃ li=ze , ɲɪɲ-ɦɑ̃ gəʔ=tɕe=pʰɪɲ
 290.wav|pɐʔ-ɲyɪʔ ɲie=sz ɦɔ
@@ -2128,7 +2128,7 @@
 2913.wav|doŋ=ɦiã gəʔ , ɪʔ=ɟi i1=zɑ̃ zy cɪɲ=ku ʦz=ti , cɪɲ=ku cɪɲ=ku
 2914.wav|gəʔ-ɦəʔ ti=pəʔ , zø=ɦɤ=cɪɲ=ku nɑ-nəŋ kəʔ , ɦəʔ-li tɐʔ=pʰe tɕø1=ləʔ ɪʔ-ku ɲɪɲ səŋ1 lɑ̃ zy ɦiɤ-kʰu-nəŋ vɐʔ ɪʔ=ɦiã
 2915.wav|kəʔ=məʔ ɦiɤ-zəŋ-kʷɑ̃1 mɑ i1=zɑ̃ kɐʔ sɐʔ ŋu me=ti ɦɑ-iɔ1 ɦɑ-iɔ1 tɔ=noŋ gəʔ=tɐʔ le=iɔ1 tɕø-mɤ tɕø-mɤ gəʔ
-2916.wav|noŋ te sɐʔ məʔ-zz ze=mae ɦiɤ=təʔ kɑ̃-cy gəʔ
+2916.wav|noŋ te sɐʔ məʔ-zz ze=me ɦiɤ=təʔ kɑ̃-cy gəʔ
 2917.wav|zø=ɦɤ=te vɐʔ 'lɑ , ɑ1-'lɑ ɦo-tʰɑ̃1 ʦəŋ1 ŋu ciɔ1-kʷe zz=tʰi ze=iɔ1 e1=gəʔ ŋu
 2918.wav|zz-ku zz-ku zz gəʔ-nəŋ kəʔ ɦiã=ʦz gəʔ , noŋ ɪʔ-pe-sɪɲ tɕø1 voʔ=ʦɑ̃ nø , i1=zɑ̃ ŋe=səʔ vɐʔ hɔ tʰəʔ=tu1
 2919.wav|ŋu i1=zɑ̃ ŋe=səʔ tʰəʔ=tu1 , noŋ zy ciɐʔ-zɐʔ pəʔ ɲɪɲ-kɑ1 kø-ciɐʔ kɔ1=dɤ nø , zy lɔ=lø=gəʔ 'lɑ .
@@ -2137,8 +2137,8 @@
 2921.wav|noŋ cɪɲ1=ʦɔ1 zoŋ-dɤ tɔ tɔ tɔ tɔ ciɐʔ ɪʔ-pe-sɪɲ nø , ɐʔ1-lɐʔ-ɦəʔ kɑ̃-fɐʔ kɔ1=dɤ nø=vɐʔ=hɔ tɕɔ1=ku se1-ku ŋe=səʔ
 2922.wav|pɔ1=kʷɐʔ noŋ cɪɲ1=ʦɔ1 be-ɦəʔ pɔ1=sɑ ŋe=səʔ i1=zɑ̃ tɕø1=gəʔ sɑ ŋe=səʔ ɦɑ=ʦz tɕø1=gəʔ ŋe=səʔ
 2923.wav|vɐʔ nəŋ-kɤ tʰəʔ=tu1 ŋe=səʔ
-2924.wav|ŋu cɪɲ1=ʦɔ1 ɑ1-'lɑ kɑ̃-ləʔ mae kʰe=sɪɲ1 gəʔ , zoŋ cʰɪʔ kɑ̃-tɔ tɕø1 kɑ̃-tɔ bəʔ=siã1
-2925.wav|'ŋ , ʦəŋ1-ku zz=mae ɦiɤ-cɪɲ gəʔ ʦəŋ1-ku , cɪɲ=zã ɦo-tʰɑ̃1 cɪɲ=zã ɪʔ=dɪɲ=iɔ1 ciɔ1=ly ciɔ1=ly ŋu , ɦiɤ ciɔ1-kʷe zz=tʰi ʦəŋ1-ku
+2924.wav|ŋu cɪɲ1=ʦɔ1 ɑ1-'lɑ kɑ̃-ləʔ me kʰe=sɪɲ1 gəʔ , zoŋ cʰɪʔ kɑ̃-tɔ tɕø1 kɑ̃-tɔ bəʔ=siã1
+2925.wav|'ŋ , ʦəŋ1-ku zz=me ɦiɤ-cɪɲ gəʔ ʦəŋ1-ku , cɪɲ=zã ɦo-tʰɑ̃1 cɪɲ=zã ɪʔ=dɪɲ=iɔ1 ciɔ1=ly ciɔ1=ly ŋu , ɦiɤ ciɔ1-kʷe zz=tʰi ʦəŋ1-ku
 2926.wav|'ŋ , nɑ-nəŋ kəʔ=pəʔ sã1=wəʔ ku ləʔ=kʰe kʰe=sɪɲ1 sɪɲ1 gəʔ zz ʦø=ʦø iɔ1=cɪɲ gəʔ
 2927.wav|pəʔ zz-ciɑ1 ɟi=ɟi=kʰɑ̃1=kʰɑ̃1 gəʔ zz ʦø=ʦø iɔ1=cɪɲ gəʔ
 2928.wav|lɔ kʰe=sɪɲ1 gəʔ , kəŋ1=noŋ ciã=ɦe=ɦo , kəŋ1=noŋ ɪʔ=dɔ liɔ=tʰi1 ʦəŋ1-ku ciɐʔ-zɐʔ lɔ kʰe=sɪɲ1 gəʔ
@@ -2191,7 +2191,7 @@
 2970.wav|ɑ1-'lɑ ci=zz siɔ ɲɪɲ gəʔ doŋ=ʦəŋ1 tʰi1=ʦəŋ1 , zy=iɔ1 lɐʔ=ke pi siɔ ɲɪɲ tʰi1=ʦəŋ1
 2971.wav|zy ɪɲ1=we gəʔ=doŋ ʦəŋ1-ku , tʰi1 kʰʷɑ-loʔ zz mɑ vɐʔ zɐʔ gəʔ 'lɑ
 2972.wav|noŋ tɔ ɦɤ=dɤ , ɦi sø=su dɑ-liɔ noŋ ʦe he ɦi cʰi gəʔ-ɦəʔ doŋ=ʦəŋ1 vɐʔ we tɪʔ ɦiɤ le
-2973.wav|de=zz ɲi , ɑ1-'lɑ ɦoʔ-zɪʔ ɦɑ ʦɑ1 'ləʔ mae cɪɲ gəʔ ɦi ɦe ɦe-ɦiɤ ʦɐʔ1 e=hɔ le tã=le=ɟy pəʔ zɔ=tʰi1=gəʔ , sɤ1 tɪʔ cʰi
+2973.wav|de=zz ɲi , ɑ1-'lɑ ɦoʔ-zɪʔ ɦɑ ʦɑ1 'ləʔ me cɪɲ gəʔ ɦi ɦe ɦe-ɦiɤ ʦɐʔ1 e=hɔ le tã=le=ɟy pəʔ zɔ=tʰi1=gəʔ , sɤ1 tɪʔ cʰi
 2974.wav|su=i ciã ɦi ɦɑ lɔ mɑ̃ gəʔ ɦe-iɔ1 cʰiɔ1=ku
 2975.wav|ɦi=le gəʔ siɔ ɲɪɲ ze=ɦoʔ ʦəʔ1=ɪɲ1 , ze=ɦoʔ ʦəʔ1 ɦiɐʔ-cʰi gəʔ 'lɑ
 2976.wav|cʰiɔ1=ku ɦɑ cʰiɔ1 tɔ pɐʔ=cɪʔ 'ləʔ , ɑ1-'lɑ ɦi=le
@@ -2302,7 +2302,7 @@
 307.wav|noŋ vɐʔ ɕiɔ=təʔ ŋɑ dɤ-ɦəʔ zɪɲ-hʷɑ̃ , noŋ ioŋ=ɦiø zz vɐʔ siã1-sɪɲ ɲɪɲ-kɑ1 ŋɑ=dɤ su kɑ̃-ɦəʔ gəʔ=ʦoŋ koŋ1=sz1 gəʔ=ʦoŋ zɪɲ-hʷɑ̃ hɔ , zz vɐʔ kʰu-nəŋ gəʔ
 3070.wav|gəʔ ɪʔ=de , ɪɲ1=we ɦi lɑ ɦɑ sø=su ɦɑ vɐʔ siɔ 'ləʔ .
 3071.wav|ɦɑ zəŋ=zoʔ 'ləʔ
-3072.wav|su=i ciã ciɔ1-kʷe tɕz=li zz=tʰi ɦi lɑ ɦe , ɦe-zz mae=we tɪʔ siã=tɔ ɑ1-'lɑ lɔ-ɦəʔ
+3072.wav|su=i ciã ciɔ1-kʷe tɕz=li zz=tʰi ɦi lɑ ɦe , ɦe-zz me=we tɪʔ siã=tɔ ɑ1-'lɑ lɔ-ɦəʔ
 3073.wav|e , pi-ciɔ ɦe-zz pi , ziã ɑ1-'lɑ sɪɲ1=vu ŋu gəʔ
 3074.wav|pɑ̃=ŋu=mɑ wəʔ=ɕyɪʔ se=kɐʔ mɑ=ɦɑ ʦz=kɐʔ ho-ʦɑ̃ pʰɪɲ=kɐʔ
 3075.wav|noŋ ʦoŋ=kʷe ɦiɤ ʦɪʔ-zəʔ , noŋ-ku sã1-ɲiɪʔ
@@ -2313,7 +2313,7 @@
 308.wav|de=zz , uɑ̃=uɑ̃ ziã ɑ1-'lɑ gəʔ=ʦoŋ cɪɲ=zã tɕəʔ-cʰi tʰɪɲ=gəʔ , cɪɲ zã=bɔ gəʔ , zəŋ=ʦz ɦɑ kʰø1=tɔ 'ləʔ gəʔ zz=zəʔ zz 'ne-tɔ ku-ku
 3080.wav|ŋu ʦu=sɐʔ iɔ1=pɑ̃ 'nɑ m 'mɑ=mɑ ŋu ʦu sɐʔ=ŋu=vɐʔ=we pəʔ ɑ1-'lɑ 'mɑ=mɑ
 3081.wav|de=zz ɦi məʔ ɦi vɐʔ noŋ , noŋ ʦəʔ1=iɔ1 kʰe=kʰɤ ciã=sɐʔ məʔ-zz ŋu , ɦi ʦoŋ=kʷe pəʔ=noŋ loŋ-ku
-3082.wav|ɦi ɑ1-'lɑ gəʔ sɪɲ1=vu ziã siɔ ɲɪɲ ɪʔ-ɦiã-ɦəʔ 'lɑ , ɦɑ mae kʰu=e=gəʔ 'lɑ
+3082.wav|ɦi ɑ1-'lɑ gəʔ sɪɲ1=vu ziã siɔ ɲɪɲ ɪʔ-ɦiã-ɦəʔ 'lɑ , ɦɑ me kʰu=e=gəʔ 'lɑ
 3083.wav|gəʔ kʷe=ɦi ɲi zy=ciã dɑ-ciɑ1 ze zz-kɑ̃ lɔ cʰiɔ=miɔ gəʔ , ɟi-zəʔ zɑ̃ ze lɔ cʰiɔ=miɔ dɑ-ciɑ1 iɔ1 ɪʔ=dɔ iɔ1 siã hɔ
 3084.wav|dɑ-ciɑ1 iɔ1 zy=zz nɑ-nəŋ kɑ̃-fɐʔ ɲi , zy=zz ciã
 3085.wav|noŋ 'ŋ 'ne , vɐʔ 'ne ɦi tɑ̃ ɲy-r mɑ , ʦoŋ=kʷe ɦɑ-zz iɔ1 'ne ɦi tɑ̃ ɲy-r
@@ -2333,7 +2333,7 @@
 3098.wav|noŋ zz nø-ɦəʔ cʰi=liã ɪʔ=dɪɲ iɔ1-dɑ
 3099.wav|sɪɲ1=vu zz lɔ=bu ɪʔ=dɪɲ=iɔ1 pɔ=pe , noŋ gəʔ-nəŋ ɦiã=ʦz gəʔ
 31.wav|gəʔ ciɔ sɐʔ be pəʔ noŋ-ku , de=zz ʦu cɪɲ1=ɦioŋ gəʔ ɦɑ̃-ɲiɪʔ , pəŋ=səŋ1 ɦɑ-zy vɐʔ be noŋ-ku
-310.wav|kəʔ=məʔ , noŋ dɤ-liɔ hɔ=vɐʔ kʰu-nəŋ tɕəʔ le-ku iɑ , ɪʔ=ɲi ku-liɔ , e , me-hɔ mɑ , ɦɑ mae=ʦəŋ zz=gəʔ , noŋ-kɑ̃ ŋu vɐʔ ʦu-liɔ , vɐʔ dɑ kʰu-nəŋ gəʔ
+310.wav|kəʔ=məʔ , noŋ dɤ-liɔ hɔ=vɐʔ kʰu-nəŋ tɕəʔ le-ku iɑ , ɪʔ=ɲi ku-liɔ , e , me-hɔ mɑ , ɦɑ me=ʦəŋ zz=gəʔ , noŋ-kɑ̃ ŋu vɐʔ ʦu-liɔ , vɐʔ dɑ kʰu-nəŋ gəʔ
 3100.wav|kəʔ=məʔ sɪɲ1=vu zoŋ-le vɐʔ vɐʔ iɔ1-cʰi ciã sɪɲ1=vu vɐʔ hɔ , ɦiɤ-ɟi ɦe-ɦiɤ lɐʔ=lɐʔ
 3101.wav|tɕɪɲ-ciɑ1 mi lɑ̃ ɦɑ vɐʔ hɔ-kɑ̃ ɦiɤ-ɦiɤ ɪʔ=sz ɪʔ=kɤ gəʔ , ŋu mɑ=iø1 gəʔ sɪʔ=vu gəʔ=ɦiã , noŋ-ku sɪʔ=vu iɔ1 pɔ=pe
 3102.wav|ʦɪɲ=kʷø vɐʔ zz noŋ-ku ɲy-r , te=noŋ iɔ1 pɔ=pe ɦi , noŋ siã=tɔ zz-ciɑ1 tɑ̃=zz ʦu sɪʔ=vu gəʔ zəŋ-kʷɑ̃1 , ɦɑ ɕi1=mɑ̃ ɲɪɲ-kɑ1 pɔ=pe noŋ , te=noŋ hɔ=ti
@@ -2344,7 +2344,7 @@
 3107.wav|vɐʔ iɔ1 ziã lɔ=ʦɔ lɔ=səʔ ɑ1-bu li siã1 , vɐʔ dɪɲ=vɐʔ=ɟɪɲ=vɐʔ=cʰi hɔ-ku ʦoʔ=ɦioŋ ŋu , tʰiɔ1=pəʔ , ɦe-iɔ1 nɑ-nəŋ=ɦiã=ʦz
 3108.wav|kəʔ=məʔ ɦe ɦiɤ-ɪʔ-ɦəʔ kɑ̃-tɔ ɦiã tɕoŋ-vəʔ , ɦɑ-zz gəʔ-nəŋ ɦiã=ʦz gəʔ , ɑ1-'lɑ zz sɪɲ1=vu zz , ŋu ɦɑ=vɐʔ=ɦiã ɑ1-'lɑ sɪɲ1=vu ɦɑ=vɐʔ=ɦiã , de=zz ŋu kʰø1=tɔ mɑ̃ lɑ̃ siã1 ɲɪɲ-kɑ1 ciã
 3109.wav|ɦiɤ-ɪʔ-ɦəʔ sɪɲ1=vu ɦiã , dɑ-ke ŋu lɔ hʷø=ɕi ɦiã=ʦəʔ1 'mɔ=gəʔ=bu ɲi zz vɐʔ hʷø=ɕi gəʔ ʦəʔ1 'mɔ=gəʔ cɪʔ=ku ɑ1-bu ɲi , zy=ciã zz=səʔ=zz=ɦo
-311.wav|ɦe , ɦe-we tɪʔ kɑ1 zəŋ=ʦz zəʔ ve-pi ɲie=vae , zy ziã , ŋu zy pi-fɑ̃ ʦəʔ1 li=ʦz vɐʔ , zy i=noŋ pi-fɑ̃ ʦu=ʦu
+311.wav|ɦe , ɦe-we tɪʔ kɑ1 zəŋ=ʦz zəʔ ve-pi ɲie=ve , zy ziã , ŋu zy pi-fɑ̃ ʦəʔ1 li=ʦz vɐʔ , zy i=noŋ pi-fɑ̃ ʦu=ʦu
 3110.wav|tɕəŋ sɪɲ1=vu zɑ̃=pe1 zəŋ-kʷɑ̃1 cʰi 'ne ʦəʔ1='mɔ cʰi hʷɐʔ-tʰəʔ , hɔ 'ləʔ , ne=məʔ
 3111.wav|gəʔ sɪɲ1=vu we=le kʰø1=vɐʔ=tɔ ʦəʔ1='mɔ , ɕiɔ=təʔ zz ɑ1-bu zz=səʔ=zz=ɦo hʷɐʔ-tʰəʔ 'ləʔ zy pɑ̃ gəʔ r-ʦz li=hʷəŋ1 'ləʔ
 3112.wav|ʦɪɲ=kʷø kɑ̃-cʰi-le gəʔ nɔ tɔ li=hʷəŋ1 gəʔ zz=tʰi zz 'me-du gəʔ
@@ -2401,7 +2401,7 @@
 3159.wav|i=i pɔ=kʰɑ mɑ li siã1 tɕɔ=pʰiɔ mɑ ɦɑ ɦiɤ-ku
 316.wav|ʦəʔ1=ɦiɤ wɑ-tʰəʔ 'ləʔ , ze nəŋ-kɤ sɤ1 , hɔ 'ləʔ vɐʔ vɐʔ kʰu-nəŋ sɤ1=gəʔ , wɑ̃ 'lɔ-sz noŋ-kɑ̃ te=vɐʔ
 3160.wav|ne=məʔ kʰø1=mɔ=bɪɲ mɑ ɦe-ɦiɤ tɪʔ pɔ=ʦɑ̃1
-3161.wav|ne=məʔ ciɔ sɐʔ=gəʔ , bɪɲ=zã ɲiɪʔ=z sã1=wəʔ mɑ ɦɑ mae foŋ1=fu=gəʔ , ɦi=le gəʔ=ɦiã lɔ kəŋ1 i zi-ku ɦiã=lɔ=cʰiɐʔ zəʔ=zz
+3161.wav|ne=məʔ ciɔ sɐʔ=gəʔ , bɪɲ=zã ɲiɪʔ=z sã1=wəʔ mɑ ɦɑ me foŋ1=fu=gəʔ , ɦi=le gəʔ=ɦiã lɔ kəŋ1 i zi-ku ɦiã=lɔ=cʰiɐʔ zəʔ=zz
 3162.wav|ʦəŋ1-ku , tʰi1=fe1=di=foʔ gəʔ pi-ho
 3163.wav|ɦi=le su=i ɦi=le gəʔ ɲɪɲ zz ɦiɪʔ wəʔ=ɦiɪʔ kʰe=sɪɲ1
 3164.wav|ʦoŋ=kʷe ʦəʔ1=iɔ1 ɟi=ɟi=kʰɑ̃1=kʰɑ̃1 wəʔ=lɐʔ=he
@@ -2440,7 +2440,7 @@
 3194.wav|ɦiɤ=tɕəʔ tɕɔ=pʰiɔ mɑ tɕəʔ tɕɔ=pʰiɔ ɦiɤ cʰɪʔ=lɪʔ gəʔ mɑ zy tɕəʔ=lɪʔ , zy gəʔ-nəŋ
 3195.wav|te-ɦəʔ iɑ , ɑ1-'lɑ ziã , ɑ1-'lɑ , ŋu gəʔ pɑ-pɑ 'mɑ='mɑ ze ʦɤ tʰəʔ-liɔ , ʦɤ tʰəʔ-liɔ mɑ , ɑ1-'lɑ pɑ-pɑ ɦi=le=ɦi le iɔ1 ɪʔ=pɐʔ sø le
 3196.wav|kəʔ=məʔ ʦz=me dɔ li dɑ-ciɑ1 ɪʔ=dɔ iɔ1 cʰi-ʦu vəʔ-zz
-3197.wav|dɑ-ciɑ1 ze=mae dø=cɪʔ gəʔ 'lɑ
+3197.wav|dɑ-ciɑ1 ze=me dø=cɪʔ gəʔ 'lɑ
 3198.wav|zy=ciã , ʦəʔ1=iɔ1 dɑ=ɐʔ1-ʦiɑ ciã=sɐʔ , ɑ1-'lɑ ɦo-dɤ siɔ-ɦəʔ zi=bu ze=zz ɕiã=ɪɲ gəʔ , ɪʔ=ʦz=doŋ=i gəʔ
 3199.wav|gəʔ ze=zz ʦz=me dɔ=li=gəʔ kʷe=ɦi iɑ
 32.wav|ɦi=le ɲi zy=zz ɦiɤ təʔ=ɪʔ ʦɐʔ1 , lɔ=ʦɔ zz vɐʔ be nɔ , lɔ=ʦɔ kɑ̃-cʰi-le ɲi , wɑ ɲi , zy=zz ciã=foŋ=ɕi ɲi , de=zz ɲi
@@ -2471,7 +2471,7 @@
 3221.wav|tʰoŋ ɪʔ='ləʔ , kəʔ=məʔ ke nɑ-nəŋ ʦu=zy nɑ-nəŋ ʦu
 3222.wav|tɕəʔ , ke=tɕəʔ tu1=sɔ tɕɔ=pʰiɔ , məʔ=sɐʔ , ɦe ɦiɤ-ɪʔ-ɦəʔ ɲɪɲ ɟiã=dɤ=ɟyɪʔ nɔ=kɐʔ , ŋu vɐʔ kʰəŋ=gəʔ kɐʔ , ŋu nɑ-nəŋ=ɦiã=ʦz kɐʔ
 3223.wav|məʔ=sɐʔ=gəʔ , ci1=pəŋ=zɑ̃ gəʔ-nəŋ ze=ze kʰu=i gəʔ , zy=ciã , fe1=ʦəŋ1 fe1=ʦəŋ1 ʦəʔ-ku , oʔ=li siã1 ɲɪɲ sɑ̃1=liã le dɑ-ciɑ1 ʦu gəʔ ʦɑ̃ zz=tʰi
-3224.wav|gəʔ , ze zz=mae hɔ-ku
+3224.wav|gəʔ , ze zz=me hɔ-ku
 3225.wav|kəʔ=məʔ gəʔ ciɔ sɐʔ=gəʔ
 3226.wav|gəʔ , siɔ ɲɪɲ lɔ sɐʔ mɑ ɦɑ-zz gəʔ-nəŋ ɦiã=ʦz gəʔ
 3227.wav|te-r ʦz ɑ sɪɲ1=vu ɦɑ-zz gəʔ-nəŋ ɦiã=ɦiɤ sɐʔ zz=tʰi , noŋ=ɦiɤ tɪʔ sɐʔ zz=tʰi 'ləʔ , noŋ pɑ̃ r-ʦz sɪɲ1=vu ciã , sy1=iɔ1 sɑ̃1=liã gəʔ , kəʔ=məʔ noŋ pɑ̃ ɦi lɑ sɑ̃1=liã sɑ̃1=liã
@@ -2557,10 +2557,10 @@
 33.wav|we-kʰu=i gəʔ , we sɐʔ dɔ=li , ci1=pəŋ=zɑ̃ məʔ ɲi məʔ=sɐʔ=wɑ gəʔ
 330.wav|ɪʔ=pø ziã ɲɪɲ-kɑ1 cʰɪʔ , ɪʔ=pø noŋ zz cʰɪʔ noŋ ze cʰɪʔ tʰəʔ-liɔ , ɪʔ=ci=kʰɤ tʰɔ ʦɪɲ-cʰi
 3300.wav|te=vɐʔ kɐʔ=de tɑ siɔ ɲɪɲ ɲi ɦɑ cʰiɐʔ=zəʔ zz ɦiɤ-si1 , ɪʔ-ku lɔ-ɦəʔ pi-ciɔ sɪɲ1-kʰu
-3301.wav|te=vɐʔ , ne=məʔ ciɔ1=ɦioʔ kɔ1=dɤ ɲi lɔ-ɦəʔ pi-ciɔ tɕoŋ , su=i siɔ ɲɪɲ ɲi ɦɑ tɑ-liɔ mae=ciɔ
+3301.wav|te=vɐʔ , ne=məʔ ciɔ1=ɦioʔ kɔ1=dɤ ɲi lɔ-ɦəʔ pi-ciɔ tɕoŋ , su=i siɔ ɲɪɲ ɲi ɦɑ tɑ-liɔ me=ciɔ
 3302.wav|e lɔ=ʦɔ ti=ɲi ɑ1-'lɑ ze=zz dɑ-ciɑ1=dɪɲ te=vɐʔ , oʔ=li siã1=ŋu ɑ1-'lɑ oʔ=li ɦiã ŋ-ku siɔ ɲɪɲ ʦe=kɑ1 ɦiɑ=ɲiã tɕɪʔ-ku
 3303.wav|ʦe kɑ1 ɑ1-ɲiã ɑ1-ɦiɑ pɐʔ-ku cy-ku ɲɪɲ , dɑ-ciɑ1=dɪɲ dɑ-ciɑ1 zz-ləʔ ɪʔ=dɔ
-3304.wav|'me=tʰi1 cʰɪʔ=ve iɔ1 kʰe=ɦiø de=mi gəʔ ɕiɔ=təʔ vɐʔ , zz=məʔ tɪʔ=zz sɐʔ=gəʔ mae mae e1=gəʔ , ʦe vɑ̃=ʦz dɑ hɔ=le , cy-ku ɲɪɲ zz-ləʔ cʰi=le
+3304.wav|'me=tʰi1 cʰɪʔ=ve iɔ1 kʰe=ɦiø de=mi gəʔ ɕiɔ=təʔ vɐʔ , zz=məʔ tɪʔ=zz sɐʔ=gəʔ me me e1=gəʔ , ʦe vɑ̃=ʦz dɑ hɔ=le , cy-ku ɲɪɲ zz-ləʔ cʰi=le
 3305.wav|te=vɐʔ ɦɑ lɔ cʰɪʔ=lɪʔ gəʔ , e1=gəʔ ʦəʔ1 zɑ̃ mi zɑ̃ lɑ̃ ɕiã iɔ1 iɔ1 kʰʷəŋ ci-ku ɲɪɲ ɑ , kʰʷəŋ liã-ku ɲɪɲ kʰʷəŋ se1-ku ɲɪɲ te vɐʔ
 3306.wav|kəʔ=məʔ su=i ɲi ɦi le ɲi , gəʔ-ɦəʔ zz-vɑ̃ diɔ-ɟi ɦiɪʔ=le ɦiɪʔ hɔ 'ləʔ te vɐʔ , ɦi=le se1=kʰɤ ʦz1-ciɑ1 məʔ e ɦi lɑ ze zz-ciɑ1 tɪʔ vɑ̃=ʦz 'ləʔ
 3307.wav|te=vɐʔ=ze zz-ciɑ1=gəʔ siɔ ɲɪɲ ɲi ze=ɦiɤ tɪʔ ɪʔ-ci siɔ=vɑ̃=ʦz , zz-ciɑ1 ɦiɤ=təʔ siɔ=tʰi1=di 'ləʔ te vɐʔ
@@ -2576,7 +2576,7 @@
 3316.wav|te=vɐʔ ɪɲ1=we ɲɪɲ sɔ mɑ , ɦi gəʔ pʰɪɲ=ʦoŋ ɦɑ sɔ=te vɐʔ , ɦe-ɦiɤ ʦɐʔ1 siɔ1=hɔ ɦɑ-sɔ , su=i ciã=nɐʔ ɦe-zz ɦiɤ=zã=ʦz ɦe=we=i dɑ-ciɑ1=dɪɲ zəŋ-kʷɑ̃1
 3317.wav|ɦe-ɦiɤ ɲi lɪɲ=cy1 ʦz1-ci ɲi uɑ̃=le ɦɑ-sɔ , ɪɲ1=we ze=sɪɲ1 koŋ1=vɑ̃ 'ləʔ , sɪɲ1 koŋ1=vɑ̃ ʦz1-ci ɲi ci1=pəŋ lɑ̃ vɐʔ dɑ uɑ̃=le 'ləʔ
 3318.wav|zy=zz ŋu zz-ciɑ1 təŋ=gəʔ di=fɑ̃ ɪʔ-ɦiã-ɦəʔ , te=vɐʔ ɦɑ-ɦiɤ gəʔ bã-zɐʔ ɦɑ-ɦiɤ təŋ-'ləʔ ɪʔ=dɔ ɦɑ-ɦiɤ zəʔ=ci ɲi 'ləʔ , te=vɐʔ
-3319.wav|bã-zɐʔ ɲi dɑ-ciɑ1 ti ti=dɤ mae kʰɐʔ=cʰi gəʔ , de=zz məʔ=sɑ ɦe=ɦo hɔ-kɑ̃ 'lɑ
+3319.wav|bã-zɐʔ ɲi dɑ-ciɑ1 ti ti=dɤ me kʰɐʔ=cʰi gəʔ , de=zz məʔ=sɑ ɦe=ɦo hɔ-kɑ̃ 'lɑ
 332.wav|di , zəʔ-tɕɪʔ ɦɔ=zɑ̃ zəŋ tʰəʔ liã ʦɐʔ1 zəŋ tʰəʔ i=ɦɤ=ɲie=ɦɔ ɦe=lɐʔ=lɐʔ=ʦã
 3320.wav|vɐʔ ziã lɔ=ʦɔ lɪɲ=cy1 ʦz1-ci ŋu , təŋ=lɐʔ ɪʔ=dɔ ɦi lɑ te kʰu=məŋ vɑ̃=ʦz ɦɑ-hɔ ŋu , lɔ=vɑ̃=ʦz ɦɑ , ɦe-zz ŋu dɤ-dɑ gəʔ e1=ʦoŋ vɑ̃=ʦz , su=i kɑ̃-noŋ zy
 3321.wav|sɐʔ=ku sã1-ɲiɪʔ ɦɑ-hɔ , gəʔ ɦo uø mi ɦɑ-hɔ , ɲɪɲ-kɑ1 ʦoŋ=tø1 tɔ bɑ̃=pi ʦɤ1-we le=tø1 pəʔ ɦi gəʔ , pɔ1=ŋe wəŋ=dəŋ ɑ
@@ -2607,7 +2607,7 @@
 3344.wav|te=vɐʔ=ne=məʔ ʦe kɑ1-zɑ̃ kʷəʔ-ciɑ1 zz gəʔ-zəŋ-kʷɑ̃1 di-tɕɑ̃1 zz ɪʔ=tʰe1 gəʔ , gəʔ siɔ ɲɪɲ ɦɑ-məʔ bəʔ=siã1 gəʔ kəʔ=məʔ dɔ dɔ=bø le
 3345.wav|'nɑ siɔ ɲɪɲ gəʔ ʦɪɲ1=lɪʔ tu1=sɔ wɑ̃-zəŋ 'lɑ , ɦiɑ=li vɐʔ kʰəŋ=kʰʷəŋ te=vɐʔ , ɦe=ciɔ lɔ=ɪʔ=de kɑ̃-ku-zz
 3346.wav|ɑ1-'lɑ ɲiã ɑ1-'lɑ ɦiɑ noŋ-kɑ̃ sɐʔ=gəʔ ku=zz pəʔ ɦi tʰɪɲ 'lɑ , kɑ̃-le ciã=cʰi gəʔ dɑ=hʷe1=lɑ̃ ɦiɤ-məʔ sɐʔ ne-ɦioŋ hɔ kɑ̃-ɦəʔ kɐʔ
-3347.wav|noŋ kɑ liã-ku siɔ ɲɪɲ kəʔ=məʔ hɔ=ŋe , ziã=ɦi le=kʰe kʰe=fɑ̃ r=tʰe1 i ɦɤ , ŋu kʰø1 ze=mae kʰe=sɪɲ1 , ciɔ sɐʔ siɔ ɲɪɲ gəʔ sɪɲ1=tʰe ɦɑ-hɔ 'ləʔ , sɪɲ1=li ɦɑ-hɔ 'ləʔ
+3347.wav|noŋ kɑ liã-ku siɔ ɲɪɲ kəʔ=məʔ hɔ=ŋe , ziã=ɦi le=kʰe kʰe=fɑ̃ r=tʰe1 i ɦɤ , ŋu kʰø1 ze=me kʰe=sɪɲ1 , ciɔ sɐʔ siɔ ɲɪɲ gəʔ sɪɲ1=tʰe ɦɑ-hɔ 'ləʔ , sɪɲ1=li ɦɑ-hɔ 'ləʔ
 3348.wav|ɪɲ1=we təʔ=vɐʔ=dɑ ɦɑ ɕiɔ=təʔ ʦɔ=ku siɔ-ɦəʔ 'lɑ
 3349.wav|te=vɐʔ ɦe-ɦiɤ gəʔ ziã dɑ=gəʔ , ziã gəʔ ziã ɑ1-'lɑ di-di siɔ ɲɪɲ ɪʔ-ɦiã-ɦəʔ te=vɐʔ , me=me sɐʔ ɲɪɲ cʰi1-vɤ noŋ ŋu cʰi pɑ̃=noŋ mɑ̃ , cʰi-tã ɦi
 335.wav|kʰu-nəŋ iɔ1 iɔ1 ɦiɤ-vəŋ-di tɕəʔ=le 'ləʔ
@@ -2639,17 +2639,17 @@
 3373.wav|su=i ɑ1-'lɑ ɦi=le=nɐʔ tu1=tu1 li=ɦioŋ=vi səŋ , gəʔ kɔ1 siɔ ɲɪɲ nɐʔ le=le kɤ=tʰoŋ1
 3374.wav|zz iɑ , kɑ̃-tɔ gəʔ-ɦəʔ ɪʔ-ɦiã-ɦəʔ , ɪʔ-ku zz kɑ̃-cʰi-le tɑ siɔ ɲɪɲ
 3375.wav|kəʔ məʔ=ɲi lɪɲ ɦɑ-dɑ 'ləʔ , siã1 ɑ1-'lɑ ɲi=lɪɲ ɦɑ-dɑ 'ləʔ te vɐʔ 'lɑ , kəʔ=məʔ noŋ zy=iɔ1 kʰɔ=ly tɔ ɦiã lɔ vəŋ=di 'ləʔ , ɦiã=lɔ ɪʔ-ku ɲi zz səŋ1=tʰi zɑ̃-hʷɑ̃
-3376.wav|zz=ku səŋ1=tʰi zɑ̃-hʷɑ̃ hɔ-'ne ɦe pi-ciɔ hɔ=ɪʔ=ti , ɦiɤ-si1 ɲi vɐʔ nəŋ zz=li səʔ-ɦo ɲi cʰiɐʔ=zəʔ=mae ve=gəʔ , iɔ1 ɪʔ-kɑ1-ɲɪɲ-kɑ1 ɲi zy pʰoʔ 'ləʔ gəʔ-ɦəʔ kɔ1=dɤ
+3376.wav|zz=ku səŋ1=tʰi zɑ̃-hʷɑ̃ hɔ-'ne ɦe pi-ciɔ hɔ=ɪʔ=ti , ɦiɤ-si1 ɲi vɐʔ nəŋ zz=li səʔ-ɦo ɲi cʰiɐʔ=zəʔ=me ve=gəʔ , iɔ1 ɪʔ-kɑ1-ɲɪɲ-kɑ1 ɲi zy pʰoʔ 'ləʔ gəʔ-ɦəʔ kɔ1=dɤ
 3377.wav|te=vɐʔ , bɪɲ1-tɕiɑ1 ɲi noŋ zy zo-we kɔ1=dɤ gəʔ-ɦəʔ ɦiã=lɔ ci1=kɤ ɲi ɦɑ vɐʔ zi=zi , i=liɔ gəʔ tʰi=ɦi ɲi ɦɑ vɐʔ lɔ zi=zi
-3378.wav|su=i ɦiɤ 'ləʔ mɔ=bɪɲ cʰi lɔ=doŋ cʰiɐʔ=zəʔ zz=mae tʰɔ-i , ɦiɤ-si1 siɔ=mɔ=bɪɲ tʰu=zəŋ dɑ=mɔ=bɪɲ
+3378.wav|su=i ɦiɤ 'ləʔ mɔ=bɪɲ cʰi lɔ=doŋ cʰiɐʔ=zəʔ zz=me tʰɔ-i , ɦiɤ-si1 siɔ=mɔ=bɪɲ tʰu=zəŋ dɑ=mɔ=bɪɲ
 3379.wav|te=vɐʔ=ne=məʔ dɪʔ-ɦəʔ wu=li kɔ1=dɤ ɦɑ tʰɔ-i gəʔ , məʔ ɲɪɲ pɑ̃=noŋ loŋ-ku , ɪɲ1=we ɪʔ-ku lɔ ɲɪɲ sã1-mɔ-bɪɲ i ɦɤ
 338.wav|ŋu məʔ ʦɪɲ-cʰi ku , ɪʔ-fəŋ1 ɦɑ-məʔ , ɪʔ=fɑ̃=mi , tɔ=ɦi le we=ʦz ŋu ku=pʰiɔ li siã1 ɪʔ-fəŋ1 ɦɑ-məʔ
 3380.wav|noŋ-ciɔ ɦi fe1 gəʔ səŋ1 vɐʔ noŋ bɑ̃=pi məʔ liã-ku ɲɪɲ te vɐʔ , ŋɑ-kɑ1 iɔ1 səŋ1=tʰi hɔ=ti gəʔ , wəʔ=ʦe zz tɕɪɲ1-ʦɑ̃ ɲi kəŋ1=pəŋ məʔ=be=fɐʔ fe1=səŋ1
 3381.wav|te=vɐʔ ɦe-ɦiɤ ciɔ1-kʷe lɔ ɲɪɲ cʰi kʰø1=mɔ=bɪɲ , ɪʔ-ku di=məʔ=di=tʰi1 , noŋ nɑ-nəŋ kɑ̃1 ɦi ɦo=le fɐʔ=ʦz ɑ
-3382.wav|gəʔ su=i ciã=ɦiã lɔ zz=tʰi ɲi , cʰiɐʔ=zəʔ zz=mae tʰɔ-i gəʔ
+3382.wav|gəʔ su=i ciã=ɦiã lɔ zz=tʰi ɲi , cʰiɐʔ=zəʔ zz=me tʰɔ-i gəʔ
 3383.wav|sø=zø ɦiɤ ciɔ1-kʷe ɲi=ci=cʰɪɲ zəŋ-kʷɑ̃1 ɲi gəʔ iɔ1 ʦu , ɪʔ-ku ɲi zy kɑ̃-cʰi-le səŋ1=tʰi hɔ , vɐʔ pəʔ oʔ=li cʰi zɪɲ mo=ve
 3384.wav|te=vɐʔ , su=i ciã ɦe-ɦiɤ gəʔ cɪɲ=ʦi vəŋ=di te=vɐʔ , ɪɲ1=we e1=gəʔ lɔ=ɲi ɲɪɲ mɑ tɑ̃=zz zəŋ-kʷɑ̃1 koŋ1=ʦoʔ ʦɔ tʰe-ɕy1 ɦɑ-ʦɔ , su=i ciã=ɦiã lɔ=cɪɲ1 ɦɑ-sɔ
-3385.wav|su=i ciã=ɲi ɦiã lɔ ɲi , ʦoŋ1=kʷəʔ ɲɪɲ gəʔ ɦiã lɔ cʰiɐʔ=zəʔ zz=mae mo=ve gəʔ te vɐʔ , de=zz ɦi=le ɲi koʔ=ʦoŋ zo-we ci1=kɤ ɦɑ ləʔ=ləʔ tʰø1=soʔ gəʔ-ɦəʔ ɦiã=lɔ vəŋ=di
+3385.wav|su=i ciã=ɲi ɦiã lɔ ɲi , ʦoŋ1=kʷəʔ ɲɪɲ gəʔ ɦiã lɔ cʰiɐʔ=zəʔ zz=me mo=ve gəʔ te vɐʔ , de=zz ɦi=le ɲi koʔ=ʦoŋ zo-we ci1=kɤ ɦɑ ləʔ=ləʔ tʰø1=soʔ gəʔ-ɦəʔ ɦiã=lɔ vəŋ=di
 3386.wav|kəʔ=məʔ , ŋu siã ɲi gəʔ-ɦəʔ ci1=kɤ kɔ1 dɤ-ɦəʔ ɦiã=lɔ , vɐʔ zz-ɑ noŋ vɐʔ iɔ1-cʰi kʰɔ ɲɪɲ-kɑ1 'ləʔ , ɦe kʰɔ=kʰɔ zz-ciɑ1 vɐʔ
 3387.wav|ɪʔ-ku ɲi noŋ ʦɐʔ1 səŋ1=tʰi gəʔ ʦəʔ1 tø li tø li hɔ=te vɐʔ , vɐʔ ke=sɔ zo-we ke=sɔ zo-we tʰəʔ=ʦz oʔ=li=gəʔ mɤ=dəŋ
 3388.wav|te=vɐʔ noŋ-kɑ̃ ke=sɔ ɦi lɑ gəʔ ʦoŋ ʦɪɲ1=lɪʔ , ɦe-ɦiɤ fɑ̃=mi ɲi e cʰiɐʔ=zəʔ zz , ɦe-zz ɪʔ-si1 bã=ɦiɤ kɐʔ sɐʔ ʦz1-ci te=vɐʔ dɑ-ciɑ1 ɪʔ=dɔ uɑ̃=le uɑ̃=le ɑ
@@ -2691,7 +2691,7 @@
 342.wav|ŋu i=ɦɤ=vɐʔ mɑ=ʦã gəʔ
 3420.wav|te=vɐʔ=noŋ dɪɲ=di 'ləʔ wəʔ=ʦe hu=sɔ 'ləʔ , dɪʔ-ɦəʔ fɑ̃=bi nɐʔ ɑ1-'lɑ kʷəʔ-ciɑ1 nɐʔ=ɦi le ɦɑ ɕiɔ ɕiɔ=təʔ , ɦɑ-iɔ1 ʦəŋ1-kɑ1 gəʔ fɑ̃=mi gəʔ ʦz1-səʔ
 3421.wav|te=vɐʔ zz=cy nəŋ-lɪʔ kɐʔ koʔ fɑ̃=mi , ɦi=le ʦəʔ1=we tɪʔ su=li ho , pʰɪɲ1=mɪɲ gəʔ kʷø ɑ , kʷø ɦi lɑ ɲiã di1-ɐʔ səʔ=ɦiã kʷø
-3422.wav|zəʔ=ʦi kʷø=tɕəʔ le məʔ=sɐʔ=dɑ ɦioŋ-zã ʦəŋ1 məʔ-ɦioŋ-zã , ŋu ɦɑ mae doŋ=i ʦz=zɪʔ lɔ=ʦɔ ciã=e1=ɦiã , doʔ=sz zəŋ=ʦɪʔ tɕɪʔ-fəŋ1 , pɐʔ-fəŋ1=ʦz1=tɕɪʔ e ciɔ tɕɪʔ zəʔ-fəŋ1 kɤ-liɔ
+3422.wav|zəʔ=ʦi kʷø=tɕəʔ le məʔ=sɐʔ=dɑ ɦioŋ-zã ʦəŋ1 məʔ-ɦioŋ-zã , ŋu ɦɑ me doŋ=i ʦz=zɪʔ lɔ=ʦɔ ciã=e1=ɦiã , doʔ=sz zəŋ=ʦɪʔ tɕɪʔ-fəŋ1 , pɐʔ-fəŋ1=ʦz1=tɕɪʔ e ciɔ tɕɪʔ zəʔ-fəŋ1 kɤ-liɔ
 3423.wav|ɟi-tʰɑ1 sø=su ɲiã ɦi gəʔ ʦɪɲ1=lɪʔ cʰi bəʔ=siã1=siã1 , doŋ=i məʔ te vɐʔ , e e doŋ=i ze doŋ=sɪɲ mɑ
 3424.wav|te=vɐʔ ɦe-zz ɦe pəʔ ɦi bəʔ=siã1=siã1 , ne=məʔ ɲiã ɦi kʰu ŋɑ e=hɔ , gəʔ-nəŋ ɦiã=siɔ ɲɪɲ ʦã-dɑ 'ləʔ i ɦɤ ɲi , zy=zz ɦiɤ ciɔ1-kʷe tɕɑ̃=sɪɲ1 'ləʔ
 3425.wav|vɐʔ zz=siɔ ɲɪɲ tʰɪɲ ɦe=ɦo zu=lɐʔ=he ɪʔ=ɦiã vɐʔ siã
@@ -2704,13 +2704,13 @@
 3431.wav|ɑ zz-ɑ , ɦiã ɪʔ-ku siɔ ɲɪɲ zy ciã=ɦiã=ɦiã ze=ɦɤ lɔ ɦi , iɔ1 iɔ1 ʦø hɔ-ku məʔ pəʔ ɦi cʰɪʔ
 3432.wav|ʦø hɔ-ku i1=zɑ̃ pəʔ ɦi tɕø1 , ʦø=hɔ ku-ɦiɤ tu1=sɔ tɕɔ=pʰiɔ pəʔ ɦi ɦioŋ te vɐʔ
 3433.wav|ɦi=le nɐʔ ɦi lɑ ze ʦã-dɑ 'ləʔ , kəʔ=məʔ ɦi ciã hɔ=ziã ciɔ1=ɦioʔ ɦo-ɪʔ=de nɐʔ ɦi lɑ gəʔ-ɦəʔ fɑ̃=mi nɐʔ=ɦɑ=vɐʔ zz lɔ=e1=gəʔ
-3434.wav|su=i ɦiɤ-zəŋ-kʷɑ̃1 iɔ1-ciɔ ɑ1-'lɑ tɑ ɦi lɑ tɑ siɔ ɲɪɲ kɐʔ sɐʔ , ɦi siɔ ɲɪɲ tɪʔ ɦo , di=se1=de gəʔ siɔ ɲɪɲ nɐʔ ɦɑ mae ne tɑ=gəʔ
+3434.wav|su=i ɦiɤ-zəŋ-kʷɑ̃1 iɔ1-ciɔ ɑ1-'lɑ tɑ ɦi lɑ tɑ siɔ ɲɪɲ kɐʔ sɐʔ , ɦi siɔ ɲɪɲ tɪʔ ɦo , di=se1=de gəʔ siɔ ɲɪɲ nɐʔ ɦɑ me ne tɑ=gəʔ
 3435.wav|ciã=ɦɑ ciã=vɐʔ=tʰəʔ , zz mo ɦɑ mo vɐʔ cʰi , su=i nɐʔ ɑ1-'lɑ ɦi=le le=le ciã=nɐʔ ʦəʔ1=ɦiɤ
 3436.wav|ɑ1-'lɑ zz-ciɑ1 nɐʔ=iɔ1 zz-ciɑ1 kʷø=hɔ zz-ciɑ1 , zz-ciɑ1 səŋ1=tʰi hɔ=tu1 cʰi ly=ɦiɤ ly=ɦiɤ , tu1=cʰi bəʔ=siã1=siã1
 3437.wav|tʰe-ɕy1 'ləʔ i ɦɤ ɲi , ɪʔ-ku ɲɪɲ 'lɑ zy li kʰe-te we 'ləʔ
 3438.wav|te=vɐʔ te=koŋ1 ɲɪɲ ciã=li kʰe=tɕã 'ləʔ
 3439.wav|te=vɐʔ , gəʔ te e1=ʦoŋ bɐʔ=lɪɲ ciã=məʔ li=kʰe dɪʔ-ɦəʔ koŋ1=sz1 'ləʔ , iɔ1 wø=zi kʰɔ zy zz-ciɑ1 'ləʔ , ɪɲ1=we zo-we kɔ1=dɤ məʔ-zz ɲi
-344.wav|tɔ=ɦi le ŋu , zy ɲɪɲ-ɦɑ̃ li gəʔ=li ze=tɕe=pʰɪɲ , ŋu mɑ-liɔ ʦiã-ɟɪɲ ɦiɤ=sz zəʔ-ve , sz zəʔ=ɲie vae
+344.wav|tɔ=ɦi le ŋu , zy ɲɪɲ-ɦɑ̃ li gəʔ=li ze=tɕe=pʰɪɲ , ŋu mɑ-liɔ ʦiã-ɟɪɲ ɦiɤ=sz zəʔ-ve , sz zəʔ=ɲie ve
 3440.wav|ciɔ1-kʷe lɐʔ=tɕã li siã1 səʔ-ɦo , noŋ ci1=pəŋ lɑ̃ lɐʔ koŋ1=sz1 wəʔ=ʦe te-we kɔ1=noŋ ø1=bɑ gəʔ , koʔ te-we məʔ ɦiɤ koŋ1-we ɑ ɦe-ɦiɤ ʦu-ʦəʔ bu=məŋ ɑ ze kɔ1=noŋ ø1=bɑ
 3441.wav|kəʔ=məʔ te zz ciɑ1-noŋ li=kʰe koŋ1=e1=gəʔ koŋ1=tɕã wəʔ=ʦe li=kʰe gəʔ ʦəʔ1=kɑ̃=we i ɦɤ ɲi , ɦiɤ ciɔ1-kʷe ɲɪɲ ɲɪɲ=we ɦiɤ səʔ=loʔ=kø , tʰəʔ=bɪʔ ɪʔ-si1 kø1=bu ŋu
 3442.wav|dɑ=vɐʔ du-siɔ vɐʔ siɔ tɑ̃-ku kʷø1 , sø=zø ɦiɤ=ʦoŋ sɪɲ1=tʰe ɲi vɐʔ pɑ=bɪɲ ɲi , ɦiɤ ciɔ1-kʷe lɔ ɲɪɲ tʰe-ɕy1 məʔ=tu1=sɔ ɲiɪʔ=ʦɪʔ y=yɪʔ ʦəŋ=le 'ləʔ
@@ -2721,7 +2721,7 @@
 3447.wav|te=vɐʔ=we=ɦo ɑ ze kʰu=i te=vɐʔ , noŋ hʷø=ɕi wəʔ=ɦiɐʔ ti=gəʔ te=vɐʔ noŋ-cʰi tɕɑ̃ tɕɑ̃=ku1 ɑ , cʰi dɔ=tʰiɔ-vu ɑ ze kʰu=i
 3448.wav|te=vɐʔ , 'ne gəʔ zz-ciɑ1 sɪɲ1=lɪɲ=nɐʔ dɔ-ʦø 'ləʔ hɔ=ɪʔ=ŋe te=vɐʔ , pɪʔ=pəʔ ɲi=ci=cʰɪɲ ɲi noŋ gəʔ-nəŋ bã=ɦiɤ ʦz1-ci ɲi ciɔ1-uɑ̃ ɦɑ pi-ciɔ tu1
 3449.wav|te=vɐʔ=noŋ lɐʔ=ke tɕɑ̃=ku1 gəʔ kəʔ=məʔ tɕɑ̃=ku1 gəʔ lɪɲ=ɦiɪʔ li=ɕiã ɪʔ-si1 bã=ɦiɤ zz ɦiɤ 'ləʔ , tʰiɔ-vu gəʔ ciɔ1=gəʔ bã=ɦiɤ zz ɦiɤ 'ləʔ
-345.wav|sz zəʔ=ɲie vae ɲi , ŋu ɲi , zy=zz ci1=pəŋ=zɑ̃ ze=zz
+345.wav|sz zəʔ=ɲie ve ɲi , ŋu ɲi , zy=zz ci1=pəŋ=zɑ̃ ze=zz
 3450.wav|te=vɐʔ , pi-cʰi lɔ=ɲi ɲɪɲ gəʔ ʦɐʔ1 sɤ=ci1 ɲi ɦoʔ-liɔ hɔ=ɪʔ=ŋe , ɪɲ1=we sɤ=ci1 li=ɕiã ciɔ1-kʷe li=ɕiã məʔ-zz ze=zz hɔ
 3451.wav|gəʔ dɪʔ-ɦəʔ iɔ1 kɔ1 ɲɪɲ-kɑ1 ciɔ1-uɑ̃ gəʔ ŋu , ne=məʔ noŋ-vəŋ kɑ̃-tɔ sɤ=ci1 ɪʔ-ɦiã-ɦəʔ , noŋ siɔ=sɤ ci1=nɐʔ ciɔ siɔ zz-ciɑ1 nø
 3452.wav|ɲy-r ɑ r-ʦz cʰi ciɔ1 ɲi zz-ciɔ1 vɐʔ hɔ-ku , ɪɲ1=we ɦi lɑ məʔ gəʔ ne=sɪɲ1 ciɔ1=noŋ , te=vɐʔ su=i noŋ-we zz ŋu ɲɪɲ=we nɐʔ ɦe-zz
@@ -2824,7 +2824,7 @@
 354.wav|zy ziã ziã gəʔ=ʦoŋ ɲi , uəŋ=ʦɤ1 ɲɪɲ-ɦɑ̃ , wəʔ=ʦe zz poʔ-he ɲɪɲ-ɦɑ̃ , gəʔ=ʦoŋ , zy=zz ŋɑ=di ɲɪɲ-ɦɑ̃ kɐʔ sɐʔ
 3540.wav|pəʔ1=ləŋ=pəʔ1=le cʰi ɦiã-liɔ gəʔ zo ɦɑ-ɦiɤ
 3541.wav|ne=məʔ=ɦiã ŋoʔ-ŋ ɦɑ ɦiɤ-ku , gəʔ zz vɐʔ te 'ləʔ te vɐʔ , gəʔ ze=zz ɕioŋ1=mã doŋ-vəʔ iɔ1=sɑ̃ ɲɪɲ e
-3542.wav|te=vɐʔ , noŋ-kɑ̃ 'mɔ=kɐʔ sɐʔ=ɦiã=ɦiã ɦɑ-'me-hɔ te=vɐʔ 'lɑ , ɪʔ=zəʔ zz ɦɑ mae tʰɪɲ ɦe=ɦo gəʔ
+3542.wav|te=vɐʔ , noŋ-kɑ̃ 'mɔ=kɐʔ sɐʔ=ɦiã=ɦiã ɦɑ-'me-hɔ te=vɐʔ 'lɑ , ɪʔ=zəʔ zz ɦɑ me tʰɪɲ ɦe=ɦo gəʔ
 3543.wav|zəʔ=ʦi ʦø=hɔ ɲi zz kɤ , kɤ=tʰoŋ1 ɲɪɲ sɪɲ1=gəʔ te=vɐʔ , zy=zz kɑ̃-cʰi-le te=ʦz ɲɪɲ zz zɪʔ=te zz ʦoŋ1=gəʔ
 3544.wav|su=i ciã=ɦiã tɕoŋ-vəʔ nɐʔ ɦɑ-iɔ1 kəŋ1=cy1 dɪʔ-ɦəʔ dɪʔ-ɦəʔ zo-we koŋ1=təʔ gəʔ , te=vɐʔ , ɦɑ-ɦiɤ zo-we te=tɑ̃ , ɦɑ-iɔ1 ɕiã ɲɪɲ te=tɑ̃
 3545.wav|te=vɐʔ , vɐʔ kʰu=i dɪʔ-ɦəʔ , noŋ ɦiã=məʔ ɦiã ɦi 'ləʔ
@@ -2856,7 +2856,7 @@
 3569.wav|te=vɐʔ=zɑ̃ di=tʰi1 , ɦi ɦɑ vɐʔ zz kɔ1 noŋ tɕiã 'ləʔ ɪʔ=dɔ bɔ gəʔ , te=vɐʔ bɑ̃=pi lɪʔ=lɐʔ=he , təŋ=noŋ ʦɪɲ-cʰi 'ləʔ ɦi ʦe ʦɪɲ-cʰi
 357.wav|ɦi siɔ ɲɪɲ-ɦɑ̃ pɪʔ=sy iɔ1-pi ɲɪɲ-kɑ1 kɔ1=ti , zz=ku vɐʔ kɔ1 , ɲɪɲ-kɑ1 kʰəŋ=dɪɲ bɔ koŋ1=sɑ̃1=ɲɪɲ-ɦɑ̃ , wəʔ=ʦe bɔ ci=səʔ=ɲɪɲ-ɦɑ̃ le , ɲɪɲ-kɑ1 ʦoŋ siã1-sɪɲ dɑ ɲɪɲ-ɦɑ̃ kɐʔ
 358.wav|de=zz ɪɲ1=we ɦi pi ɲɪɲ-kɑ1 kɔ1-liɔ ɪʔ=ti li=sɪʔ ɲi , ʦoŋ=kʷe ɦiɤ tɪʔ ɲɪɲ siã , kɔ1=ti li=sɪʔ ɦɑ hɔ-ku
-359.wav|noŋ tɕɔ=pʰiɔ zz ɪʔ-ve ɲi-ve zz vɐʔ ciɐʔ-zɐʔ gəʔ , pi-fɑ̃ ʦəŋ1-ku ŋ zəʔ-ve , loʔ zəʔ-ve , ɪʔ=pɐʔ ve-ku su=ɦo , noŋ zy siã1-tɑ̃-z ci-ku ɦɔ=dɤ iɔ1 tʰe=pae ci=pɐʔ kʰʷe ɦiã=di le
+359.wav|noŋ tɕɔ=pʰiɔ zz ɪʔ-ve ɲi-ve zz vɐʔ ciɐʔ-zɐʔ gəʔ , pi-fɑ̃ ʦəŋ1-ku ŋ zəʔ-ve , loʔ zəʔ-ve , ɪʔ=pɐʔ ve-ku su=ɦo , noŋ zy siã1-tɑ̃-z ci-ku ɦɔ=dɤ iɔ1 tʰe=pe ci=pɐʔ kʰʷe ɦiã=di le
 36.wav|ɲɪɲ-ɦɑ̃ gəʔ=li=ze
 360.wav|kəʔ=məʔ noŋ ci=pɐʔ kʰʷe ɦiã=di , siã1-tɑ̃-z noŋ mɑ=ti sz=ku cʰɪʔ cʰɪʔ , ɦɑ-iɔ1 hɔ ciɔ1-kʷe 'ləʔ , kəʔ=məʔ ŋu=ɦi le ɲi , ci1=pəŋ=zɑ̃
 361.wav|ʦoŋ=kʷe bɔ gəʔ=ʦoŋ siɔ ɲɪɲ-ɦɑ̃ , si1-cʰi tɤ1=tɤ1 kʰø1=kʰø1=kʰø1 ciɔ iɔ1 tɔ-liɔ
@@ -2868,7 +2868,7 @@
 367.wav|ciã gəʔ-nəŋ kəʔ ɦiã=ʦz ɲi , ŋu ʦu ʦəʔ1 pø=ɲi dɤ-ɦəʔ , zø=ɦɤ=ŋu pø=ɲi tɕəʔ=tɕəʔ le 'ləʔ ɦɤ , ŋu ʦu se1-ku ɦɔ=dɤ gəʔ
 368.wav|kəʔ=məʔ ɦɤ=dɤ ʦe bɑ=de , gəʔ-nəŋ kəʔ i=tɕz le=tʰe1 ɲi , ŋu ci1=pəŋ=zɑ̃ siã1-tɑ̃-z 'me-ku ɦɔ=dɤ ɦiɤ tɪʔ li=sɪʔ 'ne , ɦiɤ tɪʔ tɕɔ=pʰiɔ 'ne
 369.wav|r-tɕiɑ1 ŋu sy1=iɔ1 ɦioŋ tɕɔ=pʰiɔ zəŋ-kʷɑ̃1 , ŋu zy vɐʔ hʷɑ̃ 'ləʔ
-37.wav|gəʔ , ŋu ciɐʔ-zɐʔ ɲi , noŋ-kɑ̃ 'ləʔ mae ɦiɤ dɔ=li gəʔ
+37.wav|gəʔ , ŋu ciɐʔ-zɐʔ ɲi , noŋ-kɑ̃ 'ləʔ me ɦiɤ dɔ=li gəʔ
 370.wav|ŋu pi-fɑ̃=səʔ , ŋu tɕɪʔ-ɲyɪʔ=pɪɲ1 tɕəʔ=le ɪʔ=pʰi1 , ŋu ʦe ʦu , ɪʔ=pɐʔ ɲie ci=tʰi1 gəʔ , kəʔ=məʔ zy siã1-tɑ̃-z tɔ , zəʔ-ɪʔ-ɲyɪʔ=pɪɲ1
 371.wav|zəʔ-ɪʔ-ɲyɪʔ=pɪɲ1 , kəʔ=məʔ ŋu pɐʔ , ŋu zi=dɤ ʦu-ku pɐʔ-ɲyɪʔ ɦiɤ1-tɕəʔ le 'ləʔ , kəʔ=məʔ ʦe bɑ=de , tɔ ɦɤ=dɤ zəʔ-ɲi=ɦiɪʔ-vəŋ cy1-ɲyɪʔ=pɪɲ tɕəʔ1=le ʦe bɑ=de tɔ ɪʔ-ɲyɪʔ=pɪɲ
 372.wav|gəʔ kɐʔ ŋu ci1=pəŋ=zɑ̃ , ze=ɦiɤ tɪʔ li=sɪʔ 'ne 'ne , li=sɪʔ 'ne 'ne ʦe kɑ1-zɑ̃ zz-ciɑ1 ʦe ʦu , ʦɪʔ-iɐʔ ti=ciɑ , kəʔ=məʔ ʦe 'ne koŋ1=ʦz kɑ1-zɑ̃ cʰi , ʦe
@@ -2891,7 +2891,7 @@
 388.wav|zz=ʦəŋ=fu gəʔ zo=pɔ tã pəʔ ɦi , ɪʔ-pe ŋu zɑ̃=tʰɑ̃1 liɔ-ciɑ ɦo le-ɲi
 389.wav|zz gəʔ-nəŋ kəʔ=gəʔ , zy=zz ciã , zɑ̃=he ɲɪɲ-ɦɑ̃ ʦəŋ ku-ku tʰe tʰe-ɕy1 , tʰe-ɕy1=koŋ1-ɲɪɲ fɐʔ=fɑ̃=gəʔ
 39.wav|te=vɐʔ , ɦi kʰu=i pɔ=pɔ ʦɤ1=mɑ̃=vɐʔ
-390.wav|tʰe-ɕy1 tɕɔ=pʰiɔ zz ci1=pəŋ=zɑ̃ lɐʔ=lɐʔ sz=pɐʔ=ŋ-səʔ vae=tɔ ŋ pɐʔ-ve gəʔ-ɦəʔ , ŋ-pɐʔ i , sz=pɐʔ=ŋ-səʔ i=tɔ ŋ-pɐʔ i=gəʔ tɕɔ=pʰiɔ
+390.wav|tʰe-ɕy1 tɕɔ=pʰiɔ zz ci1=pəŋ=zɑ̃ lɐʔ=lɐʔ sz=pɐʔ=ŋ-səʔ ve=tɔ ŋ pɐʔ-ve gəʔ-ɦəʔ , ŋ-pɐʔ i , sz=pɐʔ=ŋ-səʔ i=tɔ ŋ-pɐʔ i=gəʔ tɕɔ=pʰiɔ
 391.wav|ne=məʔ=noŋ ɕiɔ=təʔ , lɔ=pɐʔ=sɪɲ 'ne tɕɔ=pʰiɔ tʰe-ɕy1=koŋ1-ɲɪɲ vɐʔ zz ɪʔ=ci=dɤ 'ne tʰəʔ=gəʔ kɐʔ
 392.wav|ɦi ʦoŋ=kʷe iɔ1=ly ŋe=vɐʔ
 393.wav|kəʔ=məʔ ly=ŋe tɑ̃=ʦoŋ1 ɲi , ci1=pəŋ=zɑ̃ ŋu tʰɪɲ zɑ̃=tʰɑ̃1 ɲɪɲ-ɦɑ̃ li kɑ̃-ɦəʔ
@@ -2923,13 +2923,13 @@
 416.wav|ŋu zy=zz ciã=lɐʔ=lɐʔ bo=se1 gəʔ zəŋ-kʷɑ̃1
 417.wav|tɕo-ʦz vɐʔ zz iɔ1 ɲiɔ le ɲiɔ cʰi zɑ̃-cʰi te=vɐʔ , ŋu zy=zz ɦɪɲ-tɕo gəʔ
 418.wav|ŋu zy tʰu təʔ=le ɪʔ tʰi=zz kəʔ , tʰu 'ləʔ ɪʔ mo-kɐʔ de=lɐʔ=e1=mi , ŋu pø mo-kɐʔ de=vɐʔ hɔ-kɑ̃ ɪʔ-mo
-419.wav|ʦəʔ1=kʷø e1=ʦəʔ1 mo-kɐʔ de=mae mae 'me-cɪʔ-kʷəŋ gəʔ , zy=ciã 'ne zi=dɤ cʰɪʔ-ɦo cʰi ʦɔ lɑ̃ dɤ vɐʔ zz cʰɪʔ=hɔ ʦz tɕəʔ-cʰi mɑ
+419.wav|ʦəʔ1=kʷø e1=ʦəʔ1 mo-kɐʔ de=me me 'me-cɪʔ-kʷəŋ gəʔ , zy=ciã 'ne zi=dɤ cʰɪʔ-ɦo cʰi ʦɔ lɑ̃ dɤ vɐʔ zz cʰɪʔ=hɔ ʦz tɕəʔ-cʰi mɑ
 42.wav|fɑ̃=noŋ ɲɪɲ-ɦɑ̃ li tɕɔ=pʰiɔ
 420.wav|zi=bu ze=tʰu=kʷã1 , de=zz ŋu zy ɪʔ=ti , tʰu=kʷã1 te=vɐʔ sɔ-vi ɕy1-sɪʔ ɕɪʔ zy hʷe1 voʔ 'ləʔ
 421.wav|ɦɤ=dɤ ɑ1-'lɑ zy təŋ-z zz zz lɐʔ gəʔ ŋu se1=tɕi1=tɕɪʔ=pɐʔ mi=gəʔ kɔ1=kɔ1 gəʔ kɔ1=dɤ , ŋu tɑ̃=zz ɲɪɲ=we zz
 422.wav|ɲɪɲ-kɑ1 ciã hɔ=ziã zz cʰi=ɐʔ lɔ=ti sɑ , gəʔ-zəŋ-kʷɑ̃1 kʰu-nəŋ ɦe ɲi=ci=cʰɪɲ
 423.wav|ŋu tɔ ɦɑ-məʔ ciɐʔ-təʔ
-424.wav|de=zz ciɐʔ-təʔ mae kʰe=sɪɲ1 gəʔ hɔ=ziã
+424.wav|de=zz ciɐʔ-təʔ me kʰe=sɪɲ1 gəʔ hɔ=ziã
 425.wav|gəʔ ɲi=ci=cʰɪɲ gəʔ zəŋ-kʷɑ̃1 səŋ1=tʰi hɔ iɑ
 426.wav|zø=bi bɔ sɑ=di=fɑ̃ cʰi , ze=vɐʔ ciɐʔ-təʔ
 427.wav|ɲi=ci dɑ-liɔ zy=vɐʔ=le se 'ləʔ , noŋ-kɑ̃ ɦiɤ=ʦoŋ di=fɑ̃ ziã=ɦi le ziã bɔ-liɔ gəʔ po kɔ1=ɲiø fe1=ɪɲ gəʔ di=fɑ̃ ŋu ɦi=le=vɐʔ=kʷø bɔ-liɔ
@@ -2938,20 +2938,20 @@
 43.wav|ŋ zəʔ-ve i-ɦo ɦi pəʔ noŋ pɔ gəʔ , ŋ zəʔ-ve i=zɑ̃ ɦi vɐʔ pɔ gəʔ , ŋu , ɲiø le=zz ɲɪɲ-ɦɑ̃ li gəʔ=li ze=tɕe=pʰɪɲ
 430.wav|de=zz ŋu ciɐʔ-zɐʔ ɦi lɑ ɦɪɲ-nø ŋu
 431.wav|ɦi lɑ ɦɪɲ-nø ɲɪɲ me-hɔ gəʔ
-432.wav|ɦi lɑ ɦɑ mae ze , ze ʦu ʦɪʔ=moʔ kɐʔ sɐʔ
+432.wav|ɦi lɑ ɦɑ me ze , ze ʦu ʦɪʔ=moʔ kɐʔ sɐʔ
 433.wav|gəʔ nɔ ɦe-ɦiɤ tɪʔ sɐʔ=tʰɔ sɪɲ1=ɲiã
 434.wav|tʰɔ sɪɲ1=ɲiã=ʦz , e , ze=ze vɐʔ ɕiɔ=təʔ ʦəŋ1-ku kɑ-ɦəʔ ɦe-zz ʦu-ɕi ɦe-zz sɐʔ=gəʔ , ɦi lɑ ʦu pəʔ ɑ1-'lɑ kʰø1
 435.wav|nɑ-nəŋ kəʔ nɔ zy ciã ɦi lɑ
 436.wav|zɑ̃=he ɲɪɲ=ciã tʰɔ=sɪɲ1=vu , ɦi lɑ ɦɑ-zz tʰɔ , tʰɔ=ɲiã=ʦz , tʰɔ=sɪʔ=vu
 437.wav|e ʦu-ɕi kɐʔ sɑ , me-hɔ gəʔ ze
-438.wav|e , mae=ɦe 'me-ɲiɪʔ zɪɲ=gəʔ , ɦɪɲ-nø ɲɪɲ ɦɑ 'me-ɲiɪʔ zɪɲ=gəʔ
+438.wav|e , me=ɦe 'me-ɲiɪʔ zɪɲ=gəʔ , ɦɪɲ-nø ɲɪɲ ɦɑ 'me-ɲiɪʔ zɪɲ=gəʔ
 439.wav|e cʰi-ɦəʔ di=fɑ̃ ci-səʔ ci-səʔ ŋu
 44.wav|kʰu=i pɔ=gəʔ
 440.wav|ɑ1-'lɑ zoŋ=le məʔ kʰø1=tɔ=ku
 441.wav|e , kʰø1=tɔ ɦi lɑ gəʔ ŋu e
 442.wav|ɦi lɑ gəʔ foŋ tʰu ɲɪɲ-zɪɲ ɑ
 443.wav|ciɐʔ-təʔ ɦɑ-'me-hɔ
-444.wav|mae hɔ=bəʔ=siã1 gəʔ zy=ciã
+444.wav|me hɔ=bəʔ=siã1 gəʔ zy=ciã
 445.wav|ɑ ɑ1-'lɑ zz zɑ̃=tʰɑ̃1 ʦz=ɦiɤ ɪʔ=ɲi zz-ɑ li ɪʔ=ɲi ɑ
 446.wav|tɕi1=tɔ wu ɦi vɐʔ zz ciɔ=sɑ ɦi , ɦi ʦu ɑ1-'lɑ lɪɲ=dɔ , gəʔ-zəŋ-kʷɑ̃1 cʰi
 447.wav|tɔ tɔ gəʔ tɕi1=tɔ wu=cʰi
@@ -2985,23 +2985,23 @@
 472.wav|gəʔ zy=ciã ɑ1-'lɑ ŋã-cɪɲ vɐʔ kʰəŋ , vɐʔ kʰəŋ 'ləʔ i=ɦɤ=vɐʔ zz ɑ1-'lɑ ɲiø=ɟy zu 'ləʔ zi=dɤ ti='ləʔ mɑ
 473.wav|de=zz te=vɐʔ , ʦəŋ1-ku tɕəʔ-cʰi te=vɐʔ
 474.wav|ɦɑ kʰu=i gəʔ , ɦi zy ciã
-475.wav|vi=wu dɑ-ciɑ1 gəʔ ɦi mae we tɪʔ zy=zz ciã=cʰi sɑ=gəʔ zɪɲ-hʷɑ̃ vɐʔ te , ɦi we tɪʔ cʰi ciɔ1-zəʔ gəʔ , gəʔ=ti zz ɲɪɲ zz=mae hɔ-ku
-476.wav|te-ɦəʔ , ɦi zy ʦu=zz=tʰi mae=ɲɪɲ ʦəŋ1-ku , ʦəʔ1=iɔ1 kɑ̃-ku , ciã=hɔ zz ɦi tɑ de pəʔ ɦi ʦu lɪɲ dɔ gəʔ ləʔ
+475.wav|vi=wu dɑ-ciɑ1 gəʔ ɦi me we tɪʔ zy=zz ciã=cʰi sɑ=gəʔ zɪɲ-hʷɑ̃ vɐʔ te , ɦi we tɪʔ cʰi ciɔ1-zəʔ gəʔ , gəʔ=ti zz ɲɪɲ zz=me hɔ-ku
+476.wav|te-ɦəʔ , ɦi zy ʦu=zz=tʰi me=ɲɪɲ ʦəŋ1-ku , ʦəʔ1=iɔ1 kɑ̃-ku , ciã=hɔ zz ɦi tɑ de pəʔ ɦi ʦu lɪɲ dɔ gəʔ ləʔ
 477.wav|ɲɪɲ=ʦəŋ1 vɤ-ʦəʔ gəʔ zy=zz , gəʔ=ti tɔ zz-ku , hɔ-ku di=fɑ̃ ɦɑ ɦiɤ-ku
 478.wav|zy ɦiɤ=zã=ʦz gɔ=ŋ=gɔ=loʔ zy ciã=ɦe=ɦo kɐʔ sɐʔ ɦi hɔ=ziã
 479.wav|ɦiɤ=ti vɐʔ zz lɔ=zəŋ=zəʔ ŋu , ɦiɤ=ti gəʔ
 48.wav|de=zz ɲɪɲ-ɦɑ̃ gəʔ su=ɦiɤ li=ze=tɕe=pʰɪɲ ze=vɐʔ pɔ=gəʔ
 480.wav|ɲɪɲ ɲɪɲ tɔ ʦoŋ=tʰi le-kɑ̃
-481.wav|tɕəʔ-cʰi bəʔ siã1=te vɐʔ , ɦiɤ ɦi gəʔ-nəŋ kəʔ=gəʔ ɲɪɲ ɦɑ mae kʰe=sɪɲ1 me-hɔ gəʔ noŋ-kɑ̃ te=vɐʔ
+481.wav|tɕəʔ-cʰi bəʔ siã1=te vɐʔ , ɦiɤ ɦi gəʔ-nəŋ kəʔ=gəʔ ɲɪɲ ɦɑ me kʰe=sɪɲ1 me-hɔ gəʔ noŋ-kɑ̃ te=vɐʔ
 482.wav|ɑ1-'lɑ ɦe ʦoŋ=kʷe zɑ̃=tʰɑ̃1 ʦz te vɐʔ , ŋu te vɐʔ
 483.wav|zy ciɐʔ-təʔ te=vɐʔ , tɔ=tɕi1=tɔ wu ʦø kʰe=sɪɲ1 ku-zz sɑ-məʔ-zz ɑ
 484.wav|'nɑ məʔ ʦɪɲ-cʰi e , zy=zz e1=ʦəʔ1
 485.wav|we tɪʔ ciɔ-ku
-486.wav|zy gəʔ tɔ gəʔ li siã1-cʰi mae kʰe=sɪɲ1 gəʔ
+486.wav|zy gəʔ tɔ gəʔ li siã1-cʰi me kʰe=sɪɲ1 gəʔ
 487.wav|hɐʔ='ləʔ vɐʔ təʔ-liɔ
 488.wav|vɐʔ zz-ɑ , ɪʔ=kʰe=sz cʰi-ɦəʔ siɔ=sz1 tʰi ɦi lɑ lɔ=koŋ1 vɐʔ zz-ɑ , tɑ-liɔ ɑ1-'lɑ ɪʔ=dɔ cʰi , ŋu=tɑ̃ ʦz ɪʔ kʰəŋ=dɪɲ nø ɲɪɲ ciɑ1 te=ʦz kʰəŋ=dɪɲ iɔ1-dɑ le=ɦi=gəʔ te=vɐʔ
 489.wav|bɔ ʦɪɲ-cʰi ɦi ɪʔ-kɑ1=dɤ si1=ciɔ cʰi=le 'ləʔ , hɐʔ təʔ=le ɑ1-'lɑ mɑ zi=bu ze dɔ=tɕəʔ le loŋ-ku ʦəŋ1-ku ŋɑ=dɤ vɐʔ kʷø ʦɪɲ-cʰi
-49.wav|ŋu , gəʔ zz , noŋ gəʔ-nəŋ ɦiã=ʦz kəŋ1=ŋu=ciã 'ləʔ mae tɕɪɲ1=sɑ̃ gəʔ
+49.wav|ŋu , gəʔ zz , noŋ gəʔ-nəŋ ɦiã=ʦz kəŋ1=ŋu=ciã 'ləʔ me tɕɪɲ1=sɑ̃ gəʔ
 490.wav|zəʔ ʦi lɑ̃ ɕiã=noŋ ʦɪɲ-cʰi te=vɐʔ kʰø1=kʰø1 me-hɔ gəʔ , ŋu pəŋ=səŋ1 ɦɑ-siã ʦɪɲ-cʰi gəʔ
 491.wav|ŋu siã gəʔ siɔ sz=tɕø1 lɐʔ lɔ=koŋ1 zz ʦɐʔ1 nø ɲɪɲ , e , gəʔ ʦəʔ1 nø=ɲɪɲ=hɐʔ təʔ=le gəʔ-nəŋ kəʔ , ɑ1-'lɑ ɦe=kø ʦɪɲ-cʰi ɑ
 492.wav|ze=lɔ gɑ̃ ɑ , ɑ1-'lɑ gəʔ-zəŋ-kʷɑ̃1 lɔ gɑ̃ e
@@ -3010,7 +3010,7 @@
 495.wav|noŋ ʦɔ pəʔ i=ɦɤ=te vɐʔ ze=zz
 496.wav|gəʔ tʰɪʔ=gəʔ ɲɪɲ ʦu-ku kɑ ɲɪɲ
 497.wav|ɪʔ ti=tu1 vɐʔ=hɐʔ
-498.wav|noŋ noŋ vɐʔ ʦɔ=mae ciɔ te vɐʔ lɔ=lɔ ø=gəʔ di=fɑ̃ ɦi ɪʔ tu1 vɐʔ ɪʔ=ci=dɤ ciɔ cʰi=le ɪʔ=ci=dɤ səŋ-ɪɲ1 tɕəʔ le=te vɐʔ
+498.wav|noŋ noŋ vɐʔ ʦɔ=me ciɔ te vɐʔ lɔ=lɔ ø=gəʔ di=fɑ̃ ɦi ɪʔ tu1 vɐʔ ɪʔ=ci=dɤ ciɔ cʰi=le ɪʔ=ci=dɤ səŋ-ɪɲ1 tɕəʔ le=te vɐʔ
 499.wav|bɪɲ1=lɔ=noŋ noŋ noŋ zy=hɐʔ 'ləʔ , noŋ ʦɔ lɔ ɦi , noŋ zy ɪʔ ti=tu1 vɐʔ=hɐʔ
 5.wav|gəʔ-ɦəʔ , ɐʔ1-ɦi nø , ɪɲ-ke-kɑ̃ , noŋ i=cɪɲ ciɔ1-kʷe ɲi=su lɐʔ=lɐʔ liɔ-ciɑ 'ləʔ
 50.wav|ne=məʔ , ɦe ɦiɤ-ɪʔ-ɦəʔ ɲi , ʦø=ɟɪɲ ɲi zy=zz ciã=ŋu=ɦiɤ liã-ku bã=ɦiɤ ɲi ciɔ ŋu gəʔ zz , tɕø-kɑ1 gəʔ-ɦəʔ zy=zz ciã
@@ -3022,7 +3022,7 @@
 505.wav|ɦi ɪʔ ʦɪɲ-cʰi gəʔ zəŋ-kʷɑ̃1 , ɦi si1 ɦi si1 iɔ1-cʰi ɦoʔ-ɦoʔ noŋ 'ləʔ , li siã1=gəʔ cy lɐʔ=lɐʔ ciã=ɦe=ɦo ŋu
 506.wav|noŋ ɕiɔ=təʔ vɐʔ , ciã=ɦe=ɦo ɦi ɪʔ-kɑ̃
 507.wav|'ŋ , tɑ̃=ŋu=le 'lɑ , sɑ-məʔ-zz gəʔ , ɪʔ kɑ̃-kɑ̃ 'ləʔ lɔ=hɐʔ ɲɪɲ-ɦəʔ
-508.wav|gəʔ-zəŋ-kʷɑ̃1 zz=mae hɐʔ=lɔ=lɔ , gəʔ-zəŋ-kʷɑ̃1 ɑ1-'lɑ liã ɲɪɲ sø=zø te vɐʔ 'lɑ sɤ di=doŋ ʦɔ=ʦɔ lɐʔ=he , de=zz ɦɑ kɤ=lɐʔ=he
+508.wav|gəʔ-zəŋ-kʷɑ̃1 zz=me hɐʔ=lɔ=lɔ , gəʔ-zəŋ-kʷɑ̃1 ɑ1-'lɑ liã ɲɪɲ sø=zø te vɐʔ 'lɑ sɤ di=doŋ ʦɔ=ʦɔ lɐʔ=he , de=zz ɦɑ kɤ=lɐʔ=he
 509.wav|ɦɑ-zz ɦiɤ=ti hɐʔ=lɔ=lɔ=gəʔ
 51.wav|gəʔ , zy=zz li=ze
 510.wav|ʦəʔ1=iɔ1 zz pəʔ siɔ sz=tɕø1 gəʔ lɔ=koŋ1 ɪʔ-ku nø ɲɪɲ
@@ -3032,13 +3032,13 @@
 514.wav|gəʔ noŋ ʦɪɲ-cʰi , noŋ kø tɤ1 ŋ-cʰiø ʦu=sɐʔ , noŋ ʦɪɲ-cʰi liã=cʰiø ciã=vɐʔ hɐʔ=gəʔ , 'nɑ sɑ ɲɪɲ nɔ ŋu lɑ=lɐʔ=lɔ ŋu , ŋu lɑ lɔ 'nɑ ɪʔ=dɔ cʰi te vɐʔ 'lɑ
 515.wav|ɦi vɐʔ 'lɑ , ɦi ɪʔ-kɑ1=dɤ cʰi , ɪʔ-kɑ1=dɤ cʰi tɤ1 ŋ-cʰiø vɐʔ zz nɔ=ʦz ɦiɤ-vəŋ-di gəʔ
 516.wav|ɦi ciã 'nɑ vɐʔ ciã , ŋu ɦe-hɔ tɤ1
-517.wav|vɐʔ=ku , ɦi ʦəʔ1 ve , ɦi ɦɤ=dɤ tɕɔ-liɔ iɔ1-cʰi tɤ1=gəʔ , məʔ-zəŋ-kʷɑ̃1 tɤ1 ləʔ , te-ɦəʔ , ɦi hɔ=bəʔ=siã1 mae hɔ=bəʔ=siã1 gəʔ , zɑ̃=tʰɑ̃1 ʦz ɑ1-'lɑ tɔ
+517.wav|vɐʔ=ku , ɦi ʦəʔ1 ve , ɦi ɦɤ=dɤ tɕɔ-liɔ iɔ1-cʰi tɤ1=gəʔ , məʔ-zəŋ-kʷɑ̃1 tɤ1 ləʔ , te-ɦəʔ , ɦi hɔ=bəʔ=siã1 me hɔ=bəʔ=siã1 gəʔ , zɑ̃=tʰɑ̃1 ʦz ɑ1-'lɑ tɔ
 518.wav|cʰi  ku1
 519.wav| ku1=ɪʔ tɕɑ̃=tɕɑ̃ mɑ ʦəŋ1=hɔ tɕɑ̃ tɔ su-poʔ ku1
 52.wav|gəʔ-ɦəʔ koŋ1=sz1 ɑ cʰi tɕø-kɑ1 gəʔ li=ze wəʔ=doŋ
-520.wav|mae hɔ=bəʔ=siã1 gəʔ ɦi
-521.wav|zz-ku mae hɔ=bəʔ=siã1 e , ʦoŋ=kʷe ɦi lɑ liã-ku ɲɪɲ ʦoŋ-ɦəʔ le-kɑ̃ ɦe me-hɔ
-522.wav|nɔ liã-kɑ1-dɤ , ɪʔ=te fu-tɕi1 mae lɔ=zəʔ gəʔ , noŋ-kɑ̃ te=vɐʔ , mae hɔ=bəʔ=siã1 gəʔ zy=zz
+520.wav|me hɔ=bəʔ=siã1 gəʔ ɦi
+521.wav|zz-ku me hɔ=bəʔ=siã1 e , ʦoŋ=kʷe ɦi lɑ liã-ku ɲɪɲ ʦoŋ-ɦəʔ le-kɑ̃ ɦe me-hɔ
+522.wav|nɔ liã-kɑ1-dɤ , ɪʔ=te fu-tɕi1 me lɔ=zəʔ gəʔ , noŋ-kɑ̃ te=vɐʔ , me hɔ=bəʔ=siã1 gəʔ zy=zz
 523.wav|e , ɑ1-'lɑ ɦɤ=dɤ=le ɦɤ=dɤ=le vɐʔ zz ciɑ-sz
 524.wav|ɑ1-'lɑ ɪʔ=pɑ̃=ʦz ɲɪɲ zi=bu vɐʔ zz zi=bu ze dəŋ 'ləʔ gəʔ se1=se1 se1=iɔ1 kɔ1=dɤ vɐʔ zz bo 'ləʔ tɕəŋ=foŋ=liã 'ləʔ-mɑ
 525.wav|ɦiɤ ɦiɤ zy bo ɦiɤ bo=se1 'ləʔ , bo 'ləʔ vɐʔ ɕiɔ=təʔ ɑ li zu se1 kɔ1=dɤ
@@ -3103,7 +3103,7 @@
 579.wav|kəʔ=məʔ zy ɦiɤ=zã=zz siã=siã ne=be ɪʔ=tʰɑ̃1 iɑ , ɦɑ-iɔ1 ɕiã=zɤ ɪʔ=tʰɑ̃1 iɑ , noŋ-kɑ̃ te=vɐʔ
 58.wav|ʦu sɐʔ məʔ-zz
 580.wav|ɦi=le kʰø1 le=te vɐʔ , ɦi=le ŋ=ho1=pɐʔ=məŋ gəʔ ly=ɦiɤ te=vɐʔ=ʦe ɲɪɲ-kɑ1=gəʔ lɔ tu1-ku , ɦi=le kʰø1=le zz tɕəʔ-cʰi zz iɔ1=zɪɲ hɔ-ku ʦəŋ1=kʷe ly-ɦɪɲ=zo
-581.wav|gəʔ zz=mae zoŋ=iɔ1 gəʔ=zz
+581.wav|gəʔ zz=me zoŋ=iɔ1 gəʔ=zz
 582.wav|noŋ-we ɦiɤ sɑ=di=fɑ̃ cʰi-ku ɑ
 583.wav|cʰi ku-ku di=fɑ̃ mɑ zy
 584.wav|cʰi ku-ku di=fɑ̃ mɑ ɦɑ 'me-tu1 gəʔ , məʔ-cʰi ku-ku di=fɑ̃ ɦɑ 'me-tu1 gəʔ
@@ -3112,7 +3112,7 @@
 587.wav|ɦi lɑ ciã 'me kʷəʔ zz
 588.wav|ɦɑ məʔ=sɑ cʰi dɤ-ɦəʔ
 589.wav|'me=kʷəʔ , 'me=kʷəʔ=ɦi le kəŋ1-kɑ1 , ɦi=le zz kəŋ1-kɑ1 vɐʔ hɔ cʰi-'ləʔ , de=zz ɦi lɑ ciã hɔ-cʰi zəŋ-kʷɑ̃1 'me=kʷəʔ ɦɑ məʔ=sɑ cʰi dɤ-ɦəʔ
-59.wav|zəŋ=ʦz de=tɔ ɦɤ=dɤ=le noŋ dɤ se1-ve , dɤ zəʔ-ve , ɲie=vae , se1-ve ɦɑ kʰu=i dɤ=gəʔ
+59.wav|zəŋ=ʦz de=tɔ ɦɤ=dɤ=le noŋ dɤ se1-ve , dɤ zəʔ-ve , ɲie=ve , se1-ve ɦɑ kʰu=i dɤ=gəʔ
 590.wav|ɦi lɑ ciã ɦe zy=zz ciã=ɦe ɤ=ʦɤ1 kʷəʔ-ciɑ1 pi-ciɔ , 'me=kʷəʔ məʔ=sɑ cʰi-dɤ , ɦe-zz ɦi lɑ cʰi-ku de ue=ziã
 591.wav|gəʔ ciɔ siɔ=pu1 lɔ sɑ vɐʔ zz=tɔ de ue
 592.wav|de ue cʰi-ku , ɦi kɑ̃-de ue=gəʔ cɪɲ-səʔ ɦe-məʔ ʦoŋ1=kʷəʔ cɪɲ-səʔ hɔ ləʔ
@@ -3128,9 +3128,9 @@
 600.wav|fɐʔ=ləŋ=koŋ1 le tɐʔ=noŋ ɪʔ-ku vɐʔ tɑ̃=sɪɲ1 pəʔ ɲɪɲ-kɑ1 loŋ-ku gɔ=tɕɪʔ='nyi=se1 gəʔ zz=tʰi le ləʔ
 601.wav|vɐʔ cʰi , ʦe-kɑ̃ cɪɲ
 602.wav|cɪɲ-ti mɑ ɦiɤ məʔ=sɑ cɪɲ-ti gəʔ
-603.wav|gəʔ ɦe=vɐʔ=zz zəʔ-pəŋ ləʔ , zəʔ-pəŋ ɦi lɑ ciã=tɔ mae lɪɲ-ɦəʔ
+603.wav|gəʔ ɦe=vɐʔ=zz zəʔ-pəŋ ləʔ , zəʔ-pəŋ ɦi lɑ ciã=tɔ me lɪɲ-ɦəʔ
 604.wav|ɪɲ1=we ɦi gəʔ məʔ-zz ze siɔ=cʰiɔ cʰiɔ=gəʔ te=vɐʔ
-605.wav|zy ciã=sz=noŋ kʰø1 'ləʔ mae səʔ=ɲi=gəʔ
+605.wav|zy ciã=sz=noŋ kʰø1 'ləʔ me səʔ=ɲi=gəʔ
 606.wav|r-tɕiɑ1 ɦi gəʔ ŋu voʔ=voʔ vu tʰe=du ŋu , ɦi ze nɔ cioʔ=koŋ1 ɑ sɐʔ ɑ , ze=cy ʦɪɲ=cy tɕəʔ-ku , noŋ-kɑ̃ te=vɐʔ , cy lɐʔ=he voʔ=vu=gəʔ lɔ sɐʔ
 607.wav|tɔ tɔ=zz kʰu=i cʰi bəʔ=siã1=siã1 , ɦɑ-zz ɪʔ=ʦoŋ ɕiã=zɤ iɑ
 608.wav|zəʔ-pəŋ ɦi lɑ te vɐʔ , zy=zz te-ɲɪɲ ciɑ1 lɔ ʦəŋ1=zoŋ gəʔ te vɐʔ , ɦe-ɦiɤ ɦi lɑ ɪʔ-ku di fɑ̃=te vɐʔ , lɔ=tɕɪɲ1=sɑ̃ gəʔ
@@ -3171,7 +3171,7 @@
 64.wav|cɪʔ=ku liɔ-ciɑ 'ləʔ i=ɦɤ=mɑ , tʰi1=tʰi1 zɑ̃=kʰu ɑ , ciã=tʰəʔ ɪʔ=ɕɪʔ tʰoŋ1=hu=bã=ʦã gəʔ=ti məʔ-zz ɲi , tʰɪɲ=fɐʔ tʰɪɲ=fɐʔ ɲi , ciɐʔ-zɐʔ tɔ=ɦe we-kʰu=i mɑ
 640.wav|gəʔ po di fɑ̃=te vɐʔ , ɦi lɔ=ʦɔ məʔ=məʔ gəʔ ŋu noŋ-kɑ1=loʔ gəʔ , ɪʔ kʰe=sz=zəŋ-kʷɑ̃1 ze=zz cɪɲ-ti
 641.wav|gəʔ po sɑ=gəʔ
-642.wav|ʦoʔ=he gəʔ sɑ-məʔ-zz te=vɐʔ , gəʔ po di=fɑ̃ tɔ zz=mae hɔ-ku , ne=məʔ ɦɤ=dɤ=le te=vɐʔ=ze ɦɪɲ=zəŋ 'ləʔ sɑ noŋ-kɑ1=loʔ kɐʔ sɑ-məʔ-zz ze=le ləʔ
+642.wav|ʦoʔ=he gəʔ sɑ-məʔ-zz te=vɐʔ , gəʔ po di=fɑ̃ tɔ zz=me hɔ-ku , ne=məʔ ɦɤ=dɤ=le te=vɐʔ=ze ɦɪɲ=zəŋ 'ləʔ sɑ noŋ-kɑ1=loʔ kɐʔ sɑ-məʔ-zz ze=le ləʔ
 643.wav|ø1=cɪʔ ɲi ɦe-zz kʰu=i gəʔ , ɪɲ1=we ɦi we=sɑ dɔ=li , ze=zz ʦoʔ ʦoʔ=lɪɲ mɑ
 644.wav|kʰoŋ1=cʰi hɔ , te=vɐʔ
 645.wav|gəʔ kʰu=i , cʰɪʔ mɑ cʰɪʔ-liɔ kʰu=i gəʔ , me-hɔ ku-zz
@@ -3179,7 +3179,7 @@
 647.wav|'ŋ , zoŋ=mɪɲ zəʔ=ʦi zɑ̃ hɔ mɑ ɦɑ-'me-hɔ gəʔ
 648.wav|zy=zz cʰi-'ləʔ tʰəʔ=tu1 'ləʔ
 649.wav|ø1=cɪʔ ɦɑ cʰi-ku ci=tʰɑ̃1
-65.wav|ɑ1-'lɑ ɪɲ=ke ɲi , zy=zz ciã=ɦɑ tɕø-kɑ1 ɪʔ-si1 , kəʔ=məʔ ŋu ɲɪɲ=we ɲi , dəŋ=siɔ=bɪɲ=ciã 'ləʔ ɪʔ-cy=ɦe=ɦo tɔ mae te-ɦəʔ
+65.wav|ɑ1-'lɑ ɪɲ=ke ɲi , zy=zz ciã=ɦɑ tɕø-kɑ1 ɪʔ-si1 , kəʔ=məʔ ŋu ɲɪɲ=we ɲi , dəŋ=siɔ=bɪɲ=ciã 'ləʔ ɪʔ-cy=ɦe=ɦo tɔ me te-ɦəʔ
 650.wav|ø1=cɪʔ , lɪɲ=ø1
 651.wav|lɪɲ=ø1 e lɪɲ=ø1
 652.wav|lɪɲ=ø1 zy=zz tɕəʔ=siɔ ɦəʔ=dɔ gəʔ di=fɑ̃ iɑ
@@ -3201,7 +3201,7 @@
 667.wav|poʔ-cɪɲ1 e=su ʦz=we ɲy=ɪɲ1 tɕe=zɪʔ
 668.wav|poʔ-cɪɲ1 e=su ʦz=we ɲy=ɪɲ1 tɕe=zɪʔ
 669.wav|ɑ1-'lɑ ɦi=le=ciã ɪʔ-ɕiɑ , ɑ1-'lɑ
-67.wav|kəʔ=məʔ , ɦiɤ-z ɦi gəʔ ʦəʔ1 siã=fɐʔ ɲi , tɔ=mae vu-ɦəʔ ŋu iɔ1=ɟy gəʔ , e , ŋu ciɐʔ-zɐʔ zz ɪɲ=ke , ci=zø noŋ=iɔ1 siã zi sã1=zi
+67.wav|kəʔ=məʔ , ɦiɤ-z ɦi gəʔ ʦəʔ1 siã=fɐʔ ɲi , tɔ=me vu-ɦəʔ ŋu iɔ1=ɟy gəʔ , e , ŋu ciɐʔ-zɐʔ zz ɪɲ=ke , ci=zø noŋ=iɔ1 siã zi sã1=zi
 670.wav|gəʔ-ɦəʔ koŋ1=ʦoʔ vəŋ=di
 671.wav|ɑ1-'lɑ ɲiø=le ɲi=lɐʔ=lɐʔ te-we ŋu zz ɪʔ-ku , cʰɪɲ=koŋ1=ɲiɪʔ=ɟioʔ koŋ1=ʦoʔ gəʔ
 672.wav|ɦɤ=dɤ=le gəʔ=nø
@@ -3278,7 +3278,7 @@
 736.wav|gəʔ zu=lɐʔ kɔ1=dɤ vɐʔ le se , ɪʔ=zu kɔ1=dɤ ɦiɑ=pe1 ŋu , zy tã=kʰəʔ=zø zy=iɔ1 kʰʷəŋ-kɔ , gəʔ
 737.wav|ɪʔ=ʦø ziã tɕø1=mi=cʰioʔ iɑ , ɪʔ=zu 'ləʔ kɔ1=dɤ zy kʰʷəŋ-kɔ
 738.wav|e , vɐʔ hɔ ʦu gəʔ sã1=wəʔ
-739.wav|ŋu , te-ɦəʔ , ŋu ɕiɔ=təʔ fɑ̃-ʦəʔ tɕã zz=mae kʰu=gəʔ , ŋu e si1 zəŋ-kʷɑ̃1
+739.wav|ŋu , te-ɦəʔ , ŋu ɕiɔ=təʔ fɑ̃-ʦəʔ tɕã zz=me kʰu=gəʔ , ŋu e si1 zəŋ-kʷɑ̃1
 74.wav|ŋu ciɐʔ-zɐʔ zz lɔ=vɐʔ=kʰɔ pu gəʔ ɪɲ1=we ɑ1-'lɑ ze=ɦiɤ tɪʔ ɪɲ-ɪɲ 'ləʔ , ze wɑ-tʰəʔ ku-liɔ
 740.wav|tɔ məʔ ʦu ku=sɐʔ=kʰu sã1=wəʔ , sã1=wəʔ tɔ=zz we-kʰu=i gəʔ
 741.wav|e , e si1 zəŋ-kʷɑ̃1 ɪʔ=zəʔ
@@ -3296,7 +3296,7 @@
 752.wav|kəʔ=məʔ , e si1 zəŋ-kʷɑ̃1 zɔ=fe1 de ɦe=lɐʔ=lɐʔ=he , kəʔ=məʔ iɔ1 gɔ=koŋ gɔ loʔ , ɦe=lɐʔ gɔ vɐʔ 'lɑ
 753.wav|ɦɤ=dɤ=le , ɦi ciã diɔ ɲɪɲ , ɪʔ=zəʔ diɔ , ɦɤ=dɤ=le diɔ-tɔ ɑ1-'lɑ ɪʔ=pʰi1
 754.wav|'ne ŋu ɦɤ=dɤ ɦiɤ diɔ zɑ̃-cʰi
-755.wav|kəʔ=məʔ ɦi si1 vəŋ , 'nɑ səŋ1=tʰi hɔ=vɐʔ , səŋ1=tʰi vɐʔ hɔ 'nɑ zy vɐʔ ʦu , ɪɲ1=we gəʔ mae sɪɲ1-kʰu gəʔ , ɪʔ=zəʔ iɔ1 zɔ1-ŋɑ=dɤ bɔ gəʔ
+755.wav|kəʔ=məʔ ɦi si1 vəŋ , 'nɑ səŋ1=tʰi hɔ=vɐʔ , səŋ1=tʰi vɐʔ hɔ 'nɑ zy vɐʔ ʦu , ɪɲ1=we gəʔ me sɪɲ1-kʰu gəʔ , ɪʔ=zəʔ iɔ1 zɔ1-ŋɑ=dɤ bɔ gəʔ
 756.wav|vɐʔ zz zu=lɐʔ te-we li siã1=gəʔ , ɦi kɑ̃-ɦəʔ
 757.wav|kəʔ=məʔ ɑ1-'lɑ e si1 zəŋ-kʷɑ̃1 , lɔ=ʦɔ zz ɦiɪʔ-pʰiɔ iɑ , loʔ=kʰʷe ɦiã=di ɪʔ=ʦã ɦiɪʔ-pʰiɔ mɑ
 758.wav|ʦəŋ-ku zɑ̃=he vɐʔ zz ze=hɔ ʦɤ-liɔ mɑ , ɑ1-'lɑ zz , nɔ , nɔ , ɦi=ɦi le kɑ̃-cʰi-le sɪɲ1-ʦɑ̃
@@ -3308,7 +3308,7 @@
 763.wav|tɕəʔ-cʰi 'ləʔ mɑ , gəʔ tɕo-ʦz we=le fe1=ʦəŋ1 kʰe=ʦã fɐʔ=pʰiɔ bɐʔ ɑ1-'lɑ , ɑ1-'lɑ fe1=ʦəŋ1 tɔ te-we cʰi pɔ=siɔ
 764.wav|ɑ1-'lɑ zy gəʔ-nəŋ kəʔ e si1 zəŋ-kʷɑ̃1 , ziã lɔ=ʦɔ nø-we ɑ voŋ=ɦi ɑ ŋu ɦɑ lɔ=ʦɔ ɪʔ=zəʔ cʰi-ɦəʔ , ɦe=lɐʔ ze=zz ku=ɦiɑ le
 765.wav|ʦoŋ=kʷe gəʔ ʦɑ̃ zz=tʰi be=vɐʔ=hɔ , be=vɐʔ=hɔ , ŋu , məŋ-ʦɔ1 ʦe-cʰi
-766.wav|ŋu ɦe=mae ɦɪɲ=ɦɪɲ ɑ , ɦɤ=dɤ=le
+766.wav|ŋu ɦe=me ɦɪɲ=ɦɪɲ ɑ , ɦɤ=dɤ=le
 767.wav|siã=tɔ ŋɑ=di cʰi-'ləʔ
 768.wav|ŋɑ=di li=lɔ ʦz bɔ-liɔ ciɔ1-kʷe di=fɑ̃
 769.wav|ʦø=cʰi mo=bɐʔ ɲɪɲ-kɑ1 ɦi=le bã=bu
@@ -3323,7 +3323,7 @@
 777.wav|ɑ1-'lɑ zy bɔ-liɔ gəʔ ci-ku , ne məʔ ɦi ɦɤ=dɤ ɑ1-'lɑ ʦu-ʦəʔ kʰu1 kʰu1-ʦã ɦɑ-'me-hɔ , zy ciã=ŋu 'ləʔ , e , noŋ bɔ ci-ku di=fɑ̃ ɦe me-hɔ , ze du-zəŋ=zz
 778.wav|de=zz noŋ-kɑ̃ te=vɐʔ , bɔ tɔ zəŋ=ʦɤ1 bɔ tɔ gəʔ ɕiã-ɦo-dɤ , ɦɤ=dɤ ɦe cʰi-ɦəʔ iɑ
 779.wav|bɔ tɔ ɕiã-ɦo-dɤ si1 cʰɪʔ , le ɲɪɲ-kɑ1 noŋ=mɪɲ oʔ=li siã1 , lɔ=ʦɔ ɦiɤ tɪʔ liã=pʰiɔ gəʔ , ciɔ1 liã=pʰiɔ bɐʔ ɲɪɲ-kɑ1
-78.wav|noŋ-kɑ̃ 'ləʔ mae ɦiɤ dɔ=li gəʔ
+78.wav|noŋ-kɑ̃ 'ləʔ me ɦiɤ dɔ=li gəʔ
 780.wav|ŋu cʰɪʔ-ɲɪɲ ciɑ1 wu=wu , ɦi=le kɑ̃-cʰi-le zz siɔ=mi , ɦi=le kɑ̃-cʰi-le hɔ=le
 781.wav|tɑ̃=tɕu1 uɑ̃ li , pø=cɪɲ1 liã=pʰiɔ ʦe=ciɔ1=bɐʔ ɲɪɲ-kɑ1 liã=koʔ ŋ-fəŋ1 ɦiã=di
 782.wav|cʰɪʔ dɪʔ-ɦəʔ wu=wu 'lɑ , ʦəʔ1=ɦiɤ zy=zz , noŋ-kɑ̃ ɑ1-'lɑ e si1 zəŋ-kʷɑ̃1
@@ -3383,15 +3383,15 @@
 830.wav|ʦɪɲ1=kɑ1-koŋ1 tɕo-ci , ŋu=ɦe təŋ ku-ku , ŋu ciã=bɐʔ=noŋ tʰɪɲ
 831.wav|ŋu lɔ=ʦɔ ʦu-ku sã1=wəʔ , ʦɪɲ1=kɑ1-koŋ1 , tɔ ɦɤ=dɤ=le ɲi , ŋu ʦe diɔ-tɔ ɑ1-'lɑ lɔ=koŋ1 te-we , ɪɲ1=we we sɐʔ dɔ=li
 832.wav|ɑ1-'lɑ , cɪʔ=hɔ hʷəŋ1 'ləʔ mɑ , kʰe=dɤ zz ŋu ɲi=ci=cʰɪɲ iɑ , tɔ toŋ=tɔ si1=fi iɑ , lɐʔ=lɐʔ te-we li siã1=dɤ
-833.wav|ŋu lɐʔ=lɐʔ te-we li ɦe=mae gəʔ-ɦəʔ
-834.wav|cɪʔ=ku , zy=ciã lɔ=ʦɔ vɐʔ ciã=ɦe=ɦo gəʔ , ɲɪɲ kʰø1=zɑ̃-cʰi ɦe=mae lɔ=zəʔ gəʔ
+833.wav|ŋu lɐʔ=lɐʔ te-we li ɦe=me gəʔ-ɦəʔ
+834.wav|cɪʔ=ku , zy=ciã lɔ=ʦɔ vɐʔ ciã=ɦe=ɦo gəʔ , ɲɪɲ kʰø1=zɑ̃-cʰi ɦe=me lɔ=zəʔ gəʔ
 835.wav|ŋu ʦɪɲ te-we ciɔ-ʦu se1-ku ɦɔ=dɤ ʦɪɲ-cʰi , ɲɪɲ-kɑ1 mo-zɑ̃ zy he ŋu zəʔ=dø , tɔ=ɦɤ=le
 836.wav|ŋu ʦɪɲ dɪʔ-ɦəʔ 'lɑ , ɦi ɦɑ he ŋu tã=zəʔ tɑ̃ pɔ=kɔ , ŋu məʔ tã
 837.wav|ciɑ-sz ŋu tã-liɔ , ŋu=ɦe ʦɪɲ-cʰi 'ləʔ
 838.wav|cɪʔ=ku ɦi lɑ ze te ŋu ɪɲ=ziã me-hɔ , ziã ŋu kɑ1-koŋ1 ʦz='ləʔ sɐʔ məʔ-zz
 839.wav|ɲɪɲ-kɑ1 ze gəʔ , ŋu=ɦe 'me=tʰɑ̃1 ze=e1=gəʔ
 84.wav|ɦi zz=ku zəʔ=zz=ɟy zz-kɑ̃ , ɑ1-'lɑ li siã1 i=cɪɲ kʰʷe-səŋ 'ləʔ , 'nɑ=le pɑ̃ pɑ̃=mɑ̃ , sɐʔ ɲɪɲ ɦe-we tɪʔ cʰi pɑ̃=mɑ̃
-840.wav|zy=ciã koʔ fɑ̃=mi ŋu , ŋu vɐʔ zz-kɑ̃ ŋu zz-ciɑ1 , ŋu ɦe=mae gəʔ-ɦəʔ , zø ɦɤ
+840.wav|zy=ciã koʔ fɑ̃=mi ŋu , ŋu vɐʔ zz-kɑ̃ ŋu zz-ciɑ1 , ŋu ɦe=me gəʔ-ɦəʔ , zø ɦɤ
 841.wav|cɪʔ=hʷəŋ1 , ne=məʔ kɑ-liɔ lɔ=koŋ1 e1=gəʔ 'ləʔ mɑ , ɦi iɔ1=cɪɲ zã tɕəʔ-tɕɑ1 , kəʔ=məʔ ne-ʦɔ1 e1 ku-zz zo-we lɑ̃ kʰe sz
 842.wav|te-diɔ mɑ , noŋ ɦi le lu ɦiø diɔ-tɔ lu=ɟɪɲ , lu=ɟɪɲ diɔ 'ləʔ sɐʔ li fɑ̃
 843.wav|cɪʔ=ku , ɑ1-'lɑ te-we li siã1=dɤ , kʰe=dɤ ŋu lɔ=koŋ1 te-we li siã1=dɤ le 'ləʔ ɪʔ-ku ɲɪɲ
@@ -3453,7 +3453,7 @@
 894.wav|ɦi lɑ lɔ=ʦɔ tɕø1=gəʔ gəʔ=ʦoŋ kʰu=ʦz ze doŋ=doŋ=ŋe , 'ne=gəʔ doŋ=kʷø , vɐʔ zz ɑ1-'lɑ gəʔ doŋ=kʷø ɪʔ ʦɐʔ1 ʦəʔ1 tɕɐʔ=zɑ̃-cʰi lɔ-zã gəʔ
 895.wav|tʰø1=dɤ=ciã , ne=məʔ dɑ-ciɑ1 ɪʔ=siɔ mɑ , kʰəʔ=tɕoŋ məʔ-liɔ , zy gəʔ-nəŋ kəʔ ɦiã=ʦz , ɪʔ kʰø1=tɔ
 896.wav|ɪɲ1=we dɑ-ciɑ1 ze tã=kʰəʔ=tɕoŋ mɑ , zy gəʔ-nəŋ kəʔ , e y1 ze lɔ gəʔ
-897.wav|e , kəʔ=məʔ səʔ-mɪɲ 'nɑ te-we lɔ=ʦɔ=ʦz ɦe=mae e gəʔ , ɪɲ1=we ɦiɤ tɪʔ se1=pe1
+897.wav|e , kəʔ=məʔ səʔ-mɪɲ 'nɑ te-we lɔ=ʦɔ=ʦz ɦe=me e gəʔ , ɪɲ1=we ɦiɤ tɪʔ se1=pe1
 898.wav|ʦɔ=pe1 ʦoŋ1 pe1 ɦiɑ=pe1 se1=pe1 te=vɐʔ 'lɑ , ɑ1-'lɑ gəʔ ze məʔ ze=zã ɲiɪʔ=pe1 , noŋ ɕiɔ=təʔ vɐʔ
 899.wav|kʷe=ɟi ɲi zy=zz ciã , noŋ tɔ te-we li siã1=dɤ , lɔ=ʦɔ=ʦz ŋu ɦi=le , zy=ɦi le ɦe=lɐʔ=ciã ŋu
 9.wav|pɐʔ=tɕɪʔ=ɲi gəʔ , tɑ̃=zz zəŋ-kʷɑ̃1 lɐʔ li lɑ̃ siã1 ʦu li ze gəʔ
@@ -3469,7 +3469,7 @@
 908.wav|kɐʔ=ləʔ gəʔ zo-we lɐʔ=lɐʔ=zi ʦɪɲ
 909.wav|kɐʔ=ləʔ ɦi=le ɦioŋ-ɦəʔ gəʔ-ɦəʔ koŋ1=ɟy ɑ sɐʔ ɑ , koʔ fɑ̃=mi ɑ , ze=pi ɑ1-'lɑ lɔ=ʦɔ tɑ̃=zz zəŋ-kʷɑ̃1 hɔ=tu1 'ləʔ
 91.wav|dɑ ciɑ1-noŋ tɕɤ zəʔ-ve , ŋu tɕɤ zəʔ-ve , bɪɲ1=gəʔ ɪʔ pɐʔ-ve , ɦiɤ koŋ1=sz1 kɔ1 'nɑ cʰi-ʦu ci1=cɪɲ1 gəʔ , de=zz ɦi=le zz iɔ1 ɪʔ-ɦəʔ-ɲɪɲ ɪʔ pɐʔ-ve
-910.wav|noŋ-kɑ̃ te=vɐʔ 'lɑ , ŋu ɦi=le siã=siã , ɦi=le zz si1 , si1=ʦɪɲ mae si1 ʦɪɲ=gəʔ
+910.wav|noŋ-kɑ̃ te=vɐʔ 'lɑ , ŋu ɦi=le siã=siã , ɦi=le zz si1 , si1=ʦɪɲ me si1 ʦɪɲ=gəʔ
 911.wav|ne=məʔ siɔ=tɕɪɲ1=ɲi , ziã 'nɑ r-ʦz , ziã ɑ1-'lɑ ɲy-r , ŋu , 'nɑ ɲy-r ɑ1-'lɑ r-ʦz ze=ɦiɪʔ le ɦiɪʔ le 'ləʔ
 912.wav|cʰɪʔ ɦiɑ=ɲiã gəʔ , vɐʔ ziã ɑ1-'lɑ te ɦiɑ=ɲiã ze=ciɑ=hɔ
 913.wav|zy=ciã məʔ ɕiɔ-sɪɲ1 'ləʔ , ŋu zy ciɐʔ-zɐʔ
@@ -3539,12 +3539,12 @@
 971.wav|tɑ-zɐʔ piɔ ɦiã ɦi gəʔ ŋe-kʷɑ̃1 , noŋ vɐʔ hɔ , e , vɐʔ=piɔ=ɦiã , lɔ=zz pʰi1=bɪɲ
 972.wav|e y1 , noŋ ɦi=le ɦiɪʔ=le ɦiɪʔ tɕoŋ=mɪɲ liɔ=mɑ , noŋ kʰø1 , ɑ1-'lɑ ɦe-məʔ siã=tɔ , noŋ i=cɪɲ siã=tɔ
 973.wav|kəʔ=məʔ noŋ zy , siɔ ɲɪɲ ɦe-iɔ1 tɑ-kɔ1-mɔ-ʦz , vɐʔ zz ɑ1-'lɑ gəʔ=ʦoŋ sø=su
-974.wav|zy ziã ɑ1-'lɑ ɪʔ-ɦiã-ɦəʔ , ɑ1-'lɑ mɑ ɲɪɲ-kɑ1 ciã , ŋu y1 , noŋ mɤ=mɤ ɲɪɲ noŋ-we mae tɕoŋ=mɪɲ gəʔ , sø=zø ɲi=ci dɑ=kɐʔ , noŋ-we mae tɕoŋ=mɪɲ gəʔ
+974.wav|zy ziã ɑ1-'lɑ ɪʔ-ɦiã-ɦəʔ , ɑ1-'lɑ mɑ ɲɪɲ-kɑ1 ciã , ŋu y1 , noŋ mɤ=mɤ ɲɪɲ noŋ-we me tɕoŋ=mɪɲ gəʔ , sø=zø ɲi=ci dɑ=kɐʔ , noŋ-we me tɕoŋ=mɪɲ gəʔ
 975.wav|ŋu y1 , ʦu tɕəʔ=zz=tʰi le=zz
 976.wav|pi ɲɪɲ-kɑ1 e gəʔ , ɦiɤ=ʦoŋ doŋ=ɦiã sø=su gəʔ ɲɪɲ
 977.wav|tɕɔ1 gəʔ zz=de te=vɐʔ
 978.wav|tɕɔ1=ɦi de le , səʔ-mɪɲ noŋ gəʔ ɲɪɲ
-979.wav|e , nɔ=ʦz ɦe=mae lɪɲ=wəʔ gəʔ , ɦe-məʔ sã1 'ləʔ
+979.wav|e , nɔ=ʦz ɦe=me lɪɲ=wəʔ gəʔ , ɦe-məʔ sã1 'ləʔ
 98.wav|ɦi ɦiɤ tɪʔ ɪʔ pɐʔ-ve , səŋ1=pi ʦø cʰi=mo iɔ1 ɦiɤ tɪʔ sz pɐʔ-ve vɐʔ
 980.wav|ɦiɤ=ʦoŋ ɲɪɲ kɑ̃-cʰi-le sɐʔ=gəʔ lɔ=ɲi tɕz1-te gəʔ , sɐʔ=gəʔ , ŋu=ciã 'nɑ gəʔ=ʦoŋ ɲɪɲ=ɦe m-məʔ , te=vɐʔ
 981.wav|ciɐʔ-zɐʔ noŋ-we
@@ -3558,7 +3558,7 @@
 989.wav|ɦi=le ze=zz ɦi lɑ di nɔ kɐʔ
 99.wav|noŋ-we ɟi-tʰɑ1 ʦɤ1 , ʦz=cɪɲ1 ʦɤ1=ʦø , gəʔ ɪʔ pɐʔ-ve təŋ-z siã1-tɑ̃-z zz=vɐʔ=we tɪʔ cʰi-ɦioŋ ɦi gəʔ , lɐʔ=lɐʔ ŋ-ɲi li siã1
 990.wav|sɐʔ=gəʔ , tã=tã di=nɔ loŋ=loŋ kɐʔ , te=vɐʔ
-991.wav|koŋ1=ʦoʔ zz=mae gəʔ , sɪɲ1-kʰu , lɔ=ʦɔ=ʦz gəʔ koŋ1=ʦoʔ zz sɪɲ1-kʰu
+991.wav|koŋ1=ʦoʔ zz=me gəʔ , sɪɲ1-kʰu , lɔ=ʦɔ=ʦz gəʔ koŋ1=ʦoʔ zz sɪɲ1-kʰu
 992.wav|ziã ɦi lɑ ɦi le ʦəŋ1-ku vɐʔ nəŋ=pi
 993.wav|ŋu=məŋ ʦəʔ-si1 ɲɪɲ=zz sz-ɦəʔ=ɦiø
 994.wav|lɔ sɪɲ1-kʰu gəʔ

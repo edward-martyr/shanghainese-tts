@@ -72,7 +72,7 @@
 163.wav|ziã=lɑ̃ ɦiɤ ʦã di=du .
 164.wav|ɪʔ-ku lɔ-ɲɪɲ kʰʷəŋ ləʔ lɐʔ=lɑ̃ zɑ̃ lɑ̃ .
 165.wav|wu li ciɔ1-kʷe siɔ=ŋ=ləʔ=lɑ̃ lɐʔ=ɦiɤ .
-166.wav|zi=dɤ ɦiɤ-ku nø=siɔ-ɲɪɲ ləʔ=lɑ̃ ʦɤ ku=le , mae=zɑ̃=gəʔ .
+166.wav|zi=dɤ ɦiɤ-ku nø=siɔ-ɲɪɲ ləʔ=lɑ̃ ʦɤ ku=le , me=zɑ̃=gəʔ .
 167.wav|ɦi tɐʔ oʔ=li ɪʔ=zɑ̃ lɑ̃ se1 ʦɐʔ1 ʦz1=lu si tʰəʔ=ʦəʔ .
 168.wav|dɪʔ=bu cʰi-tɕo zz iɔ1 kʰe=tɔ kʷɑ̃=ʦɤ1 cʰi-ɦəʔ .
 169.wav|ɦoʔ-sã1 tɐʔ wəʔ wəʔ=ləŋ ləŋ tɕəŋ=ʦe1 liã-ɲiɪʔ tʰi1=gəʔ cʰi-tɕo .
@@ -90,7 +90,7 @@
 18.wav|zi=dɤ ʦɤ ku=le ɪʔ-ku bø=toʔ=toʔ gəʔ nø=siɔ=nø .
 180.wav|ɦi ləʔ lɑ̃ di zz ci1 məŋ zi kʰø1=kʰø1 kʰʷəŋ zɐʔ ʦe1 .
 181.wav|noŋ sø=sø=kʰø1 gəʔ ŋe tɕɔ=pʰiɔ ɑ1=kɤ ɦioŋ ?
-182.wav|si1-sã1 ɑ1=zz pəʔ ʦe1=noŋ ɪʔ=pəŋ mae=ɦɤ=gəʔ sz ?
+182.wav|si1-sã1 ɑ1=zz pəʔ ʦe1=noŋ ɪʔ=pəŋ me=ɦɤ=gəʔ sz ?
 183.wav|ɦi gəʔ mɑ ɦiɐʔ gəʔ pʰi tʰəʔ ləʔ ɦi ɪʔ=tɕi1 kʰʷe ɦiã=di .
 184.wav|ŋu zɑ̃-ku ɦɔ=dɤ vəŋ ɦi ʦiɑ ʦe1 se1=pɐʔ kʰʷe ɦiã=di . ŋu zɑ̃-ku ɦɔ=dɤ ʦiɑ pəʔ ɦi ʦe1 se1=pɐʔ kʰʷe ɦiã=di .
 185.wav|wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=təʔ me-hɔ . wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=təʔ me-hɔ .
@@ -193,7 +193,7 @@
 272.wav|ɲiã siɔ=nø si1=ʦɤ məʔ=ʦe1 , noŋ 'ne ʦø=le ʦe ʦz1-ʦz1 si si=kʰø1 ɪʔ=tʰɑ̃1 .
 273.wav|ɦi lɑ kʰø1 di zz ci1 kʰø1 fɐʔ kʰø1 fɐʔ kʰʷəŋ=cʰi ɑ ʦe1 .
 274.wav|noŋ sø=sø=kʰø1 , tʰəʔ=ŋe tɕɔ=pʰiɔ ɑ1=kɤ vɐʔ ?
-275.wav|si1-sã1 zz-fɤ pəŋ 'ləʔ noŋ ɪʔ=pəŋ mae=ɦɤ=gəʔ sz ?
+275.wav|si1-sã1 zz-fɤ pəŋ 'ləʔ noŋ ɪʔ=pəŋ me=ɦɤ=gəʔ sz ?
 276.wav|ɦi gəʔ mɑ ɦiɐʔ gəʔ pʰi=ʦz pʰi ʦe1 ɦi ɪʔ=tɕi1 kʰʷe ɦiã=di .
 277.wav|ŋu zɑ̃-gəʔ-ɦiɪʔ vəŋ ɦi ʦiɑ ʦe1 se1=pɐʔ kʰʷe ɦiã=di . ŋu zɑ̃-gəʔ-ɦiɪʔ ʦiɑ pəʔ ɦi se1=pɐʔ kʰʷe ɦiã=di .
 278.wav|wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=le me-hɔ . wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=le me-hɔ .
@@ -231,7 +231,7 @@
 306.wav|ziã=lɑ̃ siã=ko zɐʔ ɪʔ=ʦã di=du .
 307.wav|zɑ̃ lɑ̃=siã kʰʷəŋ lɑ ɪʔ-ku lɔ-ɲɪɲ .
 308.wav|wu li ɦiɤ le ɔ ɦɑ̃-zɪɲ=ɦã=zz siɔ=ŋ .
-309.wav|zi=dɤ ʦɤ=le ɪʔ-ku mae bø=gəʔ siɔ=po-ɕi .
+309.wav|zi=dɤ ʦɤ=le ɪʔ-ku me bø=gəʔ siɔ=po-ɕi .
 31.wav|ɦi lɐʔ lɐʔ di zz ci1 zi=dɤ kʰø1=fɐʔ kʰø1=fɐʔ kʰʷəŋ zɐʔ 'ləʔ .
 310.wav|ɦi dɐʔ oʔ=li siã ɪʔ=ci=dɤ si=tʰəʔ se1 ʦɐʔ1 ʦz1=lu .
 311.wav|gəʔ bu cʰi-tɕo ɲi ɪʔ cɪɲ kʰe tɔ kʷɑ̃ ʦɤ1 cʰi ɑ1-li .
@@ -249,7 +249,7 @@
 322.wav|ɲiã siɔ=po-ɕi lɑ=si1 ʦɤ , zu ɲi , ʦe=tɔ ʦø=le=kʷø cʰi , hɔ=hɔ=ciɔ kʰø1=ɪʔ-pi .
 323.wav|ɦi məʔ lɑ di zz ci1 zi=dɤ ɲi , kʰø1-zɐʔ kʰø1-zɐʔ məʔ , kʰʷəŋ=cʰi 'ləʔ .
 324.wav|zu sø=sø=kʰø1 , gəʔ ŋe=ŋe tɕɔ=pʰiɔ kɤ=vəʔ=kɤ ɦioŋ ?
-325.wav|'lɔ-sz pəŋ lɑ=zu gəʔ pəŋ=sz vəʔ zz=mae ɦɤ mɑ ?
+325.wav|'lɔ-sz pəŋ lɑ=zu gəʔ pəŋ=sz vəʔ zz=me ɦɤ mɑ ?
 326.wav|gəʔ-ɦəʔ mɑ=ɦiɐʔ=gəʔ pʰi=ʦz , pʰi tʰəʔ ɦi ɪʔ=tɕi1 kʰʷe tɕɔ=pʰiɔ .
 327.wav|nu zɑ̃-gəʔ-ɦiɪʔ ʦiɑ-liɔ ɦi se1=pɐʔ kʰʷe tɕɔ=pʰiɔ . nu zɑ̃-gəʔ-ɦiɪʔ ʦiɑ-liɔ ɦi se1=pɐʔ kʰʷe .
 328.wav|wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=təʔ me-hɔ . wɑ̃=si1-sã1 gəʔ tɔ1 kʰe=təʔ ciɔ1-kʷe hɔ .

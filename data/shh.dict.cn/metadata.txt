@@ -633,7 +633,7 @@
 1568.wav|ŋu te bɪʔ-ɲɪɲ ze=vəʔ hɔ , ɪɲ1=we noŋ fɐʔ diɔ-dɤ ciɔ-ŋu le-kɑ̃ kɑ̃-ɦe-ɦo .
 1569.wav|kəʔ=məʔ noŋ bɪɲ=dɔ kɐʔ tʰəʔ ɦi hɔ=le .
 157.wav|noŋ=iɔ1 zɪɲ ʦø-du gəʔ nu=lɪʔ cʰi wø=zəŋ .
-1570.wav|ŋu tae=fi ɲiɪʔ=ciɐʔ ku=təʔ i=tʰəʔ le !
+1570.wav|ŋu te=fi ɲiɪʔ=ciɐʔ ku=təʔ i=tʰəʔ le !
 1571.wav|ŋu tɔ ciɐʔ-zɐʔ me-hɔ gəʔ .
 1572.wav|ŋu-we tɪʔ ɦɤ hʷe ɪʔ=pe=ʦz vɐʔ ?
 1573.wav|vəʔ=de 'ləʔ ! ɑ1-'lɑ tɔ ʦɤ1=ʦɑ̃ cʰi bɐʔ siã1=hɔ vɐʔ ?
@@ -781,7 +781,7 @@
 1700.wav|ŋu ɦe-iɔ1 ɟioʔ=ɦiɤ tʰəʔ=tɕø1 dɤ=fɐʔ .
 1701.wav|noŋ dɤ=fɐʔ siã tɕø1 sɑ=gəʔ səʔ=ɦiã ?
 1702.wav|cɪɲ1=ʦɔ1=ɦiɑ=dɤ noŋ iɐʔ-we lɐʔ sɑ=di=fɑ̃ ?
-1703.wav|cɪɲ1=ʦɔ1 ci=mɔ=tɕe tɔ=mae bi=ɲi gəʔ məʔ !
+1703.wav|cɪɲ1=ʦɔ1 ci=mɔ=tɕe tɔ=me bi=ɲi gəʔ məʔ !
 1704.wav|ɪʔ=ti ɦɑ vəʔ bi=ɲi , cy təʔ=le ɲiɪʔ=hʷəŋ1 !
 1705.wav|gəʔ-nəŋ-kɑ le=ʦɔ1=ʦɔ1 gəʔ tɕe iɔ1 ciɑ=cy ɑ !
 1706.wav|noŋ kʰø1=kʰø1 tɕɪɲ1=sɑ̃ , vəʔ=iɔ1 tʰəʔ sɪɲ1=si ɔ !
@@ -937,7 +937,7 @@
 1841.wav|ɪʔ=ti ɦɑ vəʔ cʰɪʔ=lɪʔ , ziɑ=ziɑ=noŋ le=ʦɪʔ ɑ1-'lɑ .
 1842.wav|siɔ-ʦiɑ , gəʔ foŋ1=səŋ ci=tɔ ɟy cɪɲ1=se1 , ɦiɤ=pʰiɔ tʰɪʔ tu1=sɔ ?
 1843.wav|səŋ=fɑ̃=lɐʔ tɕəŋ kɔ1=dɤ tɕəŋ=ɪʔ=tɕəŋ ʦe kɔ=su noŋ .
-1844.wav|ŋu=iɔ1 ci tɕɔ=pʰiɔ pəʔ 'm-'mɑ , 'ne=ʦã ci=kʰʷø tae=pəʔ ŋu hɔ vɐʔ ?
+1844.wav|ŋu=iɔ1 ci tɕɔ=pʰiɔ pəʔ 'm-'mɑ , 'ne=ʦã ci=kʰʷø te=pəʔ ŋu hɔ vɐʔ ?
 1845.wav|de=mi lɑ̃ zz-ciɑ1 'ne .
 1846.wav|tɕɪɲ vəŋ=lɐʔ=məʔ ɪʔ=tʰɑ̃1 kʰe sɪɲ-siã1 zz sɑ-zəŋ-kʷɑ̃1 ?
 1847.wav|ŋ-ti ʦoŋ , səŋ=kʰʷɑ ti toʔ ɦo-cʰi ɦe-le təʔ ɟɪʔ .
@@ -947,7 +947,7 @@
 1850.wav|iɔ1=məʔ ci " tʰəʔ=kʰʷɑ ɦiɤ=ɟi " məŋ-ʦɔ1 zy kʰu=i tɔ .
 1851.wav|ci=ɟi=ɲɪɲ , sɤ1=ɟi=ɲɪɲ di=ʦz sɪɲ=mɪɲ vəʔ=iɔ1 di1=fe1=tʰəʔ !
 1852.wav|ɦiɤ=ʦəŋ pi=mo vəʔ=iɔ1 mɑ̃=ci siɑ !
-1853.wav|ŋu-we ɦiɤ=ʦã we=kʰʷø tae , lɐʔ=noŋ gəʔ=tɐʔ lɪɲ tɕɔ=pʰiɔ zz vɐʔ ?
+1853.wav|ŋu-we ɦiɤ=ʦã we=kʰʷø te , lɐʔ=noŋ gəʔ=tɐʔ lɪɲ tɕɔ=pʰiɔ zz vɐʔ ?
 1854.wav|noŋ səŋ1-vəŋ1 ʦəŋ=tɑ le vɐʔ ?
 1855.wav|səŋ1-vəŋ1 ʦəŋ=ɦɔ ŋu i=cɪɲ di1-hɔ 'ləʔ , kʰu=i lɪɲ=mɑ ?
 1856.wav|te=vəʔ=cʰi , m-məʔ səŋ1-vəŋ1 ʦəŋ=zz vəʔ hɔ lɪɲ=we=kʰʷø gəʔ .
@@ -1012,7 +1012,7 @@
 1909.wav|dɑ sɑ=gəʔ ɦioʔ ? sɑ̃1-nɑ ŋu zz pʰo 'məŋ=sɐʔ tʰəʔ=gəʔ , iɔ1=məʔ zy-dɑ sɑ̃=pʰɔ1 .
 191.wav|ʦoʔ-noŋ ly=du=z=kʰʷɑ .
 1910.wav|noŋ gəʔ-ɦəʔ ɲɪɲ ʦəŋ1=zz gɑ̃ ɟiɐʔ ɟiɐʔ , dɑ dɑ-ɦioʔ , soŋ soŋ cɪɲ1=kʷəʔ , ɦiɤ=ɪʔ ɕyɪʔ=mɐʔ ly=tʰoŋ1 .
-1911.wav|pəʔ1-ku ɦi=le kɑ1-kɑ1 oʔ=li ze=ɦiɤ təʔ ɦioʔ=kɑ̃ , dɑ dɑ-ɦioʔ vəʔ zz=mae bi tɑ̃-ku ?
+1911.wav|pəʔ1-ku ɦi=le kɑ1-kɑ1 oʔ=li ze=ɦiɤ təʔ ɦioʔ=kɑ̃ , dɑ dɑ-ɦioʔ vəʔ zz=me bi tɑ̃-ku ?
 1912.wav|liã=ɦiã gəʔ , ɦioʔ=zz li dɑ-ɦioʔ məʔ , ɲɪɲ=pʰɔ1 təʔ le=sɐʔ kəŋ1 
 1913.wav|bã=ɦiɤ dɔ li , dɑ-ciɑ1 de=de=sɪɲ1 , lɔ=sɑ̃=gəʔ .
 1914.wav|noŋ kʰø1 ɲɪɲ-kɑ1 , ʦu ø=mu lɔ , ʦoʔ=ɦioʔ lɔ , sɤ=səŋ1 lɔ , kø=zz zɑ̃ .
@@ -1626,7 +1626,7 @@
 650.wav|zəʔ
 651.wav|pɐʔ
 652.wav|tɕi1
-653.wav|vae
+653.wav|ve
 654.wav|ɦiø
 655.wav|lɪɲ
 656.wav|fəŋ1
@@ -1893,7 +1893,7 @@
 891.wav|ɦi məʔ , ɦiɤ-zz ɑ=təŋ1=təŋ1 , ɦiɤ-zz zɑ̃=təʔ ɲioʔ ɦɑ ze tɕəʔ=le .
 892.wav|cʰɪʔ təʔ tʰəʔ=tu1 , zã-təʔ bø le=iɔ1 si , ne=məʔ iɔ1 ɪɲ=ɕiã fɐʔ=ɦioʔ .
 893.wav|ciɐʔ ɪʔ-ʦã 'ləʔ məʔ , zy ɕi=təʔ miɔ-diɔ təʔ=le , pɑ=cʰi  le=məʔ lɔ pʰiɔ=liã gəʔ 1
-894.wav|noŋ kʰø1 ɦi gɑ̃ nɔ gəʔ ɦiã=ʦz , tɔ-ɦɑ mae kʰu e .
+894.wav|noŋ kʰø1 ɦi gɑ̃ nɔ gəʔ ɦiã=ʦz , tɔ-ɦɑ me kʰu e .
 895.wav|ɦi tã=pe1 təʔ iɔ1=li=iɔ1=cʰi , gɑ̃=dɤ sz vəʔ=de 'ləʔ !
 896.wav|səŋ1=tʰi hɔ=məʔ , ɲɪɲ lɔ cʰi-cɪɲ ; vəʔ hɔ məʔ , sɑ=zz=tʰi ɦɑ məʔ=siã ʦu .
 897.wav|ɪʔ=pʰəʔ lɔ=dɤ lɔ=tʰɑ , tʰi1=tʰi1 vəʔ tʰəʔ=pe1 , ue=iɔ1 ŋɑ̃=dɤ ʦø=səŋ1 tʰi .
@@ -1997,7 +1997,7 @@
 985.wav|e1=mi ɦiɤ ʦəʔ1 sz pɔ=dɪɲ , gəʔ=mi ɦiɤ be tɕɔ1=zz , noŋ kʰø1 təʔ=tɔ vɐʔ ?
 986.wav|noŋ tɔ gəʔ=tɐʔ ʦø=ue=koʔ=ʦz lɑ̃=cʰi tɕəŋ-di-tʰɪʔ .
 987.wav|si1=iɔ1 tɕəŋ  lu liã=ze , ʦe=ʦø di=tʰɪʔ ɪʔ=ɦɔ=si , kʰu=i tɔ-liɔ .
-988.wav|kəʔ=zz lu mae ɦiø=gəʔ , ɑ1-'lɑ ciɔ tɕɑ1=dɤ cʰi sø='ləʔ .
+988.wav|kəʔ=zz lu me ɦiø=gəʔ , ɑ1-'lɑ ciɔ tɕɑ1=dɤ cʰi sø='ləʔ .
 989.wav|ziɑ=ziɑ=noŋ gəʔ=tɐʔ zz sɑ=di=fɑ̃ ?
 99.wav|lɔ ziɑ=ziɑ=noŋ gəʔ kʷe=sɪɲ1 .
 990.wav|vəʔ hɔ=i-sz1 gəʔ diɔ=lu zz sɑ lu ?
