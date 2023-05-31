@@ -1,7 +1,7 @@
 from pathlib import Path
 from re import sub
 
-from text.romanisation import romanise_sentence
+from phonemisation.romanisation import romanise_sentence
 
 data_folders = Path("data").resolve().glob("*")
 
