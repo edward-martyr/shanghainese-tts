@@ -1,7 +1,7 @@
 # Shanghainese TTS
 
-- Dartmouth LING 48 Final Project
-- Yuanhao Chen <yuanhao.chen.25@dartmouth.edu> 2023
+- Dartmouth LING 48 Final Project: _Improving TTS for Shanghainese_
+- Yuanhao Chen <yuanhao.chen.25@dartmouth.edu> Spring 2023
 
 ## Goal
 
@@ -41,6 +41,7 @@ See [`speech_synthesis/README.md`](speech_synthesis/README.md).
 - `training/`
   - Juptyer notebook for training the model
   - Intended to be uploaded and run in Google Colab environment; not for local use
+  - Uses the `coqui-ai/TTS` repo, which contains an implementation of VITS
 - `writeup/`: the write-up
 - `speech_synthesis/`: contains the speech synthesis model
   - See [`speech_synthesis/README.md`](speech_synthesis/README.md) for more details

@@ -5,3 +5,7 @@ output.wav
 *.synctex.gz
 *.toc
 *.out
+*.bst
+*.bbl
+*.blg
+*.aux
