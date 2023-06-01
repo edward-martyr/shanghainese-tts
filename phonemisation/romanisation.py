@@ -79,7 +79,6 @@ def romanisation_to_ipa(text: str) -> str:
 def romanise_sentence(text: str, use_ipa=True) -> str:
     """Romanise a sentence with tone."""
     raw_romanisation = raw_romanise_sentence(text)
-    # split_raw_romanisation = split(r"([ -=])", raw_romanisation)
     split_raw_romanisation = []
     i = 0
     b = ""
@@ -92,7 +91,6 @@ def romanise_sentence(text: str, use_ipa=True) -> str:
             b += r
     split_raw_romanisation.append(b)
 
-    # raw_romanisation is of format: r1-r2 r3=r4 (chars might be separated by space, hyphen or equal sign); need to align these with chars in original text
     corresponding_chars: list[tuple[str, str]] = []
     i = 0
     for r in split_raw_romanisation:

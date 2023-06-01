@@ -1,1 +1,7 @@
 __pycache__
+output.wav
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
