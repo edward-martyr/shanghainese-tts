@@ -47,5 +47,5 @@ See [`speech_synthesis/README.md`](speech_synthesis/README.md).
   - See [`speech_synthesis/README.md`](speech_synthesis/README.md) for more details
 - `comparison_questionnaire`: contains the questionnaire and audio files used to compare speech produced by this model, the Apple model, and a human speaker
   - `*-1.wav`: produced by this model
-  - `*-2.wav`: produced by the Apple model (MacBook Pro 14in, 2021; MacOS Ventura 13.0.1)
+  - `*-2.wav`: produced by the Apple model (MacBook Pro 14-inch, 2021; MacOS Ventura 13.0.1)
   - `*-3.wav`: spoken by myself
