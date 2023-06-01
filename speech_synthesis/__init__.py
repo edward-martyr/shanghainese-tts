@@ -1,6 +1,10 @@
+import sys
+
 from TTS.api import TTS
 
-from ..phonemisation import phonemise
+sys.path.append("..")
+
+from phonemisation import phonemise
 
 
 def load_model(model_path: str, config_path: str):

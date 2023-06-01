@@ -1,13 +1,17 @@
 """
-Usage: ``python -m speech_synthesis -m /path/to/model -c /path/to/config -t "text to synthesise" -o /path/to/output.wav``
-OR: ``python -m speech_synthesis --model_path /path/to/model --config_path /path/to/config --text "text to synthesise" --output_path /path/to/output.wav``
+Usage: ``python -m speech_synthesis -r -m /path/to/model -c /path/to/config -t "text to synthesise" -o /path/to/output.wav``
+OR: ``python -m speech_synthesis --romanisation --model_path /path/to/model --config_path /path/to/config --text "text to synthesise" --output_path /path/to/output.wav``
 """
 
 from argparse import ArgumentParser
 
-from . import load_model, text_to_wav
-
 arg_parser = ArgumentParser()
+arg_parser.add_argument(
+    "-r",
+    "--romanisation",
+    action="store_true",
+    help="whether to romanise the input text",
+)
 arg_parser.add_argument(
     "-m", "--model_path", type=str, required=True, help="path to model.pth"
 )
@@ -24,5 +28,8 @@ arg_parser.add_argument(
 if __name__ == "__main__":
     args = arg_parser.parse_args()
 
+    from . import load_model, text_to_wav, tts_to_wav
+
     model = load_model(args.model_path, args.config_path)
-    text_to_wav(model, args.text, args.output_path)
+    to_wav = tts_to_wav if args.romanisation else text_to_wav
+    to_wav(model, args.text, args.output_path)

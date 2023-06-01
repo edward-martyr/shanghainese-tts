@@ -19,5 +19,16 @@ text_to_wav(model, "儂好，世界", "output.wav")
 ### CLI
 
 ```bash
-python -m speech_synthesis --model_path /path/to/model --config_path /path/to/config --text "text to synthesise" --output_path /path/to/output.wav
+python -m speech_synthesis [-h] [-r] -m MODEL_PATH -c CONFIG_PATH -t TEXT -o OUTPUT_PATH
+
+options:
+  -h, --help            show this help message and exit
+  -r, --romanisation    whether to romanise the input text
+  -m MODEL_PATH, --model_path MODEL_PATH
+                        path to model.pth
+  -c CONFIG_PATH, --config_path CONFIG_PATH
+                        path to config.json
+  -t TEXT, --text TEXT  text to synthesise
+  -o OUTPUT_PATH, --output_path OUTPUT_PATH
+                        path to output WAV file
 ```
