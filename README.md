@@ -1,4 +1,4 @@
-# Shanghainese TTS
+# Shanghainese TTS (in progress)
 
 - Dartmouth LING 48 Final Project: _Improving TTS for Shanghainese_
 - Yuanhao Chen <yuanhao.chen.25@dartmouth.edu> Spring 2023
@@ -16,6 +16,7 @@ See [writeup/main.pdf](writeup/main.pdf).
 ```bash
 pip install -r phonemisation/requirements.txt
 pip install -r speech_synthesis/requirements.txt
+pip install -r comparison_questionnaire/requirements.txt  # for analysis of questionnaire results
 ```
 
 ## Usage
@@ -49,3 +50,4 @@ See [`speech_synthesis/README.md`](speech_synthesis/README.md).
   - `*-1.wav`: produced by this model
   - `*-2.wav`: produced by the Apple model (MacBook Pro 14-inch, 2021; MacOS Ventura 13.0.1)
   - `*-3.wav`: spoken by myself
+  - `stats.ipynb`: Jupyter notebook for analysing the questionnaire results
