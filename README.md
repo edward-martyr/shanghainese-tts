@@ -1,4 +1,4 @@
-# Shanghainese TTS (in progress)
+# Shanghainese TTS
 
 - Dartmouth LING 48 Final Project: _Improving TTS for Shanghainese_
 - Yuanhao Chen <yuanhao.chen.25@dartmouth.edu> Spring 2023

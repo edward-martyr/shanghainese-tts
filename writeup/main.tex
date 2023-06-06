@@ -39,7 +39,7 @@
     Tone is a crucial component of the prosody of Shanghainese, a Wu Chinese variety spoken primarily in urban Shanghai.
     Tone sandhi, which applies to all multi-syllabic words in Shanghainese, then, is key to natural-sounding speech. Unfortunately, recent work on Shanghainese TTS (text-to-speech) such as Apple's VoiceOver has shown poor performance with tone sandhi, especially LD (left-dominant sandhi).
     Here I show that word segmentation during text preprocessing can improve the quality of tone sandhi production in TTS models.
-    Syllables within the same word are annotated with a special symbol, which serves as a prosodic annotation for the domain of LD.
+    Syllables within the same word are annotated with a special symbol, which serves as a proxy for prosodic information of the domain of LD.
     Contrary to the common practice of using prosodic annotation mainly for static pauses, this paper demonstrates that prosodic annotation can also be applied to dynamic tonal phenomena.
     I anticipate this project to be a starting point for bring formal linguistic accounts of Shanghainese into computational projects.
     Too long have we been using the Mandarin models to approximate Shanghainese, but it is a different language with its own linguistic features, and its digitisation and revitalisation should be treated as such.
@@ -56,7 +56,7 @@ As a result, most young people in Shanghai, whether native or an immigrant, are 
 With Putonghua being the perceived authentic and superior language in many aspects of life, crucially including education, it is direly important to preserve the linguistic variety in Shanghai by promoting the use of Shanghainese.
 Digitisation of a substratum is an effective way to promote the language in teaching, learning, and various other dimensions of cultural life \citep{villaIntegratingTechnologyMinority2002}.
 
-In this project, I aim to build a TTS (text-to-speech) system for Shanghainese, which is a crucial component in the digitisation of a language, serving as a bridge between the digitised written spoken forms of the language.
+In this project, I aim to build a TTS (text-to-speech) system for Shanghainese, which is a crucial component in the digitisation of a language, serving as a bridge between digitised written and spoken forms of the language.
 This is not to say that there is no existing work on Shanghainese TTS. Notably, \citet{VoiceOver} added Shanghainese to the list of languages supported by VoiceOver, the screen reader built into Apple's operating systems. However, the quality of the synthesised speech is not satisfactory, and definitely not on par with the quality of the synthesised speech for other Sinitic languages such as Putonghua.
 The main problem with Shanghainese Voice\-Over is its occasional poor performance with tone sandhi, especially LD (left-dominant sandhi), a suprasegmental phonological process involving a specific bounding domain \citep{robertsAutosegmentalMetricalModelShanghainese2020}.
 For example, the word /[zɑ̃²³.he³³⁴]\textsubscript{LD domain}/ `Shanghai' has to be pronounced with LD as [zɑ̃².he⁴] (the left syllable's rising contour is spread over to the right one).
@@ -67,7 +67,7 @@ Specifically, I will segment the input text into lexical words. My results confi
 \section{Methodology}
 \subsection{Overview}
 The key to improving LD in Shanghainese TTS is to annotate the bounding domain of LD.
-Instead of training a model for this task, which is difficult due to lack of resources, I will perform word segmentation, because lexical words highly correlates with the domains for LD \citep{kuangToneRepresentationTone2019}; formally, LD domains can be formed by the left edges of lexical words, with a few exceptions \citep{robertsAutosegmentalMetricalModelShanghainese2020}.
+Instead of training a model for this task, which is difficult due to lack of resources, I will perform word segmentation, because lexical words highly correlate with the domains for LD \citep{kuangToneRepresentationTone2019}; formally, LD domains can be formed by the left edges of lexical words, with a few exceptions \citep{robertsAutosegmentalMetricalModelShanghainese2020}.
 Thus, this prosodic annotation can be transformed into word segmentation, giving us the overall pipeline of this paper as shown in \cref{fig:pipeline}.
 \begin{figure*}
     \centering
@@ -104,7 +104,7 @@ Thus, this prosodic annotation can be transformed into word segmentation, giving
 % shh.dict.cn 5607 seconds, 2012 files
 The data basis of TTS models is a list of corresponding audio files and transcriptions.
 I am using a dataset of an ASR project \citep{cosmos-breakCosmosBreakAsr2023}, which contains 2,012 audio files and corresponding transcriptions in Chinese characters, totalling 5,607 seconds of speech of a single Shanghainese speaker. The types of speech in the dataset range from single words to phrases and sentences.
-The audio is resampled to 16kHz for training.
+The audio is resampled to \qty{16}{kHz} for training.
 
 For word segmentation and phonemisation, we are going to need a phonemically annotated lexicon of Shanghainese. I am using one containing more than 125,000 lexical entries, 51,000 of which have corresponding romanisations \citep{yuanhaochenRimeYahweZaonhe2022}.
 
@@ -151,7 +151,7 @@ The three speakers are
 % 2. Naturalness: How natural does the audio sound?
 % 3. Accuracy: How well does the audio match how a native speaker like you would pronounce it?
 % 4. Intelligibility: How much effort does it take to make sense of the audio?
-The four metrics are as proposed by \citet{cardosoEvaluatingTexttospeechSynthesizers2015}:
+The four metrics follow what is proposed by \citet{cardosoEvaluatingTexttospeechSynthesizers2015}:
 \begin{enumerate}
     \item Comprehensibility: How well can you understand the meaning of the audio?
     \item Naturalness: How natural does the audio sound?
@@ -208,7 +208,7 @@ While driving the digitisation and revitalisation of a minority language like Sh
 In this work, I have presented a TTS model for Shanghainese with the novel approach of emphasising bounding domains of tone sandhi, specifically LD, during text preprocessing. Due to lack of material to train a dedicated annotation model, word segmentation is employed as a proxy for this phonological information, which is shown to be effective in improving the tone sandhi quality of the output speech compared to \citet{VoiceOver}. Further improvement in performance of timing and pausing may be achieved by switching to a TTS model that handles blanks in speech better.
 
 Beyond just prosody, the significance of this project should be to raise awareness of the importance of a formal linguistic account in every aspect of the development of computational systems regarding Shanghainese.
-For example, in the dataset used in this project is originally for an ASR project \citep{cosmos-breakCosmosBreakAsr2023}, but the transcription is scattered with 假借 (phonetic loan characters), where a character is used for its Mandarin pronunciation to approximate the ``dialectic'' pronunciation, likely because the transcriber read fluently only in Mandarin. For example, 萨 (a surname, Mandarin /sa/) is used for 啥 (`what', Shanghainese /sa/); such practice is common but greatly hinders a consistent and formal treatment of Shanghainese orthography and lexicon in computational systems, as the character used to approximate varies from person to person, and the phenomenon itself is a manifestation of Mandarin centralism which marginalises Shanghainese.
+For example, the dataset used in this project is originally for an ASR project \citep{cosmos-breakCosmosBreakAsr2023}, but the transcription is scattered with 假借 (phonetic loan characters), where a character is used for its Mandarin pronunciation to approximate the ``dialectic'' pronunciation, likely because the transcriber reads fluently only in Mandarin. For example, 萨 (a surname, Mandarin /sa/) is used for 啥 (`what', Shanghainese /sa/); such practice is common but greatly hinders a consistent and formal treatment of Shanghainese orthography and lexicon in computational systems, as the character used to approximate varies from person to person, and the phenomenon itself is a manifestation of Mandarin centralism which marginalises Shanghainese.
 
 Specific to the topic of this project, the lack of a computational model implemented as per a formal linguistic account of Shanghainese tone system is a major obstacle to the improvement of tonal performance in TTS. Even word segmentation, which is a makeshift solution of prosodic annotation, is carried out by the makeshift approach of using the Mandarin--pre-trained \texttt{jieba} model.
 
