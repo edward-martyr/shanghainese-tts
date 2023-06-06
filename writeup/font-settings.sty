@@ -3,9 +3,16 @@
 \usepackage{xeCJK}
 \input{Minion3}
 \setmainfont[StylisticSet={1}]{Minion3}
-\setmonofont[Scale=MatchLowercase, Contextuals={Alternate}]{Fira Code}
+\setmonofont[Scale=MatchUppercase]{Sarasa Mono CL}
 \setsansfont[BoldFont={* Semibold}, Scale=MatchLowercase]{Myriad Pro}
 \setCJKmainfont[Scale=MatchUppercase]{Source Han Serif}
 \setCJKsansfont[Scale=MatchUppercase]{Source Han Sans}
-\setCJKmonofont[Scale=MatchUppercase]{Source Han Sans}
+\setCJKmonofont[Scale=MatchUppercase]{Sarasa Mono CL}
 \usepackage{microtype}
+
+\def\tabfigure{\addfontfeature{Numbers={Monospaced,Lining}}}
+
+% \font\aclhv = phvb at 8pt
+% \renewcommand\linenumberfont{\aclhv\color{lightgray}}
+\newfontfamily\tbmd[UprightFont={* Semibold}]{Myriad Pro}
+\renewcommand\linenumberfont{\fontsize{8}{8}\selectfont\normalfont\tbmd\tabfigure\color{lightgray}}
